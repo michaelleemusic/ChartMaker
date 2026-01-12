@@ -8,9 +8,11 @@ ChartMaker - Web app to create, display, and export Nashville Number System chor
 
 ## Documentation
 
+- `docs/ARCHITECTURE.md` - Data model, tech stack, rendering pipeline
 - `docs/CHART_FORMAT.md` - Page layout, chord notation, visual structure
 - `docs/SECTION_TYPES.md` - Section ID reference (Intro, Verse, Chorus, etc.)
-- `docs/ARCHITECTURE.md` - Data model, tech stack, rendering pipeline
+- `docs/DEVELOPMENT.md` - Setup, commands, workflow
+- `docs/ROADMAP.md` - Feature phases and planning
 
 ## Reference
 
