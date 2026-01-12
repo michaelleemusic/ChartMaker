@@ -1,8 +1,9 @@
 /**
- * ChartMaker - Core Parser Module
+ * ChartMaker - Chord Chart Parser and Renderer
  *
- * A TypeScript library for parsing chord charts in multiple formats
- * and converting between letter and number notation.
+ * A TypeScript library for parsing chord charts in multiple formats,
+ * converting between letter and number notation, and rendering
+ * professional-quality chord charts.
  */
 
 // Export all types
@@ -37,3 +38,6 @@ export {
   getMajorScale,
   getEnharmonic
 } from './chordUtils';
+
+// Export renderer module
+export * from './renderer';

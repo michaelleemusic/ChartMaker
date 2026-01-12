@@ -1,0 +1,949 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ChartMaker Renderer Demo</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background: #f5f5f5;
+    }
+
+    h1 {
+      margin: 0 0 20px 0;
+      color: #333;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .controls {
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    .controls label {
+      display: block;
+      margin-bottom: 10px;
+      font-weight: 500;
+    }
+
+    .controls textarea {
+      width: 100%;
+      height: 300px;
+      font-family: 'Monaco', 'Menlo', monospace;
+      font-size: 12px;
+      padding: 10px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      resize: vertical;
+    }
+
+    .controls button {
+      margin-top: 10px;
+      padding: 10px 20px;
+      background: #4a4a4a;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
+    }
+
+    .controls button:hover {
+      background: #333;
+    }
+
+    .page-controls {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+
+    .page-controls button {
+      margin-top: 0;
+      padding: 8px 16px;
+    }
+
+    .page-controls span {
+      font-size: 14px;
+      color: #666;
+    }
+
+    .preview-container {
+      background: #666;
+      padding: 20px;
+      border-radius: 8px;
+      display: flex;
+      justify-content: center;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    #chart-canvas {
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    }
+
+    .error {
+      color: #d32f2f;
+      background: #ffebee;
+      padding: 10px;
+      border-radius: 4px;
+      margin-top: 10px;
+      display: none;
+    }
+
+    .info {
+      color: #1976d2;
+      background: #e3f2fd;
+      padding: 10px;
+      border-radius: 4px;
+      margin-top: 10px;
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>ChartMaker Renderer Demo</h1>
+
+    <div class="controls">
+      <label>
+        Paste ChordPro or Simple Text format:
+        <textarea id="input">{title: Living Hope}
+{artist: Phil Wickham}
+{key: Eb}
+{tempo: 72}
+{time: 4/4}
+
+{section: Intro}
+{dynamics: Acoustic Guitar, Piano & Pad}
+[Eb] [Absus2] [Eb] [Absus2]
+
+{section: Verse 1}
+How great the [Eb]chasm
+That lay between [Bbsus4]us
+How high the [Ab2]mountain
+[Cm7]I could not [Bbsus4]climb
+In desperation [Eb]I turned to Heaven [Bbsus4]
+And spoke Your name [Absus2]Into [Bbsus4]the night [Eb]
+
+{section: Pre Chorus 1}
+Then through the darkness [Absus2]
+Your loving kindness [Eb]
+Tore through the shadows [Cm7]of my soul [Bbsus4]
+The work is finished [Eb]the end is written [Bbsus4]
+Jesus Christ [Absus2]my living [Bbsus4]hope [Eb]
+
+{section: Interlude}
+[Eb] [Ab]
+
+{section: Verse 2}
+{dynamics: Add Bass & soft Drum groove}
+Who could imagine [Eb]
+So great a mercy [Bbsus4]
+What heart could fathom [Ab2]
+Such [Cm7]boundless grace [Bbsus4]
+The God of ages [Eb]
+Stepped down from glory [Bbsus4]
+To wear my sin [Ab2]And bear [Bbsus4]my shame [Eb]
+
+{section: Chorus}
+{dynamics: Increase Dynamics}
+Hallelu - [Ab2]jah [Eb]
+Praise the One [Bbadd4]who set me free [Cm7]
+Hallelu - [Ab2]jah [Eb]
+Death has lost [Bbadd4]its grip on me [Cm7]
+You [Cm7/Bb]have broken [Ab2]every chain [Eb]
+There's salvation [Bbadd4]in Your name [Cm7]
+Jesus [Cm7/Bb]Christ [Ab2]my living [Bbsus4]hope [Eb]
+
+{section: Bridge}
+{dynamics: Build energy}
+[B] [C#m] [A] [Esus4] [E/G#]
+
+{section: Tag}
+Jesus Yours [Ab2]is the victory [Bbadd4]
+
+{section: Ending}
+[Eb]</textarea>
+      </label>
+      <button id="render-btn">Render Chart</button>
+      <div class="error" id="error"></div>
+      <div class="info">
+        Tip: This demo uses the browser's Canvas API. The Lato font family will be used if available, otherwise system fonts.
+      </div>
+    </div>
+
+    <div class="page-controls">
+      <button id="prev-btn" disabled>&larr; Previous</button>
+      <span id="page-info">Page 1 of 1</span>
+      <button id="next-btn" disabled>Next &rarr;</button>
+    </div>
+
+    <div class="preview-container">
+      <canvas id="chart-canvas"></canvas>
+    </div>
+  </div>
+
+  <script type="module">
+    // Import from the compiled dist folder
+    // Note: For this to work, you need to serve this from a local server
+    // or use a bundler. For simplicity, we'll inline the necessary code.
+
+    // Sample Song data structure (matches the parsed output)
+    const SECTION_ABBREVIATIONS = {
+      intro: 'I',
+      verse: 'V',
+      prechorus: 'Pr',
+      chorus: 'C',
+      bridge: 'B',
+      outro: 'O',
+      tag: 'Tg',
+      instrumental: 'Inst',
+      interlude: 'It',
+      vamp: 'Vp',
+      turnaround: 'T',
+      ending: 'E',
+      custom: ''
+    };
+
+    const SECTION_NAMES = {
+      intro: 'INTRO',
+      verse: 'VERSE',
+      prechorus: 'PRE CHORUS',
+      chorus: 'CHORUS',
+      bridge: 'BRIDGE',
+      outro: 'OUTRO',
+      tag: 'TAG',
+      instrumental: 'INSTRUMENTAL',
+      interlude: 'INTERLUDE',
+      vamp: 'VAMP',
+      turnaround: 'TURNAROUND',
+      ending: 'ENDING',
+      custom: ''
+    };
+
+    // Default render configuration
+    const DEFAULT_CONFIG = {
+      page: { width: 816, height: 1056 },
+      margins: { top: 40, right: 40, bottom: 60, left: 40 },
+      columnGap: 30,
+      fonts: {
+        title: { family: 'Lato, -apple-system, BlinkMacSystemFont, sans-serif', size: 28, weight: 'bold', lineHeight: 1.2 },
+        artist: { family: 'Lato, -apple-system, BlinkMacSystemFont, sans-serif', size: 14, weight: 'normal', lineHeight: 1.4 },
+        metadata: { family: 'Lato, -apple-system, BlinkMacSystemFont, sans-serif', size: 12, weight: 'normal', lineHeight: 1.4 },
+        sectionName: { family: 'Lato, -apple-system, BlinkMacSystemFont, sans-serif', size: 13, weight: 'bold', lineHeight: 1.4 },
+        chordRoot: { family: 'Lato, -apple-system, BlinkMacSystemFont, sans-serif', size: 14, weight: 'bold', lineHeight: 1.3 },
+        chordQuality: { family: 'Lato, -apple-system, BlinkMacSystemFont, sans-serif', size: 10, weight: 'normal', lineHeight: 1.3 },
+        lyrics: { family: 'Lato, -apple-system, BlinkMacSystemFont, sans-serif', size: 13, weight: 'normal', lineHeight: 1.4 },
+        dynamics: { family: 'Lato, -apple-system, BlinkMacSystemFont, sans-serif', size: 11, weight: '300', lineHeight: 1.4 },
+        roadmapBadge: { family: 'Lato, -apple-system, BlinkMacSystemFont, sans-serif', size: 10, weight: 'normal', lineHeight: 1 },
+        pageNumber: { family: 'Lato, -apple-system, BlinkMacSystemFont, sans-serif', size: 12, weight: 'normal', lineHeight: 1.4 }
+      },
+      colors: {
+        background: '#ffffff',
+        text: '#1a1a1a',
+        textSecondary: '#333333',
+        textMuted: '#888888',
+        badgeFill: '#4a4a4a',
+        badgeText: '#ffffff',
+        rule: '#cccccc',
+        roadmapInactive: '#666666'
+      },
+      badgeRadius: 11,
+      roadmapBadgeRadius: 12,
+      spacing: {
+        afterHeader: 15,
+        afterRoadmap: 20,
+        betweenSections: 18,
+        betweenLines: 4,
+        chordToLyric: 2,
+        sectionHeaderHeight: 28,
+        roadmapHeight: 36
+      }
+    };
+
+    // Simple ChordPro parser for demo
+    function parseChordPro(input) {
+      const song = {
+        title: 'Untitled',
+        artist: 'Unknown',
+        key: 'C',
+        tempo: null,
+        timeSignature: '4/4',
+        sections: []
+      };
+
+      const lines = input.split(/\r?\n/);
+      let currentSection = null;
+      let pendingDynamics = null;
+
+      for (const line of lines) {
+        const trimmed = line.trim();
+        if (!trimmed) continue;
+
+        // Parse directives
+        const directiveMatch = trimmed.match(/^\{(\w+):\s*(.+?)\}$/);
+        if (directiveMatch) {
+          const [, directive, value] = directiveMatch;
+          switch (directive.toLowerCase()) {
+            case 'title':
+            case 't':
+              song.title = value;
+              break;
+            case 'artist':
+            case 'a':
+              song.artist = value;
+              break;
+            case 'key':
+            case 'k':
+              song.key = value;
+              break;
+            case 'tempo':
+              song.tempo = parseInt(value, 10);
+              break;
+            case 'time':
+              song.timeSignature = value;
+              break;
+            case 'section':
+              // Start new section
+              const sectionInfo = parseSectionName(value);
+              currentSection = {
+                type: sectionInfo.type,
+                number: sectionInfo.number,
+                label: sectionInfo.label,
+                dynamics: pendingDynamics,
+                lines: []
+              };
+              pendingDynamics = null;
+              song.sections.push(currentSection);
+              break;
+            case 'dynamics':
+              if (currentSection) {
+                currentSection.dynamics = value;
+              } else {
+                pendingDynamics = value;
+              }
+              break;
+          }
+          continue;
+        }
+
+        // Parse chord/lyric lines
+        if (currentSection && trimmed.includes('[')) {
+          const parsedLine = parseChordLine(trimmed);
+          currentSection.lines.push(parsedLine);
+        } else if (currentSection && !trimmed.startsWith('{')) {
+          // Plain lyrics without chords
+          currentSection.lines.push({ lyrics: trimmed, chords: [] });
+        }
+      }
+
+      return song;
+    }
+
+    function parseSectionName(value) {
+      const lower = value.toLowerCase().replace(/\s+/g, '');
+
+      // Check for numbered sections
+      const numberMatch = value.match(/(\d+)$/);
+      const number = numberMatch ? parseInt(numberMatch[1], 10) : undefined;
+      const baseName = value.replace(/\s*\d+$/, '').toLowerCase().replace(/\s+/g, '');
+
+      const typeMap = {
+        'intro': 'intro',
+        'verse': 'verse',
+        'prechorus': 'prechorus',
+        'pre-chorus': 'prechorus',
+        'chorus': 'chorus',
+        'bridge': 'bridge',
+        'outro': 'outro',
+        'tag': 'tag',
+        'instrumental': 'instrumental',
+        'interlude': 'interlude',
+        'vamp': 'vamp',
+        'turnaround': 'turnaround',
+        'ending': 'ending'
+      };
+
+      return {
+        type: typeMap[baseName] || 'custom',
+        number,
+        label: typeMap[baseName] ? null : value
+      };
+    }
+
+    function parseChordLine(line) {
+      const chords = [];
+      let lyrics = '';
+      let position = 0;
+      let i = 0;
+
+      while (i < line.length) {
+        if (line[i] === '[') {
+          const end = line.indexOf(']', i);
+          if (end > i) {
+            const chordStr = line.substring(i + 1, end);
+            const chord = parseChordString(chordStr);
+            chords.push({ chord, position });
+            i = end + 1;
+            continue;
+          }
+        }
+        lyrics += line[i];
+        position++;
+        i++;
+      }
+
+      return { lyrics: lyrics.trim() || undefined, chords };
+    }
+
+    function parseChordString(str) {
+      // Match root, quality, and optional bass note
+      const match = str.match(/^([A-G][#b]?)(.*?)(?:\/([A-G][#b]?))?$/);
+      if (!match) return { root: str };
+
+      const [, root, quality, bass] = match;
+      return {
+        root,
+        quality: quality || undefined,
+        bass: bass || undefined
+      };
+    }
+
+    // Renderer implementation
+    class ChartRenderer {
+      constructor(config = DEFAULT_CONFIG) {
+        this.config = config;
+        this.song = null;
+        this.layout = null;
+        this.pixelRatio = window.devicePixelRatio || 1;
+      }
+
+      loadSong(song) {
+        this.song = song;
+        this.layout = this.calculateLayout();
+      }
+
+      calculateLayout() {
+        if (!this.song) return null;
+
+        const contentWidth = this.config.page.width - this.config.margins.left - this.config.margins.right;
+        const columnWidth = (contentWidth - this.config.columnGap) / 2;
+
+        const headerHeight =
+          this.config.fonts.title.size * this.config.fonts.title.lineHeight +
+          this.config.fonts.artist.size * this.config.fonts.artist.lineHeight +
+          this.config.spacing.afterHeader;
+
+        const roadmapHeight = this.config.spacing.roadmapHeight + this.config.spacing.afterRoadmap;
+        const contentStartY = this.config.margins.top + headerHeight + roadmapHeight;
+        const columnHeight = this.config.page.height - contentStartY - this.config.margins.bottom;
+
+        const sections = [];
+        let page = 0;
+        let column = 0;
+        let columnY = 0;
+
+        for (let i = 0; i < this.song.sections.length; i++) {
+          const section = this.song.sections[i];
+          const sectionHeight = this.calculateSectionHeight(section);
+
+          if (columnY + sectionHeight > columnHeight) {
+            if (column === 0) {
+              column = 1;
+              columnY = 0;
+            } else {
+              page++;
+              column = 0;
+              columnY = 0;
+            }
+          }
+
+          sections.push({
+            sectionIndex: i,
+            column,
+            y: columnY,
+            height: sectionHeight,
+            page
+          });
+
+          columnY += sectionHeight + this.config.spacing.betweenSections;
+        }
+
+        return {
+          pageCount: page + 1,
+          sections,
+          columnWidth,
+          columnHeight,
+          contentStartY,
+          column1X: this.config.margins.left,
+          column2X: this.config.margins.left + columnWidth + this.config.columnGap
+        };
+      }
+
+      calculateSectionHeight(section) {
+        let height = this.config.badgeRadius * 2 + 6;
+
+        if (section.dynamics) {
+          height += 4;
+        }
+
+        for (let i = 0; i < section.lines.length; i++) {
+          const line = section.lines[i];
+          const hasChords = line.chords && line.chords.length > 0;
+          const hasLyrics = line.lyrics && line.lyrics.trim().length > 0;
+          const isChordOnly = hasChords && !hasLyrics;
+
+          if (isChordOnly) {
+            height += this.config.fonts.chordRoot.size * this.config.fonts.chordRoot.lineHeight;
+          } else if (hasChords && hasLyrics) {
+            height += this.config.fonts.chordRoot.size * this.config.fonts.chordRoot.lineHeight;
+            height += this.config.spacing.chordToLyric;
+            height += this.config.fonts.lyrics.size * this.config.fonts.lyrics.lineHeight;
+          } else if (hasLyrics) {
+            height += this.config.fonts.lyrics.size * this.config.fonts.lyrics.lineHeight;
+          }
+
+          if (i < section.lines.length - 1) {
+            height += this.config.spacing.betweenLines;
+          }
+        }
+
+        return height;
+      }
+
+      renderPage(canvas, pageIndex) {
+        if (!this.song || !this.layout) return;
+
+        const { width, height } = this.config.page;
+        canvas.style.width = `${width}px`;
+        canvas.style.height = `${height}px`;
+        canvas.width = width * this.pixelRatio;
+        canvas.height = height * this.pixelRatio;
+
+        const ctx = canvas.getContext('2d');
+        ctx.scale(this.pixelRatio, this.pixelRatio);
+
+        // Clear background
+        ctx.fillStyle = this.config.colors.background;
+        ctx.fillRect(0, 0, width, height);
+
+        // Render header
+        let y = this.renderHeader(ctx, pageIndex);
+
+        // Render roadmap (first page only)
+        if (pageIndex === 0) {
+          y = this.renderRoadmap(ctx, y);
+          y += this.config.spacing.afterRoadmap;
+        }
+
+        // Render sections
+        const pageSections = this.layout.sections.filter(s => s.page === pageIndex);
+
+        for (const layoutSection of pageSections) {
+          const section = this.song.sections[layoutSection.sectionIndex];
+          const x = layoutSection.column === 0 ? this.layout.column1X : this.layout.column2X;
+          const sectionY = this.layout.contentStartY + layoutSection.y;
+
+          this.renderSection(ctx, section, x, sectionY, this.layout.columnWidth);
+        }
+      }
+
+      renderHeader(ctx, pageIndex) {
+        const config = this.config;
+        let y = config.margins.top;
+
+        if (pageIndex === 0) {
+          // Title
+          ctx.font = `${config.fonts.title.weight} ${config.fonts.title.size}px ${config.fonts.title.family}`;
+          ctx.fillStyle = config.colors.text;
+          ctx.textAlign = 'left';
+          ctx.textBaseline = 'top';
+          ctx.fillText(this.song.title, config.margins.left, y);
+
+          // Page number
+          ctx.font = `${config.fonts.pageNumber.weight} ${config.fonts.pageNumber.size}px ${config.fonts.pageNumber.family}`;
+          ctx.fillStyle = config.colors.textSecondary;
+          ctx.textAlign = 'right';
+          ctx.fillText(`Page: ${pageIndex + 1}/${this.layout.pageCount}`, config.page.width - config.margins.right, y);
+
+          y += config.fonts.title.size * config.fonts.title.lineHeight;
+
+          // Artist
+          ctx.font = `${config.fonts.artist.weight} ${config.fonts.artist.size}px ${config.fonts.artist.family}`;
+          ctx.fillStyle = config.colors.textSecondary;
+          ctx.textAlign = 'left';
+          ctx.fillText(this.song.artist, config.margins.left, y);
+
+          // Metadata
+          ctx.font = `${config.fonts.metadata.weight} ${config.fonts.metadata.size}px ${config.fonts.metadata.family}`;
+          ctx.textAlign = 'right';
+          const meta = [];
+          if (this.song.key) meta.push(`Key: ${this.song.key}`);
+          if (this.song.tempo) meta.push(`Tempo: ${this.song.tempo}`);
+          if (this.song.timeSignature) meta.push(`Time: ${this.song.timeSignature}`);
+          ctx.fillText(meta.join('  '), config.page.width - config.margins.right, y);
+
+          y += config.fonts.artist.size * config.fonts.artist.lineHeight;
+        } else {
+          // Compact header
+          ctx.font = `bold ${config.fonts.sectionName.size + 4}px ${config.fonts.title.family}`;
+          ctx.fillStyle = config.colors.text;
+          ctx.textAlign = 'left';
+          ctx.textBaseline = 'top';
+          ctx.fillText(this.song.title, config.margins.left, y);
+
+          ctx.font = `${config.fonts.pageNumber.weight} ${config.fonts.pageNumber.size}px ${config.fonts.pageNumber.family}`;
+          ctx.fillStyle = config.colors.textSecondary;
+          ctx.textAlign = 'right';
+          ctx.fillText(`Page: ${pageIndex + 1}/${this.layout.pageCount}`, config.page.width - config.margins.right, y);
+
+          y += (config.fonts.sectionName.size + 4) * 1.4;
+        }
+
+        return y + config.spacing.afterHeader;
+      }
+
+      renderRoadmap(ctx, y) {
+        const config = this.config;
+        const entries = this.generateRoadmap();
+        let x = config.margins.left;
+
+        for (const entry of entries) {
+          const radius = config.roadmapBadgeRadius;
+          const centerY = y + radius;
+
+          // Draw circle (outline for roadmap)
+          ctx.beginPath();
+          ctx.arc(x + radius, centerY, radius, 0, Math.PI * 2);
+          ctx.strokeStyle = config.colors.roadmapInactive;
+          ctx.lineWidth = 1.5;
+          ctx.stroke();
+
+          // Draw abbreviation
+          ctx.font = `${config.fonts.roadmapBadge.weight} ${config.fonts.roadmapBadge.size}px ${config.fonts.roadmapBadge.family}`;
+          ctx.fillStyle = config.colors.roadmapInactive;
+          ctx.textAlign = 'center';
+          ctx.textBaseline = 'middle';
+          ctx.fillText(entry.abbreviation, x + radius, centerY);
+
+          // Superscript for repeat count
+          if (entry.repeatCount > 1) {
+            const superSize = config.fonts.roadmapBadge.size * 0.75;
+            ctx.font = `${config.fonts.roadmapBadge.weight} ${superSize}px ${config.fonts.roadmapBadge.family}`;
+            ctx.fillStyle = config.colors.text;
+            ctx.textAlign = 'left';
+            ctx.textBaseline = 'top';
+            ctx.fillText(entry.repeatCount.toString(), x + radius * 2 - 2, y - 2);
+          }
+
+          x += radius * 2 + 8;
+        }
+
+        return y + config.spacing.roadmapHeight;
+      }
+
+      generateRoadmap() {
+        const entries = [];
+        let currentAbbr = '';
+        let currentCount = 0;
+
+        for (const section of this.song.sections) {
+          let abbr = SECTION_ABBREVIATIONS[section.type] || '';
+          if (section.number) abbr += section.number;
+          if (section.type === 'custom' && section.label) {
+            abbr = section.label.substring(0, 2).toUpperCase();
+          }
+
+          if (abbr === currentAbbr) {
+            currentCount++;
+          } else {
+            if (currentAbbr) {
+              entries.push({ abbreviation: currentAbbr, repeatCount: currentCount > 1 ? currentCount : null });
+            }
+            currentAbbr = abbr;
+            currentCount = 1;
+          }
+        }
+
+        if (currentAbbr) {
+          entries.push({ abbreviation: currentAbbr, repeatCount: currentCount > 1 ? currentCount : null });
+        }
+
+        return entries;
+      }
+
+      renderSection(ctx, section, x, y, width) {
+        const config = this.config;
+        let currentY = y;
+
+        // Render badge
+        const abbr = this.getSectionAbbreviation(section);
+        const radius = config.badgeRadius;
+
+        ctx.beginPath();
+        ctx.arc(x + radius, y + radius, radius, 0, Math.PI * 2);
+        ctx.fillStyle = config.colors.badgeFill;
+        ctx.fill();
+
+        ctx.font = `${config.fonts.roadmapBadge.weight} ${config.fonts.roadmapBadge.size}px ${config.fonts.roadmapBadge.family}`;
+        ctx.fillStyle = config.colors.badgeText;
+        ctx.textAlign = 'center';
+        ctx.textBaseline = 'middle';
+        ctx.fillText(abbr, x + radius, y + radius);
+
+        // Render section name
+        const displayName = this.getSectionDisplayName(section);
+        const nameX = x + radius * 2 + 8;
+        const nameY = y + radius + 4;
+
+        ctx.font = `${config.fonts.sectionName.weight} ${config.fonts.sectionName.size}px ${config.fonts.sectionName.family}`;
+        ctx.fillStyle = config.colors.text;
+        ctx.textAlign = 'left';
+        ctx.textBaseline = 'middle';
+        ctx.fillText(displayName, nameX, nameY);
+
+        const nameWidth = ctx.measureText(displayName).width;
+
+        // Horizontal rule
+        const ruleStartX = nameX + nameWidth + 10;
+        const ruleEndX = x + width;
+
+        if (ruleEndX > ruleStartX + 20) {
+          ctx.beginPath();
+          ctx.moveTo(ruleStartX, nameY);
+          ctx.lineTo(ruleEndX, nameY);
+          ctx.strokeStyle = config.colors.rule;
+          ctx.lineWidth = 1;
+          ctx.stroke();
+        }
+
+        // Dynamics
+        if (section.dynamics) {
+          ctx.font = `${config.fonts.dynamics.weight} ${config.fonts.dynamics.size}px ${config.fonts.dynamics.family}`;
+          ctx.fillStyle = config.colors.textMuted;
+          ctx.textAlign = 'right';
+          ctx.textBaseline = 'top';
+          ctx.fillText(section.dynamics, x + width, y + 4);
+        }
+
+        currentY += radius * 2 + 6;
+        if (section.dynamics) currentY += 4;
+
+        // Render lines
+        for (let i = 0; i < section.lines.length; i++) {
+          const line = section.lines[i];
+          currentY += this.renderLine(ctx, line, x, currentY, width);
+
+          if (i < section.lines.length - 1) {
+            currentY += config.spacing.betweenLines;
+          }
+        }
+
+        return currentY - y;
+      }
+
+      renderLine(ctx, line, x, y, width) {
+        const config = this.config;
+        let currentY = y;
+        const hasChords = line.chords && line.chords.length > 0;
+        const hasLyrics = line.lyrics && line.lyrics.trim().length > 0;
+        const isChordOnly = hasChords && !hasLyrics;
+
+        if (isChordOnly) {
+          // Chord-only line
+          const chordY = currentY + config.fonts.chordRoot.size;
+          this.renderChordRow(ctx, line.chords.map(c => c.chord), x, chordY, width);
+          currentY += config.fonts.chordRoot.size * config.fonts.chordRoot.lineHeight;
+
+        } else if (hasChords && hasLyrics) {
+          // Chords above lyrics
+          const chordY = currentY + config.fonts.chordRoot.size;
+          this.renderChordsAboveLyrics(ctx, line.chords, line.lyrics, x, chordY);
+          currentY += config.fonts.chordRoot.size * config.fonts.chordRoot.lineHeight;
+          currentY += config.spacing.chordToLyric;
+
+          ctx.font = `${config.fonts.lyrics.weight} ${config.fonts.lyrics.size}px ${config.fonts.lyrics.family}`;
+          ctx.fillStyle = config.colors.textSecondary;
+          ctx.textAlign = 'left';
+          ctx.textBaseline = 'top';
+          ctx.fillText(line.lyrics, x, currentY);
+          currentY += config.fonts.lyrics.size * config.fonts.lyrics.lineHeight;
+
+        } else if (hasLyrics) {
+          ctx.font = `${config.fonts.lyrics.weight} ${config.fonts.lyrics.size}px ${config.fonts.lyrics.family}`;
+          ctx.fillStyle = config.colors.textSecondary;
+          ctx.textAlign = 'left';
+          ctx.textBaseline = 'top';
+          ctx.fillText(line.lyrics, x, currentY);
+          currentY += config.fonts.lyrics.size * config.fonts.lyrics.lineHeight;
+        }
+
+        return currentY - y;
+      }
+
+      renderChord(ctx, chord, x, y) {
+        const config = this.config;
+        let currentX = x;
+
+        ctx.font = `${config.fonts.chordRoot.weight} ${config.fonts.chordRoot.size}px ${config.fonts.chordRoot.family}`;
+        ctx.fillStyle = config.colors.text;
+        ctx.textAlign = 'left';
+        ctx.textBaseline = 'alphabetic';
+        ctx.fillText(chord.root, currentX, y);
+        currentX += ctx.measureText(chord.root).width;
+
+        if (chord.quality) {
+          ctx.font = `${config.fonts.chordQuality.weight} ${config.fonts.chordQuality.size}px ${config.fonts.chordQuality.family}`;
+          const qualityY = y - (config.fonts.chordRoot.size * 0.25);
+          ctx.fillText(chord.quality, currentX, qualityY);
+          currentX += ctx.measureText(chord.quality).width;
+        }
+
+        if (chord.bass) {
+          ctx.font = `${config.fonts.chordRoot.weight} ${config.fonts.chordRoot.size}px ${config.fonts.chordRoot.family}`;
+          ctx.fillText('/' + chord.bass, currentX, y);
+          currentX += ctx.measureText('/' + chord.bass).width;
+        }
+
+        return currentX - x;
+      }
+
+      measureChordWidth(ctx, chord) {
+        const config = this.config;
+        let width = 0;
+
+        ctx.font = `${config.fonts.chordRoot.weight} ${config.fonts.chordRoot.size}px ${config.fonts.chordRoot.family}`;
+        width += ctx.measureText(chord.root).width;
+
+        if (chord.quality) {
+          ctx.font = `${config.fonts.chordQuality.weight} ${config.fonts.chordQuality.size}px ${config.fonts.chordQuality.family}`;
+          width += ctx.measureText(chord.quality).width;
+        }
+
+        if (chord.bass) {
+          ctx.font = `${config.fonts.chordRoot.weight} ${config.fonts.chordRoot.size}px ${config.fonts.chordRoot.family}`;
+          width += ctx.measureText('/' + chord.bass).width;
+        }
+
+        return width;
+      }
+
+      renderChordRow(ctx, chords, x, y, width) {
+        if (chords.length === 0) return;
+        if (chords.length === 1) {
+          this.renderChord(ctx, chords[0], x, y);
+          return;
+        }
+
+        const chordWidths = chords.map(c => this.measureChordWidth(ctx, c));
+        const totalWidth = chordWidths.reduce((a, b) => a + b, 0);
+        const spacing = (width - totalWidth) / chords.length;
+
+        let currentX = x;
+        for (let i = 0; i < chords.length; i++) {
+          this.renderChord(ctx, chords[i], currentX, y);
+          currentX += chordWidths[i] + spacing;
+        }
+      }
+
+      renderChordsAboveLyrics(ctx, chordPositions, lyrics, x, chordY) {
+        const config = this.config;
+        ctx.font = `${config.fonts.lyrics.weight} ${config.fonts.lyrics.size}px ${config.fonts.lyrics.family}`;
+
+        for (const cp of chordPositions) {
+          const prefix = lyrics.substring(0, cp.position);
+          const prefixWidth = ctx.measureText(prefix).width;
+          this.renderChord(ctx, cp.chord, x + prefixWidth, chordY);
+        }
+      }
+
+      getSectionAbbreviation(section) {
+        let abbr = SECTION_ABBREVIATIONS[section.type] || '';
+        if (section.number) abbr += section.number;
+        if (section.type === 'custom' && section.label) {
+          abbr = section.label.substring(0, 2).toUpperCase();
+        }
+        return abbr;
+      }
+
+      getSectionDisplayName(section) {
+        if (section.label) return section.label.toUpperCase();
+        let name = SECTION_NAMES[section.type] || section.type.toUpperCase();
+        if (section.number) name += ' ' + section.number;
+        return name;
+      }
+    }
+
+    // Demo app
+    const inputEl = document.getElementById('input');
+    const renderBtn = document.getElementById('render-btn');
+    const canvas = document.getElementById('chart-canvas');
+    const errorEl = document.getElementById('error');
+    const prevBtn = document.getElementById('prev-btn');
+    const nextBtn = document.getElementById('next-btn');
+    const pageInfoEl = document.getElementById('page-info');
+
+    let renderer = new ChartRenderer();
+    let currentPage = 0;
+
+    function updatePageControls() {
+      const pageCount = renderer.layout ? renderer.layout.pageCount : 1;
+      pageInfoEl.textContent = `Page ${currentPage + 1} of ${pageCount}`;
+      prevBtn.disabled = currentPage === 0;
+      nextBtn.disabled = currentPage >= pageCount - 1;
+    }
+
+    function render() {
+      try {
+        errorEl.style.display = 'none';
+        const input = inputEl.value;
+        const song = parseChordPro(input);
+        renderer.loadSong(song);
+        currentPage = 0;
+        renderer.renderPage(canvas, currentPage);
+        updatePageControls();
+      } catch (e) {
+        errorEl.textContent = 'Error: ' + e.message;
+        errorEl.style.display = 'block';
+        console.error(e);
+      }
+    }
+
+    renderBtn.addEventListener('click', render);
+
+    prevBtn.addEventListener('click', () => {
+      if (currentPage > 0) {
+        currentPage--;
+        renderer.renderPage(canvas, currentPage);
+        updatePageControls();
+      }
+    });
+
+    nextBtn.addEventListener('click', () => {
+      if (renderer.layout && currentPage < renderer.layout.pageCount - 1) {
+        currentPage++;
+        renderer.renderPage(canvas, currentPage);
+        updatePageControls();
+      }
+    });
+
+    // Initial render
+    render();
+  </script>
+</body>
+</html>
