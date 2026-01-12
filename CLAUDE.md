@@ -6,35 +6,38 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ChartMaker is a web application for creating and editing Nashville Number System chord charts, styled after MultiTracks.com charts. The app parses, displays, and generates chord charts used by worship musicians.
 
-## Nashville Number System Chart Format
+## Reference Materials
 
-The reference charts in `REF/` demonstrate the target output format from MultiTracks.com:
+- `REF/Charts/` - Sample PDF charts exported from MultiTracks ChartBuilder
+- `REF/MT ChartBuilder/` - Extracted MultiTracks ChartBuilder iOS app (for reference only)
+
+## Nashville Number System Chart Format
 
 ### Chart Structure
 - **Header**: Song title, artist, page number, key, tempo, time signature
-- **Roadmap**: Visual section indicators at top (e.g., `I V1 Pr C V2 Pr C B Tg E`) with repeat counts shown as superscripts
-- **Sections**: Labeled blocks (INTRO, VERSE 1, CHORUS, BRIDGE, TAG, ENDING, etc.) with:
-  - Section code in circle (I, V1, V2, Pr, C, B, Bd, Tg, Vp, Rf, It, Is, E)
+- **Roadmap**: Visual section indicators at top (e.g., `I V1 Pr C V2 Pr C B Tg E`) with repeat counts as superscripts
+- **Sections**: Labeled blocks with:
+  - Section code in circle
   - Section name with horizontal rule
-  - Optional dynamics/instrumentation notes (right-aligned, e.g., "Add Bass & soft Drum groove")
+  - Optional dynamics/instrumentation notes (right-aligned)
 
-### Section Codes
-- `I` = Intro
-- `V1/V2/V3/V4` = Verse 1/2/3/4
-- `Pr` = Pre-Chorus
-- `C` = Chorus
-- `B/B1/B2/B3` = Bridge variants
-- `Bd` = Breakdown
-- `Tg` = Tag
-- `Vp` = Vamp
-- `Rf` = Refrain
-- `It` = Interlude
-- `Is` = Instrumental
-- `Ta` = Turnaround
-- `E` = Ending
+### Section Types (from MultiTracks)
 
-### Chord Notation
-Two display modes exist (same song available in both):
+| ID | Abbrev | Name | ID | Abbrev | Name |
+|----|--------|------|----|--------|------|
+| 11 | I | Intro | 8 | E | Ending |
+| 19-79 | V1-V8 | Verse 1-8 | 12 | O | Outro |
+| 13 | Pc | Pre Chorus | 5 | C | Chorus |
+| 67-70 | Pr | Pre Chorus 1-4 | 64,6,71-77 | C1-C8 | Chorus 1-8 |
+| 3 | B | Bridge | 16 | Tg | Tag |
+| 65,58-60,80-83 | B1-B8 | Bridge 1-8 | 92-96 | T | Tag 1-5 |
+| 2 | Bd | Breakdown | 14 | Rf | Refrain |
+| 9 | Is | Instrumental | 17 | Vp | Vamp |
+| 10 | It | Interlude | 62 | Ta | Turnaround |
+| 1 | Ac | Acapella | 63 | Po | Post Chorus |
+| 15 | S | Solo | 53 | Ex | Exhortation |
+
+### Chord Display Modes
 1. **Letter notation**: Actual chord names (e.g., `Eb`, `Bbsus4`, `Cm7`, `Ab2`, `Eb/G`)
 2. **Number notation**: Nashville numbers (e.g., `1`, `5sus4`, `6m7`, `42`, `1/3`)
 
@@ -42,9 +45,14 @@ Two display modes exist (same song available in both):
 - Root note/number in **bold**
 - Chord quality as superscript (sus4, sus2, add4, m7, 2, etc.)
 - Slash chords: `Cm7/Bb` or `6m7/5`
-- Chords positioned above lyrics at the syllable where chord changes occur
+- Chords positioned above lyrics at syllable where chord changes
 
 ### Layout
-- Two-column layout on each page
+- Two-column layout per page
 - Lyrics with chords inline above text
-- Bar lines implied by chord spacing, not explicitly drawn
+- Bar lines implied by chord spacing
+
+## Technical Reference (from ChartBuilder app)
+- **Fonts**: Lato (Regular, Bold, Light), chartbuilder.ttf (icons), GoNotoKurrent
+- **Rendering**: SkiaSharp-based
+- **Chord parsing**: Supports ChordPro format input
