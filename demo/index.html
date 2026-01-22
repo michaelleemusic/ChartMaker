@@ -12,90 +12,63 @@
       box-sizing: border-box;
     }
 
+    html, body {
+      height: 100%;
+      margin: 0;
+      overflow: hidden;
+    }
+
     body {
       font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-      margin: 0;
-      padding: 20px;
       background: #f5f5f5;
     }
 
-    h1 {
-      margin: 0 0 20px 0;
+    .app-container {
+      display: flex;
+      height: 100vh;
+    }
+
+    /* Left Panel - Editor */
+    .editor-panel {
+      width: 50%;
+      min-width: 300px;
+      display: flex;
+      flex-direction: column;
+      background: white;
+      border-right: 1px solid #ddd;
+    }
+
+    .editor-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid #eee;
+      background: #fafafa;
+    }
+
+    .editor-header h1 {
+      margin: 0;
+      font-size: 18px;
       color: #333;
-    }
-
-    .container {
-      max-width: 1200px;
-      margin: 0 auto;
-    }
-
-    .controls {
-      background: white;
-      padding: 20px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    }
-
-    .controls label {
-      display: block;
-      margin-bottom: 10px;
-      font-weight: 500;
-    }
-
-    .controls textarea {
-      width: 100%;
-      height: 300px;
-      font-family: 'Monaco', 'Menlo', monospace;
-      font-size: 12px;
-      padding: 10px;
-      border: 1px solid #ddd;
-      border-radius: 4px;
-      resize: vertical;
-    }
-
-    .controls select {
-      padding: 10px 14px;
-      font-size: 14px;
-      border: 1px solid #ccc;
-      border-radius: 6px;
-      background: white;
-      cursor: pointer;
-      min-width: 140px;
-      appearance: none;
-      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23333' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
-      background-repeat: no-repeat;
-      background-position: right 12px center;
-      padding-right: 36px;
-    }
-
-    .controls select:hover {
-      border-color: #999;
-    }
-
-    .controls select:focus {
-      outline: none;
-      border-color: #4a4a4a;
-      box-shadow: 0 0 0 2px rgba(74, 74, 74, 0.2);
     }
 
     .toolbar {
       display: flex;
-      gap: 12px;
-      margin-bottom: 15px;
+      gap: 8px;
+      padding: 12px 16px;
+      border-bottom: 1px solid #eee;
       align-items: center;
+      flex-wrap: wrap;
     }
 
     .search-container {
       position: relative;
       flex: 1;
-      max-width: 400px;
+      min-width: 200px;
     }
 
     .search-input {
       width: 100%;
-      padding: 10px 14px;
-      font-size: 14px;
+      padding: 8px 12px;
+      font-size: 13px;
       border: 1px solid #ccc;
       border-radius: 6px;
       background: white;
@@ -159,9 +132,9 @@
       float: right;
     }
 
-    .random-btn {
-      padding: 10px 16px;
-      font-size: 14px;
+    .toolbar-btn {
+      padding: 8px 12px;
+      font-size: 13px;
       border: 1px solid #ccc;
       border-radius: 6px;
       background: white;
@@ -170,37 +143,121 @@
       white-space: nowrap;
     }
 
-    .random-btn:hover {
+    .toolbar-btn:hover {
       border-color: #999;
       background: #f5f5f5;
     }
 
-    .song-count {
-      font-size: 12px;
-      color: #888;
-      white-space: nowrap;
+    .toolbar-btn-danger {
+      color: #c62828;
+    }
+
+    .toolbar-btn-danger:hover:not(:disabled) {
+      background: #ffebee;
+      border-color: #c62828;
+    }
+
+    .toolbar-btn:disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+    }
+
+    .toolbar-divider {
+      width: 1px;
+      height: 24px;
+      background: #ddd;
+      margin: 0 4px;
+    }
+
+    .toolbar select {
+      padding: 8px 12px;
+      font-size: 13px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      background: white;
+      cursor: pointer;
+      appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23333' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 10px center;
+      padding-right: 30px;
+    }
+
+    .toolbar select:hover {
+      border-color: #999;
+    }
+
+    .toolbar select:focus {
+      outline: none;
+      border-color: #4a4a4a;
+      box-shadow: 0 0 0 2px rgba(74, 74, 74, 0.2);
+    }
+
+    .editor-content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    #input {
+      flex: 1;
+      width: 100%;
+      font-family: 'Monaco', 'Menlo', 'Consolas', monospace;
+      font-size: 13px;
+      line-height: 1.5;
+      padding: 16px;
+      border: none;
+      resize: none;
+      outline: none;
+    }
+
+    .error {
+      color: #d32f2f;
+      background: #ffebee;
+      padding: 10px 16px;
+      font-size: 13px;
+      display: none;
+    }
+
+    /* Right Panel - Preview */
+    .preview-panel {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      background: #4a4a4a;
+      min-width: 400px;
+    }
+
+    .preview-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 12px 16px;
+      background: #3a3a3a;
     }
 
     .page-controls {
       display: flex;
       align-items: center;
-      gap: 12px;
-      margin-bottom: 12px;
+      gap: 10px;
     }
 
     .page-controls button {
-      padding: 8px 16px;
-      font-size: 14px;
-      border: 1px solid #ccc;
+      padding: 6px 14px;
+      font-size: 13px;
+      border: 1px solid #666;
       border-radius: 6px;
-      background: white;
+      background: #4a4a4a;
+      color: white;
       cursor: pointer;
       transition: all 0.15s ease;
     }
 
     .page-controls button:hover:not(:disabled) {
-      border-color: #999;
-      background: #f5f5f5;
+      background: #5a5a5a;
+      border-color: #777;
     }
 
     .page-controls button:disabled {
@@ -209,53 +266,87 @@
     }
 
     .page-controls span {
-      font-size: 14px;
-      color: #666;
+      font-size: 13px;
+      color: #ccc;
+    }
+
+    .download-btn {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 14px;
+      font-size: 13px;
+      border: 1px solid #666;
+      border-radius: 6px;
+      background: #4a4a4a;
+      color: white;
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+
+    .download-btn:hover {
+      background: #5a5a5a;
+      border-color: #777;
+    }
+
+    .download-btn svg {
+      flex-shrink: 0;
     }
 
     .preview-container {
-      background: #666;
-      padding: 20px;
-      border-radius: 8px;
+      flex: 1;
       display: flex;
       justify-content: center;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      align-items: flex-start;
+      padding: 20px;
+      overflow: auto;
     }
 
     #chart-canvas {
-      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+      max-width: 100%;
+      height: auto;
     }
 
-    .error {
-      color: #d32f2f;
-      background: #ffebee;
-      padding: 10px;
-      border-radius: 4px;
-      margin-top: 10px;
-      display: none;
-    }
+    /* Responsive */
+    @media (max-width: 900px) {
+      .app-container {
+        flex-direction: column;
+      }
 
-    .info {
-      color: #1976d2;
-      background: #e3f2fd;
-      padding: 10px;
-      border-radius: 4px;
-      margin-top: 10px;
-      font-size: 13px;
+      .editor-panel {
+        width: 100%;
+        height: 50%;
+        border-right: none;
+        border-bottom: 1px solid #ddd;
+      }
+
+      .preview-panel {
+        min-width: unset;
+        height: 50%;
+      }
     }
   </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
 </head>
 <body>
-  <div class="container">
-    <h1>chartForge Renderer Demo</h1>
-
-    <div class="controls">
+  <div class="app-container">
+    <!-- Editor Panel (Left) -->
+    <div class="editor-panel">
+      <div class="editor-header">
+        <h1>chartForge</h1>
+      </div>
       <div class="toolbar">
         <div class="search-container">
           <input type="text" class="search-input" id="song-search" placeholder="Search 676 songs..." autocomplete="off">
           <div class="search-results" id="search-results"></div>
         </div>
-        <button class="random-btn" id="random-btn">🎲 Random</button>
+        <button class="toolbar-btn" id="random-btn">Random</button>
+        <div class="toolbar-divider"></div>
+        <button class="toolbar-btn" id="new-btn">New</button>
+        <button class="toolbar-btn" id="update-btn">Update</button>
+        <button class="toolbar-btn toolbar-btn-danger" id="delete-btn">Delete</button>
+        <div class="toolbar-divider"></div>
         <select id="render-key">
           <option value="numbers">Numbers</option>
           <option value="C">Key of C</option>
@@ -272,25 +363,24 @@
           <option value="B">Key of B</option>
         </select>
       </div>
-      <label>
-        Chart input:
-        <textarea id="input">{title: Living Hope}
-{artist: Phil Wickham}
-{key: Eb}
-{tempo: 72}
+      <div class="editor-content">
+        <textarea id="input">{title: Test Song}
+{artist: chartForge Demo}
+{key: G}
+{tempo: 120}
 {time: 4/4}
 
 {section: Intro}
-{dynamics: Acoustic Guitar, Piano & Pad}
+{dynamics: Piano & Pad}
 [1] [4sus2] [1] [4sus2]
+[1] [5sus4] [6m] [4]
 
 {section: Verse 1}
-How great the [1]chasm
-That lay between [5sus4]us
-How high the [42]mountain
-[6m7]I could not [5sus4]climb
-In desperation [1]I turned to Heaven [5sus4]
-And spoke Your name [4sus2]Into [5sus4]the night [1]
+{dynamics: Add Acoustic Guitar}
+The[4] sun comes[1] up, it's a n[5]ew day da[6m]wning;
+[4]It's time to[1] sing Your son[5]g ag[6m]ain.
+[4]Whatever may [1]pass, and what[5]ever lies be[6m]fore me,
+[42]Let me be s[1]inging when the [5sus4]even--in[5]g co[1]mes.
 
 {section: Pre Chorus 1}
 Then through the darkness [4sus2]
@@ -299,49 +389,154 @@ Tore through the shadows [6m7]of my soul [5sus4]
 The work is finished [1]the end is written [5sus4]
 Jesus Christ [4sus2]my living [5sus4]hope
 
+{section: Chorus}
+{dynamics: Full Band}
+Bless the[4] Lord, O my[1] soul,[5/7] O my [6m]soul,
+[4]Worship His ho[1]ly n[5sus4]ame.    [5]
+Sing like [4]never be[6m]fore, [4]   [5]O m[6m]y soul.
+I'll[4] worship Your ho[5]ly na[4/1]me.   [1]
+
 {section: Interlude}
-[1] [4]
+[1] [4] [1] [5]
 
 {section: Verse 2}
-{dynamics: Add Bass & soft Drum groove}
-Who could imagine [1]
-So great a mercy [5sus4]
-What heart could fathom [42]
-Such [6m7]boundless grace [5sus4]
-The God of ages [1]
-Stepped down from glory [5sus4]
-To wear my sin [42]And bear [5sus4]my shame [1]
+{dynamics: Bring Dynamics Down}
+You're [4]rich in[1] love, and You're[5] slow to [6m]anger.
+Your[4] name is g[1]reat, and Your h[5]eart is ki[6m]nd.
+For[4] all Your [1]goodness, I will[5] keep on[6m] singing;
+[42]Ten thousand[1] reasons for my[5sus4] heart t[5]o fi[1]nd.
+
+{section: Pre Chorus 2}
+O [1]for a thousand tongues to sing my great Redeemer's [5]praise,
+The gl[1]ories of my [4]God and King, the [1]triumphs of [5]His [1]grace!
 
 {section: Chorus}
-{dynamics: Increase Dynamics}
-Hallelu - [42]jah [1]
-Praise the One [5add4]who set me free [6m7]
-Hallelu - [42]jah [1]
-Death has lost [5add4]its grip on me [6m7]
-You [6m7/5]have broken [42]every chain [1]
-There's salvation [5add4]in Your name [6m7]
-Jesus [6m7/5]Christ [42]my living [5sus4]hope [1]
+{dynamics: Build Back Up}
+Bless the[4] Lord, O my[1] soul,[5/7] O my [6m]soul,
+[4]Worship His ho[1]ly n[5sus4]ame.    [5]
+Sing like [4]never be[6m]fore, [4]   [5]O m[6m]y soul.
+I'll[4] worship Your ho[5]ly na[4/1]me.   [1]
+
+{section: Bridge}
+{dynamics: Drums Half Time}
+All gl[4]ory to [1/3]You, All gl[5]ory to You[1]
+For[4]ever, and [1/3]ever, and [5]ever
+All gl[4]ory to [1/3]You, All gl[5]ory to You[1]
+For[4]ever, and [1/3]ever, and [5]ever Amen    [1]
+
+{section: Verse 3}
+And[4] on that[1] day when my[5] strength is f[6m]ailing,
+The[4] end draws[1] near, and my[5] time has [6m]come;
+[4]Still my[1] soul will sing Your [5]praise un[6m]ending:
+[42]Ten thousand[1] years and then fo[5sus4]re----ve[5]rmo[1]re!
+
+{section: Instrumental}
+{dynamics: Guitar Solo}
+[1] [b7] [4] [57] [1]
+[1] [b7] [4] [57] [1]
+[1] [b7] [4] [5sus7] [57]
+
+{section: Chorus}
+{dynamics: Everyone In}
+Bless the[4] Lord, O my[1] soul,[5/7] O my [6m]soul,
+[4]Worship His ho[1]ly n[5sus4]ame.    [5]
+Sing like [4]never be[6m]fore, [4]   [5]O m[6m]y soul.
+I'll[4] worship Your ho[5]ly na[4/1]me.   [1]
+
+{section: Verse 4}
+[1]You are ex[b7]alted Lord, [4]above [57]all e[1]lse
+[1]We place you at the hi[b7]ghest place, a[4]bove [57]all [1]else
+[1]Right here where we st[b7]and and every[4]where [57]we [1]go
+[1]We place you at the hi[b7]ghest place, so the [4]world will [57]know
+
+{section: Bridge}
+{dynamics: Half Time Feel}
+[1]You are a mighty [b7]warrior, [4]dressed in armor of l[1]ight
+[1]Crushing the deeds of da[b7]rkness, l[4]ead us on in the[1] fight
+[1]Through the blood of J[b7]esus, vic[4]torious we [1]stand
+[1]We place you at the h[b7]ighest place, a[4]bove all else in this [5sus7]land    [57]
+
+{section: Chorus}
+Bless the[4] Lord, O my[1] soul,[5/7] O my [6m]soul,
+[4]Worship His ho[1]ly n[5sus4]ame.    [5]
+Sing like [4]never be[6m]fore, [4]   [5]O m[6m]y soul.
+I'll[4] worship Your ho[5]ly na[4/1]me.   [1]
+
+{section: Vamp}
+{dynamics: Bass & Drums Only}
+[1] [5] [6m] [4]
+[1] [5] [6m] [4]
+[1] [5] [6m] [4]
+[1] [5] [6m] [4]
+
+{section: Verse 5}
+{dynamics: Rebuild Slowly}
+Je[1]sus! the name that charms our fears, that bids our sorrows [5]cease;
+'Tis m[1]usic in the [4]sinner's ears, 'tis [1]life, and health, and [5]pe[1]ace.
+He [1]breaks the power of canceled sin, He sets the prisoner [5]free;
+His bl[1]ood can ma[4]ke the foulest clean; His [1]blood availed [5]for [1]me.
+
+{section: Pre Chorus 3}
+My [1]gracious Master and my God, assist me to [5]proclaim,
+To sp[1]read through all the [4]earth abroad the [1]honors of [5]Thy [1]name.
+
+{section: Chorus}
+{dynamics: Full Energy}
+Bless the[4] Lord, O my[1] soul,[5/7] O my [6m]soul,
+[4]Worship His ho[1]ly n[5sus4]ame.    [5]
+Sing like [4]never be[6m]fore, [4]   [5]O m[6m]y soul.
+I'll[4] worship Your ho[5]ly na[4/1]me.   [1]
+
+{section: Turnaround}
+[1] [4] [6m] [5]
+[1] [4] [6m] [5]
+
+{section: Bridge}
+{dynamics: Spontaneous Worship}
+All gl[4]ory to [1/3]You, All gl[5]ory to You[1]
+For[4]ever, and [1/3]ever, and [5]ever
+All gl[4]ory to [1/3]You, All gl[5]ory to You[1]
+For[4]ever, and [1/3]ever, and [5]ever Amen    [1]
 
 {section: Tag}
-Jesus Yours [42]is the victory [5add4]
+[6m]I'll wor[4]ship Your [5]holy n[6m]ame.
+Yes, I'll [4]worship Your [5]holy na[1]me.
+[6m]I'll wor[4]ship Your [5]holy n[6m]ame.
+Yes, I'll [4]worship Your [5]holy na[1]me.
+
+{section: Outro}
+{dynamics: Drums & Bass Out}
+[1] [4sus2] [1] [4sus2]
+[1] [5sus4] [6m] [4]
+[1]
 
 {section: Ending}
+{dynamics: Piano Only}
 [1]</textarea>
-      </label>
-      <div class="error" id="error"></div>
-      <div class="info">
-        Tip: This demo uses the browser's Canvas API. The Lato font family will be used if available, otherwise system fonts.
+        <div class="error" id="error"></div>
       </div>
     </div>
 
-    <div class="page-controls">
-      <button id="prev-btn" disabled>&larr; Previous</button>
-      <span id="page-info">Page 1 of 1</span>
-      <button id="next-btn" disabled>Next &rarr;</button>
-    </div>
-
-    <div class="preview-container">
-      <canvas id="chart-canvas"></canvas>
+    <!-- Preview Panel (Right) -->
+    <div class="preview-panel">
+      <div class="preview-header">
+        <div class="page-controls">
+          <button id="prev-btn" disabled>&larr; Prev</button>
+          <span id="page-info">Page 1 of 1</span>
+          <button id="next-btn" disabled>Next &rarr;</button>
+        </div>
+        <button class="download-btn" id="download-pdf-btn" title="Download PDF">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+            <polyline points="7 10 12 15 17 10"/>
+            <line x1="12" y1="15" x2="12" y2="3"/>
+          </svg>
+          PDF
+        </button>
+      </div>
+      <div class="preview-container">
+        <canvas id="chart-canvas"></canvas>
+      </div>
     </div>
   </div>
 
@@ -1180,21 +1375,207 @@ Jesus Yours [42]is the victory [5add4]
       }
     }
 
+    // Track currently loaded song
+    let currentSongPath = null;
+
     // Fetch song content
     async function loadSong(path) {
       try {
         const response = await fetch(`../library/${path}`);
         const content = await response.text();
         inputEl.value = content;
+        currentSongPath = path;
         render();
         songSearchEl.value = '';
         hideSearchResults();
+        updateButtonStates();
       } catch (e) {
         console.error('Failed to load song:', e);
         errorEl.textContent = 'Error loading song: ' + e.message;
         errorEl.style.display = 'block';
       }
     }
+
+    // Update button states based on current song
+    function updateButtonStates() {
+      const updateBtn = document.getElementById('update-btn');
+      const deleteBtn = document.getElementById('delete-btn');
+      updateBtn.disabled = !currentSongPath;
+      deleteBtn.disabled = !currentSongPath;
+    }
+
+    // Extract title from chart content
+    function extractTitle(content) {
+      const match = content.match(/\{title:\s*(.+?)\}/i);
+      return match ? match[1].trim() : 'Untitled';
+    }
+
+    // Library management functions
+    async function createNewSong() {
+      const template = `{title: New Song}
+{artist: Artist Name}
+{key: C}
+{tempo: 120}
+{time: 4/4}
+
+{section: Verse 1}
+[1] [4] [5] [1]
+
+{section: Chorus}
+[1] [5] [6m] [4]
+`;
+      inputEl.value = template;
+      currentSongPath = null;
+      render();
+      updateButtonStates();
+    }
+
+    async function updateSong() {
+      if (!currentSongPath) {
+        alert('No song loaded from library. Use "New" to create a new song first.');
+        return;
+      }
+
+      const content = inputEl.value;
+      try {
+        const response = await fetch(`/api/library/${currentSongPath}`, {
+          method: 'PUT',
+          headers: { 'Content-Type': 'text/plain' },
+          body: content
+        });
+
+        if (response.ok) {
+          alert('Song updated successfully!');
+          // Refresh library index
+          await loadLibraryIndex();
+        } else {
+          throw new Error(await response.text());
+        }
+      } catch (e) {
+        // Fallback: offer download
+        console.error('API not available, using download fallback:', e);
+        downloadSong(content, currentSongPath);
+      }
+    }
+
+    async function saveSongAsNew() {
+      const content = inputEl.value;
+      const title = extractTitle(content);
+      const filename = title.replace(/[^a-zA-Z0-9\s]/g, '').trim() + '.txt';
+
+      try {
+        const response = await fetch(`/api/library/${filename}`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'text/plain' },
+          body: content
+        });
+
+        if (response.ok) {
+          currentSongPath = filename;
+          alert('Song saved to library!');
+          await loadLibraryIndex();
+          updateButtonStates();
+        } else {
+          throw new Error(await response.text());
+        }
+      } catch (e) {
+        // Fallback: offer download
+        console.error('API not available, using download fallback:', e);
+        downloadSong(content, filename);
+      }
+    }
+
+    async function deleteSong() {
+      if (!currentSongPath) {
+        alert('No song loaded from library.');
+        return;
+      }
+
+      const title = extractTitle(inputEl.value);
+      if (!confirm(`Move "${title}" to trash?`)) {
+        return;
+      }
+
+      try {
+        const response = await fetch(`/api/library/${currentSongPath}`, {
+          method: 'DELETE'
+        });
+
+        if (response.ok) {
+          alert('Song moved to trash.');
+          currentSongPath = null;
+          createNewSong();
+          await loadLibraryIndex();
+        } else {
+          throw new Error(await response.text());
+        }
+      } catch (e) {
+        console.error('API not available:', e);
+        alert('Delete requires the API server. Run: node demo/server.js');
+      }
+    }
+
+    function downloadSong(content, filename) {
+      const blob = new Blob([content], { type: 'text/plain' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = filename;
+      a.click();
+      URL.revokeObjectURL(url);
+      alert(`Downloaded "${filename}". Move it to the library folder manually.`);
+    }
+
+    // Library management button handlers
+    document.getElementById('new-btn').addEventListener('click', () => {
+      if (currentSongPath || inputEl.value.trim()) {
+        if (!confirm('Create new song? Unsaved changes will be lost.')) return;
+      }
+      createNewSong();
+    });
+
+    document.getElementById('update-btn').addEventListener('click', () => {
+      if (currentSongPath) {
+        updateSong();
+      } else {
+        saveSongAsNew();
+      }
+    });
+
+    document.getElementById('delete-btn').addEventListener('click', deleteSong);
+
+    // PDF download
+    document.getElementById('download-pdf-btn').addEventListener('click', async () => {
+      if (!renderer.layout) return;
+
+      const { jsPDF } = window.jspdf;
+      const pdf = new jsPDF({
+        orientation: 'portrait',
+        unit: 'pt',
+        format: [renderer.config.page.width, renderer.config.page.height]
+      });
+
+      const title = extractTitle(inputEl.value);
+      const pageCount = renderer.layout.pageCount;
+
+      for (let i = 0; i < pageCount; i++) {
+        if (i > 0) pdf.addPage();
+
+        // Render page to canvas
+        renderer.renderPage(canvas, i);
+
+        // Add canvas as image to PDF
+        const imgData = canvas.toDataURL('image/png', 1.0);
+        pdf.addImage(imgData, 'PNG', 0, 0, renderer.config.page.width, renderer.config.page.height);
+      }
+
+      // Restore current page view
+      renderer.renderPage(canvas, currentPage);
+
+      // Download
+      const filename = title.replace(/[^a-zA-Z0-9\s]/g, '').trim() + '.pdf';
+      pdf.save(filename);
+    });
 
     // Search songs
     function searchSongs(query) {
@@ -1440,6 +1821,7 @@ Jesus Yours [42]is the victory [5add4]
 
     // Initial render
     render();
+    updateButtonStates();
   </script>
 </body>
 </html>
