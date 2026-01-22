@@ -1775,10 +1775,12 @@
 
       // Download with key and mode in filename
       const safeTitle = title.replace(/[^a-zA-Z0-9\s]/g, '').trim();
+      const mode = displayModeSelect.value;
       const keyLabel = renderKeySelect.value === 'numbers' ? 'Numbers' : renderKeySelect.value;
-      const modeLabel = displayModeSelect.value === 'full' ? '' :
-                        displayModeSelect.value === 'chords' ? ' - Chords' : ' - Lyrics';
-      const filename = `${safeTitle} - ${keyLabel}${modeLabel}.pdf`;
+      // Lyrics don't change with key, so omit key from filename
+      const filename = mode === 'lyrics'
+        ? `${safeTitle} - Lyrics.pdf`
+        : `${safeTitle} - ${keyLabel}${mode === 'chords' ? ' - Chords' : ''}.pdf`;
       pdf.save(filename);
     });
 
