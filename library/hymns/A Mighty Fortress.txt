@@ -4,8 +4,8 @@
 {time: 4/4}
 
 {section: Verse 1}
-A mighty fortress is our God
-A bulwark never failing
+[1]A mighty fortress is our God
+A [4]bulwark [3m]never [2m]fail[1]ing
 Our helper He amid the flood
 Of mortal ills prevailing
 For still our ancient foe

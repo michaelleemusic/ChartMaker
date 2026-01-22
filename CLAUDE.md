@@ -44,6 +44,9 @@ rsync -avz --delete \
   --exclude='library/*.txt' \
   ./ proflee_me@pdx1-shared-a1-17.dreamhost.com:~/proflee.me/chartforge/
 
+# Step 1b: Remove any accidental .htaccess in web/ (causes 500 error)
+ssh proflee_me@pdx1-shared-a1-17.dreamhost.com "rm -f ~/proflee.me/chartforge/web/.htaccess"
+
 # Step 2: Clear server library and upload only public songs
 ssh proflee_me@pdx1-shared-a1-17.dreamhost.com "rm -f ~/proflee.me/chartforge/library/*.txt"
 while read -r song; do
