@@ -52,7 +52,7 @@ chartForge/
 │   ├── index.html          # Web interface
 │   ├── index.php           # PHP backend (DreamHost compatible)
 │   └── server.js           # Node.js backend
-├── library/                # Song library (677 charts)
+├── library/                # Song library (679 charts)
 │   ├── *.txt               # Chart files
 │   ├── index.json          # Searchable index
 │   └── trash/              # Deleted songs

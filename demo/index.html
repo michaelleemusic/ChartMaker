@@ -693,13 +693,13 @@ Yes, I'll [4]worship Your [5]holy na[1]me.
           continue;
         }
 
-        // Parse chord/lyric lines
+        // Parse chord/lyric lines (preserve leading spaces for alignment)
         if (currentSection && trimmed.includes('[')) {
-          const parsedLine = parseChordLine(trimmed);
+          const parsedLine = parseChordLine(line.trimEnd());
           currentSection.lines.push(parsedLine);
         } else if (currentSection && !trimmed.startsWith('{')) {
           // Plain lyrics without chords
-          currentSection.lines.push({ lyrics: trimmed, chords: [] });
+          currentSection.lines.push({ lyrics: line.trimEnd(), chords: [] });
         }
       }
 
@@ -759,7 +759,7 @@ Yes, I'll [4]worship Your [5]holy na[1]me.
         i++;
       }
 
-      return { lyrics: lyrics.trim() || undefined, chords };
+      return { lyrics: lyrics.trimEnd() || undefined, chords };
     }
 
     function parseChordString(str) {
@@ -937,12 +937,14 @@ Yes, I'll [4]worship Your [5]holy na[1]me.
         }
 
         // Render sections
+        // Use actual y from header/roadmap for this page, not the fixed contentStartY
+        const pageContentStartY = y;
         const pageSections = this.layout.sections.filter(s => s.page === pageIndex);
 
         for (const layoutSection of pageSections) {
           const section = this.song.sections[layoutSection.sectionIndex];
           const x = layoutSection.column === 0 ? this.layout.column1X : this.layout.column2X;
-          const sectionY = this.layout.contentStartY + layoutSection.y;
+          const sectionY = pageContentStartY + layoutSection.y;
 
           this.renderSection(ctx, section, x, sectionY, this.layout.columnWidth);
         }
@@ -1393,7 +1395,9 @@ Yes, I'll [4]worship Your [5]holy na[1]me.
         const input = inputEl.value;
         const song = parseChordPro(input);
         renderer.loadSong(song);
-        currentPage = 0;
+        // Preserve current page, but clamp to valid range if page count changed
+        const maxPage = renderer.layout ? renderer.layout.pageCount - 1 : 0;
+        if (currentPage > maxPage) currentPage = maxPage;
         renderer.renderPage(canvas, currentPage);
         updatePageControls();
       } catch (e) {
@@ -1672,8 +1676,10 @@ Yes, I'll [4]worship Your [5]holy na[1]me.
       // Restore current page view
       renderer.renderPage(canvas, currentPage);
 
-      // Download
-      const filename = title.replace(/[^a-zA-Z0-9\s]/g, '').trim() + '.pdf';
+      // Download with key in filename
+      const safeTitle = title.replace(/[^a-zA-Z0-9\s]/g, '').trim();
+      const keyLabel = renderKeySelect.value === 'numbers' ? 'Numbers' : renderKeySelect.value;
+      const filename = `${safeTitle} - ${keyLabel}.pdf`;
       pdf.save(filename);
     });
 

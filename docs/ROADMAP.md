@@ -30,9 +30,14 @@
 - [x] Random song button
 - [x] Key selector dropdown
 
-## Phase 5: Polish (In Progress)
+## Phase 5: Polish ✓
 - [x] Key transposition
 - [x] Number ↔ letter toggle
+- [x] Auto-complete (numbers → [], { → {})
+- [x] Leading space preservation for lyric alignment
+- [x] Key in PDF filename
+- [x] Page preservation during editing
+- [x] Proper page 2+ header spacing
 - [ ] Print styles
 - [ ] Mobile responsive
 - [x] Library save/load (PHP/Node backend)
