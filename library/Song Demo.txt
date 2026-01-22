@@ -1,0 +1,11 @@
+{title: Song Demo}
+{artist: Michael Lee}
+{key: C}
+{tempo: 104}
+{time: 3/4}
+
+{section: Intro}
+[1] [4] [5] [1]
+
+{section: Verse 1}
+[1]Hello my [5]King [6m]you [4]slay, [1]oh [3m]oh [57/b7]oh

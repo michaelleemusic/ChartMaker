@@ -1432,7 +1432,7 @@ Yes, I'll [4]worship Your [5]holy na[1]me.
     // Load library index
     async function loadLibraryIndex() {
       try {
-        const response = await fetch('../library/index.json');
+        const response = await fetch('library/index.json');
         libraryIndex = await response.json();
         songSearchEl.placeholder = `Search ${libraryIndex.length} songs...`;
       } catch (e) {
@@ -1447,7 +1447,7 @@ Yes, I'll [4]worship Your [5]holy na[1]me.
     // Fetch song content
     async function loadSong(path) {
       try {
-        const response = await fetch(`../library/${path}`);
+        const response = await fetch(`library/${path}`);
         const content = await response.text();
         inputEl.value = content;
         currentSongPath = path;
