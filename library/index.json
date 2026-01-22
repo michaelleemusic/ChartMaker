@@ -1596,6 +1596,12 @@
         "path": "I Love You Lord.txt"
     },
     {
+        "title": "I Love You Lord",
+        "artist": "Capo Ruise",
+        "key": "Bb",
+        "path": "i-love-you-lord.txt"
+    },
+    {
         "title": "I Love Your Presence",
         "artist": "Darren Clarke & Jessie Lane",
         "key": "E",
@@ -3190,12 +3196,6 @@
         "artist": "chartForge Demo",
         "key": "G",
         "path": "Test Song.txt"
-    },
-    {
-        "title": "Test Song",
-        "artist": "Capo Ruise",
-        "key": "Bb",
-        "path": "i-love-you-lord.txt"
     },
     {
         "title": "Thank You For Saving Me",

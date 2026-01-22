@@ -4,7 +4,7 @@
 {tempo: 120}
 {time: 4/4}
 
-{section: Intro}
+{section: Intro [2x]}
 {dynamics: Piano & Pad}
 [1] [4sus2] [1] [4sus2]
 [1] [5sus4] [6m] [4]

@@ -5,59 +5,60 @@
 {time: 4/4}
 
 {section: Intro}
-[1] [4add9] [1] [4add9]
+[1] [4] [1] [4]
 
 {section: Verse 1}
 When I lo[1]ok back
-I didn't th[4add9]ink that I would make it
+I didn't th[4]ink that I would make it
 I was si[1]nking
-And the sh[4add9]ame came like a wave
-[6m7]I just knew that [5add4]I was too far go[4add9]ne
-Then You showed u[1]p [4add9]
-
+And the sh[4]ame came like a wave
+[6m7]I just knew that [54]I was too far go[4]ne
+Then You showed up
+{section: Turnaround}
+[1] [4]
 {section: Half-Chorus}
 [6m]On [5/7]time [1]God
-You [2m7]love the im[4add9]possible
+You [2m]love the im[4]possible
 [6m]On [5/7]time [1]God
-You [2m7]love doing [4add9]miracles
+You [2m]love doing [4]miracles
 
 {section: Turnaround}
-[1] [4add9]
+[1] [4]
 
 {section: Verse 2}
 I see it al[1]l now
-How Your ha[4add9]nd was always working
+How Your ha[4]nd was always working
 Even i[1]n doubt
-You were fa[4add9]ithful, never failing
-[6m7]Even when I [5add4]thought the darkness wo[4add9]n
-You showed u[1]p [4add9]
+You were fa[4]ithful, never failing
+[6m7]Even when I [54]thought the darkness wo[4]n
+You showed up
 
-{section: Chorus}
-[6m]On [5/7]time [1]God
-You [2m7]love the im[4add9]possible
-[6m]On [5/7]time [1]God
-You [2m7]love doing [4add9]miracles
-[5] You're never too [6m7]late
-You never give [1/3]up
-Nothing's [4add9]too far gone
-For the [6m]on [5/7]time [1/3]God [4add9]
+{section: Turnaround}
+[1] [4]
+
+{section: Chorus [2x]}
+[6m]On [5/7]time [1]God, You [2m]love the im[4]possible
+[6m]On [5/7]time [1]God, You [2m]love doing [4]miracles
+[5] You're never too [6m7]late, You never give [1/3]up
+Nothing's [4]too far gone
+For the [6m]on [5/7]time [1/3]God [4]
 
 {section: Vamp}
-You always show [4add9]up [1/3] [5]
-You always show [4add9]up [1/3] [5]
+You always show [4]up [1/3] [5]
+You always show [4]up [1/3] [5]
 
 {section: Bridge 1}
-[4add9]My [1/3]hope is [5]knowing
-[4add9]My [1/3]God is [5]holding tomorrow in His hands
-[4add9] My [1/3]life, Your [5]story
-You're not [4add9]finished [1/3] with me [5]yet
+[4]My [1/3]hope is [5]knowing
+[4]My [1/3]God is [5]holding tomorrow in His hands
+[4] My [1/3]life, Your [5]story
+You're not [4]finished [1/3] with me [5]yet
 
 {section: Tag}
-You're not [4add9]finished [1/3] with me [5]yet
-You're not [4add9]finished [1/3] with me [5]yet
+You're not [4]finished [1/3] with me [5]yet
+You're not [4]finished [1/3] with me [5]yet
 
 {section: Bridge 2}
-[4add9] Keep watching, keep [5add4]waiting
-[4add9] Keep hoping, keep [5add4]praying [1]
-[4add9] Keep watching, keep [5add4]waiting
-[4add9] Keep hoping, keep [5add4]praying
+[4] Keep watching, keep [54]waiting
+[4] Keep hoping, keep [54]praying [1]
+[4] Keep watching, keep [54]waiting
+[4] Keep hoping, keep [54]praying
