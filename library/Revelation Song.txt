@@ -1,0 +1,31 @@
+{title: Revelation Song}
+{artist: Kari Jobe}
+{key: G}
+
+{section: Verse 1}
+[5]Worthy is the,[2m] Lamb who was slain
+[4]Holy, Holy, is [1]He
+[5]Sing a new song,[2m] to him who sits on
+[4]Heaven's mercy s[1]eat
+
+{section: Chorus}
+[5]Holy, Holy, Holy
+[2m]Is the Lord God Almighty
+[4]Who was, and is, and is to c[1]ome
+[5]With all creation I sing
+[2m]Praise to the King of Kings
+[4]You are my everything
+[1]And I will adore Yo[5]u... [2m]    [4]    [1]
+
+{section: Verse 2}
+[5]Clothed in rainbows,[2m] of living color
+[4]Flashes of lightning, ro[1]lls of thunder
+[5]Blessing and honor, strength and[2m] glory and power be
+[4]To You the only wise [1]King
+
+{section: Verse 3}
+[5]Filled with wonder,[2m] awestruck wonder
+[4]At the mention of your n[1]ame
+[5]Jesus your name is power
+[2m]Breath, and living water
+[4]Such a marvellous my[1]stery...

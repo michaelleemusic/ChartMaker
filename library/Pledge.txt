@@ -1,0 +1,31 @@
+{title: Pledge}
+{artist: Marcus Meier}
+{key: G}
+
+{section: Verse 1}
+[1]  Come let us [4]turn to the[1/3] Lord
+For He's ca[6m]lled us e[4]ach His [1]own
+[1]  Come let us [4]love, for He [1/3]said
+"You have r[6m]avished [4]Me, My [1]bride
+I am [6m]yours and [4]you are [1]Mine"  [5]
+
+{section: Chorus}
+[1]This is my prayer, it's [5add4]my solemn vow
+With [6m]all that I am, with [4]all that I have
+I will [1/3]love You[5add9],   I will [6m]love Yo[4]u
+With [1]all of my heart, [5add9]my soul and my mind
+I [6m]pour out an offering of [4]worship and cry
+I will [1/3]love You[5add9],   I will [6m]love Yo[4]u
+
+{section: Verse 2}
+[1]  You call [4]my name, I will[1/3] arise
+For You're[6m] jealous [4]for my[1] heart
+[1]  Forsaking it [4]all, for You [1]said
+"Turn and [6m]leave your [4]father's [1]home
+Come and [6m]cling to [4]Me al[1]one".
+
+{section: Bridge}
+[1]Jesus, [3m7]I am Y[6m]ours and fo[4]rever
+[1]I want [3m7]nothing [6m]more than to [4]be with You
+
+Oh to [1]be with Yo--[5]u, oh to [6m]be with Yo--[4]u

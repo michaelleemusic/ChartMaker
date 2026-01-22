@@ -1,0 +1,70 @@
+{title: Same God}
+{artist: Brandon Lake, Chris Brown, Pat Barrett, Steven Furtick}
+{key: Db}
+
+{section: Original Key}
+Book: Graham, CAMP 2024
+Tempo: 73
+Recomended Keys: C, Db, F
+Scripture Reference: Isaiah 28:16, Philippians 4:19, Isaiah 12:2
+
+{section: Intro X2}
+| [1] / / / | [4/1] [1] / / |
+
+{section: Verse 1}
+[1]I'm calling on the God of [4/1]Jacob   [1]
+[1]Whose love endures through [4/1]generations[1]
+[6m]I know that You will keep Your [4]covenant
+[1]I'm calling on the God of [4/1]Moses [1]
+[1]The one who opened up the [4/1]ocean    [1]
+[6m]I need You now to do the [4]same thing for me
+
+{section: Turnaround}
+| [1] / / / | [4/1] [1] / / |
+
+{section: Chorus}
+[1]O God my God I [5/7]need You
+[6m]O God my God I [5]need You [4]now
+How I [1/3]need You [4]now [5]
+[1]O Rock O Rock of [5/7]ages
+[6m]I'm standing on Your [5]faithful[4]ness [1/3]
+
+{section: Verse 2}
+[1]I'm calling on the God of [4/1]Mary     [1]
+[1]Whose favor rests upon the [4/1]lowly    [1]
+[6m]I know with You all [5]things are [4]possible
+[1]I'm calling on the God of [4/1]David    [1]
+[1]Who made a shepherd boy [4/1]courageous  [1]
+[6m]I may not face Goliath
+[4]But I've got my own giants
+
+{section: Instrumental 1}
+| [1] / / / | [6m] / / / | [4] / / / | [4/5] / |
+
+{section: Bridge 1}
+[1]You heard Your children then
+[6m]You hear Your children now
+[4]You are the same God, [4]You are the same [5]God
+[1]You answered prayers back then
+[6m]And You will answer now
+[4]You are the same [1/3]God, [4]You are the same [5]God
+[1]You were providing then
+[6m]You are providing now
+[4]You are the same [1/3]God, [4]You are the same [5]God
+[1]You moved in power then
+[6m]God move in power now
+[4]You are the same [1/3]God, [4]You are the same [5]God
+[1]You were a healer then
+[6m]You are a healer now
+[4]You are the same [1/3]God, [4]You are the same [5]God
+[6m]You were a Savior then
+[1/5]You are a Savior now
+[4]You are the same [1/3]God, [4]You are the [2m]same God
+
+{section: Verse 3}
+[1]I'm calling on the Holy [4/1]Spirit   [1]
+[1]Almighty River come and [4/6]fill me again[1]
+
+{section: Tag}
+Come and [4/6]fill me again[1]
+Come and [4/6]fill me again[1]

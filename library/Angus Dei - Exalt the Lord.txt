@@ -1,0 +1,46 @@
+{title: Agnus Dei / Exalt the Lord}
+{key: G}
+
+{section: Verse}
+[1]Alleluia, Allel[4]uia,
+for the [5]Lord God Almighty [1]reigns
+[1]Alleluia, Allel[4]uia,
+for the [5]Lord God Almighty [1]reigns
+
+{section: Pre Chorus}
+Allel[4]uia
+
+{section: Chorus}
+[5]Ho[1]ly, [5]Ho[1]ly
+Are You Lord God Almigh[5]ty
+Worthy is the [4]Lamb
+worthy is the [4]Lamb
+[5]You are H[1]oly, [5]Hol[1]y,
+Are You Lord God Almigh[5]ty
+Worthy is the [4]Lamb
+Worthy is the [4]Lamb
+[5]A---[1]men   (Not into Chorus 2)
+
+{section: Chorus 2}
+For the [1]Lord our [6m7]God, He is [4]ho[5]ly
+For the [1]Lord our [6m7]God, He is [4]holy    [5]
+For the [1]Lord our [6m7]God, He is [4]holy    [5]
+For the [1]Lord our [6m7]God, He is [4]holy    [5]
+
+{section: Bridge}
+He is Ho[1]ly
+He is Ho[6m7]ly
+He is Ho[4]ly
+He [5]reigns
+(2x)
+
+{section: Bridge 2}
+You are Ho[1]ly
+You are Ho[6m7]ly
+You are Ho[4]ly
+You [5]reign
+
+{section: Ending}
+Worthy is the [4]Lamb
+Worthy is the [4]Lamb,
+[22][5]A---[1]men

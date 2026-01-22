@@ -1,0 +1,45 @@
+{title: God of Miracles}
+{artist: Chris McClarney}
+{key: Bb}
+
+{section: Intro}
+| [4maj7] /// | [6m] /// | [4maj7] /// [5] |
+
+{section: Verse}
+Let faith a[1]rise, in spite of what I see
+Lord I [4]believe, but help my unbelief
+I choose to [6m]trust You,
+No matter what I feel, let faith a[4]rise
+Let faith a[1]rise,
+For my champion's not dead, He is a[4]live!
+Oh, and He already knows my every [6m]need,
+Surely He will come and rescue [4]me
+
+{section: Chorus}
+[6m]God of [4]miracles [1]come
+We [5]need Your [6m]super[4]natural[1]love, to break [5]through
+[6m]Nothing's im[4]possible
+[1]You're the [5]God of mira[6m]cles  [4]       [1]       [5]
+
+[4] //// [6m] //// [4] //// [5]
+
+{section: Verse 2}
+Let faith a[1]rise and see the kingdom come
+I lift my [4]eyes, oh
+for the battle has been won
+My God is [6m]faithful, oh
+and every single word
+He said is [4]true, oh
+
+{section: Bridge}
+[4]This world is [1]shaking
+[6m]but You can[5]not be shaken
+[4]My heart is [1]breaking
+[6m]but I'm not [5]broken yet
+[4]Your love is [1]fearless
+[6m]Help me to [5]be courageous [4]too
+[1]Oh there is [6m]nothing im[5]possible
+| 2x |
+
+{section: Outro}
+| [1] // [5] // | [6m] // [4] // | [1] // [5] // |

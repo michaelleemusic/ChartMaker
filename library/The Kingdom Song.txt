@@ -1,0 +1,30 @@
+{title: The Kingdom Song}
+{artist: Darrell Evans}
+{key: A}
+
+{section: Book}
+
+Intro: [12] [17] [12] [17] [12] [42] [12]  (muted)
+
+{section: Verse}
+F[17]rom eternity to eternity [12]Your kingdom will [17]ever reign   [12]
+You are the one God,[42] Jesus,     [2m11]
+And we bear Your name         [12]
+[17]From the rulers north, to the rulers south  [12]
+To the kingd[17]oms east and west           [12]
+They'll bow before Yo[42]u       [2m11]
+Your Lordship confess    [12]
+
+{section: Bridge}
+[6m]Your oce[b72]ans clap their [6m]hands
+Your[b72] trees the[6m]y wave their branches
+Your[b72] rivers run with praise[42]
+[5]All creation will praise    [12]    [2m11]  [42]  [5]
+
+{section: Chorus}
+L[17]ord we deli[2m11]ght in Your truth
+Your kingd[42]om's advancing
+And Lord [5]we are moving with You          [12]
+Lord, we delight[2m11] in Your reign
+Creatio[42]n will praise You
+And Lord[5] we exalt Your great name          [12]

@@ -1,0 +1,28 @@
+{title: Garden}
+{artist: Misty Edwards}
+{key: Am}
+
+{section: Chorus 1}
+It's [1m]You and [b7]me alo[1m]ne God
+[1m]You and [b7]me alon[1m]e
+Here it's [1m]You and [b7]me alo[1m]ne God
+[1m]You and [b7]me alo[1m]ne
+
+{section: Bridge 1}
+You've hedged me [1m]in wi[#5]th skin all aro[b7]und me[1m]
+I'm a garden encl[1m]osed a locked ga[#5]rden
+L[1m]ife takes pl[5m]ace be[b7]hind the fa[1m]ce.
+
+{section: Bridge 2}
+[1m]So come into Your garden
+[1m]Come into Your garden.
+Here O Lord! Have I prepared a place for You!
+
+{section: Chorus 2}
+[1m]I'm no lo[#5]nger my o[b7]wn I'm Your g[1m]arden
+
+{section: Bridge 3}
+I don't want to w[1m]aste my time living on the ou[#5]tside
+I'm going to l[b7]ive from the inside o[1m]ut
+I don't want to w[1m]aste my life living on the ou[#5]tside
+I'm going to l[b7]ive from the inside o[1m]ut

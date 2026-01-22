@@ -1,0 +1,73 @@
+{title: What an Awesome God}
+{artist: Phil Wickham}
+{key: A}
+
+Church Key: [1]
+Book: Graham
+
+{section: Intro}
+| [4/1] / | [5/F#m] / |
+
+{section: Verse 1}
+God is [4]great
+Give Him all the [1]praise
+Hallelujah, [5]Name above all [6m]Names
+Fire in His [4]eyes
+Healing in His [1]veins
+Everywhere His [5]glory on [6m]display
+
+Take a look at those [4]stars
+He can Name them [1]all
+Before His [5]throne every knee [6m]falls
+The demons have to [4]run
+The angels have to [1]praise
+Even the [5]wind and waves [6m]obey
+
+{section: Chorus}
+Our [4]God is an [1]awesome God
+He [5]reigns from [6m]heaven above
+With [4]wisdom [1]power and love
+Our [5]God is an [5/#5]awesome [6m]God
+
+Our [4]God is an [1]awesome God
+He [5]reigns from [6m]heaven above
+With [4]wisdom [1]power and love
+Our [5]God is an [5/#5]awesome [6m]God
+
+{section: Verse 2}
+And even when I [4]ran
+He didn't run [1]away
+He came and put [5]death back in its [6m]place
+Friday on a [4]cross
+Broken for my [1]shame
+Sunday morning [5]rose up from that [6m]grave
+
+Take a look at those [4]scars on His hands and [1]feet
+He saved our [5]souls for eter[6m]nity
+Worthy is the [4]Lamb
+Glory to the [1]King
+Oh, let all the [5]saints and the angels [6m]sing
+
+{section: Verse 3}
+Eyes on the [4]Sky
+There will be a [1]day
+He will come and [5]wipe our tears [6m]away
+No more [4]fear
+No more [1]pain
+No more [5]sorrow sin or [6m]shame
+
+The King is [4]coming back [1]again
+A reign of [5]love that will never [6m]end
+For everything You've [4]done
+And everything You [1]do
+And everything You [5]are I'll sing to [6m]you
+
+{section: Chorus 2}
+My [4]God You're an [1]awesome God
+You're [5]great in [6m]all You do
+I'm [4]made to [1]worship You
+My [5]God You're an awesome [6m]God
+
+Instrumental / Build:
+| [4/1] / | [5/F#m] / | [4/1] / | [5/F#m] / |
+| [4/1] / | [5/F#m] / | [4/1] / | [5/F#m] / |

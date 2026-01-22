@@ -1,0 +1,13 @@
+{title: Holy Holy Holy Lord}
+{key: D}
+
+{section: Verse 1}
+[b7]Holy, Holy, H[1]oly LORD
+[b7]God of power and m[1]ight
+[b7]Heaven and earth are
+[1]Filled with your glory.
+
+{section: Chorus}
+[1]Hosana!
+Hos[5m]a[4]n[b7]n[1]a!
+[1]In the [5m]hi[4]gh[b7]e[1]st!

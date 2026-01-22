@@ -1,0 +1,13 @@
+{title: Give Us Clean Hands}
+{artist: Charlie Hall}
+{key: Ab}
+
+{section: Verse 1}
+[1]We bow our hearts, [5]We bend our knees[1/3],   [42]Oh spirit come make us [1]humble
+[1]We turn our eyes [5]from evil things[1/3],   [42]Oh Lord we cast down our idols
+
+{section: Chorus}
+Give us clean [1]hands, give us pure [5]hearts, let us [6m]not lift our [5]souls to [1]another
+Give us clean [1]hands, give us pure [5]hearts, let us [6m]not lift our [5]souls to [1]another
+O God let us [1]be a generation that [5]seeks, who seeks your [6m]face Oh [5]God of [1]Jacob
+O God let us [1]be a generation that [5]seeks, who seeks your [6m]face Oh [5]God of [42]Jacob

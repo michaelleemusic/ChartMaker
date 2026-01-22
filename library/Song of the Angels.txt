@@ -1,0 +1,29 @@
+{title: Song of the Angels}
+{artist: Dustin Maust & Joshua Seller}
+{key: A}
+
+{section: Verse 1}
+[1]It's the song of the angels
+The [6m]song of the saints
+The [5]chorus of heaven [4]filling this [1]place
+On the [1]lips of all who gather
+To [6m]lift your name alone
+It's the [5]song that is rising [4]to your [1]throne
+
+{section: Chorus}
+[1]Holy is the [6m]Lord God Almighty
+[5]Who was, and is,[4] and is to [1]come
+[1]Holy is the [6m]Lord God Almighty
+[5]Who was, and is,[4] and is to [1]come
+
+{section: Verse 2}
+[1]It's the sound of forever
+A g[6m]limpse of what's to come
+The [5]cry of creation[4] filling this[1] Earth
+From the [1]heights of the heavens
+To the [6m]depths of the sea
+[5]Hear the song that's rising [4]to our [1]King
+
+{section: Bridge}
+All gl[4]ory, ho[1]nor, po[6m]wer and stren[5]gth
+Wo[4]rthy is [1]the [6m]Lamb that was sl[5]ain

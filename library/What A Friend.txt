@@ -1,0 +1,16 @@
+{title: What A Friend}
+{artist: Martin Smith}
+{key: C}
+
+{section: Verse 1}
+[1]What [2m7]a [1/3]friend [1]I've [2m7]found,
+[1]Clo-[2m7]ser [1/3]than a [1]bro [2m7]ther
+[1]I [2m7]have [1/3]felt [1]your [2m7]touch,
+[1]More [2m7]inti [1/3]ma[1]te [2m7]than others
+
+{section: Chorus}
+[4]Je [1]sus, [4]Je [1]sus, [6m]Je [5/7][1]sus
+[4]Friend [5/3]for [2m7]ev [1]er
+
+[1]What [2m7]a [1/3]hope [1]I've [2m7]found, More [1]faith[2m7]ful [1/3]than a [1]mo [2m7]ther
+[1]It [2m7]would [1/3]break [1]my [2m7]heart, To [1]ever [2m7]lose [1/3]each [1]o [2m7]ther

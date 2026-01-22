@@ -1,0 +1,26 @@
+{title: Yeshua}
+{artist: Jesus Image}
+{key: Dm}
+
+{section: Church Key}
+Book: Graham
+
+{section: Intro}
+[#5] [#2] [b7] [1m]
+
+{section: Verse}
+My be[1m]loved is the most [#5]beautiful
+Among [#2]thousands and [b7]thousands
+My be[1m]loved is the most [#5]beautiful
+Among [#2]thousands and [b7]thousands
+My be[1m]loved is the most [#5]beautiful
+Among [#2]thousands and [b7]thousands
+
+{section: Chorus}
+[#5]Yeshu hu oo oo ah, ha aa a[b7]a aa[1m], ah aa aa [5m]aa
+[#5]Yeshu hu oo oo ah, ha aa a[b7]a aa[1m], ah aa aa [5m]aa
+
+{section: Bridge}
+For [#5]yours is the kingdom
+Yours is the po[b7]wer
+[1m]Yours in the glory [5m]forever Amen

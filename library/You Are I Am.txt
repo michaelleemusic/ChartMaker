@@ -1,0 +1,28 @@
+{title: You Are I Am}
+{artist: Darrell Evans}
+{key: A}
+
+{section: Verse 1}
+[12]If You are the [5]mountain, I am the [6m11]climber,
+If You are the [42]ocean, I am the [6m11]diver, [5sus]For You [5]are I [4]AM.    [42]    [4]    [42]
+[12]If you are the [5]potter, I am the [6m11]clay
+If You are the [42]sunlight, I am the [6m11]day, [5sus]For You [5]are I [4]Am[42]
+
+{section: Bridge}
+[2m]You are the vine, I am the bra--[1/3]nch
+[42]I am the dancer, You are the dance
+
+{section: Chorus}
+[5]You are I [6m11]Am and there [42]is no other
+[5]You are my [E#m11]passion, my [42]vision, my color
+[5]You are I [6m11]AM my [42]everything
+[5]You are I [6m11]AM, [5]You are I [6m11]Am    [5]    [12]
+
+{section: Verse 2}
+If You are the song, Lord I will sing
+If You are the player, I am the strings, For You are I Am
+If I am the novel, You are the writer
+If I am the gold, Lord You are the fire, For You are I Am
+
+You are the wind, I am the eagle
+I am the canvas, You are the painter

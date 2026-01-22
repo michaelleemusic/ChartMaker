@@ -1,0 +1,17 @@
+{title: Wash Over Me}
+{artist: Jami Smith}
+{key: G}
+
+{section: Chorus}
+[1]Wash ov[5]er me, [1]wash o[5]ver [4]me
+
+{section: Verse}
+[b72]Rain down Y[42]our favor on us
+[b72]Lavish Your lo[42]ve upon us
+[b72]Pour out Your pre[42]sence on us
+[42]Let me taste Your mercy in the rain [5/7]
+
+{section: Bridge}
+[42]Only You can take[6m] this heart [5]
+[5]Only You can take this mind
+[42]Only You can [6m]take this life and ma[5]ke it look like Jesus

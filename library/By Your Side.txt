@@ -1,0 +1,60 @@
+{title: By Your Side}
+{artist: Tenth Avenue North}
+{key: G}
+
+{section: Verse 1}
+Why are you [1]striving these days?
+Why are you [6m]trying to earn grace?
+Why are you [5]crying?  Let me lift up your [4]face
+Just don't turn [1]away
+
+{section: Verse 2}
+Why are you [1]looking for love?
+Why are you still [6m]searching as if I'm not enough
+To where will you [5]go child?
+Tell me where will you [4]run?
+To where will you [1]run?
+
+{section: Chorus}
+Cause I'll be [6m]by your side [4]wherever you fall
+In the [1]dead of night when[5]ever you call
+And [6m]please don't fight these [4]hands that are holding [1]you
+Yeah [5]My hands are holding [1]you
+
+{section: Verse 3}
+Look at these [1]hands, and My side
+They swallowed the [6m]grave on that night
+When I drank the world's [5]sin so I could carry you [4]in
+And give you [1]life, I wanna give you [5]life
+
+{section: Bridge}
+Cause [5]I, I love [6m]you
+I want [4]you to [5]know
+That [5]I, I love [6m]you
+I'll [4]never let you [5]go
+
+{sot}
+G                               Em
+e|---------------------------------------------------------------------------|
+B|----------0---------------0---------------0---------------0----------------|
+G|----0-------0---0---0-------0---0---0-------0---0---0-------0---0----------|
+D|------12------12------12------12------9-------9-------9-------9------------|
+A|--10----10--------10----10--------7-----7---------7-----7------------------|
+E|---------------------------------------------------------------------------|
+
+D                               C
+e|---------------------------------------------------------------------------|
+B|----------0---------------0---------------0---------------0----------------|
+G|----0-------0---0---0-------0---0---0-------0---0---0-------0---0----------|
+D|------7-------7-------7-------7-------5-------5-------5-------5------------|
+A|--5-----5---------5-----5---------3-----3---------3-----3------------------|
+E|---------------------------------------------------------------------------|
+
+G                     (Why are you striving...)
+e|---------------------------------------------------------------------------|
+B|----------0---------------0------------------------------------------------|
+G|----0-------0---0---0-------0---0------------------------------------------|
+D|------12------12------12------12-------------------------------------------|
+A|--10----10--------10----10-------------------------------------------------|
+E|---------------------------------------------------------------------------|
+{eot}

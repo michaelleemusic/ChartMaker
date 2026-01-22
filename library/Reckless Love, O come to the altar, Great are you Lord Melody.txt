@@ -1,0 +1,37 @@
+{title: Reckless Love, O come to the altar, Great are you Lord Melody}
+{artist: Multiple}
+{key: E}
+
+{section: Reckless Love Bridge}
+[6m]There’s no shadow You won’t [5]light up
+Mountain You won’t [4]climb up coming after [1]me
+[6m]There’s no wall You won’t [5]kick down
+Lie You won’t [4]tear down coming after [1]me
+
+{section: Reckless Love Chorus}
+O, the [6m]overwhelming, [5]never-ending, [4]reckless love of [1]God
+O, it [6m]chases me down, [5]fights ‘til I’m found, [4]leaves the ninety - [1]nine
+I couldn’t [6m]earn it, I don’t de - [5]serve it, still You [4]give Yourself a - [1]way
+O, the [6m]overwhelming, [5]never-ending, [4]reckless love of [1]God, yeah
+
+{section: O Come To The Altar Bridge}
+Oh what a Sa[1]vior
+Isnt He won[6m]derful
+Sing alle[4]luia, Christ is ri[1]sen
+Bow down be[1]fore Him
+For He is L[6m]ord of all
+Sing alle[4]luia, Christ is ri[1]sen
+
+{section: Great Are You Lord Bridge}
+A[1]ll the earth will shout Your praise
+Our h[4/C#m]earts will cry, these bones will sing
+Gr[4]eat are You, L[1]ord
+
+{section: Great Are You Lord Chorus}
+It's Your br[4]eath in our l[6m]ungs
+So we p[5]our out our praise, we pour out our praise
+It's Your br[4]eath in our l[6m]ungs
+So we p[5]our out our praise to You only
+
+{section: Ending}
+Gr[4]eat are You, L[1]ord

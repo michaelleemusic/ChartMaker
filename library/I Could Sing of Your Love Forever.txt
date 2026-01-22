@@ -1,0 +1,17 @@
+{title: I Could sing of Your Love Forever}
+{artist: Martin Smith}
+{key: F}
+
+{section: Verse 1}
+[1]Over The mountains and the sea, [2m7]Your river flows with love for me
+[4]And I will open up my [57sus]heart, And let the [57]healer set me free
+[1]I'm happy to be in the truth, [2m7]And I will daily lift my hands
+[4]For I will always sing of [57sus]when Your love came [57]down
+
+{section: Chorus}
+[1]I could sing of Your [2m7]love forever, [4]I could sing of Your [57sus]love for[57]ever  (repeat)
+
+{section: Bridge}
+[2m7]Oh I feel like [6m7]dancing, [4]It's foolishness I [57sus]know   [57]
+[2m7]But when the world has [6m7]seen the light,
+They will [4]dance with joy like we're [57sus]dancin' [57]now

@@ -1,0 +1,24 @@
+{title: What I Have Vowed}
+{artist: Matt Redman}
+{key: C#}
+
+{section: Verse 1}
+[1]Lord I am not my [3m]own, no longer my [6m]own.
+Living now for [6m/5]you and everything I [4maj7]think
+All I say and [56]do, is for [6m]you my Lord    [1]    [3sus]
+
+{section: Verse 2}
+[1]Now, taking up the cro[3m]ss, walking on your [6m]paths
+Holding out your [6m/5]truth, running in this [33maj7]race
+Bowing every[56]day, all for [6m]you my Lord    [1]    [3sus]
+
+Chorus
+And wh[3m]at I have vowed I [4]will make [1]good
+Every [3m]promise made will [3]be ful[7]filled
+Till the[#2m] day I die every[3]day I [7]live
+Is for [#5m]you, is for [#12/#4]you, is for [3maj7]you (x2)
+
+{section: Verse 3}
+[7]Earth has nothing I de[#2m]sire, that lives outside of [#5m]you
+I'm consumed with [#5m/#4]you, treasures have no [3maj7]hold
+Nothing else will [#46]do, only [#5m]you my Lord    [7] (x2)    [#2sus]

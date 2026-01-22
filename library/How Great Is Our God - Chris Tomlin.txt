@@ -1,0 +1,26 @@
+{title: How Great Is Our God}
+{artist: Chris Tomlin}
+{key: C}
+
+{section: Chorus}
+How [1]great is our God, sing [5/7]with me,
+How [6m7]great is our God, all [5/7]will see
+How [42]great, how [5]great is our [1]God.  [1sus]  [1]
+
+{section: Verse 1}
+The [1]splendor of a King, [6m7]clothed in majesty,
+Let all the earth re[42]joice, all the earth rejoice[5].
+He [1]wraps Himself in light, and [6m7]darkness tries to hide
+And trembles at His v[42]oice, trembles at His voice[5].
+
+{section: Verse 2}
+[1]Age to age He stands, and [6m7]time is in His hands,
+Beginning and the [42]end, beginning and the end[5].
+The [1]Godhead, three in one: [6m7]Father, Spirit, Son,
+The Lion and the [42]Lamb, the Lion and the Lamb[5].
+
+{section: Bridge}
+[1]Name above all names,  [5/7]
+[6m7]Worthy of all praise,  [5/7]
+My [42]heart will sing
+How [5]great is our [1]God. [1sus]  [1]

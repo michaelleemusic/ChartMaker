@@ -1,0 +1,40 @@
+{title: Hark! the Herald Angels Sing}
+{artist: Wesley/Whitefield/Mendelssohn/Cummings}
+{key: D}
+
+{section: Verse 1}
+[1]Hark! the herald angels [5]sing,
+[1]“Glory to the [5]new-born [1]King!
+[1]Peace on earth, and [5]mercy mild,
+[57]God and sinners [27]recon[5]ciled."
+[1]Joyful, all ye [4]nations, [5]rise,
+[1]Join the triumph [4]of the [5]skies;
+[4]With th' ange[1]lic [2M]host [67]pro[2M]claim,
+[57]“Christ is [1]born in Beth[5]le[1]hem."
+[4]Hark! the her[1]ald [2M]an[67]gels [2M]sing,
+[57]“Glory [1]to the new-[57]born [1]King!
+
+{section: Verse 2}
+[1]Christ, by highest heaven [5]adored:
+[1]Christ, the ever[5]lasting [1]Lord;
+[1]Late in time be[5]hold him come,
+[57]Offspring of the [27]favoured [5]one.
+[1]Veiled in flesh, the [4]Godhead [5]see;
+[1]Hail, th'incarnate [4]Dei[5]ty:
+[4]Pleased, as [1]man, with [2M]men [67]to [2M]dwell,
+[57]Jesus, [1]our Emma[5]nue[1]l!
+[4]Hark! the her[1]ald [2M]an[67]gels [2M]sing,
+[57]“Glory [1]to the new-[57]born [1]King!
+
+{section: Verse 3}
+[1]Hail! the heaven-born
+Prince of [5]peace!
+[1]Hail! the Son of Righ[5]teous[1]ness!
+[1]Light and life to all he [5]brings,
+[57]Risen with healing [27]in his [5]wings
+[1Mild he lays his [G]glory [5]by,
+[1]Born that man no [4]more may [5]die:
+[4]Born to raise [1]the [2M]son [67]of [2M]earth,
+[57]Born to [1]give them [5]second [1]birth.
+[4]Hark! the her[1]ald [2M]an[67]gels [2M]sing,
+[57]“Glory [1]to the new-[57]born [1]King!

@@ -1,0 +1,28 @@
+{title: Unstoppable God}
+{artist: Elevation Worship}
+{key: B}
+{tempo: 132}
+
+{section: Verse 1}
+[5] [6m]      He[4]aven thundered,[5] [6m]     and the wo[4]rld was born
+[5] [6m]      L[4]ife begins and e[5]nds, in the [6m]dust You fo[4]rmed
+[5] [6m]      Fa[4]ith commanded,[5] [6m]      and the moun[4]tains moved
+[5] [6m]      F[4]ear is losing gro[5]und, to our [6m]hope in [4]You
+
+{section: Chorus}
+Unst[1]oppable God[2m]
+Let Your glory go [6m]on and on [4]
+Impos[1]sible things [2m]
+In Your name they s[6m]hall be done[4]
+
+{section: Verse 2}
+[5] [6m]      Fre[4]edom conquered,[5] [6m]      all our ch[4]ains undone
+[5] [6m]      S[4]in defeated, Je[5]sus is o[6m]verco[4]me
+[5] [6m]      Me[4]rcy triumphed,[5] [6m]      when the th[4]ird day dawned
+[5] [6m]      Dar[4]kness was de[5]nied, when the s[6m]tone was g[4]one
+
+{section: Bridge}
+Not[1]hing shall be imp[1/3]ossible   [4]
+Your kingdom reigns unst[5]oppable  [6m]
+We'll shout Your praise fore[1]vermore   [4]
+Jesus our God unstoppable

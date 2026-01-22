@@ -1,0 +1,38 @@
+{title: House of the Lord}
+{artist: Phil Wickham}
+{key: E}
+
+INTRO: (x2)
+[1]   [12]    [1]   [5sus]  [4]   [46]   [4]   [5sus]
+
+{section: Verse 1}
+We [1]worship the God who was, we worship the God who is
+We worship [6m]the God [5sus]who ev - [4]er - more will be
+He [1]opened the prison doors, He parted the ranging sea
+My [6m]God he h[5sus]olds the vic[4] - to - ry
+
+{section: Chorus 1}
+[1]There’s joy in the house of the Lord
+There’s joy in the [5sus]house of [42]the Lord to - day
+And we won’t be [5]quiet, we shout out your praise
+[1]There’s joy in the house of the Lord
+Our God is [5sus]surely [42]in this place
+And we won’t be quiet, we shout out your praise
+
+{section: Turnaround}
+[1] / / / | [1/Bsus] / | [4] / / / | [4/Bsus] /
+
+{section: Verse 2}
+We [1]sing to the God who heals, we sing to the God who saves
+We sing to t[6m]he God [5]who [4]always makes a way
+Cause [1]he hung upon [2m7]that cross then He rose up from that grave
+My [6m]God’s s[5]till rolling [4]stones away
+
+{section: Bridge}
+We [1]were the beggars now we’re royalty
+We were the prisoners now we’re running free
+We are  [6m]for - given, ac[4]cepted [1]re - deemed by his grace
+Let [5]the hou[4]se of [1]the Lord sing praise
+
+{section: Outro}
+[1] / / / | [1/Bsus] / | [4] / / / | [4/Bsus] /

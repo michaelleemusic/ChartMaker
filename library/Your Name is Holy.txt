@@ -1,0 +1,23 @@
+{title: Your Name is Holy}
+{artist: Brian Doerksen}
+{key: E}
+
+{section: Verse 1}
+[1]You are the s[5]overeign "I[6m] Am"
+Your [4]name is holy
+[1]You are the [5]pure spotless[6m] lamb
+Your [4]name is holy
+
+{section: Verse 2}
+[1]You are the [5]Almighty [6m]One
+Your [4]name is holy
+[1]You are the [5]Christ, God's own [6m]Son
+Your [4]name is holy    [1]    [5]    [6m]    [4]
+
+{section: Chorus}
+In Your [1]name, there is [4]mercy for [1]sin
+There is [6m]safety with[4]in  [2m]
+In Your [5]holy name
+In Your [1]name, there is [4]strength to [5]remain
+To [6m]stand in spite of [4]pain   [2m]
+In Your [5sus]holy [5]name

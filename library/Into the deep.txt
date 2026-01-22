@@ -1,0 +1,24 @@
+{title: Into the Deep}
+{artist: Citipointe Music, Chardon Lewis}
+{key: B}
+{tempo: 74}
+
+{section: Verse}
+When my h[6m]ands stretch o[1]ut towards the [4]sky
+You n[6m]ever [1]let me [4]run dry
+When I d[6m]ive into [1]the depths of [4]You
+My heart is made a[6m]new, J[1]esus in Y[4]ou
+
+[5](Into chorus)
+
+{section: Chorus}
+Your l[1]ove is a flood and I’m ca[5]ught in the current
+Of Your li[4]ving waters, It’s Your [6m]love, It’s Your [5]love
+Your presen[6m]ce is a flood and I’m [5/3]caught in the wonder
+You have ta[4]ken me over, You have [6m]won my hea[5]rt
+
+{section: Bridge}
+[6m]  Into the d[5/3]eep I will go with You
+[4]  Submerge my [5]feet to my head in all of You
+[6m]  As Your [5/3]presence falls, I am drowned in Your love
+[4]  Immerse me, [5]Immerse me

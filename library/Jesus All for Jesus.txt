@@ -1,0 +1,21 @@
+{title: Jesus All for Jesus}
+{artist: Jennifer Atkinson & Robin Mark}
+{key: D}
+
+{section: Chorus}
+[1]Je--[12]sus,	[1]all for [4]Je[1]sus
+All I [52]am and [5]have and ever hope to [6m]be.   [52]    [5]
+[1]Je--[12]sus,	[1]all for [4]Je[1]sus
+All I [52]am and [5]have and ever hope to [1]be.
+
+{section: Verse 1}
+[1]All of [12]my [1]ambitions, [4]hopes, and [1]plans
+I sur[52]render [5]these into your [6m]hands
+[1]All of [12]my [1]ambitions, [4]hopes, and [1]plans
+I sur[52]render [5]these into your [6m]hands
+
+{section: Bridge}
+For it’s [4]only in Your will that [1]I am [12]free   [1]
+[12]For [1]it’s [4]only in Your will that [12]I am [52]free. [5]
+[1]Je--[12]sus, [1]all for [4]Je[1]sus
+All I [52]am and [5]have and ever hope to [1]be.

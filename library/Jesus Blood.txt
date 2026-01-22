@@ -1,0 +1,22 @@
+{title: Jesus Blood}
+{artist: Martin Smith}
+{key: D}
+
+{section: Verse 1}
+[2m]There’s a s[2m/3]ecret I must [4]tell [2m]Of a[2m/3]ll the love I’ve f[4]ound
+[2m]And it’s [2m/3]hidden in my [4]heart [2m]The day I [2m/3]tore my world [4]apart
+
+{section: Bridge}
+Halle[b7]lujah, King for[4/6]ever, friend and [5m7]Savior
+
+{section: Chorus}
+[2m7]Jesus’ [1sus/3]blood never [4sus]fails [4]me
+[2m7]Jesus’ [1sus/3]blood, [2m7]Jesus’ [57]blood
+
+{section: Verse 2}
+[2m]And this [2m/3]secret, it will[4]run [2m]To the [2m/3]corners of the [4]earth
+[2m]Where every [2m/3]woman, every [4]son [2m]Will carry [2m/3]high their chains un[4]done
+
+{section: Bridge 2}
+[6m]Sing your [5/7]songs of [1]freedom	[6m]Praise the [5/7]God of [1]Heaven
+[6m]Love that [5/7]never [1]fails me	[6m]Jesus’ [5/7]blood, [6m]Jesus [2m]blood

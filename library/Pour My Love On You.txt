@@ -1,0 +1,39 @@
+{title: Pour My Love On You}
+{artist: Upperroom}
+{key: A}
+{tempo: 67}
+
+{section: Book}
+
+{section: Verse}
+[1]I don'[5/7]t know how[4] to say exactly how I feel [1]
+And I c[5/7]an'tbegin[4] to tell you what your love has meant [6m]
+I'm [5add4]lost  for wor[4]ds
+[1]Is the[5/7]re a way[4] to show the passion in my heart [1]
+Can [5/7]I expre[4]ss  how truly great I think you are [6m]
+My [5]dearest friend [4]
+
+{section: Pre Chorus}
+[2m]   [1maj7/3]Lord, this is my de[5sus]sire   [5]
+[2m]   [1maj7/3]To pour my love on [5sus]you  [5]
+
+{section: Chorus}
+Like oil upon your [1]feet
+Like wine for you to drin[4]k
+Like water from my [6m]heart
+I pour my love on [5]you
+If praise is like perf[1/3]ume
+I'll lavish mine on [4]you
+Till every drop is g[6m]one
+I pour my love on [5]you
+
+{section: Turnaround}
+[1] [5/b7] [4] [1] [5/b7] [4]
+
+{section: Bridge}
+[1/#2]  All my love is for You
+[4] My love is for [5]You Lo[6m7]rd
+All my love is for [5add4]You
+[1/#2]  All my love is for You
+[4] My love is for [5]You Lo[6m7]rd
+All my love is for [5add4]You

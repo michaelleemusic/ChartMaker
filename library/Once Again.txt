@@ -1,0 +1,24 @@
+{title: Once Again}
+{artist: Matt Redman}
+{key: E}
+
+{section: Verse 1}
+[1]Jesus [5/1]Christ, I [4/1]think upon Your [1]sacrifice, [42]You became [1]nothing, [42]poured out to [5]death
+[1]Many [5/1]times I've [4/1]wondered at Your [1]gift of life, And [42]I'm in that [5]place once a[1]gain
+[42]I'm in that [5]place once a[1]gain
+
+{section: Chorus}
+And [1]once again I [4/6]look upon the [1/5]cross where You[5sus] died  [5]
+I'm [1]humbled by Your [4/6]mercy and I'm [1/5]broken in[5sus]side    [5]
+[6m]Once again I [42]thank You. [1]Once again I [5]pour out my [42]life   [5]
+
+{section: Verse 2}
+Now You are exalted to the highest place, King of the heavens
+Where one day I'll bow
+But for now, I marvel at this saving grace
+And I'm full of praise once again
+I'm full of praise once again
+
+{section: Bridge}
+[42]Thank You for the [5]cross, [1]Thank You for the cross,
+[42]Thank You for the [5]cross, my [1]friend

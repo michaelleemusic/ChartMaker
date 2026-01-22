@@ -1,0 +1,37 @@
+{title: Tell The World}
+{artist: North Point Kids}
+{key: Bm}
+
+{section: Book}
+
+{section: Intro}
+[1m] [#2] [#5] [#2] [b7]  2x
+
+{section: Verse}
+Tell the w[1m]orld,
+Tell the p[#2]eople all around who haven't h[#5]eard,
+Who haven't h[#2]eard [b7]
+Tell the w[1m]orld,
+Every [#2]man every woman boy and [#5]girl,
+We’ll tell the w[#2]orld, [b7]oh.
+
+{section: Pre Chorus}
+[#5]Tell them God's love n[b7]ever ends
+[1m]Tell them my God has c[b7]onquered s[5m]in
+[#5]Tell them He came and [b7]he is here to say
+[1m]He will help us so we [b7]are not afraid to
+
+{section: Chorus}
+[1m]Tell the world, [#2]tell the whole world
+[#5]Tell the world, [#2]tell the whole [b7]world
+[1m]Tell the world, [b7]tell the whole world
+[#5]Tell the world, [#2]tell the whole [b7]world to
+
+[1m]Oh [#2]Oh [#5]Oh [#2]Oh [b7]Oh
+[1m]Oh [#2]Oh [#5]Oh [#2]Oh [b7]Oh
+
+{section: Bridge}
+Across the o[#5]cean, across the [b7]street
+we will fo[1m]llow regular[b7]ly
+Over the m[#5]ountains or on our k[b7]nees
+we will fo[1m]llow regular[b7]ly

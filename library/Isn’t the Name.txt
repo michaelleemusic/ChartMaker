@@ -1,0 +1,48 @@
+{title: Isn’t the Name}
+{artist: Jonathan Stockstill}
+{key: D}
+
+Intro: [1]   [1/3]   [4]
+
+{section: Verse 1}
+[1]Isn't the name of [1/3]Jesus wonder[4]ful
+[1]Isn't the name of [1/3]Jesus wonder[4]ful
+[5]All the world can [4/6]come to Him
+And [5/7]have their sins re[1]moved    [1/3]
+[4]Isn't the name of Je[5]sus wonder[1]ful
+
+{section: Chorus}
+Eternal k[6m7]ing - [5]You will reign for[1]ever
+And we will [6m7]sing, the gl[5]ory of Your [1]name
+Be lifted [6m7]high, for [5]all the world to [1]see
+Your name is all they [2m7]need, Your name is all we [5sus] - [5]need
+
+{section: Verse 2}
+[1]Isn't the name of [1/3]Jesus beauti[4]ful
+[1]Isn't the name of [1/3]Jesus beauti[4]ful
+[5]Son of God and one [4/6]of us
+Lo[5/7]ver of our so[1]uls    [1/3]
+[4]Isn’t the name of Je[5]sus beauti[1]ful
+
+{section: Verse 3}
+[1]Isn't the name of [1/3]Jesus power[4]ful
+[1]Isn't the name of [1/3]Jesus power[4]ful
+[5]Chains are broken [4/6]when it’s spoken
+[5/7]Every knee must [1]bow    [1/3]
+[4]Isn’t the name of Je[5]sus Power[1]ful
+
+{section: Bridge}
+[6m7]There is freedom in the name
+There is healing in the name
+[4]There is power in the name
+Salvation in the name
+[1]There is life in the name
+There is no other name
+[5]But Jesus
+
+{section: Verse 4}
+[1]Isn’t the name of Je[1/3]sus all we [4]need
+[1]Isn’t the name of Je[1/3]sus all we [4]need
+[5]He’s the way, the [4/6]truth, the Life
+[5/7]The only way to [1]God    [1/3]
+[4]Isn’t the name of Je[5]sus all we [1]need

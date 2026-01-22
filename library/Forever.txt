@@ -1,0 +1,28 @@
+{title: Forever}
+{artist: Chris Tomlin}
+{key: A}
+
+{section: Verse 1}
+[1]Give thanks to the Lord our [1sus]God and [1]King
+His [1sus]love endures [1]forever
+[4]For He is good, He is above all things
+His love endures fo[1]rever
+Sing[5] praise, sing[4/6] praise
+
+{section: Verse 2}
+[1]With a mighty hand and o[1sus]utstretched [1]arm
+His [1sus]love endures [1]forever
+[4]For the life that's been reborn
+His love endures[1] forever
+Sing[5] praise, sing[4/6] praise
+
+{section: Chorus}
+[1]Forever God is faithful,[6m] Forever God is strong
+[5]Forever God is with us,[4] Forever
+
+{section: Verse 3}
+[1]From the rising to the se[1sus]tting s[1]un
+His [1sus]love endures [1]forever
+[4]By the grace of God we will carry on
+His [1sus]love endures [1]forever
+Sing[5] praise, sing[4/6] praise

@@ -1,0 +1,33 @@
+{title: All I Need is You}
+{artist: Hillsong Worship}
+{key: E}
+
+{section: Notes}
+
+{section: Verse 1}
+[6m]Left my fear by the[2m] side of the road
+[4]Hear You speak, [5]won't let go
+[6m]Fall to my knees, as I[1] lift my hands to[5sus] pray[5]
+[6m]Got every reason to be [2m]here again
+[4]Father's love that [5]draws me in
+And [6m]all my eyes wanna [1]see is a glimpse of [5sus]You[5]
+
+{section: Chorus}
+All I need is [2m]You    [4]
+All I need is [1]You, Lord, is [5]You, Lord
+All I need is [2m]You    [4]
+All I need is [1]You, Lord, is [5]You, Lord
+
+{section: Verse 2}
+[6m]One more day, and it's [2m]not the same
+Your [4]Spirit calls my [5]heart to sing
+[6m]Drawn to the voice of my [1]Savior once [5sus]again[5]
+[6m]Where would my soul be [2m]without Your Son
+[4]Gave His life to [5]save the earth
+[6m]Rest in the thought that You're[1] watching over [5sus]me  [5]
+
+{section: Bridge}
+You [4]hold[1] the [5]univer[2m]se
+You [4]hold[1] every[5]one on e[2m]arth
+You [4]hold[1] the [5]univer[2m]se
+You [4]hold[1], You [5]hold

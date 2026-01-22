@@ -1,0 +1,27 @@
+{title: Silent Night}
+{artist: Franz Gruber/Joseph Mohr}
+{key: G}
+
+{section: Verse 1}
+[1]Silent night, holy night
+[5]All is calm, [1]all is bright
+[4]Round yon virgin [1]mother and child.
+[4]Holy infant, so [1]tender and mild,
+[5]Sleep in heavenly [1]peace,
+[1]Sleep in [5]heavenly [1]peace.
+
+{section: Verse 2}
+[1]Silent night, holy night,
+[5]Shepherds quake [1]at the sight;
+[4]Glories stream from [1]heaven afar,
+[4]Heavenly hosts sing [1]Alleluia!
+[5]Christ the Savior is [1]born,
+[1]Christ the [5]Savior is [1]born!
+
+{section: Verse 3}
+[1]Silent night, holy night,
+[5]Son of God, [1]love's pure light;
+[4]Radiant beams from [1]thy holy face
+[4]With the dawn of [1]redeeming grace,
+[5]Jesus, Lord, at thy [1]birth,
+[1]Jesus, [5]Lord, at thy [1]birth.

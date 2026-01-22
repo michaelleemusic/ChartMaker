@@ -1,0 +1,33 @@
+{title: Forevermore}
+{artist: David Forlu}
+{key: C}
+
+[1] [2m] [6m] [4]
+
+{section: Verse 1}
+This is the light shining in the world
+This is the truth setting captives free
+And the way in to eternity
+
+{section: Pre Chorus}
+We’re not ashamed to tell of Your greatness You will be our God
+Ancient of Days we’re singing Your praises, til' the whole world knows
+
+{section: Chorus}
+You’re the same, Yesterday, today
+And You’ll be forevermore
+
+{section: Verse 2}
+You are the light, shining in the world
+And the Word who made each one of us
+You are the truth seting captives free
+And the way into eternity
+
+{section: Bridge Pre}
+[4] [6m] [1] [5]
+
+{section: Bridge}
+[1] [2m] [6m] [4]
+
+"I Am that I Am", You’ll forever be
+In your arms, in your arms, I’ll forever be

@@ -1,0 +1,29 @@
+{title: Sing My Love}
+{artist: Sarah McMillan}
+{key: C}
+
+{section: Verse 1}
+[1]Words could never say the way He says my name, He [4/6]calls me lovely
+[1]No one ever sees the way He looks at me, He [4/6]sees me holy
+[6m]Words could never hold this love that burn my soul
+[1]Heaven [5/7]holds [4/6]me,   [1]Heaven [5/7]holds [6m]me
+
+{section: Chorus 1}
+[1]I can't hold my love back from You
+[4]I can't hold my love back from You
+I've gotta [6m]sing, I've gotta [5/7]sing, sing my [1]love
+
+{section: Verse 2}
+[1]You would not believe the way He touches me, He b[4]urns right through me
+[1]And i could not forget every word He said, He [4]always knew me
+[6m]The earth could never hold this love that burns my soul
+[1]Heaven [5/7]holds [4/6]me,   [1]Heaven [5/6]holds [6m]me
+
+{section: Chorus 2}
+[1]I can't hold my praise back from You
+[4]I can't hold my praise back from You
+I've gotta [6m]shout, I've gotta [5/7]shout, shout my [1]praise
+
+{section: Tag}
+Oh [4]praise the Lord, [6m]Praise the Lord
+My sould [5]makes, makes its boast in the Lo[1]rd

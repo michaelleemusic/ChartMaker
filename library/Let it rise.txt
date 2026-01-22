@@ -1,0 +1,37 @@
+{title: Let it Rise}
+{artist: Paul Baloche}
+{key: G}
+
+{section: Book}
+
+{section: Verse 1}
+Let the [1]glory of the Lord rise among us
+Let the [1]glory of the Lord rise among us
+Let the [4]praises of the King rise among us
+Let it [1]rise
+
+{section: Verse 2}
+Let the [1]songs of the Lord rise among us
+Let the [1]songs of the Lord rise among us
+Let the [4]joy of the King rise among us
+Let it [1]rise
+
+{section: Chorus}
+[5]Oh-h-[4]h, let it [1]rise
+[5]Oh-h-[4]h, let it [1]rise
+
+{section: Interlude}
+Let it [6m]rise   [4]
+Let it [6m]rise   [4]
+
+[2m]    [b7]    [1]    [2]
+
+{section: Key Change Verse}
+Let the [2]glory of the Lord rise among us
+Let the [2]glory of the Lord rise among us
+Let the [5]praises of the King rise among us
+Let it [2]rise
+
+{section: Chorus}
+[6]Oh-h-[5]h, let it [2]rise
+[6]Oh-h-[5]h, let it [2]rise

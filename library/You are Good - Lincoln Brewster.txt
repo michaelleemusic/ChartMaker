@@ -1,0 +1,25 @@
+{title: You are Good}
+{artist: Lincoln Brewster}
+{key: C}
+
+{section: Opening Intro}
+[1]  [5]  [b7]  [4]
+
+{section: Intro}
+[1]  [5m]  [b7]  [4]
+
+{section: Verse}
+[1]  Lord, You are good and your [6m]mercy endureth for[5]ever  [4]    (repeat)
+
+{section: Pre Chorus}
+[4]People from every [5]nation and tongue
+[#5]From generation to [b7]generation
+
+{section: Chorus}
+We [1]worship [5m]you, [b7]Halleluia, [4]halleluia
+We [1]worship [5m]you for who You [#5]are  [b7]
+For you are good
+
+{section: Bridge}
+You are go[1]od, [#2]all the [4]time
+and all the t[1]ime, [b7]you are go[4/6]od

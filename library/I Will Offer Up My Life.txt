@@ -1,0 +1,26 @@
+{title: I Will offer Up My Life}
+{artist: Matt Redman}
+{key: D}
+
+{section: Cant Key}
+{section: Book}
+
+{section: Verse 1}
+[1]I will [1/3]offer up my [4]life in [5]spirit and [1]truth
+[1]Pouring [1/3]out the oil of [4]love as my [5]worship to [1]you
+[1]In sur[1F#]render I must [4]give my [5]every [6m]part
+Lord receive this sacri[4]fice of a [5]broken [1]heart
+
+{section: Chorus}
+[1]Jesus what can I [4]give, [5]what can I [1]bring
+[1]To so faithful a [4]friend, to so [5]loving a [1]king
+[1]Savior what can be [4]said, [5]what can be [1]sung
+[1]As a praise of your [4]name, for the [5]things you have [1]done
+Oh my words cannot [2m]tell, not [1/3]even in [4]part
+Of the [2m]debt of [1.F#]love that is [4]owed by [5]this grateful [1]heart
+
+{section: Verse 2}
+[1]You deserve my every [1/3]breath, for you [4]paid the [5]great [1]cost
+[1]Giving up your life to [1/3]death, even [4]death on [5]a  [1]cross
+[1]You took all my shame [1/3]away, and de[4]feated [5]my  [6m]sin
+Open up the gates of [4]heaven and hath [5]beckon me [1]in

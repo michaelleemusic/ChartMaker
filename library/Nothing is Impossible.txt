@@ -1,0 +1,27 @@
+{title: Nothing is Impossible}
+{artist: Planetshakers}
+{key: C}
+{tempo: 142}
+
+{section: Chorus}
+[1]Through You I can do anything, [5]I can do all things [6m]
+Cause its you who gives me str[4]ength, nothing is impossible
+[1]Through you blind eyes are op[5]en, Strongholds are broken[6m]
+I am living by fa[4]ith, nothing is impossible
+
+{section: Interlude}
+[4] [1] [2m] [4]
+
+{section: Verse}
+[1]I'm not gonna [2m]live by what I [4]see,
+[6m]I'm not gonna l[5]ive by what I f[4]eel
+
+{section: Pre Chorus}
+[6m]Deep down [5]I, Know that You're [4]here with me
+[6m]I know that, [5]You can do [2m]anythi[4]ng
+
+{section: Bridge}
+[4]I believe, I [1]believe,
+[2m]I believe, [4]I believe in You x2
+
+(End on [4])

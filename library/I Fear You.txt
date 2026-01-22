@@ -1,0 +1,42 @@
+{title: I Fear You}
+{artist: Jeff Deyo}
+{key: Dm}
+{tempo: 170}
+
+{section: Intro}
+[4m]  [1m]  [b7]
+
+{section: Verse 1}
+I h[1m]umble [#5]myself befo[#2]re You   [b7]
+I l[1m]ay mys[#5]elf down be[#2]low You   [b7]
+In [1m]revere[#5]nce I bow  [#2]   [b7]
+Beneath Y[4]ou, my Lord[#5]
+
+{section: Verse 2}
+I d[1m]raw ne[#5]ar to You f[#2]orever   [b7]
+My [1m]Savior,[#5] my God, [#2]my treasure   [b7]
+I s[1m]tand h[#5]ere in awe[#2]    [b7]
+Indebted [4]to You, my [#5]Lord
+
+{section: Chorus}
+Cause I fe[#2]ar You,[b7] my Go[#5]d
+And I fea[#2]r You, [b7]my King[#5]
+And I trus[#2]t You w[b7]ith my[#5] soul
+And I lo[4m]ve You with all my h[b7]eart
+And I fe[4m]ar You with all my l[b7]ife
+
+{section: Verse 3}
+I f[1m]eel li[#5]ke a child [#2]around Yo[b7]u
+As [1m]I let [#5]all my prai[#2]se surrou[b7]nd You
+And[1m] I fal[#5]l on my fac[#2]e       [b7]
+Astounded[4], my Lord [#5]
+
+{section: Bridge}
+You hold the oc[#5]eans within Your h[b7]and
+You count the g[#5]alaxies      [b7]
+You know the my[#5]steries of this [b7]world
+You see w[4m]hat no one s[b7]ees
+Your hand can s[#5]pan the whole univ[b7]erse
+You gave the st[#5]ars their fame   [b7]
+You know my dee[#5]pest of secrets, L[b7]ord
+But still you [4m]have called me by [b7]name, still you have called me by name

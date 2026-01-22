@@ -1,0 +1,22 @@
+{title: Enough}
+{artist: Chris Tomlin & Louie Giglio}
+{key: Ab}
+
+{section: Chorus}
+All of [12]You is [12/6]more than [5sus]enough for, [4]All of me,[12] for[12/6] every th[5sus]irst and
+Every [12]need, [12/6]You sati[5sus]sfy me, [4]With Your love,[12/3] and all[42] I have in Yo[5sus]u
+Is more than enough  [12]  [12/6]  [5sus]
+
+{section: Verse 1}
+[12]You are [42]my sup[5sus]ply, My br[12/3]eath of li[42]fe, Still more aw[2m2]esome than I kn[5sus]ow
+[12]You are [42]my re[5sus]ward, Worth li[12/3]ving f[42]or, Still more aw[2m7]esome than I kn[5sus]ow
+
+{section: Chorus}
+[12]You're my [42]sacri [5sus]fice, of gr[12/3]eatest pr[42]ice, Still more aw[2m7]esome than I kn[5sus]ow
+[12]You're my [42]coming [5sus]King, You are ev[12/3]ery th[42]ing, Still more aw[2m7]esome than I kn[5sus]ow
+
+{section: Bridge}
+[12]More than [42]all I [5sus]want, more than al[42]l I ne[12/3]ed
+[42] You are [5sus]more than enough for me
+[12]More than [42]all I [5sus]know, more than all[42] I can s[12]/Cee
+[42] You are [5sus]more than enough for me

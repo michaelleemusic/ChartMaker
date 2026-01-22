@@ -1,0 +1,19 @@
+{title: God of Wonders}
+{artist: Marc Byrd & Steve Hindalong}
+{key: Bb}
+
+{section: Verse 1}
+[5sus4]    [6m]Lord of all cre[42]ation,[5sus4]    of [6m]water earth and [42]sky
+[5sus4]Heavens [6m]are Your taber[42]nacle,[5sus4]    glory [6m]to the Lord on h[42]igh
+
+{section: Chorus}
+[1]God of wonders beyond our galax[5sus4]y,  [5] You are [2m7]Holy,[1/3]    [42]Holy
+The [1]universe declares Your majes[5sus4]ty,   [5] You are [2m7]Holy,[1/3]    [42]Holy
+[42]Lord of [5sus4]heaven and earth (echo) (x4)
+
+{section: Verse 2}
+[5sus4]    [6m]Early in the [42]morning,[5sus4]   I will [6m]celebrate the l[42]ight
+[5sus4]When I [6m]stumble in the [4s]darkness,[5sus4] I will [6m]call Your name by [42]night
+
+{section: Bridge}
+[#4m7]Halleluiah, to the [4]Lord of [5sus4]heaven and earth (x4)

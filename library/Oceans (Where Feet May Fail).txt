@@ -1,0 +1,54 @@
+{title: Oceans (Where Feet May Fail)}
+{artist: United}
+{key: D}
+
+{section: Intro}
+[6m] // [5/7]  [1] /// [5] /// [4] ///
+
+{section: Verse 1}
+[6m]  You call me out up[5/7]on the w[1]aters
+The great un[5]known where feet may [4]fail
+[6m]  And there I find You [5/7]in the [1]mystery
+In oceans [5]deep my faith will s[4]tand
+
+{section: Chorus}
+[4] I will [1]call upon Your [5]Name
+[4]  And keep my [1]eyes above the [5]waves
+When oceans [4]rise
+My soul will [1]rest in Your em[5]brace
+For I am [4]Yours and [5]You are [6m // A/7] mine
+
+[1] /// [5] /// [4] ///
+
+{section: Verse 2}
+[6m]  Your grace abounds in [5/7]deepest [1]waters
+Your sovereign [5]hand will be my [4]guide
+[6m]  Where feet may fail and [5/7]fear surr[1]ounds me
+You've never [5]failed and You won't start [4]now
+
+{section: Instrumental X2}
+[6m] /// [4] /// [1] /// [5] ///
+
+{section: Bridge 1}
+[6m]Spirit lead me where my [4]trust is without borders
+Let me [1]walk upon the waters wher[5]ever You would call me
+[6m]Take me deeper than my [4]feet could ever wander
+And my [1]faith will be made stronger
+In the [5]presence of my Saviour
+
+{section: Bridge 2}
+[4]Spirit lead me where my [1]trust is without borders
+Let me [5]walk upon the waters wher[2m]ever You would call me
+[4]Take me deeper than my [1]feet could ever wander
+And my [5]faith will be made stronger
+In the [2m]presence of my Saviour
+
+{section: Bridge 3}
+[6m]Spirit lead me [5]where my [1]trust is without borders
+Let me [5]walk upon the waters wher[2m]ever You would call me
+[6m]Take me deeper [5]than my [1]feet could ever wander
+And my [5]faith will be made stronger
+In the [2m]presence of my Saviour
+
+{section: Instrumental}
+[6m] // [5] [1] /// [5] /// [2m] ///

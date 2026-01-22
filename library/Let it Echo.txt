@@ -1,0 +1,41 @@
+{title: Let it Echo}
+{artist: Chris Quilala, Jesus Culture}
+{key: Bb}
+
+{section: Verse 1}
+We've [1]only scratched the surface
+[1]and only had just one glimpse
+We've [6m7]tasted of Your glory
+[1/5]but there's so much [42]more
+
+{section: Verse 2}
+We're [1]standing on horizons
+[1]where earth collides with heaven
+You're [6m7]longing for Your children
+[1/5]to cry out for [42]more [6m7]
+[5(add4)]We cry out for [42]more
+
+{section: Chorus}
+Let it [4]echo from this [6m7]city
+to the [1]nations the sound of [5]praise
+Let the [4]windows of the [6m7]heavens
+open [1]wide and let it [5]rain
+
+{section: Verse 3}
+[1]Here inside Your presence
+[1]surrounded by Your Spirit
+we're [6m7]satisfied but desp[1/5]erate
+for even more of [42]You, even [6m7]more of [5]You
+
+Chorus 2x
+
+{section: Instromental}
+| [4] // [1] // | [5] // [6m7] // |
+
+{section: Bridge}
+[4]O    [1]      [5]
+let [6m7]heaven [4]fall [1]     [5]
+as [6m7]we sing
+[4]O     [1]      [5]
+let [6m7]heaven [4]fall [1]     [5]
+let [1]heaven [5]fall

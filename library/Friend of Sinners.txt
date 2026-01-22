@@ -1,0 +1,17 @@
+{title: Friend of Sinners}
+{artist: Matt Redman}
+{key: E}
+
+{section: Verse 1}
+[1]Friend of [4]sinners, [5]Lord of [1]truth, [1]I am [4]falling in [5]love with [1]You
+[1]Friend of [4]sinners, [5]Lord of [1]truth, [1]I have [4]fallen in [5]love with [1]You
+
+{section: Chorus}
+Jes[4]us, I [5]love Your [1]name,
+The [4]name by [5]which we're [1]saved.
+Jes[4]us, I [5]love Your [1]name,
+The [4]name by [5]which we're [1]saved.
+
+{section: Verse 2}
+[1]Friend of [4]sinners, [5]Lord of [1]truth, [1]I am [4]giving my [5]life to [1]You
+[1]Friend of [4]sinners, [5]Lord of [1]truth, [1]I have [4]given my [5]life to [1]You

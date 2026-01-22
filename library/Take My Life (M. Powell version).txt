@@ -1,0 +1,21 @@
+{title: Take My Life}
+{artist: Johnny Mac Powell}
+{key: G}
+
+{section: Verse 1}
+[1]How many [4]times have [5]I turned a[1]way
+The [4]number is the [1]same as the [5sus]sands on the [5]shore
+[1]But every[4]time, You've [5]taken me [1]back
+And [4]now I pray You'll [5]do it once [1]more
+
+{section: Chorus}
+Please [1]take from me my [4]life, when [2m]I don't have the [37]strength
+To [1]give it a[4]way to [5sus]You  [5]
+Please [1]take from me my [4]life, when [2m]I don't have the [37]strength
+To [1]give it a[4]way to You[5] Jes[1]us  [4]    [5]    [1]
+
+{section: Verse 2}
+[1]How many [4]times have [5]I turned a[1]way
+The [4]number is the [1]same as the [5sus]stars in the [5]sky
+[1]But every[4]time You've [5]taken me [1]back
+And [4]now I pray You'll [5]do it to [1]night

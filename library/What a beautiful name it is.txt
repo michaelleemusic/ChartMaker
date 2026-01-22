@@ -1,0 +1,61 @@
+{title: What a beautiful Name it is}
+{artist: Hillsong Worship}
+{key: D}
+
+{section: Verse 1}
+[1]You were the Word at the beginning
+One with [4]God the [6m]Lord Most [5]High
+[6m]Your hidden glory [5/7]in crea[1]tion
+Now re[4]vealed in [6m]You our [5]Christ
+
+{section: Chorus 1}
+What a beautiful Name it [1]is
+What a beautiful Name it [5]is
+The Name of [6m]Jesus [5]Christ my [4]King
+What a beautiful Name it [1/3]is
+Nothing compares to [5]this
+What a beautiful Name it [6m]is
+The [5]Name of [4]Jesus
+
+{section: Verse 2}
+[1]You didn't want heaven without us
+So Jesus [4]You brought [6m]heaven [5]down
+[6m]My sin was great Your [5/7]love was great[1]er
+What could [4]separ[6m]ate us [5]now?
+
+{section: Chorus 2}
+What a wonderful Name it [1]is
+What a wonderful Name it [5]is
+The Name of [6m]Jesus [5]Christ my [4]King
+What a wonderful Name it [1/3]is
+Nothing compares to [5]this
+What a wonderful Name it [6m]is
+The [5]Name of [4]Jesus
+What a wonderful Name it [6m]is
+The [5]Name of [4]Jesus
+
+{section: Instrumental}
+[4]  [5]  [6m]  [3m]
+(2x)
+[4]  [5]  [6m]  [5]
+(Last Time)
+
+{section: Bridge}
+Death could not [4]hold You
+The veil tore be[5]fore You
+You silence the [6m]boast of sin and [3m]grave
+The heavens are [4]roaring the praise of Your [5]glory
+For You are [6m]raised to life [5]again
+You have no [4]rival, You have no [5]equal
+Now and for[6m]ever God You [3m]reign
+Yours is the [4]kingdom, Yours is the [5]glory
+Yours is the [6m]Name above all [5]Names
+
+{section: Chorus 3}
+What a powerful Name it [1]is
+What a powerful Name it [5]is
+The Name of [6m]Jesus [5]Christ my [4]King
+What a powerful Name it [1/3]is
+Nothing can stand a[5]gainst
+What a powerful Name it [6m]is
+The [5]Name of [4]Jesus

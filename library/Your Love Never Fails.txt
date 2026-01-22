@@ -1,0 +1,71 @@
+{title: Your Love Never Fails}
+{artist: Jesus Culture}
+{key: Em}
+
+Intro: x3 palm mute
+[1m]  [#5]  [#2]  [b7]  [b7sus]
+
+x2  Strumming open
+[#5]  [1m]  [b7]  [b7sus]  [b7]
+
+{section: Verse 1}
+[1m]Nothing can sep[#5]arate
+e[#2]ven if i ran a[b7]way
+[1m]your love n[#5]ever fai[#2]ls  [b7]  [b7sus]
+
+[1m]I know I sti[#5]ll make mistakes
+But Y[#2]ou have new mercies for me e[b7]veryday
+[1m]Your love never fa[#5]ils  [#2]   [b7]  [b7sus]
+
+{section: Chorus}
+[#5]You stay the s[#2]ame through the ages[b7]
+[4m]Your love never cha[#5]nges
+There maybe p[#2]ain in the night but j[b7]oy comes in the m[4m]orning   [#5]
+And w[#2]hen the oceans [b7]rage
+I don't h[4m]ave to be afra[#5]id
+Because I [#2]know that You love [b7]me
+[b7sus]Your love n[b7]ever fails
+
+{section: Interlude X2}
+[#5]  [1m]  [b7]
+
+{section: Verse 2}
+[1m]The wind is strong and the wa[#5]ter's deep
+But I[#2]'m not alone in these o[b7]pen seas
+Cause Yo[1m]ur love never fail[#5]s   [#2]   [b7]   [b7sus]
+[1m]The chasm is f[#5]ar too wide
+[#2]I never thought I'd reach the ot[b7]her side
+But Y[1m]our love never fai[#5]ls   [#2]   [b7]   [b7sus]
+
+{section: Bridge}
+You make, a[#5]ll things, w[1m]ork together for my go[b7]od.  [b7sus]   [b7]
+
+{sot}
+{section: Intro}
+e|---------------------------------------------------|
+B|-----------6---------6-----------------6----8------|
+G|-3-----5s7----7---5-----5---3-----5s7----7---------|
+D|---------------------------------------------------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+{eot}
+
+{sot}
+Turn
+e|---------------------------------------------------|
+B|---------------------------------------------------|
+G|---------------------------------------------------|
+D|---8-5-------8--------8-7--------------------------|
+A|-6------6s10---8---6s8-----------------------------|
+E|---------------------------------------------------|
+{eot}
+
+{sot}
+{section: Bridge}
+e|---------------------------------------------------|
+B|-------------11-------10---------------------------|
+G|-8------8s12------10-------------------------------|
+D|---------------------------------------------------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+{eot}

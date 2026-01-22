@@ -1,0 +1,39 @@
+{title: Every Move I Make}
+{artist: David Ruis}
+{key: G}
+
+{section: Book}
+
+{section: Verse}
+[1]Every move I [4]make
+I make in [5]You
+You make [4]me move, Jesus
+[1]Every breath I [4]take
+I breathe in [5]You
+
+[1]Every step I [4]take
+I take in [5]You
+You are my [4]way, Jesus
+[1]Every breath I [4]take
+I breathe in [5]You
+
+(2x)
+
+{section: Chorus}
+[1]     [4]
+La-La-La-La-La
+[5]     [4]
+La-La-La-La-La
+(2x)
+
+{section: Bridge}
+[1]Waves of mer[4]cy
+[5]Waves of [4]grace
+[1]Everyw[4]here I [5]look
+I [4]see Your [1]face
+[1]Your [4]love has [5]captured [4]me
+[1]Oh my [4]God, this [5]love
+How [4]can it [1]be?
+
+[1]    [4]    [5]    [4]
+(2x)

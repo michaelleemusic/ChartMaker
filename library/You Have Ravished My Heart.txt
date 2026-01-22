@@ -1,0 +1,16 @@
+{title: You Have Ravished My Heart}
+{artist: Brian Johnson}
+{key: D}
+
+{section: Verse}
+[1]I will[1sus] draw [6m]you to me [5]forever
+[1]In righteous[1sus]ness in ju[6m]stice and in mer[5]cy
+[1]I will[1sus] draw [6m]you and me t[5]ogether
+[1]In loving kind[1sus]ness in fa[6m]ithfulness and in gr[5]ace
+[4]No longer your m[5]aster But your hu[6m]sband I w[5]ill be [4]
+
+{section: Chorus}
+[6m]You have ravished my hea[1/3]rt
+With one g[4]lance of your ey[1]e    [5]
+[6m]How fair is your lo[3m]ve
+[4]My promised my b[5]ride

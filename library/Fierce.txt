@@ -1,0 +1,38 @@
+{title: Fierce}
+{artist: Jesus Culture}
+{key: D}
+
+{section: Intro}
+[42] /// | [1] /// | [6m] /// | [5] ///
+
+{section: Verse 1}
+Before I [42]call, before I ever [1]cry
+You answer [6m]me from where the thunder [5sus]hides
+I can't out[42]run, this heart I'm tethered [1]to
+When every [6m]step I collide with [5sus]You
+
+{section: Chorus}
+[42]Like a tidal wave [1]crashing over me
+[6m7]rushing in to meet me here
+[5sus]Your love is [42]fierce!
+Like a hurricane [1]that I can't escape
+[6m7]tearing through the atmosphere
+[5sus]Your love is [42]fierce!
+
+{section: Verse 2}
+You cannot [42]fail, the only thing I've [1]found
+is through it [6m]all You never let me [5sus]down
+You don't hold [42]back, relentless in pur[1]suit
+at every [6m]turn I come face to face with [5sus]You
+
+Chorus
+
+Interlude
+
+[42] /// | //// | [6m7] /// | [5] ///
+
+{section: Bridge}
+[42]You chase me down, You seek me out
+[6m7]How could I be [5]lost when You have called me found?
+
+Chorus

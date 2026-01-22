@@ -1,0 +1,19 @@
+{title: Surrounded}
+{artist: Michael W. Smith}
+{key: A}
+
+{section: Chorus}
+This is how [1]I fight my battles
+This is how [4]I fight my battles
+
+{section: Bridge}
+[1/3]It may look like [4]I'm surrounded
+But [5]I'm surrounded by [6m]You
+
+{section: Chorus 2}
+This is how [1/3]I fight my battles  [4]
+This is how [5]I fight my battles  [6m]
+
+{section: Interlude}
+[1]   [4]   [5]   [6m]
+[1/3]   [4]   [5]   [6m]

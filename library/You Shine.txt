@@ -1,0 +1,36 @@
+{title: You Shine}
+{artist: Chris Tofilon}
+{key: Bb}
+
+{section: Intro}
+[6m]   [5]   [4]
+
+{section: Verse 1}
+[42]You clothe Yourself in [2m]light, a garment like the [6m]sun
+Arrayed in holi[12]ness, the Everlasting [42]One
+All other gods can’t [2m]see, they have ears but cannot h[6m]ear
+But You have made all t[12]hings, You alone are to be f[4]eared
+
+{section: Chorus 1}
+[1]You shine[4] brighter than the sun
+[1 / D]In the heavens or on the e[4]arth, there is no, not one
+Like [1]You, Lord
+
+{section: Verse 2}
+[42]Who has seen a God like [2m]You, who works for those who [6m]wait
+You loved us to the [12]end, we long to see Your [42]face
+You’ve chosen us for l[2m]ove, You’re chosen us for [6m]life
+And so we live, we m[12]ove, and find ourselves in [4]You
+
+[2m]So we draw near [5]in holy fear
+[3m]O Lord we sing as we g[4]aze upon Y[5]ou
+
+{section: Bridge}
+H[1]oly Father, [4]holy Son
+[6m]Ho - [5]ly S[4]pirit
+You [1 / F]shine, [4 / G]     You [6m]shine  [5]   [4]
+
+{section: Chorus 2}
+[1 / F] You shine [4 / G]brighter than the sun
+[6m] In the he[5]avens or on the e[4]arth, there is no, not one
+Li[1 / F]ke You, Lord

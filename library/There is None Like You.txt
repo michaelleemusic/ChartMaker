@@ -1,0 +1,9 @@
+{title: There is Non Like You}
+{artist: Lenny Lablanc}
+{key: G}
+
+{section: Chorus}
+[1]There is [5]none like [4]You    [1/2]
+[4]No one [1/3]else can touch my [2m7]heart like You [5sus4]do  [5]
+[1]I could [5]search for all e[1]ternity [4]long and find
+[1]There is [5]none like [1]You

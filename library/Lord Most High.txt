@@ -1,0 +1,28 @@
+{title: Lord Most High}
+{artist: Ross Parsley}
+{key: E}
+
+{section: Book}
+
+{section: Verse}
+From the [1]ends of the earth (echo)
+From the [5]depths of the sea (echo)
+From the [6m]heights of the heavens (echo)
+Your [4]name be praised
+
+From the [1]hearts of the weak (echo)
+From the [5]shouts of the stron (echo)
+From the [6m]lips of all people (echo)
+This [4]song we'll raise, Lo[5]rd
+
+{section: Chorus}
+[1]   [1/3]Throughout the [4]endless [5]ages
+[1]   [1/3]  You will be [4]crowned with [5]praises
+[6m]Lord [4]most [5]high
+
+[1]   [1/3]Exalted in [4]every [5]nation
+[1]   [1/3]Sovereign of [4]all crea[5]tion
+[6m]Lord [4]Most [5]high
+
+{section: Last Time}
+[1/3]be magnif[4]ied

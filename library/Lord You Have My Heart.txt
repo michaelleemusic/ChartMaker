@@ -1,0 +1,15 @@
+{title: Lord You Have My Heart}
+{artist: Martin Smith}
+{key: E}
+
+{section: Verse 1}
+[6m7]Lord You have My [42]heart, And I will [1/3]search for [5sus]Yours, [5]
+[6m7]Jesus take my [42]life and [5]lead me [1]on    [5/7]
+[6m7]Lord you have my [42]heart, And I will [1,G#]search for [5sus]Yours, [5]
+[6m7]Let me be to [42]You a [5]sacri[1]fice [42]    [5]
+
+{section: Chorus}
+And [1]I  [1sus]will [42]praise [1/3]You [5sus]Lord,    [5]
+And [1]I  [1sus]will [42]sing of [1/3]love come [b7sus]down    [5]
+And [1]as  [1sus]you [1]show your [42]face,
+We'll [1/3]see Your [5sus]glo----[5]ry [1]here  [5/7]

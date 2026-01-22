@@ -1,0 +1,38 @@
+{title: Use Me}
+{artist: Shaded Red}
+{key: C}
+
+{section: Intro}
+[1] [1] [2m]   [2m] [22]  [b7] [4]  3x
+[1] [1] [2m]   [2m] [22]  [b7] [4 / A]
+
+{section: Verse}
+[1]   [1]  [2m]           [2m] [22]
+Son of God come in
+[b7]        [b7] [4]
+Take away my sin
+[1]    [1]  [2m]      [2m] [22]
+Draw me closer
+       [b7]    [b7]        [4]
+So I'm never away from you
+[1]    [1]  [2m]        [2m] [22]
+Take my life O God
+[b7]       [b7]      [4]
+Let your will be done
+     [1]    [1]    [2m]    [2m] [22]
+As I walk this earth
+  [b7]         [b7]        [4]
+I want to be like your Son
+
+[4] [1]  [4]  [b7]  [4/6]
+Use Me
+    [1]  [4]          [b7]              [4]
+Use Me,    so I'm never away from you.
+
+{section: Bridge}
+[1] [4 / A]
+Ohhh
+[1]              [4]
+Lord I give my life to you
+  [b7]         [1]
+I won't turn back

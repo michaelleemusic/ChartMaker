@@ -1,0 +1,25 @@
+{title: It’s time to Dance}
+{artist: Matt Graham}
+{key: G}
+
+{section: Church Key}
+Book: Camp 2022, Dance, Fast, Graham
+
+{section: Chorus}
+It’s time to [1]dance, dance, dance, dance, dance
+It’s time to [5]sing
+It’s time to [4]fill the earth with the joy of the risen [5]king
+
+It’s time to [1]love like we have been loved
+To LIVE like we’re [5]free
+The [4]kingdom of God is [5]moving, and this [4]dance begins with [5]me
+It’s time to [1]dance
+
+{section: Turnaround}
+[1]  [1maj7sus]  [6m]  [4]
+
+{section: Bridge}
+Break it [4]down, like you would if no one’s [1]watching
+Sing it [4]loud, like no one was [5]around
+Cry it [4]out from the center of your [1]person
+Here we [4]are, the perfect time is [5]now

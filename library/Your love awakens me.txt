@@ -1,0 +1,46 @@
+{title: Your love awakens me}
+{artist: Phil Wickham, Chris Quilala}
+{key: B}
+
+{section: Cant}
+{section: Book}
+
+Intro/Interlude/Outro:
+| [1] / / / | / / [2m7] / | [4] / / / | / / [5sus] / / |
+
+{section: Verse 1}
+[1]There were walls between us
+By the Cross You came and
+[4maj7]broke them down, You broke them down
+[1]There were chains around us
+By Your grace we are no [4maj7]longer bound
+No [4maj7]longer bound
+
+{section: Pre Chorus}
+[5sus]You called me out of the grave
+You called me [6m7]into the light
+[42]You called my name, and then my heart came alive!
+
+{section: Chorus}
+[1]Your love is greater! [4]Your love is stronger!
+[6m]Your love awakens, a[5sus]wakens, [42]awakens me!
+[1]Your love is greater! [4]Your love is stronger!
+[6m]Your love awakens, a[5sus]wakens, [42]awakens me!
+
+{section: Verse 2}
+[1]Feel the darkness shaking
+All the dead are coming
+[4maj7]back to life, back to life
+[1]Hear the song awaken all creation
+singing [4maj7]we're alive, cause You're alive!
+
+{section: Pre Chorus}
+[5sus]You called me out of the grave
+You called me [6m7]into the light
+[42]You called my name, and then my heart came alive!
+
+{section: Bridge}
+[4]And what a love we found!
+[1]Death can't hold us down!
+[6m]We shout it out, [5sus] "We're alive cause You're alive!'
+|3x|

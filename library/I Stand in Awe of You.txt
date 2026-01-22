@@ -1,0 +1,19 @@
+{title: I Stand in Awe of You}
+{artist: Mark Altridge}
+{key: G}
+
+{section: Verse}
+You are [1]beautiful beyond de[1maj7]scription
+Too [4/1]marvelous for [1]words
+Too [1]wonderful for compre[1maj7]hension
+Like [4]nothing ever seen or [5]heard
+Who can [6m]grasp Your infinite [2]wisdom?
+Who can [4]fathom the depths of Your [5]love?
+You are [1]beautiful beyond [1maj7]description
+Majes[4]ty en[5]throned a[1]bove
+
+{section: Chorus}
+And I [1]stand, I [5]stand in [4]awe of You
+Yes I [1]stand, I [5]stand in [4]awe of You
+Holy [3]God, to [3/#5]whom all [6m]praise [5]is [4]due
+I [4]stand in [5]awe of [1]You

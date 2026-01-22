@@ -1,0 +1,16 @@
+{title: Faith}
+{artist: Feuben Morgan}
+{key: Em}
+
+{section: Verse 1}
+[1m7]I'm reaching for the prize, I'm giving everything,
+[4m7]I give my life for this, It's what I [57]live for
+[1m7]Nothing will keep me from, all that You have for me,
+[4m7]You hold my head up high, I [57]live for You
+
+{section: Pre Chorus}
+[4m7]Greater is [b7]He, that's living in [4m7]me, that he that is [1m7]in the world
+
+{section: Chorus}
+[1m7]Faith, I can[#5] move a [57]mountain, I can do all [4m7]things through Christ,[57] I know
+[1m7]Faith, standing [#5]and be[57]leiving, I can do all [4m7]things through Christ, who [57]strenghtens me

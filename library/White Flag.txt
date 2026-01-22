@@ -1,0 +1,33 @@
+{title: White Flag}
+{artist: Chris Tomlin}
+{key: C}
+
+{section: Verse 1}
+[1]The battle rages on
+[1]As storms and tempests roar
+[1]We cannot win this fight
+Inside our rebel he[5]arts
+
+{section: Pre Chorus}
+We're [4]laying down our we[6m]apons  [5]now
+
+{section: Chorus}
+[6m]We raise our w[4]hite flag
+[1]We surren[5]der all[6m]  to [4]You, [1]all  for [5]You
+[6m]We raise our wh[4]ite flag: the[1] war is [5]over
+[6m]Love has [4]come, Your [1]love has [5]won
+
+{section: Verse 2}
+[1]Here on this holy ground
+[1]You made a way for peace
+[1]Laying your body down
+You took our rightful pl[5]ace
+
+{section: Pre Chorus}
+This fr[4]eedom song is [6m]marching [5]on
+
+Chorus
+
+Bridge
+[1]We lift the cross, lift it high, lift it high (x4)
+[1]We lift the [4]cross, Lift it hi[1]gh, lift it high[5] (x4)

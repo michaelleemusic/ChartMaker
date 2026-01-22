@@ -1,0 +1,30 @@
+{title: Take Me Higher}
+{artist: Lincoln Brewster}
+{key: G}
+
+{section: Verse 1}
+[1]Take [6m7]not Your spirit from [1]me  [6m7]    [1]
+Lord l[6m7]ead me to Your pe[1]ace  [6m7]    [5]
+For my o[4]ne desire[5] is to [4]be with You  [5]
+Come cle[4]anse my life[5] and m[4]ake me pure  [5]
+Won't you w[4]rap me up [5]in Your a[4]rms and
+
+{section: Chorus}
+[1]Take me h[6m7]igher and d[5]raw me cl[4]oser
+And p[1]ull me d[6m7]eeper than I've e[5]ver been  [4]
+
+{section: Verse 2}
+[1]Hide [6m7]not Your face from [1]me  [6m7]    [1]
+Lord [6m7]set me spirit f[1]ree  [6m7]    [5]
+For my o[4]ne desire[5] is to [4]be with You  [5]
+Come cle[4]anse my life[5] and m[4]ake me pure  [5]
+Won't You w[4]rap me up [5]in Your a[4]rms and
+
+{section: Bridge}
+Take me hi[5]gher  [4]
+Won't You d[5]raw me closer  [4]
+Take me hi[5]gher than I've ever been[4] before
+[5]Next to You is where I w[4]anna be
+[6m]Take me higher[5/7] than I've e[1]ver been
+[6m]Take not Your S[5/7]pirit from me  [1]
+[6m]Take me T[5/7]ake me higher than I've [b77]ever been bef[4]ore

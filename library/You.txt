@@ -1,0 +1,21 @@
+{title: You}
+{artist: Lori Chaffer}
+{key: E}
+
+{section: Verse 1}
+[5]You, [12]cause my heart to sing, [5]You are [12]always listening
+[5]You, [12]understand my dreams, you [5]do    [12]
+[5]You, [12]cut away my lies, [5]You [12]see through my disguise
+[5]You, are [12]not so far away from [5]me, as I thought you'd [12]be
+
+{section: Chorus}
+You [12]love me as I [2]am  [5]even when I [4]cannot stand
+You [12]whisper in my [2]ear [3m]all the things I [6m]need to hear, from [5]You    [2]
+
+{section: Verse 2}
+[5]You [12]are a mystery, [5]You bring [12]strong men to their knees
+[5]You [12]change the hearts of Kings, You [5]do You [12]do
+
+{section: Bridge}
+[5]You have [12]names for all Your stars. [5]You heal my [12]wounds and kiss my scars
+[5]You [12]sing a million songs over[5] me. Over [12]me

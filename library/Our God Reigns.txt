@@ -1,0 +1,8 @@
+{title: Our God Reigns}
+{artist: Martin Smith}
+{key: G}
+
+{section: Chorus}
+[1]Our God [4]Reigns
+[4]Our [5]God [6m]Reigns
+Forev[6m]er Your [5]Kingdom R[1]eigns

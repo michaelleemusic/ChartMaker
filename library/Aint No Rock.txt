@@ -1,0 +1,22 @@
+{title: Ain't No Rock}
+{artist: LaMarquis Jefferson}
+{key: G}
+
+CCLI: 614055
+Book: Camp 2022, Camp Fast, Medium
+
+{section: Verse 1}
+Ain't no [1]rock, gonna out [b7]praise me
+As long as I'm [4]alive to glor[5]ify, I'll praise His [1]Name. (Repeat)
+
+{section: Chorus}
+[1]Praise His [b7]holy Name
+As long as I'm [4]alive to glor[5]ify, I'll praise His [1]Name. (Repeat)
+
+{section: Verse 2}
+Ain't no [1]bird, gonna [b7]sing in my place
+As long as I'm [4]alive to glor[5]ify, I'll praise His [1]Name. (Repeat)
+
+{section: Verse 3}
+Ain't no [1]tree, gonna [b7]lift it's branches
+As long as I'm [4]alive to glor[5]ify, I'll praise His [1]Name. (Repeat)

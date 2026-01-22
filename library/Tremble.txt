@@ -1,0 +1,29 @@
+{title: Tremble}
+{artist: Andres Figueroa, Hank Bentley, Mariah McManus, Mia Fieldes}
+{key: C}
+{tempo: 148}
+
+{section: Verse 1}
+[6m]Peace, bring it all to pe[4]ace
+The storms surrounding [1]me
+Let it break, [5]at your name
+[6m]Still, call the sea to st[4]ill
+The rage in me to [1]still
+Every wave, [5]at your name
+
+{section: Chorus}
+Je[4]sus, Jesus, [6m]you make the dark[5]ness tremble
+Je[4]sus, Jesus, [6m]you silence [5]fear
+Je[4]sus, Jesus, [6m]you make the dark[5]ness tremble
+Je[4]sus, [6m]Jesus [5]
+
+{section: Verse 2}
+[6m]Breathe, call these bones to le[4]ave
+Call these lungs to [1]sing
+Once again, [3m]I will praise
+
+{section: Bridge}
+Your [4]name is a light that the sha[1]dows can’t de[5]ny
+Your [4]name can[5]not be over[6m]come
+Your [4]name is alive for[1]ever lifted [5]high
+Your [4]name can[5]not be over[6m]come

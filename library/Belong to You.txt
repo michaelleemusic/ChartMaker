@@ -1,0 +1,27 @@
+{title: Belong to You}
+{artist: Iron Bell Music}
+{key: D}
+
+{section: Verse}
+You ca[6m]lled me o[4]ut of dar[1]kness
+You si[6m]lence ev[4]ery l[1]ie
+No o[6m]ther v[4]oice will def[1]ine me
+I belong to [6m]you, [4]I belong to Y[5]ou
+
+{section: Chorus}
+The en[1]emy can’t
+[5/7]Take what I have
+C[6m]hange who I am
+I be[4]long to You
+
+{section: Verse}
+By your b[6m]lood I've b[4]een ad[1]opted
+I’ve t[6m]aken [4]on Your n[1]ame
+And I n[6m]eed to [4]be rem[1]inded
+That I belong to [6m]you, [4]I belong to Y[5]ou
+
+{section: Bridge}
+Gr[6m]eater are You who's in me
+Th[4]an he who’s in the world
+[1/3]The words You have spoken
+A[5]re stronger than the curse

@@ -1,0 +1,35 @@
+{title: Holy Spirit}
+{artist: Bryan & Katie Torwalt}
+{key: A}
+{tempo: 72}
+
+{section: Intro}
+[1]  [4]
+
+{section: Verse 1}
+[1] There's nothing worth more, that will ever come [4]close
+No thing can compare, You're our living [1]hope
+Your Presence [4]Lord
+
+{section: Verse 2}
+[1] I've tasted and seen, of the sweetest of [4]loves
+Where my heart becomes free, and my shame is und[1]one
+In Your Presence [4]Lord
+
+{section: Chorus}
+[1]Holy Spirit You are welcome here
+Come [4]flood this place and fill the [2m]atmosphere
+Your [1]Glory God is what our hearts long for
+To be [4]overcome by Your [2m]Presence Lord
+
+{section: Interlude}
+[1] [4] [2m]
+
+{section: Bridge}
+[4] Let us be[1/3]come more a[2m]ware of Your [1/3]Presence
+[4] Let us exp[1/3]erience the [2m]Glory of Your [1/3]Goodness
+(REPEAT 3X)
+
+{section: Interlude}
+[4] [1/3] [5]
+(REPEAT 3X)

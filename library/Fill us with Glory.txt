@@ -1,0 +1,37 @@
+{title: Fill us with Glory}
+{artist: Jaye Thomas}
+{key: A}
+
+{section: Intro}
+[1]  [2]  [3m]  [5/7]
+[1]  [2]  [3m]
+
+{section: Verse 1}
+The [1]highest heavens can[2]not contain
+The [3m]glory of Your [5/7]wonderful name
+Yet[1] here with Your [2]people You [3m]dwell
+In[1] Your mercy [2]You bow low
+In [3m]Your kindness [5/7]You come close
+[1]Here with Your [2]people You [3m]dwell
+
+{section: Chorus}
+[1]  Your eyes are [2]open
+[3m]  Your ears are [5/7]listening to us
+[1]  We cry [2]out, we cry [3m]out
+[3m]Fill us with glory
+
+{section: Verse 2}
+[1]Here we are Your [2]family
+To[3m]gether with You [5/7]we agree
+[1]Teach us to [2]walk in Your [3m]ways
+[1]And on You Lord, [2]we will wait
+[3m]Never to be [5/7]put to shame
+[1]Teach us the [2]fear of Your [3m]#name
+
+{section: Low Bridge}
+[1]God of [2]glory, [3m]voice like [5/7]thunder
+[1]Come and [2]show us, [3m]mighty wonders
+
+{section: High Bridge}
+[3m]God of [2]glory,[1] voice like thund[2]er
+[3m]Come and [2]show us, [1]mighty wond[2]ers

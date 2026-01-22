@@ -1,0 +1,21 @@
+{title: God I Look to You}
+{artist: Bethel Music}
+{key: Bb}
+
+{section: Verse 1}
+God I [1]look to You, I won’t be o[5]verwhelmed
+Give me [4]vision to [6m]see things like You [5]do
+God I [1]look to You, You’re where my [5]help comes from
+Give me [4]wisdom; You [6m]know just what to [5]do
+
+{section: Chorus}
+I will [4]love You [2m7]Lord my [5]strength
+I will [4]love You [2m7]Lord my [5]shield
+I will [4]love You [2m7]Lord my [5/7]rock [1]forever
+All my [4]days I will [5]love You [1]God
+
+{section: Bridge}
+Halle[4]lujah [2m7]our God [5]reigns
+Halle[4]lujah [2m7]our God [5]reigns
+Halle[4]lujah [2m7]our God [5/7]reigns [1]forever
+All my [4]days Halle[5]luj[1]ah

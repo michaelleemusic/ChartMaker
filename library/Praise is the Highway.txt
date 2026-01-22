@@ -1,0 +1,31 @@
+{title: Praise is the Highway}
+{artist: Bethel Music}
+{key: A}
+
+{section: Book}
+
+{section: Verse 1}
+The [1]rocks will cry out, the oceans will roar
+The [6m]mountains will bow, to the name of the Lord
+He [5]is our God, He [4]will be praised
+
+{section: Verse 2}
+The [1]idols will fall, the strongholds will break
+Every [6m]weapon that forms will shatter and fail
+He [5]is our God, He [4]is our faith
+
+{section: Chorus}
+[1]Praise is the highway [4]to the throne of God
+[1]Praise is the highway [4]to the heart of God
+[6m]Praise is the highway [4]to the move of [1]God
+
+{section: Verse 3}
+Re[1]vival will come, the church will awake
+His [6m]anthem will drown, all other refrains
+He [5]is our song, He for[4]ever reigns
+
+{section: Bridge}
+Lift up your [4]head, fling wide the [1]gates
+Break down the [6m]walls, with a shout of p[5]raise
+Lift up your v[4]oice, pull Heaven [6m]down
+Oh sing like th[1]under, make His praises [5]loud

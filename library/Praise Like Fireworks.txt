@@ -1,0 +1,38 @@
+{title: Praise Like Fireworks}
+{artist: Rend Collective Experiment}
+{key: E}
+
+{section: Cant Key}
+Book: Camp 2022, Dance, Fast
+
+{section: Verse 1}
+I [1]lift my voice to praise You,
+I lift my voice to praise You;
+My [4]concrete heart won't stop me,
+My concrete heart won't stop me.
+I'll [1]sing like it's the first time,
+I'll sing like it's the first time,
+And [4]leave behind the cynic,
+I leave behind the cynic in my [1]soul
+
+{section: Pre Chorus}
+We're [5]letting praise like [4]fireworks
+[5]Loose from our [4]thankful hearts.
+
+{section: Chorus}
+You've [1]given us a heart, given us a home,
+You've [4]given us a heart, given us a home,
+You've [5]given us a heart, given us a home with [4]You, yea[1]h.
+We're [1]bringing you our praise, bringing you our lives,
+We're [4]bringing you our praise, bringing you our lives,
+We're [5]bringing you our praise, bringing all our lives to [4]You, yea[1]h.
+
+{section: Verse 2}
+Through [1]joy and pain we worship,
+Through joy and pain we worship,
+With [4]heart and soul wide open,
+With heart and soul wide open.
+Your [1]strength will never fail us,
+Your strength will never fail us,
+We're [4]not lost in the darkness,
+We're not lost in the darkness, You are [1]here.

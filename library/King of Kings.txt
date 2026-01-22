@@ -1,0 +1,21 @@
+{title: King of Kings}
+{artist: Unknown}
+{key: G}
+
+{section: Verse}
+[1]Blessing and [4/1]honor and [5/1]might
+[4/1]Be to our [1]God   [4/1]      [5/1]          [4/1]
+[1]We wear our [4/1]robes washed [5/1]white
+In the [4/1]blood of the [1]Lamb    [4/1]      [5/1]          [4/1]
+
+{section: Pre Chorus}
+To [6m]Him who sits on the [5]throne
+[6m]You created all [5]things
+Reign [6m]now and forever [5]more
+You are the [1]King  [4/1]      [5/1]          [4/1]
+
+{section: Chorus}
+You are the [1]King [4/1]of [5/1]Kings  [4/1]
+You are the [1]Lord [4/1]of [5/1]Lords  [4/1]
+You are the [1]King [4/1]of [5/1]Kings  [4/1]
+You are the [1]Lord  [4/1]      [5/1]          [4/1]

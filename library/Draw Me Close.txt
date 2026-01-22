@@ -1,0 +1,19 @@
+{title: Draw Me Close}
+{artist: Kelly Carpenter}
+{key: G}
+
+{section: Cant Key}
+
+{section: Verse 1}
+[1]Draw me close to [4/1]You, [5/7]Never let me [1]go,
+[5/7]I lay it all [4/6]down again
+[6m]To hear you say that [4maj7]I'm your friend,
+[1]You are my [4/1]desire, [5/7]No one else will [1]do
+[5/7]Cause nothing else can [4/6]take Your place,
+[6m]To feel the warmth of [4maj7]Your embrace
+[1/5]Helm me find the [2m7]way, [5]Bring me back to [1]You    [4/5]    [5]
+
+{section: Chorus}
+[1]You're [5/1]all I [4/1]want, [1]You're [5/1]all I [4/6]ever [5]needed,
+[1]You're [5/1]all I [4/6]want, [1/5]
+[2m7]Help me know [5]You are [1]near [4/5]    [5]

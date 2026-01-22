@@ -1,0 +1,12 @@
+{title: Oh Lead Me}
+{artist: Martin Smith}
+{key: D}
+
+{section: Verse 1}
+Oh [57sus]lead me,[57]   [4/6] to the [1]place where I can [57sus]find You.    [1]
+Oh [57sus]lead me,[57]   [4/6] to the [1]place where You?'ll [57sus]be.    [57]
+
+{section: Chorus}
+Lead me to the [57sus]cross, [57] where we first [1]met
+Draw me to my [57sus]knees, [57] so we can [1]talk
+Let me feel Your [57sus]breath, [57] let me know You're [6m]here [6m/5]with  [2m7]me    [1]

@@ -1,0 +1,27 @@
+{title: The River is Here}
+{artist: Andy Park}
+{key: G}
+
+{section: Verse 1}
+D[4]own the m[1]ountain the r[5]iver fl[1]ows
+And it b[4]rings refr[1]eshing wher[5]ever it g[1]oes
+T[4]hrough the v[1]alleys and [5]over the f[1]ields
+The r[4]iver is r[1]ushing and the r[4]iver is h[1]ere
+
+{section: Chorus}
+The [1]river of God sets our f[4]eet a-d[1]ancing
+The river of God fills our h[4]earts with c[1]heer
+The river of God fills our m[4]ouths with l[1]aughter
+And [4]we rej[1]oice for the r[5]iver is h[1]ere
+
+{section: Verse 2}
+The r[4]iver of G[1]od is t[5]eeming with l[1]ife
+And a[4]ll who t[1]ouch it can b[5]e rev[1]ived
+And t[4]hose who li[1]nger on th[5]is riv[1]er's shore
+Will come back thirsting for more of the Lord
+
+{section: Verse 3}
+Up to the mountain we love to go
+To find the presence of the Lord
+Along the banks of the river we run
+We dance with laughter giving praise to the Son

@@ -1,0 +1,106 @@
+{title: Jireh}
+{artist: Maverick City Music, Elevation Worship}
+{key: Cm}
+
+{section: Church Key}
+{section: Book}
+
+{section: Intro}
+[1m]   [b7sus4]   [#5]   [#25]
+
+{section: Verse 1}
+[1m7]I'll never be [b7sus4]more loved than I[#5] am right[#2] now
+Wasn't holding You [1m7]up  [b7sus4]so there's nothing I
+can do to [#5]let You [#2]down
+[b7sus4]Doesn't take a[1m7] trophy to [4m7]make You [#2]proud
+[1m7]I'll never be [b7sus4]more loved than I [4m7]am
+righ[#2]t now
+
+{section: Verse 2}
+[1m]Going [b7sus4]through a storm but I [#5]won't go [#2]down
+I hear Your [1m7]voice carried [b7sus4]in the rhythm of the
+wind to [#5]call me o[#2]ut
+[b7sus4]You would cross a[1m7]n ocean so I [4m7]wouldn't [#2]drown
+[1m7]You've never [b7sus4]been closer than You [4m7] are right [#2]now
+
+{section: Chorus}
+[b7sus4]Ji  -  [1m7]reh You are e[#5maj7]nough    [#2]
+[b7sus4]Ji  -  [1m7]reh You are e[#5maj7]nough    [#2]
+[b7sus4]I will be conte[1m7]nt in eve[4m7]ry circu[#2]mstance
+[b7sus4]Ji  -  [1m7]reh You are e[#5maj7]nough    [#2]
+
+{section: Interlude}
+Forever e[b7sus4]nough
+Always e[1m7]nough
+Cm7More [1m7]than e[#5maj7]nough    [#2]
+
+{section: Verse 3}
+[1m]Don't wanna [b7sus4]forget how I [#5]feel right [#2]now
+On the mountain[1m7]top I can [b7sus4]see so clear what
+it's a[#5]ll [#2/5]about
+[b7]Stay by my [1m7]side when the [#5maj7]sun goes [#2/5]down
+[1m7]Don't wanna [b7]forget how I [4m7]feel right [#2]now
+
+{section: Chorus 2}
+[b7sus4]Ji  -  [1m7]reh You are e[#5maj7]nough    [#2/5]
+[b7sus4]Ji  -  [1m7]reh You are e[#5maj7]nough    [#2/5]
+[b7sus4]I will be conte[1m7]nt in eve[4m7]ry circu[#2]mstance
+[b7sus4]Ji  -  [1m7]reh You are e[#5maj7]nough    [#2/5]
+
+{section: Interlude 2}
+Forever e[b7sus4]nough
+Always e[1m7]nough
+Cm7More [1m7]than e[#5maj7]nough    [#2/5]
+
+{section: Bridge}
+I'm already [b7sus4]loved   [1m7]
+I'm already [#56]cho - [#2/5]sen
+I know who I [b7sus4]am     [1m7]
+I know what You've [#5maj7]spo -  [#2/5]ken
+I'm already loved[b7sus4]  [1m7]
+More than I cou[#5maj7]ld imagine   [#2/5]
+And t[4m7]hat is [#2]enough
+
+{section: Tag}
+[4m7]that is [#2]enough
+
+{section: Vamp 1}
+[b7]That is [1m]enough
+[#5]That is [#2/5]enough
+[b7]So I am [1m]enough
+[#5]You are [#2/5]enough
+
+{section: Chorus 2}
+[b7sus4]Ji  -  [1m7]reh You are e[#5maj7]nough    [#2/5]
+[b7sus4]Ji  -  [1m7]reh You are e[#5maj7]nough    [#2/5]
+[b7sus4]I will be conte[1m7]nt in eve[4m7]ry circu[#2]mstance
+[b7sus4]Ji  -  [1m7]reh You are e[#5maj7]nough    [#2/5]
+
+{section: Instrumental}
+[#5] [#2/5] [#5] [#2/5]
+
+{section: Vamp 2}
+[#5]If He [#2/5]dresses the lilies[#5] with bea[#2/5]uty and splendor
+[#5]How much [#2/5]more will He clothe you
+[#5]How much more [#2/5]will He clothe you
+[#5]If He wa[#2/5]tches over[#5] every[#2/5] sparrow
+[#5]How much mo[#2/5]re does He love you
+[#5]How much mo[#2/5]re does He love you
+
+{section: Tag}
+[#5]How much [#2/5]more does he love you
+
+{section: Vamp 3}
+More than you [b7]ask, think or i[1m7]magine
+A[4m7]ccording to His [#2]power working in [b7us    [Cm7]
+It's more than e[#5maj7]nough   [#2/5]
+
+{section: Tag}
+It's more than e[b7]nough   [1m7]
+It's more than [#5]enough   [#2/5]
+
+{section: Chorus 2}
+[b7sus4]Ji  -  [1m7]reh You are e[#5maj7]nough    [#2/5]
+[b7sus4]Ji  -  [1m7]reh You are e[#5maj7]nough    [#2/5]
+[b7sus4]I will be conte[1m7]nt in eve[4m7]ry circu[#2]mstance
+[b7sus4]Ji  -  [1m7]reh You are e[#5maj7]nough    [#2/5]

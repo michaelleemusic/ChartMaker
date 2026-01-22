@@ -1,0 +1,43 @@
+{title: Place of praise}
+{artist: Matt Redman}
+{key: A}
+
+BPM: 73
+
+{section: Verse 1}
+[1]Through every changing moment
+[6m]Find me at Your throne
+In [5]every shifting season
+[4]Find this heart bowed down
+Through [1]every stormy tempest
+and [6m]every circumstance
+When [5]life is at its brightest
+or when [4]shadows gather round
+
+{section: Pre Chorus}
+[5]Let me find my [6m]way [2m]to the place of praise
+
+{section: Chorus}
+[4]I will not bring [5sus]that which [5]costs me nothing [6m] [1]
+[4]I will not bring [5sus]that which [5]costs me nothing [6m] [1]
+If the [4]highest praise is a [5]sacrifice and the [6m]greatest song
+is to [1/3]give my life then [4]I will not bring
+[5]that which costs me no[1]thing
+
+{section: Verse 2}
+When [1]everything is easy a[6m]ny heart can sing
+But our [5]deepest cry of worship
+will be [4]heard within the flame
+So I'm [1]breaking through the silence
+to [6m]bring this broken song
+and You'll [5]hear my praises rising, [2m]rising forevermore [1/3]
+
+{section: Bridge}
+And I'll [1]find my way to the place of praise a[4]gain
+Lord, I'll [6m]find my way to the place of praise a[4]gain
+|4x|
+
+{section: Outro}
+If the [4]highest praise is a [5]sacrifice and the [6m]greatest song
+is to [1/3]give my life then [4]I will not
+bring [5]that which costs me no[1]thing

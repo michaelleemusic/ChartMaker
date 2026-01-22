@@ -1,0 +1,21 @@
+{title: Let My Words Be Few}
+{artist: Beth and Matt Redman}
+{key: Ab}
+
+{section: Verse 1}
+[1]You are God in [1aug]Heaven
+And [6m]here am I on [42]earth
+[1]So I'll [1aug]let my words be [6m]few    [42]
+[2m7]Jesus [1/3]I am [42]so in [5sus]love with [1]you
+
+{section: Chorus}
+And I'll [1]stand in [1/b7]awe of [1/6]You    [42]
+And I'll [1]stand in [1/b7]awe of [1/6]You    [42]
+And I'll l[2m7]et my w[6m]ords be [42]few
+[2m7]Jesus [1/3]I am [42]so in [5sus]love with [1]you
+
+{section: Verse 2}
+[1]The simplest of all l[1aug]ove songs
+I [6m]long to bring to [42]You
+[1]So I'll [1aug]let my words be [6m]few    [42]
+[2m7]Jesus [1/3]I am [42]so in [5sus]love with [1]you

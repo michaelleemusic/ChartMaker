@@ -1,0 +1,39 @@
+{title: Forever Reign}
+{artist: Hillsong Worship}
+{key: C}
+{tempo: 83}
+
+INTRO
+[1]
+
+{section: Verse 1}
+You are go[1]od,  You are good when there’s nothing good in me
+You are lo[5/7]ve,   You are love on display for all to see
+You are li[1]ght,  You are light  when the darkness closes in
+You are hoG/Bpe, You are hope You have covered all my sin   [1]
+
+You are pe[1]ace,   You are peace  when my fear is crippling
+You are tr[5/7]ue,   You are true even in my wandering
+You are j[1]oy,   You are joy  You’re the reason that I sing
+You are [5/7]life,  You are life even death has lost it’s sting   [1]
+
+{section: Chorus}
+[1]Oh  I’ll run into Your [1^7]arms   I’ll run into Your [6m]arms  The riches of Your love [62]will [5]always be eno[4^7add2]ugh
+Nothing com[6m]pares to You[5]r embrace   [4^7add2]Light of the world [6m]forever [5]reign  [4^7add2]
+
+{section: Verse 2}
+You are mo[1]re,  You are more than my words will ever say
+You are LoG[/B]rd,  You are Lord  All creation will proclaim
+You are he[1]re,  You are here  In Your presence I’m made whole
+You are [5/7]God, You are God  of all else I’m letting go
+CHORUS
+
+BRIDGE
+[6m]    My heart will sing [4^7 add2]   no other name       Jes[1]us     Jes[5]us
+[6m]    My heart will sing [4^7 add2]   no other name       Jes[1]us     Jes[5]us   [4^7 add2]
+
+{section: Chorus 2}
+[1]Oh  I’ll run into Your [1^7]arms   I’ll run into Your [6m]arms  The riches of Your love [62]will [5]always be eno[4^7add2]ugh
+Nothing com[6m]pares to You[5]r embrace   [4^7add2]Light of the world [6m]forever [5]reign  [1]
+[1]Oh  I’ll run into Your [1^7]arms   I’ll run into Your [6m]arms  The riches of Your love [62]will [5]always be eno[4^7add2]ugh
+Nothing com[6m]pares to You[5]r embrace   [4^7add2]Light of the world [6m]forever [5]reign  [4^7add2]   [1]

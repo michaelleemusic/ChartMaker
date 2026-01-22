@@ -1,0 +1,26 @@
+{title: Hymn Melody}
+{artist: Various}
+{key: G}
+
+{section: Chorus 1}
+Because He[1] lives, I can face[4] tomorrow,
+Because He[1] lives, all fear is[2] gon[57]e;
+Because [1]I kno[17]w He holds the[4] future,
+And life is[1] worth the[6m] living,
+[2m]Just [57]because He[1] lives!
+
+{section: Chorus 2}
+[1]I'll fly away, Oh G[17]lory, [4]I'll fly[1] away  [4]
+[1]When [5sus]I die, h[6m]allelujah by and by,[1] I'll [5]fly [1]away
+
+{section: Chorus 3}
+O [1]vic - to - ry in Jesus,  My [4]Saviour, for-[1]ev-er, He sought me and
+[6m]bought me With  [2]His redeeming [5]blood;  He [1]loved me ere I knew Him
+[4]And all my love is [1]due Him, He plunged me to [6m]victory,
+Be-[5]neath the cleansing [1]flood.
+
+{section: Chorus 4}
+[1]Turn your [5]eyes upon [6m]Je - [1]sus
+Look [4]full in His wonderful [57]face
+And the thin[17]gs of earth will grow stra[4]ngely dim
+In the [1]light of His [5]glory and [1]grace

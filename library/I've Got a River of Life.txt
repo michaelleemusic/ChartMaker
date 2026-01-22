@@ -1,0 +1,15 @@
+{title: I've Got a River of Life}
+{artist: L. Casebolt}
+{key: D}
+
+{section: Chorus}
+[1]I've got a river of[17] life flowing[4] out of [1]me!
+[1]Makes the lame to[6m] walk, and the [27]blind to[57] see.
+[1]Opens prison[17] doors, sets the[4] captives[1] free!
+[1]I've got a river of[6m] life flowing[2m] out [57]of m[1]e!
+
+{section: Bridge}
+[57]Spring up, [1]O [4]wel[1]l, within my [1]sou[4]l![1]
+[57]Spring up, [1]O [4]wel[1]l, and make me [27]whole[57]!
+[57]Spring up, [1]O [4]wel[1]l, and give[4] to [1]me
+[4]That[1/5] life [57]abundant[1]ly.

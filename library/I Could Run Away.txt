@@ -1,0 +1,15 @@
+{title: I Could Run Away}
+{artist: Don Chaffer}
+{key: G}
+
+{section: Chorus}
+I could [1]run away You woul[5/7]d never leave
+You will [6m7]always stay Right by my [5]side (x2)
+Right by my [42]side, Right by my [1]side (x2)
+
+{section: Bridge}
+[42]And I need you, Oh I need you Every step of the [1]way (x2)
+
+{section: Verse 1}
+[42]Everything I've ever wanted I've found in you (Right by my [1]side)
+[1]Everything I've ever wanted I've found in you (Right by my [42]side)

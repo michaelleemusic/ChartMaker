@@ -1,0 +1,20 @@
+{title: Wrap Me In Your Arms}
+{artist: Daniel Grothe and Michael Gunger}
+{key: Am}
+
+{section: Book}
+
+{section: Verse}
+[1m7]There is a [b7]God who [#5]loves me
+Who [1m7]wraps me [b7]in His [#5]arms
+Th[1m7]at is the [b7]place where I'[#5]m changed
+[1m7]That's where [b7]I be[#5]long
+
+{section: Chorus}
+Take me to that [1m7]place Lord
+To that secret [b7/2]place where
+I can be with Y[5m7]ou
+You can make me li[#5]ke You
+Wrap me in Your [1m7]arms
+Wrap me in Your [b7]arms
+Wrap me in Your [#5]arms

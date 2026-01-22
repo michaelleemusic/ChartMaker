@@ -1,0 +1,50 @@
+{title: O Come, O Come Emmanuel}
+{artist: Unknown / David Crowder}
+{key: Am}
+
+{section: Cant Key}
+Book: Christmas
+Notes: Taken from David Crowder version originally Capo 4
+
+[1m] [4m/1] [1m] [4m/1]
+
+{section: Verse 1}
+O [1m]come, O come, Em[4m]manu[1m]el and ransom captive [4m]Isra[1m]el
+That [4m]mourns in lonely [1m]exile [b7]here
+Un[1m]til the Son of [4m]God a[1m]ppears
+
+{section: Chorus}
+Re[b7]joice re[1m]joice
+Em[4m]man - [5m]u - [1m]el shall come to thee O [4m]Israel [1m] [4m/1] [1m] [4m/1]
+
+{section: Verse 2}
+O [1m]come Thou Dayspring [4m]come and [1m]cheer
+Our spirits by Thine [4m]advent [1m]here
+Dis[1m]perse the gloomy [4m]clouds of [b7]night
+And [1m]death’s dark shadows [4m]put to [1m]flight
+
+Chorus
+
+{section: Verse 3}
+O [1m]come Desire of [4m]nations [1m]bind
+In one the hearts of [4m]all man[1m]kind
+Bid [1m]Thou our sad div[4m]isions [b7]cease
+And [1m]be Thyself our [4m]King of [1m]Peace
+
+{section: Chorus 2}
+Re[b7]joice re[#5]joice
+Emmanu[1m]el shall come to thee O [b7]Isra[#5]el
+
+{section: Extra Bridge}
+Re[b7]joice re[#5]joice
+Emmanuel has [1m]come
+Re[b7]joice re[#5]joice
+Emmanuel has [1m]come
+Re[b7]joice re[#5]joice
+Emmanuel has [1m]come  [b7]
+He has [1m]come, [#5]   He has [1m]come  [4m/1]  [1m]  [4m/1]
+
+{section: Extra Ending}
+[4m/1]He's coming toward us now  [1m]  [4m/1]
+He's coming toward [1m]us  [4m/1]
+He's coming toward us now, He always wi[1m]ll

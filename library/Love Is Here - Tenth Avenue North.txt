@@ -1,0 +1,31 @@
+{title: Love Is Here}
+{artist: Tenth Avenue North}
+{key: G}
+
+{section: Book}
+
+{section: Verse}
+[6m]Come to the [1/3]Water, [4]you who thirst and you'll [6m]thirst no more [1/3] [4]
+[6m]Come to the [1/3]Father, [4]you who work and you'll [6m]work no more [1/3] [4]
+
+{section: Pre Chorus}
+And [5]all you who [6m]labor in [4]vain,
+[5]and to the [6m]broken and [4]shamed:
+
+{section: Chorus}
+Love is [1]here, Love is [4]now
+Love is [6m]pouring from His [5]hands, from His [4]brow
+Love is [1]near, it satis[4]fies
+[6m]Streams of mercy [5]flowing from His [4]side, Cause Love is [6m]here [1]  [4]
+
+{section: Verse}
+[6m]Come to the [1]treasure, [4]you who search and you'll [6m]search no more [1] [4]
+[6m]Come to the [1]Lover, [4]you who want and you'll [6m]want no more [1] [4]
+
+{section: Bridge}
+[4]And to the bruised and fallen,
+[1/3]Captives bound and broken hearted
+[2m]He is the Lord. [5]He is the Lord.
+[4]By His stripes He's paid our ransom,
+[1/3]From His wounds we drink salvation
+[2m]He is the Lord, [5]He is the Lord.

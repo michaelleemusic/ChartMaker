@@ -1,0 +1,48 @@
+{title: I Speak Jesus}
+{artist: Abby Benton, Carlene Prince, Dustin Smith, Jesse Reeves, Kristen Dutton, Raina Pratt}
+{key: E}
+
+Church Key: E
+Book: Graham
+
+{section: Intro}
+[1]  [6m7]  [4]
+
+[1]I just wanna speak the name of Jesus
+[6m]Over every heart and every mind
+'Cause [4]I know there is peace within Your presence
+I speak [1]Jesus
+
+{section: Verse 2}
+[1]I just wanna speak the name of Jesus
+'Til [6m]every dark addiction starts to break
+De[4]claring there is hope and there is freedom
+I speak [1]Jesus
+
+{section: Chorus}
+'Cause Your name is [5]power
+Your [1/3]name is [4]healing, Your name is [1]life
+Break every [5]stronghold, shine [1/3]through the sha[4]dows
+Burn like [1]a fire
+
+{section: Verse 3}
+[1]I just wanna speak the name of Jesus
+[6m]Over fear and all anxiety
+To [4]every soul held captive by depression
+I speak [1]Jesus
+
+CHORUS
+
+{section: Bridge}
+Shout [1]Jesus from the mountains, Jesus in the streets
+[6m]Jesus in the darkness, over every enemy
+[4]Jesus for my family, I speak the holy name
+[1]Jesus
+
+{section: Chorus}
+
+{section: Ending}
+[1]I just wanna speak the name of Jesus
+Over [6m]every heart and every mind
+'Cause [4]I know there is peace within Your presence
+I speak [1]Jesus

@@ -1,0 +1,51 @@
+{title: Good Good Father}
+{artist: Chris Tomlin}
+{key: A}
+
+{section: Intro}
+[1]  [1sus]   [1]  [1sus]
+
+{section: Verse 1}
+[1]I've heard a [1sus]thousand [1]stories
+Of what they [1sus]think You're [1]like
+But I've heard the [1sus]tender [1]whisper
+Of love in the [1sus]dead of [1]night and You
+[42]Tell me [1/3]that You're pleased and that
+[2m7]I'm never a[5add4]lone
+
+{section: Chorus}
+You're a good, good [42]Father,
+it's who You are, [1/3]it's who You are,
+[2m7]It's who You [5add4]are
+And I'm loved by [42]You
+It's who I am, [1/3]it's who I am
+[2m7]It's who I [5add4]am
+
+{section: Verse 2}
+Oh and [1]I've seen many searching for
+Answers far and wide, but I know we're all
+Searching for answers only You provide because
+You [42]know just [1/3]what we need before
+[2m7]We say a [5add4]word
+
+{section: Bridge}
+Because You are [42]perfect
+in all of Your [6m7]ways
+You are [2m7]perfect in all of Your [1]ways
+You are [42]perfect in all of Your [6m7]ways
+To [5]us
+|2x|
+
+{section: Verse 3}
+Oh this [1]Love so [1sus]undeni[1]able
+I, I can [1sus]hardly [1]speak
+Peace so [1sus]unex[1]plainable
+I, I can [1sus]hardly [1]think
+As You [42]call me, [1/3]deeper still
+As You [2m7]call me [1/3]deeper still
+As You [42]call me [1/3]deeper still into [2m7]love
+Love, [5add4]love
+
+{section: Outro}
+You are [42]perfect in all of Your [1]ways [2m7]          [5]
+You are [42]perfect in all of Your [1]ways  [6m]         [5]

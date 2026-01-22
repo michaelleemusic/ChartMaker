@@ -1,0 +1,21 @@
+{title: Your Face is Beautiful}
+{artist: Iron Bell}
+{key: G}
+
+{section: Book}
+Notes: Original played in B (G Capo 4)
+
+{section: Verse 1}
+[1]Your face is beautiful
+Your face is beautiful
+Your face is beautiful
+Like a thousand sunsets
+Like a thousand oceans
+
+{section: Refrain}
+O[6m]hhhh [4]Ohhhh [1]Ohhhhh
+
+{section: Bridge}
+[6m]My heart it burns with[4]in me
+At the [1]sound of your voice
+My heart it burns within me, oh Lord

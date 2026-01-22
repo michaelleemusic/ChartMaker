@@ -1,0 +1,33 @@
+{title: Famous}
+{artist: Jaye Thomas}
+{key: Am}
+
+[1m] [#5]
+
+{section: Verse 1}
+[1m]We sing a [#5]brand new song   [1m] [b7] [#5]
+and from the [1m]ends of the [#5]earth, its begun   [1m] [b7] [#5]
+and every [1m]nation tribe and [#5]tongue, will join   [1m] [b7] [#5]
+Singing [1m]glory to the [#5]righteous one   [1m] [b7] [#5]
+
+{section: Pre Chorus}
+Let our [1m]song go forth, let our [#5]song arise[5m]
+We will [1m]bow our knees with no [#5]comprom[5m]ise
+To the [1m]God of peace we will [#5]lift our e[5m]yes
+Til the [1m]song we sing goes [#5]up day and [5m]night
+
+{section: Chorus}
+[1m]  Until the fame of [#5]Jesus fills the earth
+[#2]  We will shout and sing, [b7]we will lift one voice
+[1m]  Until the nations all [#5]declare your worth
+[#2]  We'll give you everything, [b7]make a joyful noise   [1m]   [#5]
+
+{section: Verse 2}
+[1m]Kingdoms rise, [#5]kingdoms fall   [1m] [b7] [#5]
+and the [1m]weight of the [#5]world they fail   [1m] [b7] [#5]
+But [1m]you sit a[#5]bove it all   [1m] [b7] [#5]
+'cause you are [1m]God and you will [#5]prevail   [1m] [b7] [#5]
+
+{section: Bridge}
+[1m]We want to make Your name famous
+[1m]We want to shout Your name Jesus

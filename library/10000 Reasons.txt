@@ -1,0 +1,32 @@
+{title: 10,000 Reasons (Bless the Lord)}
+{artist: Jonas Myrin & Matt Redman}
+{key: G}
+{tempo: 73}
+
+{section: Chorus}
+Bless the[4] Lord, O my[1] soul,[5/7] O my [6m]soul,
+[4]Worship His ho[1]ly n[5sus4]ame.    [5]
+Sing like [4]never be[6m]fore, [4]   [5]O m[6m]y soul.
+I'll[4] worship Your ho[5]ly na[4/1]me.   [1]
+
+{section: Verse 1}
+The[4] sun comes[1] up, it's a n[5]ew day da[6m]wning;
+[4]It's time to[1] sing Your son[5]g ag[6m]ain.
+[4]Whatever may [1]pass, and what[5]ever lies be[6m]fore me,
+[42]Let me be s[1]inging when the [5sus4]even--in[5]g co[1]mes.[1sus4]    [1]
+
+{section: Verse 2}
+You're [4]rich in[1] love, and You're[5] slow to [6m]anger.
+Your[4] name is g[1]reat, and Your h[5]eart is ki[6m]nd.
+For[4] all Your [1]goodness, I will[5] keep on[6m] singing;
+[42]Ten thousand[1] reasons for my[5sus4] heart t[5]o fi[1]nd. [1sus4]    [1]
+
+{section: Verse 3}
+And[4] on that[1] day when my[5] strength is f[6m]ailing,
+The[4] end draws[1] near, and my[5] time has [6m]come;
+[4]Still my[1] soul will sing Your [5]praise un[6m]ending:
+[42]Ten thousand[1] years and then fo[5sus4]re----ve[5]rmo[1]re! [1sus4]    [1]
+
+{section: Tag}
+[6m]I'll wor[4]ship Your [5]holy n[6m]ame.
+Yes, I'll [4]worship Your [5]holy na[1]me.

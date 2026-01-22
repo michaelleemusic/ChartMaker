@@ -1,0 +1,13 @@
+{title: Waiting for the Rain (Chorus)}
+{artist: Misty Edwards}
+{key: E}
+
+{section: Chorus}
+I am waiting for the [1]rain... [1/7] [6m] Oh I am [5]waiting for the [4]rain  [5]  [1]
+
+{section: Bridge}
+[1]Open [1/7]up the [6m]heav[5]ens and let it [4]rain, let it [5]rain, let it [1]rain (3x)
+
+{section: Ending}
+[1]Open [1/7]up the [6m]heav[5]ens and let it [4]rain, let it [5]rain,
+just let it [4]rain, let it [5]rain, let it [4]rain, let it [5]rain, let it [1]rain

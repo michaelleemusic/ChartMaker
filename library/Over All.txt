@@ -1,0 +1,38 @@
+{title: Over All}
+{artist: Phil Wickham}
+{key: E}
+
+{section: Cant Key}
+
+{section: Intro}
+[1]  [4]
+
+{section: Verse 1}
+[1]Over our hopes, over our fears
+[4]God you are over all
+[1]Over our joy, over our tears
+[4]God you are over all (x2)
+
+{section: Chorus}
+[6m]Great in [5]power
+[1]Exalted and lifted [4]high
+God you will [6m]reign for[5]ever
+[1]Forever we will glori[4]fy
+God over [6m]all, God over a[5]ll
+God over [4]all
+
+{section: Verse 2}
+[1]Over the earth, over the sky
+[4]God you are over all
+[1]Over the dark, over the light
+[4]God you are over all
+[1]Over the earth, over the sky
+[4]God you are over all
+[6m]Whatever may come [1]in this life
+[4]God you are over all
+
+{section: Bridge}
+[1]Higher and higher, we [5]lift you higher
+[4]Higher and higher, we [5]lift you higher
+[1]Higher and higher, we [5]lift you higher
+[4]Higher and higher     [5]

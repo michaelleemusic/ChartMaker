@@ -1,0 +1,25 @@
+{title: Holy Moment}
+{artist: Chris McClarney}
+{key: C}
+
+BPM: 94
+Book: Graham
+
+{section: Verse 1}
+[1]This is a Holy moment (x4)
+
+{section: Chorus}
+Come with expec[4]tation
+Everything aban[1]doned
+Look and see the Gl[6m]ory of our [5]God
+Lift your voice to hea[4]ven
+Jesus is our an[1]them
+Celebrate the won[6m]der of His lo[5]ve
+
+{section: Verse 2}
+[1]He is, here with us now (x4)
+
+{section: Bridge}
+For your honor and fa[4]me
+Fall again in this pl[1]ace
+Fill us up as we over[6m]flow with pr[5]aise

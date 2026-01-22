@@ -1,0 +1,73 @@
+{title: Joyful Joyful}
+{artist: Laura Hackett}
+{key: C}
+
+Intro
+[1]Joyful, joy[1/b7]ful, Lord [4]we adore Thee
+[1/3]God of glo[4]ry [5sus]Lord of [5]love
+[1]Hearts un[1/b7]fold like [4]flow'rs be[4m]fore Thee
+[1/3]Opening [4]to the [5]sun a[1]bove.
+
+{section: Tag}
+[6m7] [4] [1/3] [5] (x2)
+
+{section: Verse 1}
+[6m7]Joyful, [4]Joyful, [1/3]we ad[5]ore Thee
+[6m7]God of [4]glory, [1/3]Lord of [5]love
+[6m7]Hearts un[4]fold like [1/3]flow'rs be[5]fore Thee
+[6m7]Opening [4]to the [5]sun a[1]bove
+[5]Melt the [6m]clouds of [5/7]sin and [1]sadness
+[5]Drive the [6m]dark of d[2]oubt a[5]way
+[1]Giver [1/b7]of im[1/6]mortal [1/#5]gladness,
+[5/1]Fill us with the [5]light of day!
+
+{section: Tag}
+[6m7] [4] [1/3] [5] (x2)
+
+{section: Verse 2}
+All Thy works with joy surround Thee
+Earth and heaven reflect Thy rays
+Stars and angels sing around Thee
+Center of unbroken praise
+Field and forest, vale and mountain
+Flowery meadow, flashing sea
+Singing birds and flowing fountains
+Call us to rejoice in Thee
+
+{section: Pre Chorus}
+Dm             C/E              F               G
+We sing in jubilation, adoration to a joyful King
+Dm	                      C/E
+You are singing, You are singing,
+F	                       G
+jealous love over all your children
+
+{section: Chorus}
+Am	              F	        C/E          	G
+I got the joy, I got the joy, I got the joy! (x4)
+
+{section: Verse 3}
+C - hold
+Mortals join this happy chorus
+Which the morning stars began
+Father love is reigning over us
+Brother love binds man to man
+G      Am       G/B             C
+Ever singing march we onward
+G         Am       D	          G
+Victors in the midst of strife
+C       C/Bb     C/A       C/G#
+Joyful music leads us sunward
+G/C                   G
+In the triumph song of life
+
+Pre-Chorus
+Chorus
+
+{section: Bridge}
+Am                              F                      C/E             G
+In Your presence oh God, there is fullness of joy
+             Am                     F                       C/E                   G
+At Your right hand oh God, there are pleasures evermore (x2 to C hold)
+
+Chorus

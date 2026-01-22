@@ -1,0 +1,55 @@
+{title: This I Believe (The Creed)}
+{artist: Hillsong Worship}
+{key: C}
+{tempo: 71}
+
+[Intro]
+[4]  [6m]  [5]  [1/3]
+[4]  [6m]  [5]  [1/3]
+
+{section: Verse 1}
+[4]Our Father ever[6m]lasting
+[5]The all creat[1/3]ing O[4]ne
+God almi[5]ghty [1/3]
+
+[4]Through Your Holy S[6m]pirit
+[5]Conceiving Christ [1/3]the So[4]n
+Jesus our S[5]avior
+
+{section: Chorus}
+[1]I believe in God our [2m]Father
+[4]I believe in Christ the [5]Son
+[6m]I believe in the Holy Spirit
+[4]Our God is three in o[1]ne
+I believe in the resur[2m]rection
+[4]That we will rise aga[5]in
+[6m]For I believe in the n[4]ame of [5]Jesus
+
+{section: Verse 2}
+[4]Our Judge and our De[6m]fender
+[5]Suffered and cruc[1/3]ified
+[4]Forgiveness is[3m] in [5]You [1/3]
+
+[4]Descended into d[6m]arkness
+[5]You rose in glor[1/3]ious li[4]fe
+Forever seated [5]high
+
+Chorus
+
+{section: Bridge}
+I [4]beli[6m]eve in Y[5]ou  [1/3]
+I be[4]lieve You ro[6m]se aga[5]in  [1/3]
+I be[4]lieve that J[5]esus Christ is L[1]ord
+
+{section: Chorus 2}
+[1]I believe in life e[2m]ternal
+[4]I believe in the virgin b[5]irth
+[6m]I believe in the saints' communion
+[4]And in Your holy ch[1]urch
+I believe in the resur[2m]rection
+[4]When Jesus comes ag[5]ain
+[6m]For I believe in the n[4]ame of J[5]esus [1]
+
+{section: Ending}
+[6m]For I believe in the n[4]ame of [5]Jesus [1]
+[6m]For I believe in the n[4]ame of [5]Jesus [1]

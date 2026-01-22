@@ -1,0 +1,24 @@
+{title: I Exalt Thee}
+{artist: Pete Sanchez Jr.}
+{key: D}
+
+{section: Intro}
+[1]  [5/7]
+
+{section: Chorus}
+I ex[1]alt Thee; I ex[5/7]alt Thee
+I ex[4]alt Thee [5]oh  Lo[1]rd
+I ex[1]alt Thee; I ex[5/7]alt Thee
+I ex[4]alt Thee [5]oh  Lo[1]rd
+
+{section: Verse}
+For Thou oh [4]Lord art [5sus]high above all the [1]ear[6m]th
+Thou art exal[4]ted far [5sus]above all go[1]ds
+For Thou oh [4]Lord art [5sus]high above all the [1]ear[6m]th
+Thou art exal[4]ted far [5sus]above all go[1]ds
+
+{section: Chorus}
+We ex[1]alt Thee; We ex[5/7]alt Thee
+We ex[4]alt Thee [5]oh  Lo[1]rd
+We ex[1]alt Thee; We ex[5/7]alt Thee
+We ex[4]alt Thee [5]oh  Lo[1]rd

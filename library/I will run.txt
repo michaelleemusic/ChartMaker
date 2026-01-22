@@ -1,0 +1,29 @@
+{title: I Will Run}
+{artist: Misty Edwards}
+{key: Bm}
+
+{section: Chorus}
+[1m]All   [#5]I   [b7]want is [1m]you,
+[1m]all   [#5]I   [b7]crave is [1m]you.
+
+{section: Verse}
+I will [1m]run the race set bef[#5]ore [b7]me
+I will [1m]seek your face as the pr[#5]ize of my l[b7]ife
+I will [1m]run the race set bef[#5]ore [b7]me
+I will [1m]seek your face as the pr[#5]ize of my l[b7]ife
+
+{section: Pre Chorus}
+I will [1m]run, I will run, I will run, I will run,
+I will run, I will run, I will run
+
+{section: Bridge}
+[1m]My soul pants for God and [#5]God [b7]alone
+My soul pants for [1m]God and [#5]God [b7]alone
+
+{section: Tag}
+The [1m]earth sleeps and slumbers;
+Lullabied to the sounds of [4m]peace and [b7]safety
+The [1m]earth sleeps and slumbers;
+Lullaby, Lullaby, Lullaby...
+
+I will [1m]run, I will run, I will run

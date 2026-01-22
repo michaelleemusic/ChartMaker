@@ -1,0 +1,27 @@
+{title: What Child Is This?}
+{artist: Wesley/Whitefield/Mendelssohn/Cummings}
+{key: Fm}
+
+{section: Verse 1}
+What [1m7]Child is [47]this, who, [b7Maj7]laid to [#2Maj7]rest,
+On [#5Maj7]Mary's [6m7(b5)]lap [27]is [57(b9)]sleeping?
+Whom [1m7]angels [47]greet with [b7Maj7]anthems [#2Maj7]sweet,
+While [#5Maj7]shepherds [57]watch are [1m7]keeping?
+
+{section: Chorus}
+[#2Maj7]This, [3m7(b5)]this [6m7(b5)]is [2m7]Christ, [27]the [5m7]King,
+Whom [#2Maj7]shepherds [6m7(b5)]guard [27]and [57]angels sing:
+[#2Maj7]Haste, [3m7(b5)]haste [6m7(b5)]to [2m7]bring [27]Him [5m7]laud,
+The [#57]Babe, the [57]Son of [1m7]Mary!
+
+{section: Verse 2}
+Why lies He in such mean estate,
+Where ox and ass are feeding?
+Good Christian, fear: for sinners here
+The silent Word is pleading.[5horus]
+
+{section: Verse 3}
+So bring Him incense, gold, and myrrh,
+Come, peasant, king to own Him.
+The King of kings salvation brings;
+Let loving hearts enthrone Him.

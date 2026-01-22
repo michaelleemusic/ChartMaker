@@ -1,0 +1,16 @@
+{title: Beloved}
+{artist: Ben Kennedy}
+{key: G}
+
+[6m]How can I call out your[4maj7] name when you're so far [5sus4]away
+And you're right by my[4maj7] side
+[6m]How can I speak of your[4maj7] love when you're so far [5sus4]above
+But you hear when[4maj7] I cry
+{section: Chorus}
+[1]Those who [52/7]put their[6m] hope in [42]you will
+[1]Never be [52/7]turned aw[6m]ay    [42]
+[1]Those who [52/7]place their [6m]trust in[42] you
+Will [1]never be[52/7] put to [6m]shame    [42]
+[1]I am waiti[52/7]ng here for [6m]you    [42]
+To [1]hear you [52/7]speak my na[6m]me    [42]
+Be[1]loved (spe[52/7]ak my name)    [6m]    [42]

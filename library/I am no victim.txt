@@ -1,0 +1,45 @@
+{title: I Am No Victim}
+{artist: Bethel Music}
+{key: F}
+
+{section: Intro}
+[1]  [6m]  [4]  [5]
+
+{section: Chorus}
+I am no [1]victim
+I live with a [6m]vision
+I'm covered [4]by the force of love
+Covered [5]in my Savior's blood
+
+I am no [1]orphan
+I'm not a [6m]poor man
+The kingdom's [4]now become my own
+and with the [5]King, I've found a home
+
+{section: Pre Chorus}
+He's [5]not [6m]just re[4]viv[1]ing
+[5]not [6m]simply re[4]stor[6]ing
+[5]Greater [6m]things have [4]yet to come
+[5]Greater [6m]things have [4]yet to come
+
+{section: Verse}
+He is my [1]father
+I do not [6m]wonder
+If His [4]plans for me are good
+If He'll [5]come through like he should
+
+Cause He is [1]provision
+And enough [6m]wisdom
+To usher [4]in my brightest days
+To turn my [5]mourning into praise
+
+{section: Bridge}
+[4]I am, who He s[1]ays I am
+[5]He is, who He [6m]says He [5]is
+I'm de[4]fined by, all his [1]promises
+[5]shaped by, every [6m]word He [5]says
+
+[4](Hold to chorus)
+
+{section: Song Ending}
+He is my [1]father   [6m]   [4]  [5]

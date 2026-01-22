@@ -1,0 +1,15 @@
+{title: I Will Never Leave You Children}
+{artist: Jason Upton}
+{key: Bm}
+
+{section: Cant Key}
+{section: Book}
+
+{section: Chorus}
+I will never l[1m]eave  [b7]
+I will never l[#57]eave you children  [1m]
+I will never l[b76]eave you alo[#5]ne
+
+{section: Bridge}
+[4m]No mind can[#2] compre[b7/2]hend
+[4m]A love that h[#2]as no e[b7/2]nd

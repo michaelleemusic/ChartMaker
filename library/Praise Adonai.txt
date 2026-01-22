@@ -1,0 +1,20 @@
+{title: Praise Adonai}
+{artist: Paul Baloche}
+{key: F}
+
+{section: Verse 1}
+[3m]Who is like Him[1],
+The Lion and the [5]Lamb
+Seated on the thr[2]one    [77]
+[3m]Mountains bow down[1]
+Every ocean ro[5]ars
+To the Lord of ho[2]sts
+
+{section: Chorus}
+[1]Praise Adona[3m]i
+From the [2]rising of the sun
+'Till the [6m7]end of every[1] day[2]
+[1]Praise Adona[3m]i
+All the [2]nations of the earth
+All the[6m7] Angels and the S[1]aints
+[2]Sing pr[42]aise

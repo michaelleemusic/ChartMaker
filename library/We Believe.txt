@@ -1,0 +1,49 @@
+{title: We Believe}
+{artist: Newsboys}
+{key: D}
+
+{section: Intro}
+[1]  [4] x2
+
+[1]In this time of desper[4]ation   [1]
+When all we know is doubt and [4]fear
+[6m]  There is only One Salva[4]tion
+We be[1]lieve, We be[4]lieve
+
+[1]In this broken gene[4]ration   [1]
+When all is dark, You help us [4]see
+[6m]  There is only One Foun[4]dation
+We be[1]lieve, We be[4]lieve
+
+{section: Chorus}
+We be[1]lieve in God the Father, We be[5]lieve in Jesus Christ
+We be[6m]lieve in the Holy Spirit, And He's [4]given us new life
+We be[1]lieve in the crucifixion, We be[5]lieve that He conquered death
+We be[6m]lieve in the resurrection, And He's [4]comin' back again
+We be[1]lieve     [4]
+
+[1]So, let our faith be more than [4]anthems   [1]
+Greater than the songs we [4]sing   [6m]
+And in our weakness and temp[4]tations
+We be[1]lieve, We be[4]lieve!
+
+{section: Tag}
+Let the [4]lost be found and the [5]dead be raised!
+In the [6m]here and now, let [3m]love invade!
+Let the [4]church live loud, our [5]God will say
+We be[6m]lieve, We be[3m]lieve!
+
+And the [4]gates of hell will [5]not prevail!
+For the [6m]power of God, has [3m]torn the veil!
+Now we [4]know Your love will [5]never fail!
+We be[6m]lieve, We be[3m]lieve!
+
+{section: Chorus}
+We be[1]lieve in God the Father, We be[5]lieve in Jesus Christ
+We be[6m]lieve in the Holy Spirit, And He's [4]given us new life
+We be[1]lieve in the crucifixion, We be[5]lieve that He conquered death
+We be[6m]lieve in the resurrection, And He's [4]comin' back again
+He's comin' back [1]again!   [5]
+He's comin' back [6m]again!
+We be[4]lieve!
+We be[1]lieve

@@ -1,0 +1,32 @@
+{title: Forevermore}
+{artist: Jesus Culture}
+{key: F#}
+
+{section: Intro}
+[1]  [4]  [5]  [6m]
+
+{section: Verse 1}
+[1]Hope, hope is a - [4]live in me, for all the [5]world to see that You are [6m7]good
+[1]Love, Love changes every[4]thing, Your love has [5]rescued me now I am [6m]Yours
+
+{section: Pre Chorus}
+You took [4]hold of my life, now [6m]all of my love is [5]Yours
+You took [4]hold of my life, now [6m]all of my love is [5]Yours
+
+{section: Chorus}
+[5]All that I [6m]have is [1]Yours   [5]
+[5]My soul will [6m]praise [1]forevermore, [5]forevermore
+[5]I come [6m]alive in [1]You, in [5]You
+[5]My soul will [6m]shout [1]forevermore, [5]forevermore
+
+{section: Verse 2}
+Joy, it is my joy to sing, to bring you an offering for you are good
+Grace, your grace has covered me, saved me, and set me free now I am Yours
+
+{section: Bridge 1}
+Forever[4]more, for[6m]ever I am [5]Yours
+Forever[4]more, for[6m]ever I am [5]Yours
+
+{section: Bridge 2}
+[4]We are dancing, we are [6m]singing, we are [1]coming alive  [5]
+[4]We are dancing, we are [6m]shouting, set our [1]hearts on [5]fire

@@ -1,0 +1,25 @@
+{title: You Are the Greatest}
+{artist: David Forlu}
+{key: Ab}
+{tempo: 75}
+
+{section: Intro}
+[4]     [5]     [1]     [4/1]      [4]     [6m]     [5]     [1]     [4]
+
+{section: Bridge}
+[4]No one[5] can measure the [1]greatness of our [4]God
+[4]No one[5] can measure the [1]greatness     [4]
+
+{section: Verse 1}
+O [1]Lord, our [5/7]Lord, Your [2m]name is majes - [4]ty
+Your [1]glory is a -[5] bove the [42]heavens   [4]
+Your [1]splendor is re [5/7] - vealed through the [2m]heavens and the [5/4]earth   [4]
+We stand a - [1]mazed at the [5]gaze of this [42]Beauty
+
+{section: Chorus}
+[1]He is the great[5] - est He is the great[2m7] - est
+[4]Jesus is the greatest of [1]all
+
+{section: Chorus 2}
+[1]You are the great[5] - est You are the great[2m7] - est
+[4]Jesus is the greatest of [1]all

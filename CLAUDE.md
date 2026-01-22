@@ -63,6 +63,23 @@ src/
 - `docs/DEVELOPMENT.md` - Setup, commands, workflow
 - `docs/ROADMAP.md` - Feature phases and planning
 
+## Library
+
+```
+library/
+  *.txt                 - 677 chord charts in Nashville Number format
+  index.json            - Song index (title, artist, key, path)
+```
+
+## Scripts
+
+```
+scripts/
+  build_index.py        - Rebuild library/index.json after adding songs
+  convert_onsong.py     - Convert OnSong files to ChordPro format
+  convert_to_numbers.py - Convert letter chords to Nashville Numbers
+```
+
 ## Reference
 
 - `REF/Charts/` - Sample PDF exports from MultiTracks ChartBuilder

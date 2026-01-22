@@ -1,0 +1,31 @@
+{title: I Have Decided to Follow Jesus}
+{artist: Unknown}
+{key: Db}
+
+{section: Verse 1}
+I have de[1]cided to [4]follow [#1d]Jesus
+I have de[1]cided to [2m]follow[4] Jes[1]us
+I have de[1]cided to [4]follow [3m]Jesu[6m]s
+No [5]turning b[1]ack
+No[7dim] turning [1]back
+
+{section: Verse 2}
+Though none go [1]with me, [4]I still [1]will follow
+Though none go [1]with me, [4]I still [#1d]will follow
+Though none go [1]with me, [4]I still [1]will follow
+No [5]turning b[1]ack
+No[7dim] turning [1]back
+
+{section: Verse 3}
+The world be[1]hind me, the [4]cross be[1]fore me
+The world be[1]hind me, the [4]cross be[1]fore me
+The world be[1]hind me, the [4]cross be[1]fore me
+No [5]turning b[1]ack
+No[7dim] turning [1]back
+
+{section: Verse 4}
+My cross I'll [1]carry till [4]I see [1]Jesus
+My cross I'll [1]carry till [4]I see [1]Jesus
+My cross I'll [1]carry till [4]I see [1]Jesus
+No [5]turning b[1]ack
+No[7dim] turning [1]back

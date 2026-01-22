@@ -1,0 +1,23 @@
+{title: Kindness}
+{artist: Chris Tomlin & Jesse Reeves & Louie Giglio}
+{key: Ab}
+
+{section: Cant Key}
+{section: Book}
+Notes: Guitar Capo 1
+
+{section: Verse 1}
+[1]Open [5/7]up the [6m]skies of mercy[5sus],      [1]Rain [5/7]down the [6m]cleansing flood [5sus]
+[1]Healing [5/7]water [6m]rise around us[5sus],      [4]Hear our cries, Lord, [5sus]Let 'em rise
+
+{section: Chorus}
+It's Your [4]kindness, [1]Lord, That [2]leads us to repentance,
+Your [4]favor, [1]Lord Is our [2m]desire,
+It's Your [4]beauty, [1]Lord, That [2m]makes us stand in silence
+And Your [4]love, Your [5]love is better than [1]life    [5/7]    [6m]    [5sus]
+
+{section: Verse 2}
+[1]We can [5/7]feel Your [6m]mercy falling[5sus],
+[1]You are [5/7]turning our [6m]hearts back again [5sus]
+[1]Hear our [5/7]praises [6m]rise to heaven[5sus],
+[4]Draw us near, Lord, [5sus]Meet us here

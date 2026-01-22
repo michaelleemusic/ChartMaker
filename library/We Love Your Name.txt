@@ -1,0 +1,27 @@
+{title: We Love Your Name}
+{artist: Jaye Thomas}
+{key: A}
+
+{section: Cant Key}
+Book: Camp 2022, Trinity, Slow, Graham
+
+{section: Verse}
+No other [4]god can be [1/3]called a [5]Father
+No other [4]god can be [1/3]called a [5]Friend
+No other [4]god can be [1/3]called Re[5]deemer
+No other [4]god’s coming [1/3]back a[5]gain
+
+{section: Chorus 1}
+[4]How we [6m]love Your [5]name, Je - sus
+You’re the beautiful [4]One, we [6m]love Your [5]name
+
+{section: Chorus 2}
+[4]How we [6m]love You, [5]King of Kings
+[4]How we [6m]love You, [5]Lord of Lords
+
+{section: Bridge}
+[4]We love the [1]fragrance of Your [5]holy name
+[2m]You came and [6m]brought us into the [5]reign of grace
+
+{section: Tag}
+[4]Glo[1]ry [5]to the [2m]Righ[6m]teous [5]One

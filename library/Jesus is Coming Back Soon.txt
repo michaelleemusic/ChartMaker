@@ -1,0 +1,27 @@
+{title: Jesus Is Coming Back Soon}
+{artist: Rachel Faagutu}
+{key: G}
+
+{section: Verse}
+[1]Jesus is coming back [4/1]soon
+[1]He's coming [4/1]down from heaven
+[1]Jesus is coming back [4/1]soon
+[1]He's coming to [4/1]rule the earth
+
+{section: Chorus}
+He'll be riding a [1]white horse  [#2] [3] [4]
+He'll be wearing [1]many crowns   [#2] [3] [4]
+And He's gonna have a [1]sword in His [4]mouth
+And [1]fire in His [4]eyes
+
+{section: Bridge}
+And [b7]every eye will [1]see Him in the sky
+And [b7]every eye will [1]see Him in the sky
+And [b7]every eye will [1]see Him in the sky
+And [b7/2]every eye will [1/3]see Him in the sky
+
+{section: Final Chorus}
+He's the [1]King of Kings (ec[4]ho)
+He's the [1]Lord of Lords (ec[4]ho)
+He's [1]Faithful and True (ec[4]ho)
+And He's com[1]ing back to [4]rule!

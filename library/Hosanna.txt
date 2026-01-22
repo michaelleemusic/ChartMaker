@@ -1,0 +1,45 @@
+{title: Hosanna}
+{artist: Hillsong United}
+{key: E}
+
+{section: Church Key}
+Book: Graham
+
+{section: Intro}
+[6m]  [1]  [2m]  [3m]
+
+{section: Verse 1}
+[1]I see the King of glory
+[6m]Coming on the clouds with fire
+The whole earth [2m]shakes
+The whole earth [3m]shakes yeah[6m]
+[1]I see His love and mercy
+[6m]Washing over all our sin
+The people [2m]sing
+The people [5]sing
+
+{section: Chorus}
+[1/3]Hosan[4]na [5]hosan[6m]na
+Hosan[4]na in the [6m]highe[5]st
+Ho[1/3]sanna[4] ho[5]sanna[6m]
+Ho[4]sanna in the [5]high[6m]est
+
+{section: Verse 2}
+[1]I see a generation
+[6m]Rising up to take their place
+With selfless [2m]faith
+With selfless [3m]faith
+[1]I see a near revival
+[6m]Stirring as we pray and seek
+We're on our [2m]knees
+We're on our [5]knees
+
+Repeat Chorus
+
+{section: Bridge}
+[4]Heal my heart and make it [5]clean
+[1]Open up my eyes to the [6m]things unseen
+[4]Show me how to love like [5]You have loved me[6m]
+[4]Break my heart for what breaks [5]Yours
+[1]Everything I am for Your [6m]Kingdom's cause
+[4]As I walk from earth in[5]to eternity[4]

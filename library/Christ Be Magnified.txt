@@ -1,0 +1,67 @@
+{title: Christ Be Magnified}
+{artist: Cody Carnes, Cory Asbury, Ethan Hulse}
+{key: A}
+
+Church Key: A
+Book: Graham
+
+{section: Intro}
+| [1] / / [5] | [42] / / / | [1] / / [5] | [42] / / / |
+
+{section: Verse 1}
+Were cre[1]ation suddenly artic[42]ulate
+With a [1]thousand tongues to lift on[42]e cry
+Then from [1/3]north to south and [42]east to west
+We'd hear [1/5]Christ be [5(add4)]magnified! [1]      [5]     [42]
+
+{section: Verse 2}
+Were the [1]whole earth echoing His em[42]inence
+His [1]name would burst from sea and [42]sky
+From [1/3]rivers to the [42]mountaintops
+We'd hear "[1/5]Christ be [5(add4)]magnified![1]"       [12]         [1]
+
+{section: Chorus}
+[1]O, Christ be [1sus/2]magnifie[42]d
+Let His [5sus]praise ari[6m7]se
+Christ be [5sus]magnif[42]ied, in me
+[1]O, Christ be [1sus/2]magnifie[42]d
+From the altar [5sus]of my li[6m7]fe
+Christ be [5sus]magnif[42]ied, in me
+
+Turn
+| [1] / / [5] | [42] / / / |
+
+{section: Verse 3}
+When every [1]creature finds its inmost mel[42]ody
+And every [1]human heart its native [42]cry
+Oh then in [1/3]one enraptured [42]hymn of praise
+We'll sing "[1/5]Christ be[5(add4)] magnifie[42]d!"  [46]           [1/4]           [42]
+
+{section: Interlude}
+| [42] / / / | [5(add4)] / / / | [6m7] / / / | [1/3] / / / |
+
+{section: Bridge}
+[42]I won't bow to idols,
+I'll stand [5(add4)]strong and worship You
+If it [6m7]puts me in the fire
+I'll re[1/3]joice ‘cause You're there too
+I [42]won't be formed by feelings
+I hold [5(add4)]fast to what is true
+If the [6m7]cross brings transformation
+Then I'll be c[1/3]rucified with You
+'Cause [42]death is just the doorway
+Into [5(add4)]resurrection life
+If I [6m7]join You in Your sufferings
+Then I'll [1/3]join You when You rise
+And when [42]You return in glory
+With all the [5(add4)]angels and the saints
+My [6m7]heart will still be singing
+And my [5(add4)]song will be the same
+
+{section: Final Chorus}
+[1]O Christ be [1sus/2]magnifie[42]d
+Let His [5sus]praise ari[6m7]se
+Christ be [5sus]magnif[42]ied in me
+[1/5]O Christ be magnif[6m7]ied
+From the altar of my li[1/3]fe
+Christ be [5sus]magnif[42]ied in me  [1]

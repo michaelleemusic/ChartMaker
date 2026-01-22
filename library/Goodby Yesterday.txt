@@ -1,0 +1,78 @@
+{title: Goodby Yesterday}
+{artist: Elevation Rythem}
+{key: Ab}
+
+{section: Church Key}
+Book: Graham, Camp 2025
+
+{section: Intro}
+| [1] / / / | [1] / / / | [1] / / / | [1] / / / |
+| [1] / / / | [1] / / / | [4/1] / / / | [4/1] / / / |
+
+{section: Verse 1}
+[1]Goodbye yesterday
+[4/1]I’m living in the light of a new day
+[1]I won’t waste another minute in my old ways
+[4/1]Praise th[1]e Lord I’ve been born again
+
+Repeat
+
+{section: Instrumental}
+| [1] / / / | [1] / / / | [1] / / / | [1] / / / |
+| [1] / / / | [1] / / / | [4/1] / / / | [4/1] / / / |
+
+{section: Chorus}
+[1]Again and again and again and again
+[4]You rescued me out of the mess I was in
+[1/3]Traded my sorrow for something to sing
+[4]I’m dancing on the grave that I once lived in
+
+{section: Verse 2}
+[1]Goodbye yesterday
+[4]The Spirit of the Lord is upon me
+[1/3]I’ve got resurrection in my veins
+[4]Praise the Lord, I’ve been born again
+
+{section: Chorus 2}
+[4]Again [5]and again [6m]and again and again
+[4]You resc[5]ued me [6m]out of the mess I was in
+[4]Traded m[5]y sorrow [6m]for something to sing
+[2m]I’m danc[5]ing on the grave that I once lived in
+
+{section: Bridge}
+[1]I have [2m]decided
+[1]To fol[2m]low Jesus
+[1]The w[2m]orld behind
+[6m]The cro[5]ss bef[4]ore I won’t turn back
+
+TAG 1 (2x)
+[1](I won’t turn bac)k I won’t turn back
+[4/1](I won’t turn bac)k I won’t turn back
+[1]The world behind
+[6m]The cross[5] before [4]I won’t turn back
+
+{section: Chorus 3}
+[4]Again an[5]d again [6m]and agai[5/7]n and [1]again
+[4]You resc[5]ued me o[6m]ut of t[2m]he mes[1]s I was in
+[4]Traded m[5]y sorrow f[4/Fm]or some[5/7]thing[1] to sing
+[2m]I’m dan[5]cing on the grave that I once lived in
+
+Chorus 2
+
+{section: Tag 2}
+[4]Praise t[5]he Lord [6m]I’ve be[2m]en bo[1]rn again
+[4]Praise t[5]he Lord [6m]I’ve beeEb/Gn bor[1]n aga[2m]in  [5]
+
+INSTRUMENTAL (Guitar Only) (2x)
+| [1] / / / | [1] / / / | [1] / / / | [1] / / / |
+| [1] / / / | [1] / / / | [4/1] / / / | [4/1] / / / |
+
+{section: Tag 3}
+[1]I’m dancing on the grave that I once lived in
+[2m]I’m dancing on the grave that I once lived in
+[1/3]I’m dancing on the grave that I once lived in
+[4]I’m dancing on the grave that I once lived in
+[1/5]I’m dancing on the grave that I once lived in
+[2m]I’m dancing on the grave that I once lived in
+[1/3]I’m dancing on the grave that I once lived in
+[6m]Praise t[5]he Lord [4]I’ve been born again

@@ -1,0 +1,43 @@
+{title: My Heart is Yours}
+{artist: Kristian Stanfill}
+{key: A}
+
+{section: Intro}
+[1] [5/7] [2]  [3m] [1] [3m] [2]
+
+{section: Verse 1}
+I [1]give You my life [5/7]
+I g[2]ive You my trust [3m]
+[1]Je  [3m]-   [2]sus
+[1]You are my God [5/7]
+[2]You are enough [3m]
+[1]Je  [3m]-   [2]sus
+[1]Je  [3m]-   [2]sus
+
+{section: Chorus}
+My [1]heart is Yours
+My [2]heart is Yours
+Take it [1]all, take it all
+My [3m]life in Your [2]hands
+
+{section: Verse 2}
+I l[1]ay down my life [5/7]
+And t[2]ake up my cross [3m]
+[1]Je  [3m]-   [2]sus
+[1]You are my God [5/7]
+What[2]ever the cost [3m]
+[1]Je  [3m]-   [2]sus
+Oh, [1]Je  [3m]-   [2]sus
+
+Chorus 2x
+
+{section: Bridge}
+[5]All to Jesus [2]I surrender
+[3m]All to You I fre[2]ely g[5]ve
+[5]I will ever l[2]ove and trust You
+[3m]In Your pr[1]esence I [2]will live [5] (2nd time [#2])
+
+{section: Ending}
+Take it a[1]ll
+Take it a[1]ll
+My l[3m]ife in Your ha[2]nds

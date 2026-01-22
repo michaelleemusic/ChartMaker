@@ -1,0 +1,33 @@
+{title: My Beloved}
+{artist: Cory Asbury}
+{key: C#m}
+
+{section: Intro}
+[1m]One thing have I desired of the Lord and that one thing I seek
+To know You, To know You
+
+{section: Pre Chorus}
+[1m]I was,
+I was made to gaze, all of my days
+I was made to [#5]gaze on [#2]beau[b7]ty
+
+{section: Chorus}
+[1m]My beloved is beautiful
+He's dazzling and excellent
+My beloved is beauti[#5]ful  [b7]  [1m]
+
+{section: Bridge 1}
+He stands [1m] alone [#5]
+[b7]He stands alo[1m]ne [#5] [b7]
+
+{section: Bridge 2}
+He's [1m]coming to rule, coming to reign
+He is the King, He is the King
+He's [1m]coming to rule, coming to reign
+[#5]Jesus, [b7]Jesus
+
+{section: Ending}
+[#5]  [5m]  [1m]
+
+{section: Antiphonal}
+[1m]   [#5]   [b7]

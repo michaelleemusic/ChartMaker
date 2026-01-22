@@ -1,0 +1,48 @@
+{title: The Blessing}
+{artist: Elevation Worship}
+{key: B}
+
+{section: Verse}
+[1]The Lord bless you[4] and keep you
+[1/3]Make His face shine u[5sus]pon you
+And be gracious to [6m]you
+The Lord turn His[4] face toward you
+[1/3]And [5sus]give you [1]peace
+
+{section: Interlude}
+| [1] / / / | [1sus] / / / |
+
+{section: Chorus}
+[6m7]A  - [4]men
+A[1]men, A[5]men
+[6m7]A  - [4]men
+A[1]men, A[5]men
+
+{section: Interlude}
+| [6m7] / / / | [4] / / / | [1] / / / | [5] / / / |
+
+{section: Bridge 1}
+May His [6m7]favor be upon you
+And a [4]thousand generations
+And your [1]family and your children
+And their [5]children and their children
+
+{section: Bridge 2}
+May His [6m7]presence go before you
+And [4]behind you and beside you
+All a[1]round you and within you
+He is [5]with you he is with you
+
+In the [6m7]morning in the evening
+In your [4]coming and your going
+In your [1]weeping and rejoicing
+He is [5]for you He is for you
+
+{section: Bridge 3}
+(Play bridge 1 and 2)
+
+{section: Tag}
+He is [6m7]for you He is for you
+He is [4]for you He is for you
+He is [1]for you He is for you
+He is [5]for you He is for you

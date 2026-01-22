@@ -1,0 +1,15 @@
+{title: Eagles Wings}
+{artist: Reuben Morgan}
+{key: G}
+
+{section: Cant Key}
+
+{section: Verse 1}
+[2m]Here I am [5]waiting, [1]abide in [1/7]me I [6m]pray
+[2m]Here I am [5]longing, for [1]You    [6m]
+[2m]Hide me in [5]Your Love, [1]bring me to my [1/7]knees    [6m]
+[2m]May I know [5]Jesus more and[1] more
+
+{section: Chorus}
+[1]Come live in[6m] me, all my[2m] life, take [5]over
+[1]Come breathe i[6m]n me, and I will[2m] rise, on [5]Eagle[1]'s Wings

@@ -1,0 +1,28 @@
+{title: Amazed}
+{artist: Lincoln Brewster}
+{key: E}
+
+BPM:  76
+
+{section: Verse 1}
+You [1]dance, o[4]ver [5]me
+While [1]I, am [4]unaw[5]are
+You [1]sing, [4]all a[5]round
+but I [2m]never hear the [5]sound
+
+{section: Chorus}
+Lord I'm [4]amazed by You[5]
+Lord I'm ama[1]zed by You
+Lord I'm ama[2m]zed by You[5]
+And how You love [1]me
+
+{section: Verse 2}
+You [1]paint, the [4]morning s[5]ky
+With [1]mira[4]cles in [5]mind
+My [1]hope will [4]always [5]stand
+For You [2m]hold me in Your [5]hand
+
+{section: Bridge}
+How d[4]eep  [5]
+How wi[1]de [4]
+How g[2m]reat, i[5]s Your love for me [1]

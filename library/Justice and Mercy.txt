@@ -1,0 +1,24 @@
+{title: Justice and Mercy}
+{artist: Matt Redman}
+{key: D}
+
+{section: Verse 1}
+[12]You've put a new song in my mouth It is a hymn of praise to You
+[12]Justice and mercy are its theme
+[2m7]And  [1/3]I    [4]will live it [5]back to [12]You  [#5]    [12/5]    [4m7]
+[6m]The kind of [5/3]fast You've [4]chosen L[5]ord, it must reach out
+[6m]To bro[5/3]ken live[4]s into the core[5], so change me Lord
+I [1/3]know You a[4maj7]re the orph[1/3]ans' hope I[4maj7] know You are the widows song
+Oh [1/6]Lord, You're [1/3]showing me what's[2m7] on Your he[52]art
+
+{section: Chorus}
+[12]You've [1/3]put a  [4]new song [5]in my [1]mouth. [1/3]    [4]    [5]
+[12]It  [1/3]is a  [4]hymn of [5]praise to [1]You  [1/3]    [4]    [5]
+[1/3]Justice and [4]mercy [5]are its [1]theme,  [1/3]    [4]    [5]
+[2m7]And  [1/3]I will [4]live it [5]back to [1]You  [#5]    [12/5]    [4m7]
+
+{section: Verse 2}
+Lord, I won't bring an empty song, it's meaningless
+Without compassion in my life, and holiness
+Your Father where no Father lives and to the lonely or a friend
+Oh Lord, You're showing me what's on Your heart

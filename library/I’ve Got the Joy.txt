@@ -1,0 +1,34 @@
+{title: I’ve Got the Joy}
+{key: A}
+
+Intro: A | D | A | E
+
+{section: Verse 1}
+[1]I’ve got the joy, joy, joy, joy down in my heart, (where!?)
+[5]Down in my heart, (where?), [1]down in my heart,
+[5]I’ve got the [1]joy, joy, joy, joy down in my heart, (where!?)
+[5]down in my [5]heart to [1]stay.
+
+{section: Chorus}
+And I’m so [4]happy, so very [1]happy.
+I’ve [5]got the love of [57]Jesus in my [1]heart.
+And I’m so [4]happy, so very [1]happy.
+I’ve [5]got the love of [57]Jesus in my [1]heart.
+
+{section: Verse 2}
+[1]I’ve got the peace that passes understanding down in my heart
+[5]Down in my heart, (where?), [1]down in my heart,
+[5]I’ve got the [1]peace that passes understanding down in my heart
+[5]down in my [5]heart to [1]stay.
+
+{section: Verse 3}
+[1]I’ve got the love of Jesus, love of Jesus, down in my heart
+[5]Down in my heart, (where?), [1]down in my heart,
+[5]I’ve got the [1]love of Jesus, love of Jesus, down in my heart
+[5]down in my [5]heart to [1]stay.
+
+{section: Verse 4}
+[1]I’ve got the wonderful love of my blessed redeemer way down in the depths of my heart
+[5]Down in my heart, (where?), [1]down in my heart,
+[5]I’ve got the [1]wonderful love of my blessed redeemer way down in the depths of my heart
+[5]down in my [5]heart to [1]stay.

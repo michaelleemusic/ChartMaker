@@ -1,0 +1,33 @@
+{title: You have won my heart}
+{artist: Bryan McCleery}
+{key: E}
+
+{section: Cant Key}
+{section: Book}
+
+{section: Verse}
+Up on the moun[1]tain
+Or down in the valley [4]low
+You have[6m] my heart   [4]
+
+{section: Pre Chorus}
+And this I know,[1] with my hand in Yours
+You will l[5]ead me over the mountain
+Through the vall[6m]ey to Your fountains that n[4]ever run dry
+
+{section: Pre Chorus}
+[1]Oh oh oh oh
+[5]Oh oh oh oh
+[6m]Oh oh oh oh
+[4]Oh oh
+
+{section: Chorus}
+You have won my heart [1]
+You have won my heart [5]
+You have won my heart [6m]
+Oh oh oh [4]
+
+{section: Bridge}
+Through every [4]trial and tribulat[6m]ion on this jour[5]ney of my sou[1]l
+Come be the visio[4]n that ho[6m]lds my eye[5]s up to Your thron[1]e
+(x2)

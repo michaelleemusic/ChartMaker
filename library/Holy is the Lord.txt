@@ -1,0 +1,24 @@
+{title: Holy is the Lord}
+{artist: Chris Tomlin}
+{key: G}
+
+{section: Verse 1}
+[1]We stand and[42] lift up o[5sus]ur hands
+For th[1/3]e joy of the[42] Lord is our[52] strength.
+[1]We bow[42] down and[5sus] worship Him now.
+How[1/3] great, how[42] awesome is[5sus] He
+
+{section: Pre Chorus}
+And together we[27] sing[42],
+Everyone[27] sing[42],
+
+{section: Chorus}
+Holy is the[1] Lord[42] God Alm[5sus]ighty,
+The[6m7] earth is[42] filled with His[5sus] glory.
+Holy is the[1] Lord[42] God Alm[5sus]ighty,
+The[6m7] earth is[42] filled with His[5sus] glory,
+The[6m7] earth is[42] filled with His[5sus] glory.
+
+{section: Bridge}
+It's[1] rising up[5/7] all around,
+It's the[1] anthem of the[42] Lord's renown

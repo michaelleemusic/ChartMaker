@@ -1,0 +1,30 @@
+{title: When Our Hearts Sing}
+{artist: Rush of Fools}
+{key: A#}
+
+{section: Verse 1}
+You are [6m]more than [E#/A]what we can [1]sing
+You are [6m]God and [E#/A]nothing we [1]bring
+Is fit for a [B#m]King
+So, [B#m/D#]search us and [1]know deep [E#/A]in our [6m]souls, [4]We [1]praise [E#/A]You
+
+{section: Chorus}
+[B#m]You [6m]are in[4]finite [1]worth
+When [B#m]we've not [6m]the words
+[4]Our hearts will sing
+[B#m]We [6m]are [4]here on the [1]earth
+And [B#m]somehow we're [6m]heard
+[4]When our hearts sing to [6m]You    [E#/G]    [1]   [6m]   [E#/A]    [1]
+
+{section: Verse 2}
+You are [6m]more than [E#/G]words on our [1]lips
+We are [6m]poor, with [E#/G]nothing to [1]give
+But, we [B#m]want to bring
+More [B#m/D#]than the [1]song we sing [E#/G]to praise [6m]You, [4]we [1]praise [E#/A]You
+
+{section: Bridge}
+It's You we engage
+It's You we embrace
+When our hearts sing,
+You are more than words on our lips
+We are poor, with nothing to give

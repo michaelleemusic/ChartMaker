@@ -1,0 +1,32 @@
+{title: O Come All Ye Faithful}
+{artist: Traditional}
+{key: G}
+
+Books: Christmas
+
+{section: Verse 1}
+O[1] come, all ye[5] faithful
+[1]Joyful and trium[5]phant
+[6m]O come [2]ye, oh c[5]ome ye to Be[2]--thl[5]ehem
+[1]Come and be[57]hold [1]Him
+[5]Born the [6m]king of [5]angels
+
+{section: Chorus}
+O [1]come let us adore Him
+O [1]come let us adore Him
+O [4]come let[1/3] us ad[5]ore Him
+[1]Christ [5]the [1]lord
+
+{section: Verse 2}
+[1]Sing, Choirs of [5]angels
+[1]Sing in exulta[5]tion
+[6m]Sing [2]all ye c[5]itizens of heav[2]en a[5]bove!
+[1]Glory to [57]God[1]
+[5]Glory [6m]in the [5]highest
+
+{section: Verse 3}
+[1]Yea, Lord we [5]greet thee
+[1]Born this happy mor[5]ning
+[6m]Jes[2]us to [5]Thee be all glo[2]ry g[5]iven
+[1]Word of the [57]Fath[1]er
+[5]Now in [6m]flesh ap[5]pearing

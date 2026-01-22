@@ -1,0 +1,28 @@
+{title: Made to worship}
+{artist: Rachel Faagutu}
+{key: G}
+
+{section: Church Key}
+{section: Book}
+
+{section: Verse 1}
+[1]I was made to worship, [4]I was made to praise (2x)
+
+{section: Chorus}
+Now I [6m]know what I was made for
+Now I [4]know what I was made for
+Now I [6m]know what I was made for
+Halle[5]lujah!
+
+{section: Verse 2}
+[1]I was made to talk to God, [4]I was made to praise (2x)
+
+{section: Verse 3}
+[1]I was made to love God, [4]I was made for love (2x)
+
+{section: Verse 4}
+[1]I was made to love you, [4]I was made for love (2x)
+
+{section: Ending Chorus}
+ D Em G
+[1]Hallelujah! [4]Hallelujah! [6m]Hallelujah! [5]Hallelujah!

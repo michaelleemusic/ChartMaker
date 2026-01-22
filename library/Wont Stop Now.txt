@@ -1,0 +1,44 @@
+{title: Won't Stop Now}
+{artist: Elevation Worship}
+{key: A}
+
+{section: Verse 1}
+I give You g[1]lory
+For all [4]You’ve brought me throu[1]gh
+And now I’m r[6m]eady
+For what[5]ever You wanna do [4]
+
+{section: Verse 2}
+I'm moving for[1]ward
+To fo[4]llow after Y[1]ou
+And now I’m rea[6m]dy
+For whatev[5]er You wanna do [4]
+
+{section: Chorus}
+Your [1]presence
+Is an [2m]open [1]door
+We want You [6m]Lord like [5]never [4]before
+Your [1]presence
+Is an [2m]open [1]door
+So come now [4]Lord like [2m]never be[1]fore
+
+{section: Verse 3}
+In every sea[1]son
+Your g[4]race has been eno[1]ugh
+And I’m beli[6m]eving
+The bes[5]t is yet to come [4]
+
+{section: Verse 4}
+The cross befor[1]e me
+My hope [4]on things above  [1]
+And in You J[6m]esus
+The best[5] is yet to come [4]
+
+{section: Bridge Intro X2}
+[4]  [6m]  [5]  [1/3]
+
+{section: Bridge}
+[1/3]-[4]I know breakthrough is coming
+[6m]-[5]By faith I see a miracle
+[1/3]-[4]My God made me a promise
+And it [6m]-[5]won’t stop now

@@ -1,0 +1,56 @@
+{title: Brave}
+{artist: Saddleback Kids}
+{key: E}
+{tempo: 135}
+
+{section: Verse}
+No I won[1]'t be afraid,
+You are with[4] me
+You are righ[1]t beside me,
+Every[4]day
+
+Even whe[1]n it feels like,
+everything is go[4]ing wrong
+I can [1]look up to You God,
+and find my st[4]rength
+
+{section: Pre Chrorus}
+O[1]h [5]oh [1]oh
+[4]Your love has lifted me
+O[1]h [5]oh [1]oh
+[4]Above the raging sea
+O[1]h [5]oh [1]oh
+[4]And I just gotta say
+O[1]h [5]oh [1]oh
+
+{section: Chorus}
+Your love makes me bra[1]ve
+And I won'[6m]t be a[5]fraid [4]
+Your love makes me bra[1]ve
+I can fa[6m]ce any[5]thing [4]
+Your love makes me brave
+
+{section: Verse 2}
+I was lo[1]st and afraid
+Until You foun[4]d me
+You lif[1]ted me up and
+Gave me stren[4]gth
+
+Anywhe[1]re that I go
+You go with [4]me
+Lord You gi[1]ve me the courage
+To live each [4]day
+
+Pre Chrorus
+
+{section: Bridge}
+[2m]Your word will light my way
+[6m]Your word will help me to st[5]and
+[2m]I know I'm safe with You
+[6m]I know I'm held in Your ha[5]nds
+
+{section: Bridge 2}
+[2m]Your word will light my way
+[6m]Your word will help me to st[5]and
+[3m]I know I'm safe with You
+I know I'm held in Your ha[4]nds

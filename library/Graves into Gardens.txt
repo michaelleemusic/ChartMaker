@@ -1,0 +1,67 @@
+{title: Graves into Gardens}
+{artist: Elevation Worship}
+{key: B}
+
+{section: Book}
+
+{section: Intro}
+[1] / / / / / | / / / [4/1] / /
+[1] / / / / / | / / /
+
+{section: Verse 1}
+[4/1]I searched the [1]world
+But [4/1]it couldn’t [1]fill me
+Man’s empty p[6m]raise
+and treasures that [5]fade
+Are never e[4]nough
+
+{section: Verse 2}
+Then You came a[1]long
+And put [4/1]me back tog[1]ether
+And every de[6m]sire is now satis[5]fied
+Here in Your [4]love
+
+{section: Chorus}
+Oh there’s n[1]othing better than You
+There’s [6m]nothing better than You
+Lord there’s [4]nothing,
+nothing is better than [1]You
+
+{section: Turnaround}
+[1] / / / / / | / / / [4/1] / / x2
+
+{section: Verse 3}
+I’m not a[1]fraid
+To [4]show You my wea[1]kness
+My failures and [6m]flaws
+Lord You’ve seen them [5]all
+And You still call me [4]friend
+
+{section: Verse 4}
+‘Cause the God of the [1]mountain
+Is the [2m]God of the [1]valley
+There’s not a [6m]place
+Your mercy and [5]grace
+Won’t find me [4]again
+
+{section: Chorus}
+Oh there’s n[1]othing better than You
+There’s [6m]nothing better than You
+Lord there’s [4]nothing,
+nothing is better than [1]You
+
+{section: Bridge 1}
+[1]You turn mourning to dancing  [4]  [1]
+You give beauty for ashes  [4]  [1]
+[1]You turn shame into glory
+You’re the [6m]only [4]one who [1]can.
+
+{section: Bridge 2}
+[1]You turn graves into gardens  [4]  [1]
+You turn bones into armies  [4]  [1]
+[1]You turn seas into highways
+You’re the [6m]only [4]one who [1]can.
+You’re the [6m]only [4]one who [1]can.
+
+{section: Tag}
+You’re the [6m]only [4]one who [1]can.

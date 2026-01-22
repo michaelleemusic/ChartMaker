@@ -1,0 +1,55 @@
+{title: Great Things}
+{artist: Phil Wickham}
+{key: B}
+
+{section: Cant Key}
+Book: Camp 2022, Dance, Medium, Graham
+
+{section: Intro}
+[1] [1] [2m7] [6m7] [6m7]  [4]
+
+{section: Verse 1}
+[1]Come, let us worship our King
+[1]Come, let us bow at His feet
+He has done [45]great things
+[1]See what our Savior has done
+[1]See how His love overcomes
+He has done [45]great things
+He has done [6m7]great things[5sus]
+
+{section: Chorus}
+O [1]Hero of Heaven, You conquered the grave
+You [6m7]free every captive and break every chain
+O [45]God, You have done great things
+We [1]dance in Your freedom, awake and alive
+O [6m7]Jesus, our Savior, Your name lifted high
+O [45]God, You have done great things
+
+{section: Interlude}
+[1] [1] [2m7] [6m7] [6m7]  [4]
+
+{section: Verse 2}
+You've been [1]faithful through every storm
+You'll be [1]faithful forevermore
+[1/2]You [1/3]have done [45]great things
+And I [1]know You will do it again
+For Your [1]promise is Yes and Amen
+[1/2]You [1/3] will do [45]great things
+God, You do [6m7]great things[5sus]
+
+{section: Interlude}
+[1] / / / | [1] / / / |
+
+{section: Bridge}
+[42]Hallelujah, [5sus]God, above it all
+[6m]Hallelujah, [3m]God, unshakable
+[42]Hallelujah, [5sus]You, have done great [6m]things  [1/3]
+
+[42]Hallelujah, [5sus]God, above it all
+[6m]Hallelujah, [3m]God, unshakable
+[42]Hallelujah, [5sus]You, have done great [6m]things
+You've done great [5/7]things
+
+{section: Tag}
+[5sus]   You have done [6m7]great things
+[5sus]    O God You do [42]great things

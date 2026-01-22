@@ -1,0 +1,36 @@
+{title: Because He Lives}
+{artist: Gloria Gaither, William J. Gaither}
+{key: G}
+{tempo: 68}
+
+{section: Verse 1}
+[1]God sent His son, they called Him, [4]Jesus;
+He came to [1]love, heal and [5]forgive;    [57]
+He lived and [1]died [17]to buy my [4]pardon,
+An empty [1]grave is there to [5]prove my Savior [1]lives!
+
+{section: Chorus}
+[1]Because He lives, [17] I can face [4]tomorrow,
+Because He [1]lives, all fear is [5]gone;
+Because I [1]kn[5]ow[1] He holds the [4]future,
+And life is [1]worth the living,
+[5]Just because He [1]lives!
+
+{section: Verse 2}
+[1]How sweet to hold a newborn [4]baby,
+And feel th[1]e pride and [5]joy he g[57]ives;
+But greater s[1]till [17]the calm ass[4]urance:
+This child [1]can face uncertain [5]days because He [1]Lives!
+
+{section: Chorus}
+[1]Because He lives, [17] I can face [4]tomorrow,
+Because He [1]lives, all fear is [5]gone;
+Because I [1]kn[5]ow[1] He holds the [4]future,
+And life is [1]worth the living,
+[5]Just because He [1]lives!
+
+{section: Verse 3}
+[1]And then one day, I'll cross the [4]river,
+I'll fight life's [1]final [5]war with pai[57]n;
+And then, as [1]death [17] gives way to [4]vict'ry,
+I'll see the [1]lights of glory [5]and I'll know He [1]lives!

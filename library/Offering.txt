@@ -1,0 +1,26 @@
+{title: Offering}
+{artist: Paul Balouche}
+{key: E}
+
+{section: Verse}
+The [1]sun can not [5add9]compare to the [4]glory of your [1]love,
+[4]There is no shadow in your[52] presence.
+[1]No mortal man would [5add9]dare to [4]stand upon your [1]throne,
+[4]Before the holy one of [52]heaven.
+
+{section: Pre Chorus}
+Its [4]only by your [1]blood, and its [32]only thr[#237]ough your[6m] merc[6m7]y,
+[5add9]Lord   [4]I  [1]come.
+
+{section: Chorus}
+[1]I bring an [4]offering of [52]worship to my [1]king.
+No one on [4]earth deserves the [52]praises that I [1]sing.
+Jesus may [4]you receive the [52]honor that your [2]due.
+Oh[4] Lord I bring my [5add9]offering to [1]you.
+I bring an [4]offering to [1]you
+
+{section: Bridge}
+O [4]Lord I bring an [52]offering to [2]you
+O [4]Lord I bring an [52]offering to [b7]you [4]
+O [4]Lord I bring an [52]offering to [1]you[5add9]    [1]    [4]
+I bring an [4]offering to [1]you.

@@ -1,0 +1,24 @@
+{title: Seek Ye First}
+{artist: Karen Lafferty}
+{key: C}
+
+CCLI: 1352
+Original Key: C
+
+{section: Verse 1}
+[5]Seek ye [5/7]first the [6m]kingdom of [1/5]God
+[4]And His [1]righteous[5]ness
+[1]And all these [5/7]things shall be [6m]added unto [1/5]you
+[4]Alle[1]lu, all[5]elu[1]ia
+
+{section: Verse 2}
+[1]Man does not [5/7]live by [6m]bread [1/5]alone
+[4]But by [1]every [5]word
+[1]That pro[5/7]ceeds from the [6m]mouth of [1/5]God
+[4]Alle[1]lu, alle[5]lui[1]a
+
+{section: Verse 3}
+[1]Ask and it [5/7]shall be [6m]given unto [1/5]you
+[4]Seek and [1]ye shall [5]find
+[4]Knock and the [5/7]door shall be [M]opened unto [1/5]you
+[4]Alle[1]lu, all[5]elu[1]ia

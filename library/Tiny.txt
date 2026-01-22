@@ -1,0 +1,21 @@
+{title: Tiny}
+{artist: Ben & Robin Pasley}
+{key: G}
+
+{section: Verse 1}
+[52]With my tiny hands, [42]with my tiny fingers
+[1]I will reach out hard to [52]you
+[52]In this tiny room, [42]with these tiny people
+[1]I will tell the truth to [52]you
+
+{section: Chorus}
+[6m7]You are faithful, [42]you are strong
+[6m7]You are goodness, I[42] am wrong
+[6m7]You are larger, more than a[42]nything
+You're everything to [52]me
+
+{section: Verse 2}
+[52]With my tiny words, i[42]n this tiny song
+[1]I will sing my heart to [52]you
+[52]On my tiny knees, [42]with my tiny dreams
+[1]I will give my life to Y[52]ou

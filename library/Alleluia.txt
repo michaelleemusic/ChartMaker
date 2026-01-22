@@ -1,0 +1,30 @@
+{title: Alleluia}
+{artist: Jesus Culture}
+{key: E}
+{tempo: 70}
+
+{section: Intro}
+[1]  [4]
+
+{section: Verse}
+[1]Father we have c[4/1]ome, to bow [6m]down [5]in wo[4]rship
+[1]Lifting up our h[4/1]earts, we bow [6m]down [5]in p[4]rayer
+
+{section: Chorus}
+[4]A-ll[1]elu-[5]ia, [4]Love[1]r of our [5]souls
+[4]A-ll[1]elu-[5]ia, With all of [4]heave[1]n we are sin[5]ging
+
+{section: Verse 2}
+[1]Bright and morning [4]star, Your eyes [6m]blaze [5]like [4]fire
+[1]Shining like the s[4]un, You're our [6m]one [5]des[4]ire
+
+{section: Bridge}
+[4]All the angels [1]cry out,
+[5]Holy is the [6m]Lord God
+[4]All the earth [1]replies,
+[5]Holy are [6m]You
+
+{section: Bridge 2}
+[4]Alleluia
+[5]Alleluia
+[4]Alleluia, [5]Holy are you

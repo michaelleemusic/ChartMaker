@@ -1,0 +1,35 @@
+{title: Where You Are}
+{artist: Leeland}
+{key: G}
+
+{section: Verse 1}
+[1]I can’t get enough
+No, [6m]I can’t get enough
+Of [2m]your amazing love
+No, [4]I can’t get enough
+
+[1]I can’t walk away
+No, [6m]I can’t walk away
+For [2m]I have seen Your face
+No, [4]I can’t walk away
+
+{section: Chorus}
+[1]I just want to be where You are
+[6m]I just want to be near Your heart
+There is [2m]nothing like your love
+There is [4]nothing like your love
+
+{section: Instrumental}
+[1]  [6m]  [2m]  [4]
+
+{section: Bridge}
+[1]Oooooh  [6m]Oooooh [2m]Oooooh
+Jesus, I L[]]ove You
+Jesus, I L[4]ove You
+
+{section: Outro}
+With all the angels singing
+[1]Holy, Holy
+[6m]Holy, Holy
+[2m]Holy, Holy
+[4]Jesus, I love You

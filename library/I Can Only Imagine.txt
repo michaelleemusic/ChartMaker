@@ -1,0 +1,25 @@
+{title: I Can Only Imagine}
+{artist: Bart Millard}
+{key: E}
+
+{section: Verse 1}
+I can only i[12]magine what it will be like, When I [1/4]walk by your [42]side
+I can only i[12]magine what eyes will see, When your [1/4]face, is before [42]me
+I can only i[12]magine, [1/4]yea,  [42]
+
+{section: Chorus}
+[42]Surrounded by Your glory, what [5]will my heart feel,
+Will I [12]dance for you Jesus, or in awe of You be still
+Will I [42]stand in Your presence, or to my [5]knees will I fall
+Will I [12]sing Hallelujah, will I be able to speak at all
+I can only i[42]magine, I [5sus]can only i[12]magine
+
+{section: Verse 2}
+I can only [1]imag[12]ine, when that [1]day [12]comes, And I [1/4]find my[42]self, standing [1/4]in ths [42]Son
+I can only [1]imag[12]ine, when [1]all [12]I will do, Is f[1/4]oreve[42]r, forever [1/4]worshi[42]p you
+I can only [1]imag[12]ine y[1]ea, [12]I can only [1/4]imagi[42]ne  [1/4]    [42]
+
+{section: Bridge}
+I can only i[42]magine, I[5] can only i[1]magine I can only [42]imagine, I[5] can only [5/6]imagine
+I can only [42]imagine, when all[5] I would do
+Is [5/6]foreve[6/7]r,  forever [5/6]worshi[6m7]p you, [42]  [5]I can only ima[1]gine

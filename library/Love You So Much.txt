@@ -1,0 +1,19 @@
+{title: Love You So Much}
+{artist: Russell Frager}
+{key: D}
+
+{section: Verse 1}
+[17]Hear these praises from a grateful heart,
+[47]Each time I think of You the praises start
+Love You[69/5] so  [59]much, [69/5]Je----[59]sus, Love You [4/1]so  [1]much
+
+{section: Verse 2}
+[17]Lord, I love You , My soul sings,
+[47]In Your presence, Carried on Your wings
+Love You[69/5] so  [59]much, [69/5]Je----[59]sus, Love You [4/1]so  [1]much
+
+{section: Chorus}
+How my [6]soul longs for [3m7]You, Longs to [4]worship You for[1]ever
+In Your [4]power and [3sus]ma-----[3]je--[6m7]sty,
+Lift my [6m]hands, lift my [3m7]heart, Lift my [4]voice towards the [1]heavens
+For [4]You are my [3sus]sun    [3]and [6m7]sheild

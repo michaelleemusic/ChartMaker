@@ -1,0 +1,13 @@
+{title: Praise Ye the Lord}
+{key: G}
+
+Hall[1]elu, Hall[17]elu, Hall[4]elu, Hall[2m]elujah!
+[57]Praise Ye the [1]Lord!
+Hall[1]elu, Hall[17]elu, Hall[4]elu, Hall[2m]elujah!
+[57]Praise Ye the [1]Lord!
+
+{section: Chorus}
+[1]Praise Ye the [2m]Lord, Hallelujah!
+[5]Praise Ye the [1]Lord, Hallelujah!
+[1]Praise Ye the [2m]Lord, Hallelujah!
+[5]Praise Ye the [1]Lord, Hallelujah!

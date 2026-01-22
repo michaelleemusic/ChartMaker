@@ -1,0 +1,50 @@
+{title: The River}
+{artist: Jordan Feliz}
+{key: Am}
+
+{section: Verse 1}
+I know a [1m]place, Where we can [b7]go
+To lay the [5m]troubles, Down eatin’ your [#5]soul
+I know a [1m]place, Where mercy [b7]Flows
+Take the [5m]stains, Make you whiter than [#5]snow
+
+{section: Pre Chorus}
+Like a [1m]tide,It is ri[b7]sing up deep inside
+A cu[#5]rrent that [4m]moves, And makes it come alive
+[1m]Living water, [b7]That brings the dead to life
+[#5]Oh, [4m]Oh
+
+{section: Chorus}
+We're going [1m]down to the river
+[b7]Down to the river
+[#2]Down to the river to [4m]pray
+Let's get wa[1m]shed by the water
+[b7]Washed by the water
+And [#2]rise up in amazing gr[4m]ace
+Let's go [1m]down, down, [b7]down
+[b7]To the river
+[#2]You will le[4m]ave changed
+Let's go [1m]down, down, [b7]down
+[b7]To the river
+[#2]Never [4m]the same
+
+{section: Verse 2}
+I've seen it [1m]move, In my own [b7]life
+Took me from d[5m]usty roads, Into para[#5]dise,
+All of my [1m]dirt, All of my [b7]shame
+Drowned in the st[5m]reams
+That've made me born ag[#5]ain
+
+{section: Bridge}
+Let's go [1m]down
+Ooh, [b7]Ooh, [#2]Ooh[4m]
+Let's go [1m]down
+Ooh, [b7]Ooh, [#2]Ooh[4m]
+Let's go [1m]down
+
+{section: Coda}
+Go [1m]down
+Go, [b7]Go [#2]
+Gotta go, gotta go, gotta [4m]go, Down in amazing grace
+[1m]Down, Down, D[b7]own to the river
+[#2]Gotta go, gotta go, gotta [4m]go, Down in amazing grace

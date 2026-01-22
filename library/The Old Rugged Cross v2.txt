@@ -1,0 +1,27 @@
+{title: The Old Rugged Cross}
+{artist: George Bennard}
+{key: G}
+
+{section: Verse 1}
+On a [1]hill far away, stood an [4/1]old rugged cross
+The [54/1]emblem of su[4/1]ffering and s[1]hame
+And I lo[1]ve that old cross where the d[4/1]earest and best
+For a [54/1]world of lost si[4/1]nners was s[1]lain
+
+{section: Chorus}
+And I'll [5]cherish the old rugged [6m]cross
+until my [4/1]trophies at last I lay [1]down  [5/7]
+I will [6m]cling to the old rugged [4/1]cross
+And ex[6m7]change it some[5]day for a [4/1]crown  [1]
+
+{section: Verse 2}
+In the [1]old rugged cross, stained with [4/1]blood so divine
+A [54/1]wonderous [4/1]beauty I [1]see
+For t'was [1]on that old cross Jesus suf[4/1]fered and died
+To [54/1]pardon and [4/1]sanctify [1]me
+
+{section: Verse 3}
+To the [1]old rugged cross I will [4/1]ever be true
+Its [54/1]shame and [4/1]reproach gladly [1]bear
+Then He'll [1]call me some day to my h[4/1]ome far away
+Where His [54/1]glory for[4/1]ever I'll [1]share

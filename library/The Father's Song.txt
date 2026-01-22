@@ -1,0 +1,15 @@
+{title: The Father's Song}
+{artist: Martin Smith}
+{key: Eb}
+
+{section: Verse 1}
+[1]I have heard so[1/7] many songs [1/b7]  listened to a[4/6] thousand tongues
+But [2m]there is one that [5]sounds above them [6m]all  [5/7]    [4/6]
+[1]The Fathers song, the [1/7]Fathers love, [1/b7]  you sung it over[4/6] me and for
+[2m]Eternity it's[5] written on my [1]heart
+
+{section: Chorus}
+[1/3]Heavens perfect[4/6] melody.[5/7]  the creators [1/3]symphony  [4]
+You are singing [2m]over me,[5] the Fathers[6m] song [5/7]
+[1/3]Heavens perfect[4/6] mystery,[5/7]  the King of love has [1/3]sent for me [4]
+And now you're singing [2m]over me,[5] the Fathers [1]song

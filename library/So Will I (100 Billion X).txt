@@ -1,0 +1,78 @@
+{title: So Will I (100 Billion X)}
+{artist: Hillsong United}
+{key: A}
+
+{section: Intro}
+| [4] /// | //// | [6m] /// | [5] //// |
+
+{section: Verse 1}
+[4]God of creation [6m]there at the start
+[5]before the beginning of [4]time [6m] [5]
+[4]With no point of reference [6m]You spoke to the dark
+and [5]fleshed out the wonder of [4]light    [1/3]            [5]
+
+{section: Chorus 1}
+And as You [1]speak a hundred billion [6m]galaxies are [5]born
+In the vapor of Your breathe the [1/3]planets [4]form
+If the [6m]stars were made to [4]worship so will [1]I
+I can see Your heart in [6m]everything You've [5]made
+Every burning star a [1/3]signal fire of [4]grace
+If [6m]creation sings Your [4]praises so will I [1]
+
+{section: Turnaround 1}
+| [1] /// | //// | //// | [6m] /// |
+| [56] /// | //// | //// | [1/3] /// |
+
+{section: Verse 2}
+[4]God of Your promise
+You [6m]don't speak in vain
+No [5]syllable empty or [4]void [6m] [5]
+[4]For once You have spoken all [6m]nature and science
+[5]follow the sound of Your [4]voice      [1/3]            [5]
+
+{section: Chorus 2}
+And as You [1]speak a hundred billion [6m]creatures catch Your [5]breath
+Evolving in pur[1/3]suit of what You [4]said
+If it [6m]all reveals Your [4]nature so will [1]I
+I can see Your heart in [6m]everything You [5]say
+Every painted sky a [1/3]canvas of Your [4]grace
+If [6m]creation still [4]obeys You so will I [1]
+
+{section: Turnaround 2}
+| [4] /// | //// | [6m] /// | [56] /// || 2x
+
+{section: Bridge}
+If the [4]stars were made to worship so will [6m]I        [56]
+If the [4]mountains bow in reverence so will [6m]I       [56]
+If the [4]oceans roar Your greatness so will [6m]I        [56]
+For if [4]everything exists to lift You [6m]high so will [56]I
+If the [4]wind goes where You send it so will [6m]I [5]   [5/1]
+If the [4]rocks cry out in silence so will [6m]I [5]   [5/1]
+If the [4]sum of all our praises still falls [6m]shy [5] [5/1]
+Then [4]we'll sing again a hundred billion [6m]times [5] [5/1]
+
+{section: Instrumental}
+| [4] /// | [5add4/4] // [5add4/2] // | [6m] /// | [5] // [5/1] // |
+2x
+
+{section: Verse 3}
+[4]God of salvation You [6m]chased down my heart
+Through [5]all of my failure and [4]pride [6m] [5]
+[4]On a hill You created the [6m]light of the world
+[5]abandoned in darkness to [4]die [6m] [5]
+
+{section: Chorus 3}
+And as You [1]speak a hundred billion [6m]failures dis[5]appear
+Where You lost Your life so [1/3]I could find it [4]here
+If You [6m]left the grave be[4]hind You so will [1]I
+I can see Your heart in [6m]everything You've [5]done
+Every part designed in a [1/3]work of art called [4]love
+If You [6m]gladly chose sur[4]render so will [1]I
+I can see Your heart [6m]eight billion different [5]ways
+Every precious one a [1/3]child You died to [4]save
+If You [6m]gave Your life to [4]love them so will [1]I
+
+{section: Tag}
+[1]Like You would again a [6m7]hundred billion [5]times
+But what measure could [1/3]amount to Your [4]desire
+You're the [6m7]One who never [4]leaves the one be[1]hind

@@ -1,0 +1,29 @@
+{title: I Need the Every Hour}
+{artist: Annie S. Hawks}
+{key: G}
+
+{section: Verse 1}
+I [1]need Thee every hour, most gra[4]cious [1]Lord;
+No [57]tender voice like [1]Thine can [27]peace af[57]ford.
+
+{section: Chorus}
+I [1]need Thee, O I [57]need Thee;
+Every hour I [1]need Thee;
+O b[4]less me now, my [1]Saviour,
+I come [57]to [1]Thee.
+
+{section: Verse 2}
+I need Thee every hour, stay Thou nearby;
+Temptations lose their power when Thou art nigh.
+
+{section: Verse 3}
+I need Thee every hour, in joy or pain;
+Come quickly and abide, or life is in vain.
+
+{section: Verse 4}
+I need Thee every hour; teach me Thy will;
+And Thy rich promises in me fulfill.
+
+{section: Verse 5}
+I need Thee every hour, most Holy One;
+O make me Thine indeed, Thou bless'd Son.

@@ -1,0 +1,24 @@
+{title: Light the Fire}
+{artist: Bill Maxwell}
+{key: G}
+
+{section: Verse 1}
+I [1]stand to[3m7] praise You,
+But [4]I fall to my[5] knees.
+My [1]spirit is[3m7] willing,
+But my[4] flesh is so[5sus] weak.   [5]
+
+{section: Chorus}
+[1]Light the[2m7] fire (echo)
+[1]In my [5]soul, (echo)
+[1]Fan the [2m7]flame, (echo)
+[1]Make me [5]whole. (echo)
+[1]Lord, You[2m7] know (echo)
+[1]Where I've[5] been, (echo)
+So light the[4] fire in my[5] heart[1] again.
+
+{section: Verse 2}
+I [1]feel Your arms[3m7] around me,
+As the[4] power of Your healing[5] begins.
+You[1] breathe new life right[3m7] through me,
+Like a[4] mighty rushing[5sus4] wind.   [5]

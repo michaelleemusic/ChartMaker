@@ -1,0 +1,15 @@
+{title: We are Hungry}
+{artist: Brad Kilman}
+{key: G}
+
+{section: Verse 1}
+[1]Lord I [5/7]want more of You, [6m]Living Water [42]rain down on me
+[1]Lord I [5/7]need more of You, [6m]Living breath of [42]life come fill me up (x2)
+
+{section: Chorus}
+[1]We are [5/7]hungry, We are [6m]hungry, We are [42]hungry for more of [1]You
+[1]We are [5/7]thristy O’ [6m]Jesus, We are [42]thirsty for more of [1]You (x2)
+
+{section: Bridge}
+[1]We lift [5/7]our holy hands up, [6m]We want to [42]touch You
+[1]We lift [5/7]our voices higher, [6m]And higher [42]and higher to You(x2)

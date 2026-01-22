@@ -1,0 +1,39 @@
+{title: I Have Decided}
+{artist: Jaye Thomas}
+{key: E}
+
+{section: Verse 1}
+I see [1]kindness in Your [5/7]eyes
+I hear [1]mercy in Your [5/7]voice
+So I [3m]give my life
+Make me [1]faithful to You [2]Lord
+
+{section: Chorus}
+[1] I [2]have [3m]decided
+To [1]leave all I [2]am all I've [3m]known
+[1] I [2]have [3m]decided
+To [1]follow wher[2]ever You go  [5/7]
+
+{section: Verse 2}
+I turn [1]away from worthless [5]things
+And I [1]find a brand new [5]start
+Empty [3m]love had bound me
+You [1]revived my dying [2]heart
+
+{section: Bridge}
+[1] I’ve made my de[5]cision
+[2] I’ve made up my [3m]mind, oh oh oh
+[1] I’ve made my de[5]cision, Jesus
+[2] I will give You my [3m]life, oh oh oh
+
+{section: Chorus Vamp}
+[1] Lead me on[2] I will [3m]follow You
+[1] Lead me on[2] I will [3m]follow You
+[1] Good Shepherd, [2]Good Shepherd [3m]of my soul
+[1]Oh  [2]Oh  [5]Oh
+
+{section: Tag}
+All for the sake of [1]love
+All for the sake of [5]love
+I give it all [2]up
+I give it all [3m]up

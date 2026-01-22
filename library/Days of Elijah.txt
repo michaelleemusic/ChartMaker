@@ -1,0 +1,40 @@
+{title: Days of Elijah}
+{artist: Robin Mark}
+{key: A}
+
+{section: Cant Key}
+Book: Camp 2022, Dance, Fast, Camp Fast, Fast
+
+{section: Verse 1}
+[1]These are the days of E[4]lijah,
+dec[1]laring the [5]word of the [1]Lord
+And these are the days of your [4]servant Moses,
+[1]righteousness [5]being [1]restored
+And [3m]though these are days of great [6m]trials,
+of [4]famine and darkness and [5]sword
+still [1]we are the voice in the [4]desert crying,
+[1]"Prepare ye the [5]way of the [1]Lord"
+
+{section: Chorus}
+Be[5sus]hold [5]he [1]comes riding on the [4]clouds
+Shining like the [1]sun at the trumpet [5]call
+So [5sus]lift [5]your [1]voice it's the year of [4]Jubilee
+And out of Zion's [1]hill sal[5]vation [1]comes    [1sus/4]    [1]    [1sus/4]
+
+{section: Verse 2}
+And [1]these are the days of [4]Ezekiel,
+the [1]dry bones [5]becoming as [1]flesh
+And these are the days of Your [4]servant [1]David,
+rebuilding a [5]temple of [1]praise
+And [3m]these are the days of the [6m]harvest,
+the [4]fields are white in the [5]world
+And [1]we are Your laborers [4]in Your vineyard,
+[1]declaring the [5]Word of the [1]Lord
+
+{section: Bridge 1}
+[1]Who was and [b7]Who is and [4]Who is to [1]come
+[1]Who was and [b7]Who is and [4]Who is to [1]come
+
+{section: Bridge 2}
+[1]There's no God like Jehovah, [4]there's no God like Jehovah,
+[1]There's no God like Jehovah, [5]there's no God like Jehovah.

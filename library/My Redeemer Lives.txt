@@ -1,0 +1,25 @@
+{title: My Redeemer Lives}
+{artist: John Willison}
+{key: A}
+
+{section: Verse 1}
+For [1]I know my[5] Redeemer[1] lives [1/3]
+And in the[4] end He will stand on the[5sus] earth[5]
+For I[1] know my[5] Redeemer[1] lives [1/3]
+And in the[4] end He will reign on the[5sus] earth[5]
+Though my[4] flesh it be destro[2m7]yed
+Yet with my[5] eyes I will see G[57]od
+
+{section: Chorus}
+For [4]I know that[5] my Rede[4]emer [1]lives
+And I will[4] stand with him[5] on that da[1]y    [5]
+For [4]I know that[5] my Rede[4]emer[1] lives
+And I will[4] stand with him[5] on that da[1]y
+
+{section: Verse 2}
+Oh my[1] heart it[5] yearns wit[1]hin me[1/3]
+For the [4]day when Jesus re[5sus]turns [5]
+Oh my [1]heart it[5] yearns wit[1]hin me[1/3]
+For the[4] day when Jesus shall[5sus] reign[5]
+Though my[4] flesh it be destro[2m7]yed
+Yet with my[5] eyes I will see G[57]od

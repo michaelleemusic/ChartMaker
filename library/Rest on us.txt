@@ -1,0 +1,33 @@
+{title: Rest on us}
+{artist: Maverick City Music}
+{key: G}
+
+{section: Church Key}
+{section: Book}
+
+{section: Verse 1}
+[1]Like the Spirit was moving over the waters
+[4]Spirit come move over us
+[6m]Come rest on us, [4]come rest on us
+[1]Like the Spirit was moving over the waters
+[4]Spirit come move over us
+[6m]Come rest on us, [4]come rest on us
+
+{section: Chorus}
+[1]Come down, Spirit when you move
+You make my [4]heart pound, When you fill the room
+[6m]Youre here and I know you are moving, [4]I'm here and I know you will fill me
+[1]Come down, Spirit when you move
+You make my [4]heart pound, When you fill the room
+[6m]Youre here and I know you are moving, [4]I'm here and I know you will fill me
+
+{section: Verse 2}
+[1]Fire and wind would you do it again
+[4]Open up the gates let Heaven come in
+[6m]Come rest on us, [4]come rest on us
+[1]Fire and wind would you do it again
+[4]Open up the gates let Heaven come in
+[6m]Come rest on us, [4]come rest on us
+
+{section: Bridge}
+[1]Holy spirit [4]come rest on us [6m]you're all we want, [4]youre all we want (6x)

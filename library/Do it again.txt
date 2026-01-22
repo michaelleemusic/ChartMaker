@@ -1,0 +1,59 @@
+{title: Do it again}
+{artist: Elevation Worship}
+{key: Bb}
+
+{section: Intro}
+| [4] // [1/3] // |
+2x
+
+{section: Verse 1}
+[4]Walking around these walls
+[1/3]I thought by now they'd fall
+[46]But You have never failed me yet [1]
+[4]Waiting for change to come
+[1/3]Knowing the battle's won
+[46]For You have never failed me yet [1]
+
+{section: Chorus}
+[4/6]Your promise still [5/7]stands
+Great is Your faith[1]fulness
+[4]Faithfulness
+[4/6]I'm still in Your [5/7]hands
+This is my con[1]fidence
+You've [4]never failed me yet [1/3]
+
+{section: Turnaround}
+| [4] // [1/3] // [4] |
+
+{section: Verse 2}
+[4]I know the night won't last
+[1/3]Your word will come to pass
+[46]My heart will sing Your praise a[1]gain
+[4]Jesus You're still enough
+[1/3]Keep me within Your love
+[46]My heart will sing Your praise a[1]gain
+
+{section: Intstrumental}
+| [4] [1/3] [4] [5/7] | [1] [5/7] [1] [1/3] |
+2x
+
+{section: Bridge}
+[4]I've seen You move [1/3]
+[4]You move the moun[5/7]tains
+[1]And I believe [5/7]
+[1]I'll see You do [1/3]it again
+[4]You made a way [1/3]
+[4]Where there was no [5/7]way
+[1]And I believe [5/7]
+[1]I'll see You do [1/3]it again
+|3x|
+
+{section: Tag}
+[4] [1/3] [4] I'll see You [5/7]do it [1]a-[5/7]gain
+[1] // [1/3] [4] [5] [6m] [5/7] [1] | [5/7] // [1] // |
+
+{section: Turnaround}
+You've never failed me [1/3]yet
+I [4]never will forget [1/3]
+You've [4]never failed me yet [1/3]
+I [4]never will forget [1/3] [4]

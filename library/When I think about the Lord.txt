@@ -1,0 +1,19 @@
+{title: When I think about the Lord}
+{artist: Hillsong Worship}
+{key: G}
+
+{section: Verse 1}
+When I [1]think about the [3sus]Lord [3]
+How He [6m]saved me
+How He [1]raised me
+How He [4maj7]filled me up with the [1]Holy Ghost
+How He [4maj7]healed me to the [4/2]utter[5]most
+When I [1]think about the [3sus]Lord [3]
+How He [6m]picked me up and [1]turned me around
+And [4maj7]set my feet [1]on solid [2m]ground
+
+{section: Chorus}
+It [4/5]makes me [5]wanna [1]shout hallelu[3sus4]jah
+[3]Thank you [6m]Jesus
+Lord You're [17]worthy of all the [4maj7]glory
+All the [1]honor, All the [4maj7/5]praise

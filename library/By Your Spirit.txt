@@ -1,0 +1,29 @@
+{title: By Your Spirit}
+{artist: Tasha Cobbs}
+{key: F#m}
+
+{section: Chorus}
+[1m]Not by might, not by p[#5]ower
+[b7]By your spirit God
+[5m7]Send your spirit God
+
+{section: Verse}
+[1m]You are the fire, [#2]we are the temple
+[b7]Your are the voice, [4m]we are your song
+[1m]You are our God, [#2]we are your people
+[b7]You are the light, [4m]We stand in awe  [#2/5]  [#5]
+
+{section: Verse 2}
+[1m]You called us out, [#2]out of the darkness
+[b7]Into your love, [4m]into your light
+[1m]Grace upon grace, [#2]beauty for ashes
+[b7]You come to us, [4m]we come alive  [#2/C#m]  [#5]
+
+{section: Bridge}
+[1m]We stand in awe of you  [b7]  [5m7]  [#5]
+[1m]We stand in awe of you  [b7]
+
+{section: Bridge 2}
+[#2/#5]Breathe,  [b7]   Come and breathe on [#2/1]us   [#5]  [b7]
+Spirit breath[#2/#5]e   [b7]
+Come and breathe  [4m7]on   [1m7]us   [b7]

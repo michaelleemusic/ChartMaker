@@ -1,0 +1,28 @@
+{title: Reason to Dance}
+{artist: Jonathan Stockstill, Corey Bastin, Dustin West}
+{key: G}
+
+BPM: 127
+
+Intro: [4] [1] [5] [2m7]
+
+{section: Verse 1}
+[6m]What has He done for [1]you?
+Has He gi[5]ven life, Has He [2m7]given freedom
+[6m]What has He done for [1]you?
+Has He g[5]iven hope, Has He gi[2m7]ven healing
+
+{section: Pre Chorus}
+[6m]Yes He has for [1]me  - - [5]He's done it fo[2m7]r me.
+[6m]Yes He has for [1]you.      [5]
+[5]So if you're feeling alive, then sing it out.
+
+{section: Chorus}
+[4]We won't let the ro[1]cks cry out in[5]stead of us,
+[2m7]We will lift our vo[4]ices, vo[1]ices to y[5]ou.
+[4]We will tell the wo[1]rld of all He’s done for [5]us,
+[2m7]We will lift our vo[4]ices, voi[1]ces to y[5]ou.
+You've given us a reason to [4]dance!   [1]     [5]    [2m7]
+
+{section: Bridge}
+[6m]

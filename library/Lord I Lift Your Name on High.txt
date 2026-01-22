@@ -1,0 +1,15 @@
+{title: Lord I Life Your Name on High}
+{artist: Rick Founds}
+{key: G}
+
+{section: Verse 1}
+[1]Lord, I [4]lift your name on [5]high [4]
+[1]Lord, I [4]love to sing your [5]praises [4]
+[1]I'm so [4]glad you're in my [5]life [4]
+[1]I'm so [4]glad you came to [5]save [4]us
+
+{section: Chorus}
+[1]You came from [4]heaven to [5]earth to [4]show the[1] way
+From the[4] earth to the[5] cross my [4]debt to [1]pay
+From the[4] cross to the[5] grave, from the [6m]grave to the [2m]sky
+Lord, I [5]lift your name on [1]high

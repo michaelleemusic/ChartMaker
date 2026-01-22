@@ -1,0 +1,51 @@
+{title: Adventure Song}
+{artist: Angel Studios, Brandon Engman}
+{key: E}
+
+{section: Verse 1}
+[1]There's a light in the distance, And if you listen
+You'll hear it calling your name
+It takes courage to follow, But trust me and let's go
+And you'll see the world start to change
+
+{section: Pre Chorus}
+So [2m]don't waste a moment on [5]staying too focused on [1]problems that might be a[4]head
+And [2m]when it gets dark, don't [4]ever let your heart for[5]get
+
+{section: Chorus}
+To [1]run, run toward adventure
+To what[4]ever comes your [1]way
+Come on and [6m]taste the kind of freedom
+Only the [4]wilderness con[5]tains
+Don't care if [1]people call us crazy
+What's the [4]fun in playing [6m]safe?
+I wanna [4]run, [6m]run, [5]run, run
+
+{section: Verse 2}
+[1]Feel the wind blowing, the sun in your eyes
+And [6m]breathe in those mercies so [4]new
+Come [1]on, can't you see it? Those wide open skies
+They [4]call and my feet have to [5]move
+
+{section: Pre Chorus}
+I [2m]wasn't called to be caged by [5]four walls, I'm [1]exactly where I want to [4]be
+If [2m]my future was up to me, I'd [4]only wanna be [5]free, oh
+
+{section: Chorus}
+I want to [1]run, run with the horses
+Through the [4]water and the flame
+What's to [6m]fear when Heaven's with me?
+When the [4]unknown calls my [5]name
+I want to [1/3]climb the highest mountain
+Face what[4]ever comes my [6m]way
+I wanna [4]run, [6m]run, [5]run, run
+
+{section: Chorus}
+I wanna [1]run, run toward adventure
+To what[4]ever comes my way
+I wanna [6m]taste the kind of freedom
+Only the [4]wilderness con[5]tains
+Don't care if [1/3]people call me crazy
+What's the [4]fun in playing [6m]safe?
+I wanna [4]run, [6m]run, [5]run, run
+I wanna [4]run, [6m]run, [5]run, run

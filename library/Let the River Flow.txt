@@ -1,0 +1,23 @@
+{title: Let the River Flow}
+{artist: Darrell Patton Evans}
+{key: E}
+
+{section: Verse 1}
+Let the [1]poor man [1sus]say, "I am [1]rich in H[1sus]im.",
+Let the [1]lost man [1sus]say, "I am [1]found in H[1sus]im."    [1]
+[42]Oh, Let the river [1]flow[1sus],    [1]    [1sus]
+
+{section: Verse 2}
+Let the [1]blind man [1sus]say, " I can [1]see aga[1sus]in."
+Let the [1]dead man [1sus]say, "I am [1]born aga[1sus]in.",    [1]
+[42]Oh, Let the river [1]flow[1sus],
+[42] Let the river [1]flow[1sus]    [1]    [1sus]
+
+{section: Chorus}
+[1]Let the river [5sus]flow, [42]Let the river [5sus]flow,    [42]
+[1]Holy spirit [5sus]come, [42]Move in [5sus]power
+Let the [2m11]river flow
+
+{section: Bridge}
+Let the [2m11]river flow, Let the river flow (x3)
+Let the river [42]flow

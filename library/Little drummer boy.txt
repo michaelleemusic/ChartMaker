@@ -1,0 +1,30 @@
+{title: Little Drummer Boy}
+{artist: Katherine Kennicott Davis}
+{key: D}
+
+{section: Verse 1}
+[1]Come they told me, pa [4]rum pum pum p[1]um
+[1]A new born King to see, pa [4]rum pum pum [1]pum
+[5]Our finest gifts we bring, pa [1]rum pum pum [5]pum
+[5]To lay before the King, pa [1]rum pum pum [4]pum,
+[4]rum pum pum [1]pum, [1]rum pum pum [5]pum,
+[1]So to honor Him, pa [4]rum pum pum [1]pum,
+[5]When we [1]come.
+
+{section: Verse 2}
+[1]Little Baby, pa [4]rum pum pum [1]pum
+[1]I am a poor boy too, pa [4]rum pum pum [1]pum
+[5]I have no gift to bring, pa [1]rum pum pum [5]pum
+[5]That's fit to give the King, pa [1]rum pum pum [4]pum,
+[4]rum pum pum [1]pum, [1]rum pum pum [5]pum,
+[1]Shall I play for you, pa [4]rum pum pum [1]pum,
+[5]On my [1]drum?
+
+{section: Verse 3}
+[1]Mary nodded, pa [4]rum pum pum [1]pum
+[1]The ox and lamb kept time, pa [4]rum pum pum [1]pum
+[5]I played my drum for Him, pa [1]rum pum pum [5]pum
+[5]I played my best for Him, pa [1]rum pum pum [4]pum,
+[4]rum pum pum [1]pum, [1]rum pum pum [5]pum,
+[1]Then He smiled at me, pa [4]rum pum pum [1]pum
+[5]Me and my [1]drum.

@@ -1,0 +1,36 @@
+{title: Vision}
+{artist: Michelle Wilson}
+{key: Bb}
+
+{section: Verse}
+[15]Spirit of wisdom, and revelation
+Lay bare what was hidden from our eyes.
+Lead us into intimacy with you
+Where Your wisdom lies.
+
+[15]Spirit of wisdom, and revelation
+Fill our hears with light.
+Let us understand your invitation
+Your power in this life.
+
+{section: Chorus}
+[1/3]  We want to [4]see You, We want to [6m]know [5sus]You
+[1/3]  God's [4]glory is in [6m]your gaze [5sus]Jesus
+
+[1/3]  We want to live like [4]You, We want to [6m]show [5sus]You
+[1/3]  God's [4]glory is in [6m]your gaze [5sus]Jesus
+
+{section: Interlude}
+[1sus/2]   [1]  [6m]  [5sus]
+
+{section: Bridge 1}
+[1sus/2]Give us [1]vision into [6m]your heart, [5sus] Jesus
+[1sus/2]We want to [1]know you more   [6m]  [5sus]
+
+{section: Bridge 2}
+You are [1sus/2]seated, You are [1]seated
+Far [6m]above every ruler and [5sus]power
+
+{section: Bridge 3}
+King [1sus/3]Jesus, King [1/4]Jesus
+Far [6m]above every ruler and [5sus]power

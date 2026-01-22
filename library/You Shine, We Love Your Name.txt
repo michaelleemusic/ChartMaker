@@ -1,0 +1,38 @@
+{title: You Shine / We Love Your Name}
+{artist: Chris Tofilon, Jaye Thomas}
+{key: G}
+
+You Shine
+{section: Chorus}
+[1]You shine [4]brighter than the sun
+[1/3]In the heavens or on the e[4]arth, there is no, not one
+Like [1]You, Lord
+
+{section: Bridge}
+H[1]oly Father, [4]holy Son
+[6m]Ho - [5]ly S[4]pirit
+
+{section: Bridge 2}
+You [1/5]shine, [4/6]     You [6m]shine  [5]   [4]
+
+{section: Chorus}
+[1/5] You shine [4/6]brighter than the sun
+[6m] In the he[5]avens or on the e[4]arth, there is no, not one
+Li[1/5]ke You, Lord
+
+{section: How We Love Your Name}
+
+{section: Chorus 1}
+[4]How we [6m]love Your [5]name, Je - sus
+You’re the beautiful [4]One, we [6m]love Your [5]name
+
+{section: Chorus 2}
+[4]How we [6m]love You, [5]King of Kings
+[4]How we [6m]love You, [5]Lord of Lords
+
+{section: Bridge}
+[4]We love the [1]fragrance of Your [5]holy name
+[2m]You came and [6m]brought us into the [5]reign of grace
+
+{section: Tag}
+[4]Glo[1]ry [5]to the [2m]Righ[6m]teous [5]One

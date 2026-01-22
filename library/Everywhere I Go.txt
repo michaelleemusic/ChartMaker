@@ -1,0 +1,45 @@
+{title: Everywhere I Go}
+{artist: Tim Timmons}
+{key: E}
+{time: 4/4}
+
+{section: Intro}
+[1]   [1sus]   [1]   [6m]   [5sus]
+
+Ev'erywhere I go, on this road, high and low
+Where I go, I go with You
+
+{section: Verse 1}
+  There’s a [1]city that calls me by name
+There’s a [4]city that calls me by [1]name
+Yes, as [6m]I run this ra[5]ce, I am che[1/3]ered by the saints
+There’s a [1]city that c[5]alls me by [1]name
+
+{section: Verse 2}
+There’s a [1]future that runs through my veins
+There’s a [4]future that runs through my [1]veins
+And there’s [6m]nothing on [5]Earth
+That can [1/3]stand in the way
+There’s a [1]future that [5]runs through my [1]veins
+
+{section: Chorus}
+[1]Ev'erywhere I go, on this road, high and low
+[4]Where I go, I [5]go with [1]You
+So [1]I won’t be afraid, this my hope, come what may
+[4]Where I go, I [5]go with [1]You
+[4]Where I go, I [5]go with [1]You
+
+{section: Verse 3}
+There’s a [1]spirit I cannot contain
+There’s a [4]spirit I cannot [1]contain
+The same [6m]power that [5]raised Jesus [1]up [5/7]from [6m]grave
+The same [1]spirit I [5]cannot con - [1]tain
+
+{section: Bridge}
+Your [4]breath upon these [1]bones
+Your [4]fire in my [1]soul
+Your [4]kingdom is my [3m]home
+And [6m]I don’t walk a - [5]lone
+
+{section: Outro}
+[4]Where I go, I [5]go with [1]You

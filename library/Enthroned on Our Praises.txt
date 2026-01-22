@@ -1,0 +1,24 @@
+{title: Enthroned on Our Praises}
+{artist: Brenton Dowdy}
+{key: G}
+
+{section: Verse}
+[6m] Let the song we [5/7]sing be an overflowing [2]theme
+From the bottom of our hearts we lift You [6m]up
+You’re the [5/7]name above all [2]names
+[6m] Let the praise we [5/7]bring be an overflowing[2] spring
+Where the waters never run out or dr[6m]y up
+Enthrone Your [5/7]presence on our pra[2]ise
+[6m] Enthrone Your [5/7]presence on our pra[2]ise
+
+{section: Chorus}
+[1] There is one vic[2]tory, there is one [3m]song
+We will [7m]sing it, we will sing it to You
+[1] There is one king[2]dom, there is one [3m]throne
+You will bring [7m]it, You will bring it as we [1]sing
+
+{section: Bridge}
+[1] We lift You up, Your kin[2]gdom comes down [3m]
+We sing Your praise, we see Your [5/7]glory all a[1]round
+We shout Your name and we t[2]remble at the [6m]sound
+[5/7] You are enth[1]roned on our prai[2]ses

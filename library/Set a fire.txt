@@ -1,0 +1,15 @@
+{title: Set a Fire}
+{artist: Jesus Culture}
+{key: G}
+
+{section: Verse}
+[1]No place I'd rather be
+[4]No place I'd rather be
+[6m]No place I'd rather be
+Than [4]here in your love, here in your love
+
+{section: Chorus}
+[1]So set a fire down in my so[4]ul
+That I can't contain, that I can't cont[6m]rol
+I want more of you Go[4]d,
+I want more of you Go[4]d

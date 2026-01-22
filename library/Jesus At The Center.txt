@@ -1,0 +1,39 @@
+{title: Jesus At The Center}
+{artist: Israel Houghton}
+{key: A}
+
+{section: Book}
+
+{section: Intro}
+[1] [2m7] [1/3] [4]
+
+{section: Verse 1}
+[1]Jesus at the [2m7]center of it [1/3]all
+[4]Jesus at the [1]center of it [5]all
+From be[4]ginning to the [1]end
+It will [5]always be, it's [6m7]always [5]been You, [4]Jesus, [5sus]Jesus [5]
+
+{section: Chorus}
+[1]Noth[2m7]ing [1/3]else mat[4]ters
+[2m7]Nothing in this world will [1]do
+[1]Je-[2m7]sus [1/3]You're the cen[4]ter
+And [2m7]everything revolves around [6m7]You
+Jesus, [5]You
+
+{section: Verse 2}
+[1]Jesus be the [2m7]center of my [1/3]life
+[4]Jesus be the [1]center of my [5]life
+From be[4]ginning to the [1]end
+It will [5]always be, it's [6m7]always [5]been You, [4]Jesus, [5sus]Jesus [5]
+
+{section: Bridge}
+From my [5]heart to the Heavens
+[6m7]Jesus be the cen[5]ter
+It's [4]all about You
+Yes it's [5]all about You
+
+{section: Verse 3}
+[1]Jesus be the [2m7]center of Your [1/3]church
+[4]Jesus be the [1]center of Your [5]church
+and [4]every knee will [1]bow
+and [5]every tongue con[6m7]fess that [5]you are [4]Jesus, [5sus]Jesus [5]

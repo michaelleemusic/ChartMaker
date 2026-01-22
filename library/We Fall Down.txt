@@ -1,0 +1,15 @@
+{title: We Fall Down}
+{artist: Chris Tomlin}
+{key: F#}
+
+{section: Verse 1}
+[1]We fall down, we [5]lay our [6m7]crowns
+at [4]the feet of [2m]Jesus,
+The [1]greatness of [5]mercy and [6m7]love
+at [4]the feet of [2m]Jesus
+
+{section: Chorus}
+[1/3]And we cry [4]holy, [1/3]holy, [2m]holy
+[1/3]And we cry [4]holy, [b7/2]holy, [2m]holy
+And we cry [4]holy, [1/3]holy, [2m]holy
+[5sus]Is [5]the lamb  [1]

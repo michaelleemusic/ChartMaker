@@ -1,0 +1,41 @@
+{title: Shekinah Glory}
+{artist: Bethel Music, Lydia Stanley}
+{key: C}
+
+{section: Verse}
+We wait for [1]You
+We wait for [4]You
+We wait for [6m]You
+To walk in the [5]room
+
+{section: Chorus}
+[1]Here we are standing in Your presence
+[1]Here we are standing in Your presence
+[4]Shekinah glory come down
+[4]Shekinah glory come down
+
+{section: Bridge}
+Release the full[1]ness of Your [5]Spirit
+[6m]Shekinah glory come
+[4]Shekinah glory come
+
+{section: Bridge 2}
+When You m[1]ove, we want more
+And when You [5]speak, we want more
+When You [6m]move, we want more
+We want the f[4]ullness
+As You m[1]ove, we want more
+You [5]speak and we want more
+You [2m]move and we want more
+We want the f[4]ullness
+
+{section: Bridge 3}
+[4]Can't get enough, can't get enough
+[1]Can't get enough, of Your presence, presence
+[5]Can't get enough, of Your presence, presence
+[2m]Can't get enough, of Your presence, presence
+
+{section: Bridge 4}
+The [1]Lord has given His [4]freedom
+Given His [2m]freedom
+Given His [5]joy

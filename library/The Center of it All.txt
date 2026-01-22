@@ -1,0 +1,73 @@
+{title: The Center of it All}
+{artist: Mac Powell}
+{key: B}
+
+Church Key: E
+Book: Graham
+
+{section: Intro}
+| G#m7 / F#sus | E2 / B / |
+
+{section: Verse 1}
+From the [6m7]coolness of the [5sus]garden
+To the [42]chaos of the fa[1]ll
+When we [6m7]saw the Red Sea pa[5sus]rted
+And Jericho's [42]tumbling wa[1]lls
+A love was [6m7]leading us to [5sus]freedom
+You were [42]teaching us Your so[1]ng
+Through [6m7]every page of [5sus]history
+You're [42]right where You belong
+
+{section: Chorus}
+From the [6m7]beginning to the [5sus]ending
+You're the [42]center of it [1]all
+It's [6m7]for You and it's [5sus]from You
+[42]You and You a[1]lone
+The [42]Author of our [1]story
+Let it [6m7]all be for Your [5sus]glory
+From the [6m7]beginning to the [5sus]ending
+You're the [42]center of it all
+
+{section: Verse 2}
+From the [6m7]promise of the [5sus]prophets
+[42]To the virgin bi[1]rth
+The [6m7]one who healed the [5sus]blind man
+Was the [42]King that came to se[1]rve
+On a [6m7]cross, You bore my [5sus]burden
+Took my [42]sin down to the gr[1]ave
+And [42]on that Sunday [1]morning
+You [5sus]rolled the stone awa[1]y
+
+{section: Turnaround}
+| G#m7 / F#sus | E2 / B / |
+| G#m7 / F#sus | E2 / B / |
+
+{section: Verse 3}
+And the [6m7]tears that we've been cr[5(add4)]ying
+You're [42]gonna wipe awa[1]y
+When You [6m7]call us home to he[5(add4)]aven
+And we [42]see You face to fa[1]ce
+We will [6m7]join the saints and a[5(add4)]ngels
+We will [42]raise a victory so[1]ng
+Singing [6m7]Holy, Holy, H[5(add4)]oly
+To the [42]center of it [1]all   [1]
+
+{section: Final Chorus}
+From the [6m7]beginning to the [5sus]ending
+You're the [42]center of it [1]all
+It's [6m7]for You and it's [5sus]from You
+[42]You and You a[1]lone
+The [42]Author of our [1]story
+Let it [6m7]all be for Your [5sus]glory
+From the [6m7]beginning to the [5sus]ending
+You're the [42]center of it [1]all
+
+{section: Tag}
+From the [6m7]beginning to the [5sus]ending
+You're the [42]center of it all
+
+{section: Outro}
+[6m7]  [5sus]
+[42]  You're the [1]center of it all
+[6m7]  [5sus]
+You're the [42]center of it [1]all

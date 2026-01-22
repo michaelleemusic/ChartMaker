@@ -1,0 +1,56 @@
+{title: This Is Amazing Grace}
+{artist: Josh Farro, Phil Wickham, Jeremy Riddle}
+{key: G}
+
+Meter: 4/4
+Tempo: 98
+Book: Camp 2022, Medium
+
+{section: Intro}
+[1]  [4]  [6m]  [5]  [1]
+
+{section: Verse 1}
+[1]Who breaks the power, of sin and darkness
+[4]Whose love is mighty, and so much stronger
+[6m]The King of Glory, [5]the King above all kings [4]
+[1]Who shakes the whole earth, with holy thunder
+[4]Who leaves us breathless, in awe and wonder
+[6m]The King of Glory, [5]the King above all kings [4]
+
+{section: Chorus 1}
+This is amazing gr[1]ace
+This is unfailing l[4]ove
+That You would take my pl[6m]ace
+That You would bear my cr[5]oss
+You would lay down Your l[1]ife
+That I would be set fr[4]ee -- ee -- ee
+[4]            [6m]Jesus, I sing for,
+[5]All that You've done for me[1]
+
+----
+{section: Verse 2}
+[1]Who brings our chaos, back into order
+[4]Who makes the orphan, a son and daughter
+[6m]The King of Glory, [5]the King above all kings [4]
+[1]Who rules the nations, with truth and justice
+[4]Shines like the sun in, all of its brilliance
+[6m]The King of Glory, [5]the King above all kings [4]
+
+{section: Chorus 1}
+This is amazing gr[1]ace
+This is unfailing l[4]ove
+That You would take my pl[6m]ace
+That You would bear my cr[5]oss
+You would lay down Your l[1]ife
+That I would be set fr[4]ee -- ee -- ee
+[4]            [6m]Jesus, I sing for,
+[5]All that You've done for me[1]
+
+{section: Bridge}
+[1]Worthy is the Lamb who was slain
+[4]Worthy is the King who conquered the grave
+[6m]Worthy is the Lamb who was slain
+[4]Worthy is the King who conquered the grave
+
+(Final Time through last line)
+[4]Worthy, Worthy, Worthy

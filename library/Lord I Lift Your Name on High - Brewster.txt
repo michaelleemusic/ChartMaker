@@ -1,0 +1,18 @@
+{title: Lord I Life Your Name on High}
+{artist: Lincoln Brewster}
+{key: G}
+
+{section: Intro}
+[1]   [6m7]   [5]   [4]
+
+{section: Verse 1}
+[1]Lord, I lift your name on [6m7]high
+[5]Lord, I love to sing your [4]praises
+[1]I'm so glad you're in my [6m7]life
+[5]I'm so glad you came to [4]save
+
+{section: Chorus}
+[1]You came from heaven to [5]earth to show the wa[2m7]y
+From the earth to the [4]cross my debt to pa[1]y
+From the cross to the [5]grave, from the grave to the sk[2m]y
+Lord, I li[5]ft your name on [1]high

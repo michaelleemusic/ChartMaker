@@ -1,0 +1,37 @@
+{title: All I Want}
+{artist: Jeff Deyo}
+{key: C}
+
+{section: Intro}
+[1]   [4]   [1]   [6m]
+
+{section: Verse 1}
+[1]I come, with a [4]heart that is desperate
+[1]I cry, wanting [6m]just to be heard by You
+[1]I pray, that You [4]won't remain silent
+That You'll [6m]stand here beside me
+That my [3m]heart won't call out in [4]vain
+
+{section: Chorus}
+All I [1]want
+Is [6m]just to see You, Jesus
+And I [1]long
+[6m]Just to hear Your [3m7]voice
+And I [4]need
+Just to be [2m]near You
+Cause Your [4]presence is
+All I [1]want [4]   [1] 	[6m7]
+
+{section: Verse 2}
+[1]I come, with a [4]heart that is hungry
+[1]I sing, wanting [6m]You just to know my love
+[1]I pray, that my [4]life will be counted
+For the [6m]sake of Your Kingdom
+That my [3m]heart will be truly [4]Yours
+
+{section: Bridge}
+[5]One day we'll lo[2m7]ok on Your face
+[5]We'll see You in [4]all of Your glory
+And we [6m]won't need the sun
+And we [4m]won't need the moon
+[1]All we will need is [5]you

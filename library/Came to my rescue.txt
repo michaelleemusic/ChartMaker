@@ -1,0 +1,26 @@
+{title: Came to My Rescue}
+{artist: Hillsong Worship}
+{key: C}
+{tempo: 164}
+
+{section: Verse 1}
+[1]Falling on my [5]knees in worship
+[6m]Giving all I [4]am to seek Your [1]face
+Lord [5]all I am is [6m]Yours [4]
+
+{section: Verse 2}
+[1]My whole life I [5]place in Your hands
+[6m]God of mercy [4]humbled I bow [1]down
+In Your [5]presence at Your [6m]throne [4]
+
+{section: Chorus}
+I [1]called, You [5]answered [6m]
+And You [5]came to my rescue
+And [1]I wanna be [5]where[6m]You [4]are
+(Repeat Verse 2 & Chorus)
+
+{section: Bridge}
+[6m]In my life be lifted [1]high
+In our world be lifted [6m]high
+In our love be lifted [5]high [4]
+(Repeat)

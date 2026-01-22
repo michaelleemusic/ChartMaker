@@ -1,0 +1,18 @@
+{title: Much}
+{artist: Lamont Hiebert}
+{key: D}
+
+{section: Cant Key}
+{section: Book}
+
+{section: Verse 1}
+I [1]come to Your [4/6]feet [52] and [4]weep, [1]remembering [4/6]how [52] You changed [4]me
+I [1]kneel at Your [4/6]feet [52] hum[4]bly, I [1]pour out my [4/6]love [52] and my [4]thanks
+
+{section: Chorus}
+[1]I  [5/7]am the [6m]one [4]whose been fo[1]rgiv[5/7]en   [6m]much,[4]
+[1]I  [5/7]am the [6m]one [4]who [1]lov[5/7]es   [6m]much[4]
+
+{section: Verse 2}
+I [1]sit at Your [4/6]feet [52] in [4]peace, [1]sensing a [4/6]smile[52]  over [4]me
+He[1]re at Your [4/6]feet [52] glad[4]ly, [1]giving my [4/6]love [52] and my [4]thanks

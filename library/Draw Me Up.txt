@@ -1,0 +1,28 @@
+{title: Draw me up}
+{artist: Leonard Jones}
+{key: G}
+
+{section: Verse 1}
+[1]Something's [111]happened there's a [1]fire [111]burning
+[1]We didn't [111]start it but our [1]hearts are [111]yearning [#2maj9/5]everyday    [5m7]
+[1]Feel like [111]laughing and I [1]feel like [111]crying
+[1]All my living[111] comes when[1] all my [111]dying makes[#2maj9/5] a way    [5m7]
+
+{section: Chorus}
+[b7/2]There is a [#2maj9/5]prize that awaits those who [2m7]run the race    [4]
+[b7/2]I have a [#2maj9/5]yearning inside to come [2m7]up to the place    [4]
+[b7/2]As a mag[#2maj9/5]net pulls treasure [2m7]out of the clay,[4] L[42]ord,
+
+{section: Tag}
+Draw me [1]up,[111]  [1] [111]to the da[1]nce,[111]    [1]    [111]
+To the [1]wine,[111]  [1] [111]to ro[1]mance[111]    [1]    [111]
+
+{section: Verse 2}
+Out of my belly flows living water
+Springing up a well it takes me farther, far away
+Churches hurting and religions killing
+Lord You came to give us life worth living and there I’ll stay
+
+{section: Bridge}
+[#52/1]Nothing can keep me from [#2maj9/5]You
+[#52/1]I'm right at the edge pull me through    [1]

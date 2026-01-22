@@ -1,0 +1,33 @@
+{title: Joy To The World}
+{artist: Unknown}
+{key: C}
+
+{section: Intro}
+
+{section: Verse 1}
+[1/3]Joy to the [42]world, the [1/5]Lord is [6m7]come
+Let [42]earth re[5]ceive her [1/3]King
+Let [42]every [1/5]heart prepare Him [42]room
+And [1/3]Heaven and nature sing
+And [5]Heaven and nature sing
+And [1/3]Heav- [42]en, and [1/5]Heav- [6m7]en, and [1/3]na - [5]ture [1]sing
+
+{section: Verse 2}
+[1/3]Joy to the [42]world, the [1/5]Savior [6m7]reigns
+Let [42]men their [5]songs em[1/3]ploy
+While [42]fields and [1/5]floods, rocks, hills and [42]plains
+[1]Repeat the sounding joy
+[5]Repeat the sounding joy
+[1/5]Re - [42]peat,    [1/5]re - [6m7]peat,     oh, the   [1/3]soun[5]ding [1]joy
+
+{section: Instrumental}
+
+{section: Verse 3}
+[1/3]He rules the [42]world with [1/5]truth and [6m7]grace
+And [42]makes the [5]nations [1/3]prove
+The [42]glories [1/5]of His righteous[42]ness
+And [1/3]wonders of His love
+And [5]wonders of His love
+And [1/3]won - [42]ders and [1/5]won - [6m7]ders, [1/3]of [5]His [1]love
+
+{section: Ending}

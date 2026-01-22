@@ -1,0 +1,19 @@
+{title: Hosanna Rock}
+{artist: Little Praise Party & Yancy}
+{key: C}
+
+{section: Chorus}
+[1]Ho - sanna [4]Ho - Ho - Hosa[1]nna
+[1]Ho - sanna [4]Ho - Ho - Hosa[1]nna
+[1]Ho - sanna [6m]Ho - Ho - Hosa[1]nna
+[1]Ho - sanna [4]Ho - Ho - Hosa[1]nna
+
+{section: Verse}
+[1]Everybody praise the [4]Lo – rd [6m]Everybody praise the [4]Lo - rd
+[1]Everybody praise the [4]Lo – rd [6m]Everybody praise the [4]Lo - rd
+
+{section: Bridge}
+So clap your [1]hands And wave your [4]arms
+Play the [6m]drums Then rock the gui[4]tar
+So clap your [1]hands And wave your [4]arms
+Play the [6m]drums Then rock the gui[4]tar

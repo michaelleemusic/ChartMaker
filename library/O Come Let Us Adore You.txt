@@ -1,0 +1,24 @@
+{title: O Come Let Us Adore Him}
+{artist: Wades Cantus Diversi}
+{key: G}
+
+{section: Cant Key}
+Book: Christmas
+
+{section: Verse 1}
+O [1]Come let us adore Him
+O [1]Come let us adore Him
+O [42]Come let[1/3] us a[5]dore Him
+[1]Chri[5]st the L[1]ord
+
+{section: Verse 2}
+For [1]You alone are worthy
+For [1]You alone are worthy
+For [42]You al[1/3]one are [5]worthy
+[1]Chri[5]st the L[1]ord
+
+{section: Verse 3}
+We'll [1]give you all the glory
+We'll [1]give you all the glory
+We'll [42]give you [1/3]all the [5]glory
+[1]Chri[5]st the L[1]ord

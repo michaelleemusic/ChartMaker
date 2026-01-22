@@ -1,0 +1,35 @@
+{title: My Best Friend}
+{artist: Hillsong United}
+{key: G}
+
+{section: Book}
+
+{section: Verse}
+[4]Have you heard of the [1]one called [b7]Savior
+Have you heard of His [1]perfect [4]love
+[4]Have you heard of the [1]one in [b7]heaven
+Have you heard how He [1]gave his [4]son
+[2m]Well I have found this love
+[1]And I believe in the Son
+[b7]Show me Your way
+
+{section: Chorus}
+[4]Jesus, you are my best [1]friend
+And you will always be [2m]
+And nothing will ever c[b7]hange that
+[4]Jesus, you are my best [1]friend
+And you will always be [2m]
+And nothing will ever c[b7]hange that
+
+{section: Verse 2}
+[4]I believe in the [1]one called [b7]Savior
+I believe He s the [1]risen [4]one
+[4]I believe that He ll [1]live for[b7]ever
+I believe that the [1]King will [4]come
+[2m]CuzWell I have found this love
+[1]And I believe in the Son
+[b7]Show me Your way
+
+{section: Bridge}
+[4]Nothing will [2m]ever change that
+[1]Nothing will [b7]ever change that

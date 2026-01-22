@@ -1,0 +1,40 @@
+{title: Here as in Heaven}
+{artist: Elevation Worship}
+{key: D}
+{tempo: 139}
+
+{section: Intro}
+[4]   [1]   [4]   [1]
+
+{section: Verse 1}
+[4]The atmosphere is chan[1]ging [5]now
+[4]For the Spirit of the Lo[1]rd is h[5]ere
+[4]The evidence is a[1]ll aro[5]und
+[4 / B]That the Spirit of the L[1]ord is h[5]ere
+
+{section: Chorus}
+Over[4]flow in this place
+Fill our hearts with your l[6m]ove
+Your love, surr[5]ounds us
+Yo[4]u’re the reason we came, to encounter your l[6m]ove
+Your love, surr[5]ounds us
+
+{section: Instrumental}
+[4]   [1]
+[4]   [5]   [6m]   [5]
+[4]   [5]   [6m]   [5]
+
+{section: Bridge}
+Spi[4]rit of God fall fresh on [6m]us
+We need your pre[5]sence
+[4]Your kingdom come, your will be d[6m]one
+Here as in he[5]aven
+
+{section: Instrumental}
+[4]   [2m]   [6m]   [5]
+
+{section: Ending Verse}
+ [4]A miracle can ha[1]ppen [5]now
+[4]For the Spirit of the Lo[1]rd is h[5]ere
+[4]The evidence is a[1]ll aro[5]und
+[4 / B]That the Spirit of the L[1]ord is h[5]ere

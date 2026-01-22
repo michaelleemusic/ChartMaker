@@ -1,0 +1,16 @@
+{title: Set Me on Fire}
+{artist: Ryan Delmore}
+{key: G}
+
+{section: Verse 1}
+[5]I  [1]am so[4] tired[5] of[1] compr[4]omising,
+[5]I  [1]am so[4] tired[5] of[1] lukewarm [4]living
+[5]So [1]here I[4] am  [4]my [1]arms wide[4] open,
+[5]Lord [1]here I [4]am  [5]my [1]heart wide [4]open
+
+{section: Chorus}
+[5]Set [1]me on[42] fire,[5] Set [1]me on[42] fire (x4)
+
+{section: Bridge}
+[6m]Take this[5] heart of[4] mine, [6m]Place Your[5] love i[4]nside
+[6m]I want to[5] go against t[4]he grain,[6m] I want to[5] go against the[4] grain

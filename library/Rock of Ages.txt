@@ -1,0 +1,20 @@
+{title: Rock of Ages}
+{artist: Rita Baloche}
+{key: A}
+
+{section: Verse 1}
+[1]There is no [1sus]rock
+[1]There is no[1sus] god like [1]our God [1sus]
+[4]No other [4sus]name
+[4]Worth of[4sus] all our pr[1]aise [1sus]
+[5]The rock of [5sus4]salvation that[5] cannot be [5sus]moved
+He's[6m] proven Himself to be[4] faithful and true
+[b72]There is no rock
+[4]There is no God like[1] ours [1sus]
+
+{section: Chorus}
+Rock of[6m] a-ge[4]s,  [1]Jesus is the [5]rock
+Rock of[6m] a-ge[4]s,  [1]Jesus is the [5]rock
+Rock of[6m] a-ge[4]s,  [1]Jesus is the [5]rock
+[b75]There is no rock
+[4]There is no G[1]od like ours

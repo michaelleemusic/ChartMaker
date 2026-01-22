@@ -1,0 +1,27 @@
+{title: Well Done}
+{artist: Jaye Thomas & Chris Tofilon}
+{key: C}
+
+{section: Cant Key}
+{section: Book}
+
+{section: Verse}
+Li[4]fe is a [1/3]va - [5]por
+B[4]ut it don't [6m]ma - tt[1]er
+'Cause [4]I'll live for[1/3]ever  [5]
+And [4]we'll be t[6m]oge - th[1]er
+
+{section: Chorus}
+When it's [4]all been [6m]said and do[5]ne
+When the [4/6]race is [5/7]finally r[1]un
+[1/3]When for[4]ever [6m]has beg[5]un
+I wanna hear You [4]say
+My chi[5]ld well do[1]ne
+
+{section: Refrain}
+I wanna hear You [4]say
+My chi[5]ld well do[6m]ne
+I wanna hear You [4]say
+My chi[5]ld well do[2]ne
+I wanna hear You [4]say
+My chi[5]ld well do[4]ne

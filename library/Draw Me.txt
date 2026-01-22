@@ -1,0 +1,17 @@
+{title: Draw Me}
+{artist: Unknown Author}
+{key: F}
+
+{section: Notes}
+
+{section: Verse 1}
+You [1]alone [5/7]are [6m]all [5]I [4]need
+For You [1]hold [5]my [6m]des [5]tin [4]y
+You [1]alone [5/7]are [6m]all [5]I [4]need
+In You [1]alone I [5]am com[1]plete
+
+{section: Chorus}
+[1]Draw me.[1/7]   [6m]Draw me, [6m/5]Lord    [4]
+And I’ll come [5]running after [1]You    [57]
+[1]Draw me.[1/7]   [6m]Draw me, [6m/5]Lord    [4]
+And I’ll come [5]running after [1]You

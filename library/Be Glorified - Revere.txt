@@ -1,0 +1,23 @@
+{title: Be Glorified}
+{artist: Revere}
+{key: E}
+
+{section: Book}
+
+{section: Chorus}
+[1]Be glori[b7/1]fied, [4/1]be glori[1]fied
+[1]Be glori[b7/1]fied, [4/1]be glori[1]fied
+
+{section: Chorus}
+[1]Be glori[b7/1]fied, [4/1]be glori[1]fied [4/6]  [5/7]
+[1]Be glori[b7/1]fied, [4/1]be glori[1]fied
+
+{section: Verse}
+[5m]Be glori[b7]fied in the [1]heavens [4]
+[5m]Be glori[b7]fied in the [1]earth [6m]
+[5m]Be glori[b7]fied in this [1]temple [6] [6/#1]
+[2m]Je     [4]-     [5]sus, [1]Je    [3m]-    [4]sus
+[2m]Be     [4]Thou    [5]glori[6m]fied
+
+[2m]Je     [4]-     [5]sus,    Je [3m]   -    [4]sus
+[2m]Be [4]Thou [5]glo   -   ri[1]fied

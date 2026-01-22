@@ -1,0 +1,49 @@
+{title: Crazy Love}
+{artist: Hawk Nelson}
+{key: E}
+
+{section: Cant Key}
+Book: Camp 2022, Dance, Fast
+
+{section: Intro}
+[6m]    [5/7]   [1]    [5/7]    [4]    [5]
+
+{section: Verse 1}
+[6m]We're the ones who believe in the things un[4]seen
+[4]This home, this body is the in-[1]between [5]
+[6m]We're the ones who fight down on our [4]knees
+[4]Who dare to love our ene[1]mies [5] (love enemies)
+
+{section: Chorus}
+[6m]They say it sounds [5/7]insane [1]
+[1]We say that we've [5/7]been c[4]hanged
+[4]By the power of [5]crazy love
+[6m]This world, it looks [5/7]at us [1]
+[1]Like we're ri[5/7]diculo[4]us
+[4]Baby it's all because [5]of crazy love [6m] [5/7] [1]
+
+{section: Verse 2}
+[6m]We're the ones gonna put it all in re[4]verse
+[4]Gonna die to ourselves, gonna live to [1]serve [5]
+[6m]Cuz' when ya get what ya get when you walk by [4]faith
+[4]Is it really so dumb to give it all [1]away  [5](give it all away)
+
+{section: Instrumental 1}
+| [4] / / / | [1] / / / | [6m] / / / | [5] / / / |
+
+{section: Tag}
+[5]Crazy Lo[4]ve
+
+{section: Bridge}
+[6m]We know it sounds ab[4]surd, we don't get what we de[1]serve
+[1]It's by [5]grace we are saved!
+
+{section: Coda}
+[4]We're the ones who believe in the [5/7]things un[1]seen
+[1]This home, this body is the in-be[6m]tween [5]
+[5](Crazy love)[4]
+[4]We're the ones who fight down [5/7]on our [1]knees
+[1]Who dare to love [5/7]our ene[6m]mies[5]
+[4]We're the ones gonna put it all [5/7]in rev[1]erse
+[1]Gonna die to ourselves, gonna live to [6m]serve [5]
+[5](Give it all away)

@@ -1,0 +1,61 @@
+{title: A Hallelujah Christmas}
+{artist: Cohen/Arr. Cloverton}
+{key: G}
+
+{section: Intro}
+[1]  [6m]  [1]  [6m]
+
+{section: Verse 1}
+[1]I’ve heard about this [6m]baby boy
+[1]Who’s come to earth to [6m]bring us joy
+And [4]I just want to [5]sing this song [1]to you [5]
+It [1]goes like this the [4]fourth the [5]fifth
+The [6m]minor fall the [4]major lift
+With [5]every breath i’m [37]singing Halle[6m]lujah
+
+{section: Chorus}
+Halle[4]lujah, Halle[6m]lujah, Halle[4]lujah, Halle[1]lu[5]j[1]ah
+
+{section: Verse 2}
+A [1]couple came to [6m]Bethlehem
+Ex[1]pecting child they [6m]searched the inn
+To [4]find a place for [5]you were [1]coming [5]soon
+There [1]was no room for [4]them to [5]stay
+so [6m]in a manger [4]filled with hay
+God [5]saw his son was [37]born oh Halle[6m]lujah
+
+{section: Chorus}
+Halle[4]lujah, Halle[6m]lujah, Halle[4]lujah, Halle[1]lu[5]j[1]ah
+
+{section: Verse 3}
+The [1]shepherds left their [6m]flocks by night
+ to [1]see this baby [6m]wrapped in light
+A [4]host of angels [5]led them all to [1]you [5]
+It [1]was just as the [4]angels [5]said
+you’ll [6m]find him in a [4]manger bed
+Em[5]manuel and [37]savior Halle[6m]lujah
+
+{section: Chorus}
+Halle[4]lujah, Halle[6m]lujah, Halle[4]lujah, Halle[1]lu[5]j[1]ah
+
+{section: Verse 4}
+The [1]star shone bright up [6m]in the east
+To [1]Bethlehem, the [6m]wise men three
+Came [4]many miles and [5]journeyed long for[1] you [5]
+And [1]to the place I [4]wish it [5]were
+ with [6m]frankincense and [C} gold and myrrh
+They [5]came to you and [37]cried out Halle[6m]lujah.
+
+{section: Chorus}
+Halle[4]lujah, Halle[6m]lujah, Halle[4]lujah, Halle[1]lu[5]j[1]ah
+
+{section: Verse 5}
+I [1]know you came to [6m]rescue me
+This [1]baby boy would [6m]grow to be
+a [4]man that’d one day [5]die for me and [1]you [5]
+My [1]sins were driven [4]nails in [5]you
+That [6m]rugged cross was [4]my cross too
+Still [5]every breath you [37]drew was Hallel[6m]ujah
+
+{section: Chorus}
+Halle[4]lujah, Halle[6m]lujah, Halle[4]lujah, Halle[1]lu[5]j[1]ah

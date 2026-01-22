@@ -1,0 +1,14 @@
+{title: Bind Us Together}
+{key: F}
+
+{section: Chorus}
+[1]Bind us to[2m7]gether, Lord, [3m7]Bind us to[6m7]gether
+with [2m7]chords th[4/5]at cannot be[1] bro[4/5]ken
+[1]Bind us to[2m7]gether, Lord, [3m7]bind us to[6m7]gether,
+[2m7]Bind us to[4/5]gether [1]with love.
+
+{section: Verse}
+[1]There is [2m7]only o[3m7]ne Go[2m7]d,
+[1]Ther[4/5]e is only [1]one King,
+[1]There is [2m7]only o[3m7]ne bo[2m7]dy,
+[1]That is why we sing.

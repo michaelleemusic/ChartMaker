@@ -1,0 +1,19 @@
+{title: Take Me In}
+{artist: Dave Browning}
+{key: Em}
+
+{section: Verse 1}
+Take me [1m7]past the outer courts
+And [#52]to the Holy Place
+[b72]Past the brazen alter
+Lord I [1m7]want to see Your [b72]face
+Take me [1m7]past the crowds of people
+The [#52]priests who sing Your praise
+[b72]I hunger and thirst for Your righteousness
+It's [1m7]only found one [b72]place
+
+{section: Chorus}
+Take me [1m7]in to the Holy of [b72]Holies
+Take me [#52]in by the [b72]blood of the [1m7]La [b72]mb
+Take me [1m7]in to the Holy of [b72]Holies
+Take the [#52]coal cleanse my [b72]lips here I [1m7]am

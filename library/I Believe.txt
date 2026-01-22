@@ -1,0 +1,82 @@
+{title: I Believe}
+{artist: Phil Wickham}
+{key: D}
+
+Church Key: Ab
+Book: Graham, CAMP 2024
+
+{section: Intro}
+|[1] / / [4] | [1/4] / / / | [4/6] / [6m7] [5sus] | [5sus] / / / |
+
+{section: Verse 1}
+[1(no3)]I believe there is one salvation
+[1(no3)]One doorway that leads to life
+[1(no3)]One redemption
+[1(no3)]One confession
+[6m7]I believe in the [4]name of Jesus [1]Christ
+
+{section: Turnaround}
+|[1] / / / | [1] / / / | [1sus] / [1] [12] | / / / / |
+
+{section: Verse 2}
+[1]I believe in the [1sus]crucifixion
+[1]By His blood I have [1sus]been set free
+[1]I believe in the [1sus]resurrection
+[6m7]Hallelujah His [4]life is deaths [1]defeat
+
+{section: Chorus}
+[4]All praise to [1]God the Father
+[5]All praise to [6m7]Christ the Son
+[4]All praise to the [1]Holy Spirit
+[5]Our God has [6m7]overcome
+[4]The King who [1]was and is and [5]evermore will [6m7]be [5]
+In [4]Jesus [1/3]mighty [5]name
+I beli[1]eve
+
+{section: Turnaround}
+|[1] / / [4] | [1/4] / / / | [4/6] / [6m7] [5sus] | [5sus] / / / |
+
+{section: Verse 3}
+[1]I believe in the [1sus]hope of heaven
+[1]He's preparing a [12]place for me
+[1]Far beyond what [1sus]hearts imagine
+[1]Ears have heard or [12]eyes have seen
+
+{section: Verse 4}
+[1]I believe that a [1sus]day is coming
+[1]He's returning to [12]claim His [4]bride
+[6m7]Light the altar, keep it burning
+[1/5]See the Lamb who [4]rose a roaring [1]Lion
+
+{section: Interlude}
+| [4] / / [6m7] | / / / / | [5sus] / / [1] | / / [1/3] |
+| [4] / / [6m7] | / / / / | [5sus] / / [1] |
+
+{section: Bridge}
+[1]  No I'll [1/3]never be a[4]shamed
+Of the [6m7]gospel of Jesus [5sus]Christ
+[1]  How could I [1/3]ever walk [4]away
+From the [6m7]One who saved my [5sus]life
+[1]  No I'll [1/3]never be a[4]shamed
+Of the [6m7]gospel of Jesus [5sus]Christ
+[1]  How could I [1/3]ever walk [4]away
+From the [6m7]One who saved my [5sus]life
+Oh no i'll [1/3]never be a[4]shamed
+Of the [6m7]gospel of Jesus [5sus]Christ [1]
+How could I [1/3]ever walk [4]away
+From the [6m7]One who saved my [5sus]life
+
+REPEAT CHORUS
+
+{section: Last Chorus}
+[4]All praise to [1]God the Father
+[5]All praise to [6m7]Christ the Son
+[4]All praise to the [1]Holy Spirit
+[5]Our God has [6m7]overcome
+[4]The King who [1]was and is and [5]evermore will [6m7]be [5]
+In [4]Jesus mighty [5]name I beli[6m7]eve  [1/3]
+In [4]Jesus [1]mighty [5]name I be[1]lieve
+
+{section: Outro}
+|[1] / / [4] | [1/4] / / / | [4/6] / [6m7] [5sus] | [5sus] / / / |
+|[1] / / [4] | [1/4] / / / | [4/6] / [6m7] [5sus] | [5sus] / / / | [1]   |

@@ -1,0 +1,25 @@
+{title: I Wait For the Lord}
+{artist: Jeremy Camp}
+{key: G}
+
+{section: Cant Key}
+{section: Book}
+
+[6m]  [5]  [42]  [5]  [5sus]
+[6m]  [5]  [42]  [1]  [1/7]
+
+{section: Chorus}
+[6m]   I [5]wait for th[42]e Lord...  My[5] sou[5sus]l waits
+[6m]   I [5]wait for th[42[e Lord [G]    [1/7]
+[6m]   I [5]wait for th[42]e Lord...  My[5] sou[5sus]l waits
+[6m]   I [5]wait for th[42[e Lord [G]    [1/7]
+
+{section: Verse}
+[42]In His [1]word [1/7]I place m[6m]y trust
+[42]In His [1]word I[5] rest
+[42]In His [1]word [1/7]I place m[6m]y trust
+[2m]For I k[5]n--ow I must, [6m] Wait[5]    [42]    [5]    [5sus]
+
+{section: Bridge}
+[2m]Man shall not [6m]live on[5] brea[5/7]d alone, but by[1] every[5] wor[5/7]d of [6]God
+[2m]I shall not [6m]live on[5] brea[5/7]d alone, but[3] by Your every[4] wor[5]d

@@ -1,0 +1,36 @@
+{title: Maker of Heaven}
+{artist: Jared Anderson / Desperation Band}
+{key: B}
+
+{section: Cant Key}
+Notes: Guitar A Capo 2
+
+{section: Verse 1}
+[12]Keep my heart amazed    [6m]
+[12/3]Let me see Your [42]wonders every day
+[12]Teach me in Your ways    [6m]
+[12/3]So that I [42]may fear
+
+{section: Pre Chorus}
+[6m]You are [5/7]walking on water
+[42]You are cal[5]ling me after
+[6m]You are stan[52/7]ding beside me now    [42]
+
+{section: Chorus}
+[12]You are the Mak[6m]er of Heaven
+[12/3]You turn [42] my world around
+[1]You're making all [6m]things new again
+[12/3]Through it all I know    [42]
+You are God alone    [12]    [6m]    [12/3]    [42]
+
+{section: Verse 2}
+[12]Set my heart on fire    [6m]
+[12/3]Let me burn wi[42]th passion for Your name
+[12]Take over my life    [6m]
+I [12/3]surrender n[42]ow
+
+{section: Bridge}
+[6m7]Hallelujah
+[5]Hallelu[7]jah
+[1]Hallelujah
+[42]You are God alone

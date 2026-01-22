@@ -1,0 +1,20 @@
+{title: Angels We Have Heard On High}
+{key: D}
+
+{section: Verse 1}
+[1]Angels we have [57]heard on [1]high
+[1]Sweetly singing [57]o'er the [1]plains
+[1] [6m]And the mountains [57]in rep[1]ly
+[1]Echoing their [57]joyous [1]strains.
+
+{section: Refrain}
+[1]Glo--[67]--[2m]--[57]--[1]--[4]--[5]--ria,
+[1]in [5]ex[1]cel[4]sis [1]De--[5]o,
+[1]Glo--[67]--[2m]--[57]--[1]--[4]--[5]--ria,
+[1]in [5]ex[1]cel[4]sis [1]De--[5]o.
+
+{section: Verse 2}
+[1]Shepherds, [57]why this jubi[1]lee?
+[1]Why your [57]joyful strains [1]prolong?
+[1] [6m]Say what may the [57]tiding[1]s be,
+[1]Which inspire [57]your hea[1]v'nly song?

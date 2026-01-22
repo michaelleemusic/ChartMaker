@@ -1,0 +1,27 @@
+{title: Shalom}
+{artist: Angel Studios, Brandon Engman}
+{key: G}
+
+{section: Verse 1}
+When I feel [1]lost
+And so af[5]raid
+And [4]shadows have [6m]hid the sun [1]away
+When my [4]heart is [1]heavy
+And it’s hard to [5]pray
+I re[4]member what my [5]mother use to [1]say
+
+{section: Chorus}
+Sha[4]lom
+Sha[6m]lom
+Peace be [1]with you wher{Em]ever you [5]go
+Sha[4]lom
+Sh[5]a[6m]lom
+Let this [4]melody be[5]gin to bring you [1]home
+
+{section: Verse 2}
+In d[4]esper[1]ation
+When you’re losing [5]sight
+You’ve [4]cried out with [6m]everything in[1]side
+There is [4]still a [1]shepherd
+Even when you [5]hide
+Who will [4]pick you you and [5]hold you til you [1]find

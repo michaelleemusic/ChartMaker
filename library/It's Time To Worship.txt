@@ -1,0 +1,34 @@
+{title: It's Time To Worship}
+{artist: Chris McClarney}
+{key: G}
+{tempo: 73}
+
+{section: Verse 1}
+[1]If there's still breath in your lungs
+[1] And a beat in your chest [42]
+It's [42]time to worship
+[1]Lay down the cares of today
+[1] And the fear of what's next [42]
+It's [42]time to worship [6m7]
+It's [6m7]time to worship [4]  [5/4]  [4maj7]  [46]
+
+{section: Chorus}
+Let [5]everything that has breath [6m7]
+[4]Praise the Lo[1]rd, praise the Lo[5]rd
+Let [5]everything that has breath [6m7]
+[4]Praise Him [1]
+
+{section: Verse 2}
+[1]If He's been faithful and kind
+[1] If His mercies are new [42]
+It's [42]time to worship
+[6m7]If you're still waiting
+To w[6m7]itness His promise break through [42]
+It's [42]time to worship [6m7]
+It's [6m7]time to worship [4]  [5/4]  [4maj7]  [46]
+
+{section: Bridge}
+[6m7] If we're gonna sing, then let it be [5/7]now
+If we're gonna dance, then let it be [1]wild
+If we're gonna praise, then let it be [42]loud
+We sing hallelujah

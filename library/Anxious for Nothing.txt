@@ -1,0 +1,30 @@
+{title: Anxious for Nothing}
+{artist: Brenton Dowdy, Cara Dowdy, and Haley Savage}
+{key: G}
+
+{section: Book}
+Tempo: 146
+Scripture Reference(s): Philippians 4:6-7
+
+{section: Chorus}
+I will be an[1]xious for not[4]hing
+Whatever's in f[6m]ront of me, I'll tr[5 / F#]ust You
+I will be an[1]xious for not[4]hing
+I put my eyes on [6m]you  [5 / F#]
+I put my eyes on [4]you  [5 / F#]
+
+{section: Verse 1}
+The birds of the [4]air, never [1 / B]toil
+Never wo[6m]rry, never [5 / F#]fear
+Yet You are fait[4]hful in Your goo[1 / B]dness
+and I [6m]know, You love me [5 / F#]more
+
+{section: Verse 2}
+I know that my [4]life is a [1 / B]vapor
+And these trou[6m]bles soon will [5 / F#]pass
+But You are eter[4]nal and your Kin[1 / B]gdom
+is the [6m]only thing that las[5]ts
+
+{section: Bridge}
+If we se[4]ek You first and Your righte[5]ousness
+All these [6m]other things will be ad[4]ded

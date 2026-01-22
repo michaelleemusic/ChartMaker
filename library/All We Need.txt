@@ -1,0 +1,24 @@
+{title: All We Need}
+{artist: Charlie Hall}
+{key: G}
+
+{section: Chorus}
+[1]We have all we need in Yo[5/7]u
+All we need is [6m]You
+All we need is [42]You
+
+{section: Verse 1}
+[1]Rich or poor, God I want You m[5/7]ore
+Than anything that glitters in this[6m] world
+Be my all, all consuming f[42]ire
+
+{section: Verse 2}
+[1]You can have all my hands can h[5/7]old
+My heart, mind and strength and s[6m]oul
+Be my all, all consuming f[42]ire
+
+{section: Bridge}
+All We Ne[1]ed
+All We Ne[5/7]ed
+All We Ne[6m]ed
+All We Ne[42]ed Is You

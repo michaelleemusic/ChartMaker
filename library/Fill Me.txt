@@ -1,0 +1,31 @@
+{title: Fill Me}
+{artist: Jeff Deyo}
+{key: Em}
+
+{section: Verse 1}
+[1m]I'm holding fast to you Lord,[4m] I won't let go
+[5m]I'm laying down my lie[4m]s, so You can[1m] take control
+[1m]I'm holding fast to your way[4m]s, and not my own
+[5m]I'll pray Your kingdom [4m]come, my kingdo[1m]m go
+
+{section: Chorus}
+[5m]I will give You my[6] passion
+I wil[4m]l give You all my fait[5m]hfulness
+[5m]Won't You pour out Your [6]Spirit
+Won't You[4m] fill me with Your h[5m]oliness
+Won't You[4m] fill me with Your h[5m]oliness
+
+{section: Verse 2}
+[1m]I'm letting go of me Lord,[4m] to find Your heart
+[5m]I'm trading all of who I a[4m]m, for who You are
+[1m]I'm letting go of my way[4m]s, I'm breaking free
+[5m[I'm crying out for more of [Am]You and less [1m]of me
+
+{section: Bridge}
+[4m]Your Holiness,[1m] Your Holiness,
+[5m]Fill me Father, C#]Fill Me Jesus
+[5m]With Your precious[4m] living water[1m]
+[5m]Fill me Father, [6]Fill me Spirit
+[5m]With Your precious[4m] living water[1m]
+[5m]Won't you fill me Father[6], Won't you fill me Jesus
+[5m]With Your precious[4m] living water[1m]

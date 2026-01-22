@@ -1,0 +1,52 @@
+{title: I Surrender}
+{artist: Hillsong Worship}
+{key: Bm}
+
+Intro (x2)
+[#2m]  [#4]  [#1]  [7]
+
+{section: Verse 1}
+[#2m]Here I am
+Down on my [#4]knees again
+Surrendering [#1]all
+Surrendering [7]all
+
+[#2m]Find me here
+Lord as You [#4]draw me near
+Desperate for [#1]You
+Desperate for [7]You
+
+I Surrend[#2m]er  [#4]   [#1]   [7]
+
+{section: Verse 2}
+[#2m]Drench my soul
+As mercy and [#4]grace unfold
+I hunger and [#1]thirst
+I hunger and [7]thirst
+
+[#2m]With arms stretched wide
+I know You [#4]hear my cry
+Speak to me [#1]now
+Speak to me [7]now
+
+{section: Chorus}
+I s[#2m]urrender
+I [#4]surrender
+I want to [#5m]know You more
+I want to [7]know You more
+
+Outro
+[7]  [#4]  [#1]  [#5m]  [#2m]  [#1]
+
+{section: Bridge}
+Like a [7]rushing [#4]wind
+Jesus [#1]breathe within
+Lord have your [#5m]way
+Lord have your [#2m]way in me[#1]
+Like a [7]mighty [#4]storm
+Stir wit[#1]hin my soul
+Lord have your [#5m]way
+Lord have your [#2m]way in [#1]me
+
+Instrumental
+[7]  [#4]  [#1]  [#5m]  [#2m]  [#1]

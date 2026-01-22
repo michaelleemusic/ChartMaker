@@ -1,0 +1,36 @@
+{title: Met by Love}
+{artist: United Pursuit}
+{key: F}
+
+{section: Book}
+
+{section: Intro}
+| [1] / / / | [5] / / / | [1] / / / | [5] / / / |
+| [1] / / / | [5] / / / | [3m] / / / | [2] / / / |
+
+{section: Verse}
+There is [1]none, none [5]like You
+Who can know [3m]my heart like [2]You do
+For all [1]creation sings [5]Your song
+I will join [3m]with them
+Declaring [2]Your glory
+
+{section: Inst}
+| [1] / / / | [5] / / / | [3m] / / / | [2] / / / |
+
+{section: Chorus 1}
+[1]We can run straight
+[5]into Your arms unafraid
+[2]Cause every time we
+[6m]Need You we're met by love
+[1]We can lift our hands
+[5]To heaven full of faith
+[2]Cause every time we
+[6m]Worship we see Your face
+
+{section: Tag}
+[1]We see Yo[5]ur [2]face, we see [6m]Your face
+
+{section: Chorus 2}
+There is no [1]one like You, [5]Lord,
+[2] You Lord

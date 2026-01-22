@@ -1,0 +1,34 @@
+{title: The King is Coming}
+{artist: Newsboys}
+{key: Em}
+
+{section: Verse 1}
+[1m]Empty hearts are [5m]filling [4]up
+[1m]Wicked ways are [5m]coming un[4]done
+[1m]Every eye is [5m]looking [4]out for [#2]You
+[1m]City lights are [5m]burning [4]out
+[1m]Freedom's song is [5m]ringing l[4]oud
+[1m]Dead men waking [5m]up to the s[4]ound of [#2]You
+And all our hearts can [4]sing
+All our hearts can sing is
+
+{section: Chorus}
+[b7]Make a way for
+[5m]Make a way for
+[1m]Make a [b7/2]way [#2]for the [4]King
+The King is coming
+
+{section: Verse 2}
+[1m]Split the sky with your [5m]glo[4]ry
+[1m]Bring to life an [5m]awaken[4]ing
+[1m]Burn away everyt[5m]hing thats n[4]ot for Yo[#2]u
+[1m]Hear our voices [5m]crying o[4]ut
+[1m]We wont stop til he[5m]avens come dow[4]n
+[1m]We wont stop til ev[5m]ery knee b[4]ows to Yo[#2]u
+[4]And all our hearts will sing is
+
+{section: Bridge}
+[b7]Open up the doors
+[5m]Open up the doors
+[#2]Lift your eyes to see
+[4]Our King is coming

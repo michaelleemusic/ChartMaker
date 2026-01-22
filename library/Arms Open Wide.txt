@@ -1,0 +1,29 @@
+{title: Arms Open Wide}
+{artist: Hillsong United}
+{key: B}
+
+{section: Verse 1}
+[1]Take my life I lay it down
+[6m] At the cross where I am found
+[5]All I have I give [4]to You oh God    [1]
+
+{section: Verse 2}
+[1]Take my hands and make them clean
+[6m]Keep my heart in purity
+[5]That I may walk [4]in all You have for me  [1]
+
+{section: Chorus}
+Oh [4]here I sta[1]nd
+Arms open wi[5]de  [6m]
+Oh [4]I am Yo[6M]urs
+And You are mi[5]ne
+
+{section: Verse 3}
+[1]Take my moments and my days
+[6m]Let each breath that I take
+[5]Be ever only [4]for You oh Go[1]d
+
+{section: Bridge}
+My whole li[1]fe is Yours I g[5]ive it all
+Surre[6m]ndered to Your Name
+And for[4]ever I will pr[5]ay Have Your w[6m]ay, Have Your [5]way

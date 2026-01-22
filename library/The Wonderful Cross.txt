@@ -1,0 +1,28 @@
+{title: The Wonderful Cross}
+{artist: Isac Watts, Chris Tomlin, Jesse Reeves, J.D. Walt}
+{key: D}
+{tempo: 88}
+
+{section: Verse 1}
+[1]When I survey the wo[4]ndrous c[1]ross
+[1]On which the [4]Prince of G[1]lory [5]died
+[1]My richest gain I c[4]ount but [1]loss
+[1]And pour con[5]tempt on all my pr[1]ide
+
+{section: Chorus}
+O the w[4]onderful c[1/3]ross, O the w[4]onderful c[1/3]ross
+Bids me c[4]ome and die and[1/3] find that I may [5]truly live
+Oh the w[4]onderful c[1/3]ross, O the w[4]onderful c[1/3]ross
+All who [4]gather here by [1/3]grace draw near and b[5]less Your name [1]
+
+{section: Verse 2}
+See from His head, His hands, His feet
+Sorrow and love flow mingled down
+Did ever such love and sorrow meet
+Or thorns compose so rich a crown
+
+{section: Verse 3}
+Were the whole realm of nature mine
+That were an offering far too small
+Love so amazing so divine
+Demands my soul, my life, my all

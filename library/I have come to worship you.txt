@@ -1,0 +1,32 @@
+{title: I have come to worship You}
+{artist: Sonicflood}
+{key: D}
+
+{section: Cant Key}
+{section: Book}
+
+{section: Verse 1}
+[6m]Many mighty rivers have I [b72]crossed
+[6m]Many barren deserts have I [b72]seen
+And [5]still my heart beats strong
+For You, Oh [2m]Lord
+For [1]You have been my [1/3]shelter
+I all of my [4]need
+
+{section: Chorus}
+[1]I have come to [4]worship You
+Oh, and [1]I have come to [4]worship You
+
+{section: Verse 2}
+A [6m]willing soul and a thankful [b72]heart
+To [6m]find a holy passion just for [b72]You
+And [5]turn away from the things
+That break your [2m]heart
+And [1]live a life of [1/3]sacrifice
+Just for [b7]You
+
+{section: Bridge}
+[5]For only You are worthy
+[6m]Only You are worthy
+[3m]Only You [4]are worthy
+Of the praise this heart bring[1]s

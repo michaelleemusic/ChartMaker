@@ -1,0 +1,62 @@
+{title: No One Like The Lord (We Crown You)}
+{artist: Circuit Rider Music, Bethel Music, Jenn Johnson}
+{key: Bm}
+
+{section: Intro}
+|[1m] / [b7/2] / |[#2] / [4m7] / | [#5maj7] /  [#2/5]  [b7] | [1m] / / / |
+|[1m] / [b7/2] / |[#2] / [4m7] / | [#5maj7] /  [#2/5]  [b7] | [1m] / / / |
+
+{section: Verse 1}
+[1m]   There is One on the throne [#5maj7]
+Jesus, [#2]   holy   [5m]
+[1m]   He's worthy of praise [4m7]
+Honor [#2]   and glory   [b7]
+
+Repeat Verse 1
+
+{section: Chorus}
+[1m]Worthy [b7/2]is the [#2]Lamb
+Who was [4m7]slain, He's seated on the [#5maj7]throne
+There's [#2maj7/5]no one [b7]like the [1m]Lord
+[1m]Elders, [b7/2]creatures [#2]bow
+Giving [4m7]praise to Him and Him a[#5maj7]lone
+There's [#2maj7/5]no one [b7]like the [1m]Lord
+
+{section: Turnaround}
+|[1m] / / / |[1m] / / / |[1m] / / / |
+
+Repeat Verse 1
+Repeat Chorus 2x
+
+{section: Bridge 1}
+We crown You King of [1m]Glory
+We crown You King of [1m]Glory
+We crown You King of [1m]Glory
+We crown You King of [1m]Glory
+
+Repeat Bridge 1
+
+{section: Bridge 2}
+We crown You King of [1m]Glory
+We crown You King of [#2maj7]Glory
+We crown You King of [4m7]Glory
+We crown You King of [#5maj7]Glory
+
+{section: Bridge 3}
+We [b7]crown You King of [1m]Glory
+We crown You King of [#2maj7]Glory
+We crown You King of [4m7]Glory
+We crown You King of [#5maj7]Glory
+
+Repeat Bridge 3x
+Repeat Chorus
+
+{section: Alt Chorus}
+[1m]Worthy [b7/2]is the [#2]Lamb
+Who was [4m7]slain, He's seated on the [#5maj7]throne
+There's [#2maj7/5]no one [b7]like the [1m]Lord
+[#5maj7]Elders, [b7]crea[1m]tures [4m7]bow
+Giving [#2]praise to Him and Him a[#5maj7]lone
+There's [b7]no one like the [1m]Lord
+
+Repeat Chorus

@@ -1,0 +1,27 @@
+{title: A Storm All Around You}
+{artist: Jon Thurlow}
+{key: D}
+
+{section: Verse 1}
+[4]I know there are [5]creatures all around You
+[6m]I know there are lightnings and thunderings
+[4]I know there's a [5]storm all around You
+[6m]Holy,  Holy,  Holy
+
+[4]Oh oh oh   [5]oh oh oh   [6m]oh oh oh oh oh   oh oh oh oh oh
+
+{section: Verse 2}
+[4]I see seven [5]lamps of fire burning and I,
+[6m]I see a sea of glass mingled with fire burning,
+[4]I see the Son of [5]man with eyes of fire burning,
+[6m]Burning, burning, burning
+
+[4]Oh oh oh   [5]oh oh oh   [6m]oh oh oh oh oh   oh oh oh oh oh
+
+{section: Chorus}
+[4]Halle-halle-halle[5]lujah, for the [6m]Lord God Omnipotent reigns
+[4]Halle-halle-halle[5]lujah, for the [6m]Lord God Omnipotent reigns
+
+{section: Bridge}
+[4]Everyone in the temple cries Gl[5]ory
+[4]Everyone in the temple cries Gl[5]ory

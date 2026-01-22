@@ -1,0 +1,37 @@
+{title: There is Power}
+{artist: Lincoln Brewster}
+{key: D}
+
+{section: Intro}
+[4]     [5]   [6m]  [5]  [4]     [5]
+
+{section: Verse 1}
+[6m]Where tw[1/3]o or mor[4]e are gathered in his name [6m]
+H[1/3]e is [4]there
+[6m]For all [1/3]who come, [4]who run to him in faith [6m]
+H[1/3]e is [4]there
+
+{section: Chorus}
+There is [4]power in the name of [5]Jesus
+[6m]There [5]is [4]power, power in his name
+There is [4]power in the name of [5]Jesus
+[6m]There [5]is [4]power, power in his [5]name
+
+{section: Verse 2}
+[6m]No fear,[1/3] no lie [4]can stand against us now [6m]
+[1/3]He is [4]here
+[6m]The word [1/3]has com[4]e to silence every doubt[6m]
+[1/3]He is [4]here
+
+{section: Instrumental}
+[4]     [5]   [6m]  [5]  [4]     [5]   [6m]  [5]
+
+{section: Bridge}
+[4]One name, one name can save
+[5]One name [6m]breaks eve[5]ry chain
+[4]One name, always
+[5]One name, [6m]Je-[5]sus
+[4]One name, one name remains
+[5]One name, [6m]we will [5]proclaim
+[4]One name, always
+[5]One name

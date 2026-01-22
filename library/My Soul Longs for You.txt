@@ -1,0 +1,43 @@
+{title: My Soul Longs For You}
+{artist: Misty Edwards}
+{key: D}
+
+{section: Verse 1}
+[6m]My soul longs for you, my soul longs for you
+[1]Nothing else will do, nothing else will do
+
+{section: Pre Chorus}
+I be[6m]lieve, you will come [4]like the [1]rain
+I be[6m]lieve, you will come [4]like the [1]rain
+
+{section: Chorus}
+You'll come [4]like th[6m]e rain
+You'll come [4]like th[1]e rain
+
+{section: Chorus 2}
+So let it[6m] rain, let it rain, let it rain, let it rain
+So let it[1] rain, let it rain, let it rain, let it rain
+So let it[6m] rain, let it rain, let it rain, let it rain
+So let it[1] rain, let it rain, let it rain
+
+{section: Bridge}
+[6m]Hallelujah, Hallelujah
+You make [1]all things new
+All things new [6m]
+
+{sot}
+{section: Main Riff}
+e|-------------------------------------------------|
+B|-------------------------------------------------|
+G|-------7-7-7-7-6-4-4-----7-7-7-7-6-4-4-----------|
+D|--4-4----------------4-4-------------------------|
+A|-------------------------------------------------|
+E|-------------------------------------------------|
+
+e|-------------------------------------------------|
+B|-------------------------------------------------|
+G|-------------------------------------------------|
+D|-4-4-7-7-7-7-5-4-4---4-4-7-7-7-7-5-4s2s4---------|
+A|-------------------------------------------------|
+E|-------------------------------------------------|
+{eot}

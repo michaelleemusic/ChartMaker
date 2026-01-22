@@ -1,0 +1,18 @@
+{title: Most Beautiful / So in Love (Bridges)}
+{artist: Maverick City Music}
+{key: D}
+
+{section: Church Key}
+Book: Graham
+
+{section: Bridge 1}
+[4]I'm so in [5]love with You,[1/3] You're beautif[5]ul, so beautiful
+[4]I fix my [5]eyes on You,[1/3] You're beautif[5]ul, so beautiful
+[4]I'm so in [5]love with You,[1/3] You're beautif[5]ul, so beautiful
+[4]I fix my [5]eyes on You,[1/3] You're beautif[5]ul, so beautiful
+[4]I'm so in [5]love with You,[1/3] You're beautif[5]ul, so beautiful
+[4]I fix my [5]eyes on You,[1/3] You're beautif[5]ul, so beautiful
+
+{section: Bridge 2}
+With [5]just one [4]look, everything changes [1/3]
+I'm capti[6m7]vated, I'll never be the [5]same

@@ -1,0 +1,15 @@
+{title: I Will Enter His Gates}
+{artist: Gwen R. Shaw}
+{key: D}
+
+{section: Chorus}
+I will[1] enter His[4] gates with thank[1]sgiving in my heart,
+I will enter His[4] courts with[5] praise!
+I will[1] say this is the[4] day that the[1] Lord has[6m] made,
+I will[2m] rejoice for [5]He has made me[1] glad.
+
+{section: Bridge}
+[1]He has made me[4] glad![1] He has made me[6m] glad!
+I[2m] will rejoice for [5]He has made me[1] gl[4]ad[1].
+[1]He has made me[4] glad![1]  He has made me[6m] glad!
+I[2m] will rejoice for [5]He has made me[1] gl[4]ad[1].

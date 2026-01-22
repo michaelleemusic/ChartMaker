@@ -1,0 +1,35 @@
+{title: He's Alive}
+{artist: Laura Hackett, Cory Asbury}
+{key: D}
+
+{section: Intro}
+[1] [1] [1sus] [1]
+[6m] [4] [1]
+
+{section: Verse 1}
+There [6m]is no [4]power in [1]heaven or hell
+That can [6m]keep me from the [4]love of the [1]Father on His throne
+
+{section: Verse 2}
+[1]Chains of sin can't hold me down
+Even [1]death itself can't keep me in the [1]ground
+
+{section: Chorus}
+[1]Death  where is your [12]sting   [1sus]
+[1]Grave  where is your victory   [1sus]
+
+He's [6m]alive
+He's a[4]live
+He is ri[1]sen
+
+{section: Bridge 1}
+[1]My God's not dead, He's surely alive
+He's living on the inside, roaring like a lion
+
+{section: Bridge 2}
+[1]He's alive, now I'm alive,   He's alive, now I'm alive
+[1]He's alive, now I'm alive,   And I will never die
+
+[6m]He's alive, now I'm alive,
+[4]He's alive, now I'm alive
+[1]He's alive, now I'm alive,   And I will never die

@@ -1,0 +1,34 @@
+{title: O Come, Let Us Adore Him / Come, Holy Spirit}
+{artist: Jaye Thomas}
+{key: E}
+
+{section: Book}
+
+{section: Intro}
+[1]    [1sus4]    [1]    [1sus4]
+
+{section: Verse 1}
+[1]O come, let us adore Him
+O come, let us adore [5]Him
+O [4]come, let [1/G#m]us [5]adore Him
+[1/5]Chris[5]t the [1]Lord
+
+[4]You are [6m]Christ, the [5]Lord (Christ the [1]Lord[4])
+You are [6m]Christ, the [5]Lord (Christ the [1]Lor[4]d)
+You are [6m]Christ, the [5]Lord (Christ the [1]Lor[4]d)
+You are [6m]Christ, the [5]Lord (Christ the [1]Lor[4]d)       [6m]  [5]
+
+{section: Verse 2}
+[1]Lord, we behold and bless You
+Lord, we behold and bless [5]You
+Lord, [4]we be[1/G#m]hold and [5]bless You
+[1/5]Chris[5]t the [1]Lord
+
+[4]You are [6m]Christ, the [5]Lord (Christ the [1]Lord[4])
+You are [6m]Christ, the [5]Lord   [1]    [4]    [6m]    [5]
+
+{section: Bridge}
+O, [1]Come Holy [4]Spirit
+We have [6m]need of [5]You
+O, [1]Come Holy [4]Spirit
+O how we [6m]long for [5]You

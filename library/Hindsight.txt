@@ -1,0 +1,51 @@
+{title: Hindsight}
+{artist: Hillsong Young and Free}
+{key: Db}
+
+{section: Intro}
+| [15] / / / |
+
+{section: Verse 1}
+[1]   As I reflect I find perspective
+[1]   There in the best and worst days [5sus]of this [4maj7]life,
+You were always on my side
+
+[1]   You're in the pain, You're in the promise
+[1]   And on the days the furnace [5sus]finds my [4maj7]faith
+You're the fourth within the flames
+
+{section: Pre Chorus 1}
+I don't [6m7]need to know what the future says
+'Cause if the [5sus]past could talk, it would tell me this
+
+{section: Chorus 1}
+My [4]God isn't finished [1]yet
+If he did [6m]it before, He can do [5]it again
+So i'll [4]trust Him with what comes [1]next
+For the [6m]God I know is [5]known for faithfulness
+
+{section: Chorus Tag}
+[4] [1]     Yeah, my [6m]hindsight says, I can [5]trust Him with what's next
+[4]  [1]     For the [6m]God I know is [5]known, for faithful[1]ness
+
+{section: Interlude}
+|  [15] / / / | [15] / / / |
+
+{section: Verse 2}
+[1]    There's more ahead, than what's behind me
+'Cause through the highs and lows
+And [5sus]in be[4maj7]tween, God You go ahead of me
+
+[1]    And where You call me I will follow
+If the water folds beneath [5sus]my feet[4]
+Then You'll pull me from the deep
+
+{section: Pre Chorus 2}
+I don't [5sus]need to know what the future says
+[6m]  'Cause if the [45]past could talk, it would tell me this[1]
+
+{section: Ending Chorus 2}
+My [4]God isn't finished [1]yet
+If he did [6m]it before, He can do [5]it again
+So I'll [4]trust Him with what comes [1]next
+'Cause my [6m]hindsight says I can [5]count on this

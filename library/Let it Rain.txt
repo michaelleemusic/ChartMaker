@@ -1,0 +1,46 @@
+{title: Let it Rain}
+{artist: Michael Farron}
+{key: Em}
+
+{section: Chorus 1}
+Let it [1m]Rain, Let it [#5]Rain
+[#2]Open the floodgates of[b7] heaven
+
+{section: Chorus 2}
+Its Your [1m]presence that we're longing for
+Its [#5]You that we're ungering for
+So [#2]come like we've never seen be[b7]fore
+
+{section: Chorus 3}
+[1m] The Lord is gracious and
+[#5]Slow to anger He is
+[#2] Rich in love He is[b7]
+Good to all
+
+[1m]Lord You are gracious and
+[#5]Slow to anger
+[#2]Abounding in love you [b7]are
+Good to all
+
+{section: Chorus 4}
+You're all I [1m]want, You're all I [#5]need
+You're every[#2]thing, You're every[b7]thing
+
+-----
+
+Jesus Culture
+
+{section: Verse}
+[1m]We feel the rai[#52]ns of Your love
+We feel the win[1m7]ds of Your Spirit
+Now the h[#2]eartbeat of heaven, let us hear [b7]
+
+{section: Instrumental}
+[#5maj7]     [b7sus]      [1m7]     [b7sus]
+[#5maj7]     [b7sus]      [1m7]     [b7/2]
+
+{section: Bridge}
+We want to[#5maj7] see You, show us Your glor[b7sus]y
+We want to[1m7] know You [b7sus]more
+We want to[#5maj7] see You, show us Your glor[b7sus]y
+We want to[1m7] know You [b7/2]more

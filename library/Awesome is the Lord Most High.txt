@@ -1,0 +1,37 @@
+{title: Awesome is the Lord Most High}
+{artist: Chris Tomlin}
+{key: G}
+
+{section: Verse 1}
+[1]Great are you Lord
+Mighty in str[5]ength
+[42]You are faithful
+You will ever be[1]
+[1]We will praise You
+All of our [5]days
+[42]It's for Your glory
+We offer every[6m7]thing[5/7]
+
+{section: Chorus}
+Raise Your[1] hands all you nations
+Shout to[4] God all creation
+How[6m7] awesome is the Lord most[42] high
+We w[1]ill praise You together
+For[5/7] now and forever
+How[6m7] awesome is the Lord most[42] high
+
+{section: Verse 2}
+[1]Where you send us
+God we will go[5]
+[42]You're the answer
+We Want the world to [1]know
+[1]We will trust You
+When You call our [5]name
+[42]Where You lead us
+We'll follow all the[6m7] way[5/7]
+
+{section: Bridge}
+[1]Hallelujah,[5] Hallelujah
+How[6m7] awesome is the Lord most[42] High
+[1]Hallelujah,[5] Hallelujah
+How[6m7] awesome is the Lord most[42] High

@@ -1,0 +1,36 @@
+{title: Just Like You}
+{artist: Jason Upton}
+{key: Em}
+
+{section: Church Key}
+{section: Book}
+
+{section: Intro}
+[1m]  [#5maj7]  [b7]  [#2]  [b7/2]  [1m]   [4m7]  [#2/5]  [b7sus]  [b7]
+(3X)
+
+{section: Verse}
+[1m]I tried to walk on the [#5]water,and [b7]found myself under the [#2]sea
+So with [1m]water up my nose,I [4m]felt Your hand [#2/5]come close to [b7sus]save me
+[1m]I’ve tried to cast out the [#5]demons,I’ve [b7]gone to the darkest of [#2]regions
+When [1m]fear has me shaking,You [4m]suddenly [#2/5]break in to [b7sus]save me
+
+{section: Chorus}
+[#2]I de[#2/5]sire, to be like [#5]You
+[4m]Like any [#2/5]son or [#5]daughter
+[4m]I want to [#2/5]be like my [b7sus]Father
+[#2]I de[#2/5]sire to be like [#5]You
+You p[4m]romised to [#2/5]never for[#5]sake me
+So [4m]I’ll risk it [#2/5]all if you’ll [#5]make me like [#2]You [b7/2]
+
+{section: Verse 2}
+[1m]You stand beside me just [#5]waiting,while [b7]I try to go it [#2]alone
+[1m]Smiling You say son come [#5]here,won’t You [b7]let me just [#2]help You
+[1m]But frustrated I try to [#5]make it,‘cause [b7]I’ve just got something to [#2]prove
+Not kn[1m]owing that it is my [4m]weakness that [#2/5]perfects Your [b7sus]power
+
+{section: Bridge}
+[#2]Father make me just like you
+[1m]Daddy make me [#5]just like you
+[#2]Father make me just like you
+I [1m]wanna be just like [#5]you (3X)

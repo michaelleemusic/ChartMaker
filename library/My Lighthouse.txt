@@ -1,0 +1,38 @@
+{title: My Lighthouse}
+{artist: Rend Collective}
+{key: C}
+
+{section: Verse 1}
+[1]In my wrestling and [4]in my d[1]oubts
+[4]In my f[1]ailures you w[5]on't walk out
+[1]Your great love will l[4]ead me t[1]hrough
+[4]You are the [1]peace in my tr[5]oubled s[1]ea
+[4]You are the [1]peace in my tr[5]oubled s[1]ea
+
+{section: Verse 2}
+[1]In the silence you [4]won't let [1]go
+[4]In the [1]questions your tr[5]uth will hold
+[1]Your great love will [4]lead me th[1]rough
+[4]You are the [1]peace in my tr[5]oubled s[1]ea
+[4]You are the [1]peace in my tr[5]oubled s[1]ea
+
+{section: Chorus}
+[4]My Light[1]house, [6m]my Light[5]house
+[4]Shining in the [1]darkness, [6m]I will follow [5]You
+[4]My Light[1]house, [6m]my Light[5]house
+[4]I will trust the [1]promise, [6m]You will carry [5]me
+Safe to sh[4]ore woa[1]h-woah  [5]
+Safe to sh[4]ore woa[1]h-woah  [5]
+Safe to sh[1]ore
+
+{section: Verse 3}
+[1]I won't fear what to[4]morrow [1]brings
+[4]With each m[1]orning I'll r[5]ise and sing
+[1]My God's love will le[4]ad me th[1]rough
+[4]You are the [1]peace in my tr[5]oubled s[1]ea
+[4]You are the [1]peace in my tr[5]oubled s[1]ea
+
+{section: Bridge}
+[4]Fire before us
+[6m]You're the b[5]rightest
+[4]You will l[1]ead us thr[6m]ough the s[5]torms

@@ -1,0 +1,45 @@
+{title: How Bout I}
+{artist: Jaye Thomas, Chris Tofilon}
+{key: E}
+
+Church Key: E
+Book: Graham
+
+{section: Intro}
+[4]  [6m]  [1]  [5] x2
+
+{section: Verse 1}
+
+[4]I've h[6m]eard [1]You can make me [5]clean
+[4] I’ve [6m]heard there is [1]healing in Your [5]wings
+[4] I've [6m]heard [1]You will not [5]reject, those who [4]come
+[1]Who[4] come[6m] to [5]You
+
+{section: Chorus}
+So how 'bout [1]I give You my [5]ashes?
+How ’bout [6m]I give You my [4]sickness?
+How 'bout [1]I give You my [5]depression?
+How 'bout [6m]I give You my [4]weakness?
+
+{section: Verse 2}
+[4] I [6m]have [1]nothing I can [5]give to You
+[4] But [6m]pieces [1]of a broken [5]heart
+[4] I [6m]heard [1]You can make me [5]new
+So I [4]come, [1]I [4]come [6m] to [5]You
+
+{section: Bridge}
+So I [4] kneel in the [1]blood
+and I [4] kneel in the [1]water
+Bowing [4]low at the [1]tree,
+Where You [4]died for [5]me
+
+So I [4] kneel in the [1]blood
+and I [4] kneel in the [1]water
+Bowing [4]low at the [1]tree,
+And I [4]kiss Your [5]feet
+
+{section: Final Chorus}
+So right now [1]I give You my [5]ashes?
+Right now [6m]I give You my [4]sickness?
+Right now [1]I give You my [5]depression?
+Right now [6m]I give You my [4]weakness?

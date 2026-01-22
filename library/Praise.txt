@@ -1,0 +1,97 @@
+{title: Praise}
+{artist: Elevation Worship}
+{key: A}
+
+{section: Refrain}
+[1]Let everything
+That has breath
+Praise the Lord
+Praise the Lord
+
+{section: Verse 1}
+I'll [1]praise in the valley
+[42]Praise on the [1]mountain
+I'll [5/7]praise when I'm sure
+[42]Praise when I'm [1]doubting
+
+{section: Verse 2}
+I'll [1]praise when outnumbered
+Pr[42]aise when [1]surrounded
+Cause [5/7]praise is the waters[4]
+My enemies [1]drown in
+
+{section: Pre Chorus}
+As [5]long as I'm breathing
+[4]I've got a reason to
+
+{section: Chorus 1}
+[6m]Pra  -  [4]ise the [1]Lord oh my [5]soul
+[6m]Pra  -  [4]ise the [1]Lord oh my [5]soul
+
+{section: Verse 3}
+I'll [1]praise when I feel it
+I'll [42]praise when I [1]don't
+I'll [5/7]praise cause I kn[42]ow
+You're still in [1]control
+
+{section: Verse 4}
+My [1]praise is a weapon
+It's [42]more than a [1]sound
+My [5/7]praise is the shout[42]
+That brings Jericho [1]down
+
+{section: Pre Chorus}
+As [5]long as I'm breathing
+[4]I've got a reason to
+
+Chorus 1L
+[6m]Pra  -  [4]ise the [1]Lord oh my [5]soul
+[6m]Pra  -  [4]ise the [1]Lord oh my [5]soul
+[6m]I won't be quiet
+My [4]God is alive
+[1]How could I keep it i[5]nside
+[6m]Pra  -  [4]ise the [1]Lord oh my [5]soul
+
+{section: Interlude}
+| [1]  |
+
+{section: Bridge}
+I'll [1]praise cause You're sovereign
+[2m]Praise cause You reign
+[3m]Praise cause You rose
+And de[4]feated the grave
+I'll [1]praise cause You're faithful
+[2m]Praise cause You're true
+[3m]Praise cause there's nobody
+[4]Greater than You
+
+{section: Chorus}
+[6m]Pra  -  [4]ise the [1]Lord oh my [5]soul
+[6m]Pra  -  [4]ise the [1]Lord oh my [5]soul
+[6m]Pra  -  [4]ise the [1]Lord oh my [5]soul
+[6m]Pra  -  [4]ise the [1]Lord oh my [5]soul
+
+{section: Chorus 2}
+[6m]I won't be quiet
+My [4]God is alive
+[1]How could I keep it i[5]nside
+
+[6m]I won't be quiet
+My [4]God is alive
+[1]How could I keep it i[5]nside
+
+[6m]I won't be quiet
+My [4]God is alive
+[1]How could I keep it i[5]nside
+[6m]Pra  -  [4]ise the [1]Lord oh my [5]soul
+
+{section: Outro}
+| [6m] / / / | [4] / / / | [1] / / / | [5] / / / |
+| [6m] / / / | [4] / / / | [1] / / / | [5] / / / |
+
+{section: Refrain}
+[NC]
+Let everything
+That has breath
+Praise the Lord
+Praise the Lord

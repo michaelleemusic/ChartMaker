@@ -1,0 +1,16 @@
+{title: Breathe}
+{artist: Marie Barnett}
+{key: A}
+
+{section: Verse 1}
+[12]This is the air [42/1]I breathe,
+[12] this is the air [42/1]I breathe
+[12]Your [5/7]Holy [6m7]presence[5], [42]living[6m] in me[5sus]  [5]
+
+[12]This is my dai[42/1]ly bread,
+[12]This is my dai[42/1]ly bread,
+[12]Your ve[5/7]ry [6m7]Word [5]spoke[42]n [6m]to me[5sus]  [5]
+
+{section: Chorus}
+And [12]I,   [5/7]   [6m7]   [5] I'm desperate for [42]You [6m] [5]
+And [12]I,   [5/7]   [6m7]   [5] I'm lost without [42]You [6m] [5]

@@ -1,0 +1,107 @@
+{title: More Than Able}
+{artist: Elevation Worship}
+{key: Eb}
+{tempo: 103}
+
+{section: Intro}
+|[1] / |[1sus] [1] |[1] [1/7] | [42/6] / |
+|[1] / |[1sus] [1] |[6m] [5(add4)] |[42] / |
+
+{section: Verse 1}
+[1]When did I start to for[42/1]get
+[1/7]All of the great things You [42/6]did
+[6m]When did I [5(add4)]throw away
+[42]Faith for the im[1]possible?  [42/6]
+
+{section: Verse 2}
+[1]How did I start to be[42/1]lieve
+[1]You weren't sufficient for [42/1]me?
+[6m]Why do I [5(add4)]talk myself
+[42]Out of seeing [1]miracles?   [5/7]
+
+{section: Chorus}
+[1]You are more than [4/1]a - [1]ble  [|Eb Eb/D |Ab2 / |]
+[6m]You are [5(add4)]more than [42]able  [|Cm Bb(add4) |Ab2 / |]
+[1]You are more than [4/1]a - [1]ble  [|Eb Eb/D |Ab2 / |]
+[6m]You are [5(add4)]more than [42]able
+Who am [6m]I to de[5(add4)]ny
+What the [42]Lord can [2m7]do?
+
+{section: Turnaround}
+[1]   [4/1]   [1]   [4/1]
+
+{section: Verse 3}
+[1]Now I see all that I [4/1]have
+[1]I've got my confidence [4/1]back
+[6m]I put my [5(add4)]trust in the
+[42]One who still does [1]miracles
+You do [5/7]miracles
+
+{section: Bridge}
+[1]   Can you imagine
+[5/1]   With all of the faith [42/1]in the room
+What the Lord can do, [42/1]   what the Lord can do
+[1]   It's gonna happen
+[5/1]   Just let the Way [42/1]Maker through
+He's gonna move, [42/1]   He's gonna move
+
+{section: Bridge 2}
+[1]   Can you imagine
+[5sus]   With all of the faith [6m]in the room
+What the [5sus]Lord can do, [42]   what the Lord can do
+[1]   It's gonna happen
+[5sus]   Just let the Way [6m]Maker through
+He's [5sus]gonna move, [42]   He's gonna move
+
+{section: Vamp 1}
+[1]   Anything is [42/1]possible
+[1]   Anything is [42/1]possible
+[1/3]   Anything is [5]possible
+Who am [6m]I to de[5]ny
+What the [42]Lord can [4m6]do?
+
+{section: Tag}
+Who am [6m]I to de[5]ny
+What the [42]Lord can [4m6]do?
+
+{section: Turnaround}
+[1]   [4/1]   [1]   [4/1]
+
+Down Chorus
+[1]You are more than [4/1]a - [1]ble  |[1] [1/7] |[42] / |
+[6m]You are [5(add4)]more than [42]able  |[6m] [5(add4)] |[42] / |
+[1]You are more than [4/1]a - [1]ble  |[1] [1/7] |[42] / |
+[6m]You are [5(add4)]more than [42]able
+Who am [6m]I to de[5(add4)]ny
+What the [42]Lord can [4m6]do?
+
+{section: Channel}
+I've come a long [1]way
+I've seen how You [1/7]work
+There's so much [12/b7]goodness and grace
+Much more than [42/6]I de[2m7]serve
+I know who I [1]am
+I can't stay where I'm [1/7]at
+We've come this [12/b7]far by faith
+And I just [42/6]can't turn [2m7]back
+
+{section: Vamp 2}
+You're not done with me [1]yet
+You're not done with me [12/b7]yet
+There's so much [42/6]more to the story
+You're not done [4m6/#5]with me yet
+
+{section: Final Chorus}
+[1]God is more than [4/1]a - [1]ble  [|Eb Eb/D |Ab2/C / |]
+[6m]God is [5(add4)]more than [42]able  [|Cm Bb(add4) |Ab2 / |]
+[1]God is more than [4/1]a - [1]ble  [|Eb Eb/D |Ab2/C / |]
+[6m]God is [5(add4)]more than [42]able
+Who am [6m]I to de[5(add4)]ny
+What the [42]Lord can [4m6]do?
+
+{section: Tag}
+Who am [6m]I to de[5(add4)]ny
+What the [42]Lord can [4m6]do?
+
+{section: Final Chord}
+[1]

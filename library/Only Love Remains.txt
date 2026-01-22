@@ -1,0 +1,16 @@
+{title: Only Love Remains}
+{artist: Jon Thurlow}
+{key: G}
+
+{section: Verse 1}
+[2m]  It's not the riches[b7],  it's not the fame
+[4/6]  It's not the power, it's[1] not my[6/#1] name
+Only [2m]love (only love) only [b7]love (only love) only [4/6]love    [1]
+
+{section: Chorus}
+[2m]Everything else is [b7]fading away
+Only [4/6]love (only love), only [1]love remains
+
+{section: Bridge}
+So take the [2m]same love [b7]that's [4/6]inside [1]    Your[2m] hea[b7]rt  [4/6]    [1]
+And put that [2m]same love [b7]deep [4/6]inside  [1]    of[2m] me [b7]    [4/6]    [1]

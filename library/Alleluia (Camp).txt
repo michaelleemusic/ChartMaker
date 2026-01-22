@@ -1,0 +1,24 @@
+{title: Alleluia}
+{artist: Jerry Sinclair}
+{key: G}
+
+CCLI: 16811
+
+{section: Verse 1}
+Alle[1]luia
+Alle[4]luia
+Alle[5]luia
+Alle[1]luia
+(REPEAT)
+
+{section: Verse 2}
+He is worthy
+
+{section: Verse 3}
+Precious Jesus
+
+{section: Verse 4}
+I will praise Him
+
+{section: Verse 5}
+How I love You

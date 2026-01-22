@@ -1,0 +1,17 @@
+{title: Empty Me}
+{artist: John Mark Comer and Gene Way}
+{key: E}
+
+{section: Book}
+
+{section: Verse 1}
+[1]Holy Fire, [5sus]burn away
+[6m]My desire [42]for anything
+That is [1]not of You and [5sus]is of me
+I want [6m]more of You and [42]less of me
+
+{section: Chorus}
+[1]Em--[5sus]pty  [6m]me  [4]
+[1]Em--[5sus]pty  [6m]me [4]
+[1]Fill, won't yo[5sus]u fill  [6m]me  [42]
+With [1]You, [5sus]  with [6m]You, yeah [42]  [1]

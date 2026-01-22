@@ -4,13 +4,16 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>chartForge Renderer Demo</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
   <style>
     * {
       box-sizing: border-box;
     }
 
     body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
       margin: 0;
       padding: 20px;
       background: #f5f5f5;
@@ -80,6 +83,102 @@
       display: flex;
       gap: 12px;
       margin-bottom: 15px;
+      align-items: center;
+    }
+
+    .search-container {
+      position: relative;
+      flex: 1;
+      max-width: 400px;
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 10px 14px;
+      font-size: 14px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      background: white;
+    }
+
+    .search-input:focus {
+      outline: none;
+      border-color: #4a4a4a;
+      box-shadow: 0 0 0 2px rgba(74, 74, 74, 0.2);
+    }
+
+    .search-results {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      max-height: 300px;
+      overflow-y: auto;
+      background: white;
+      border: 1px solid #ccc;
+      border-top: none;
+      border-radius: 0 0 6px 6px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      z-index: 100;
+      display: none;
+    }
+
+    .search-results.visible {
+      display: block;
+    }
+
+    .search-result {
+      padding: 10px 14px;
+      cursor: pointer;
+      border-bottom: 1px solid #eee;
+    }
+
+    .search-result:last-child {
+      border-bottom: none;
+    }
+
+    .search-result:hover,
+    .search-result.selected {
+      background: #f0f0f0;
+    }
+
+    .search-result .title {
+      font-weight: 500;
+      color: #333;
+    }
+
+    .search-result .artist {
+      font-size: 12px;
+      color: #666;
+      margin-top: 2px;
+    }
+
+    .search-result .key {
+      font-size: 11px;
+      color: #999;
+      float: right;
+    }
+
+    .random-btn {
+      padding: 10px 16px;
+      font-size: 14px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      background: white;
+      cursor: pointer;
+      transition: all 0.15s ease;
+      white-space: nowrap;
+    }
+
+    .random-btn:hover {
+      border-color: #999;
+      background: #f5f5f5;
+    }
+
+    .song-count {
+      font-size: 12px;
+      color: #888;
+      white-space: nowrap;
     }
 
     .page-controls {
@@ -152,12 +251,11 @@
 
     <div class="controls">
       <div class="toolbar">
-        <select id="library-select">
-          <option value="">Custom Input</option>
-          <option value="living-hope">Living Hope</option>
-          <option value="no-longer-slaves">No Longer Slaves</option>
-          <option value="i-thank-god">I Thank God</option>
-        </select>
+        <div class="search-container">
+          <input type="text" class="search-input" id="song-search" placeholder="Search 676 songs..." autocomplete="off">
+          <div class="search-results" id="search-results"></div>
+        </div>
+        <button class="random-btn" id="random-btn">🎲 Random</button>
         <select id="render-key">
           <option value="numbers">Numbers</option>
           <option value="C">Key of C</option>
@@ -949,6 +1047,7 @@ Jesus Yours [42]is the victory [5add4]
           const segmentText = lyrics.substring(prevPos, cp.position);
 
           if (segmentText) {
+            ctx.font = `${config.fonts.lyrics.weight} ${config.fonts.lyrics.size}px ${config.fonts.lyrics.family}`;
             segments.push({ text: segmentText, xPos: currentX });
             currentX += ctx.measureText(segmentText).width;
           }
@@ -1062,184 +1161,137 @@ Jesus Yours [42]is the victory [5add4]
       }
     });
 
-    // Library chart data (stored in Nashville Number notation)
-    const LIBRARY_CHARTS = {
-      'living-hope': `{title: Living Hope}
-{artist: Phil Wickham}
-{key: Eb}
-{tempo: 72}
-{time: 4/4}
+    // Library search functionality
+    let libraryIndex = [];
+    const songSearchEl = document.getElementById('song-search');
+    const searchResultsEl = document.getElementById('search-results');
+    const randomBtn = document.getElementById('random-btn');
+    let selectedResultIndex = -1;
 
-{section: Intro}
-{dynamics: Acoustic Guitar, Piano & Pad}
-[1] [4sus2] [1] [4sus2]
+    // Load library index
+    async function loadLibraryIndex() {
+      try {
+        const response = await fetch('../library/index.json');
+        libraryIndex = await response.json();
+        songSearchEl.placeholder = `Search ${libraryIndex.length} songs...`;
+      } catch (e) {
+        console.error('Failed to load library index:', e);
+        songSearchEl.placeholder = 'Library unavailable';
+      }
+    }
 
-{section: Verse 1}
-How great the [1]chasm
-That lay between [5sus4]us
-How high the [42]mountain
-[6m7]I could not [5sus4]climb
-In desperation [1]I turned to Heaven [5sus4]
-And spoke Your name [4sus2]Into [5sus4]the night [1]
+    // Fetch song content
+    async function loadSong(path) {
+      try {
+        const response = await fetch(`../library/${path}`);
+        const content = await response.text();
+        inputEl.value = content;
+        render();
+        songSearchEl.value = '';
+        hideSearchResults();
+      } catch (e) {
+        console.error('Failed to load song:', e);
+        errorEl.textContent = 'Error loading song: ' + e.message;
+        errorEl.style.display = 'block';
+      }
+    }
 
-{section: Pre Chorus 1}
-Then through the darkness [4sus2]
-Your loving kindness [1]
-Tore through the shadows [6m7]of my soul [5sus4]
-The work is finished [1]the end is written [5sus4]
-Jesus Christ [4sus2]my living [5sus4]hope
+    // Search songs
+    function searchSongs(query) {
+      if (!query.trim()) return [];
+      const lower = query.toLowerCase();
+      return libraryIndex.filter(song =>
+        song.title.toLowerCase().includes(lower) ||
+        song.artist.toLowerCase().includes(lower)
+      ).slice(0, 20);
+    }
 
-{section: Interlude}
-[1] [4]
+    // Render search results
+    function showSearchResults(results) {
+      if (results.length === 0) {
+        hideSearchResults();
+        return;
+      }
 
-{section: Verse 2}
-{dynamics: Add Bass & soft Drum groove}
-Who could imagine [1]
-So great a mercy [5sus4]
-What heart could fathom [42]
-Such [6m7]boundless grace [5sus4]
-The God of ages [1]
-Stepped down from glory [5sus4]
-To wear my sin [42]And bear [5sus4]my shame [1]
+      searchResultsEl.innerHTML = results.map((song, i) => `
+        <div class="search-result${i === selectedResultIndex ? ' selected' : ''}" data-path="${song.path}">
+          <span class="key">${song.key || ''}</span>
+          <div class="title">${escapeHtml(song.title)}</div>
+          <div class="artist">${escapeHtml(song.artist)}</div>
+        </div>
+      `).join('');
+      searchResultsEl.classList.add('visible');
+    }
 
-{section: Pre Chorus 2}
-{dynamics: Increase dynamics slightly}
-The Cross has spoken [4sus2]I am forgiven [1]
-The King of kings [6m7]calls me His own [5]
-Beautiful Savior [1]I'm Yours forever [5sus4]
-Jesus Christ [4sus2]my living [5sus4]hope [1]
+    function hideSearchResults() {
+      searchResultsEl.classList.remove('visible');
+      selectedResultIndex = -1;
+    }
 
-{section: Chorus}
-{dynamics: Increase Dynamics}
-Hallelu - [42]jah [1]
-Praise the One [5add4]who set me free [6m7]
-Hallelu - [42]jah [1]
-Death has lost [5add4]its grip on me [6m7]
-You [6m7/5]have broken [42]every chain [1]
-There's salvation [5add4]in Your name [6m7]
-Jesus [6m7/5]Christ [42]my living [5sus4]hope [1]
+    function escapeHtml(text) {
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
 
-{section: Tag}
-Jesus Yours [42]is the victory [5add4]
+    // Random song
+    function loadRandomSong() {
+      if (libraryIndex.length === 0) return;
+      const randomIndex = Math.floor(Math.random() * libraryIndex.length);
+      const song = libraryIndex[randomIndex];
+      loadSong(song.path);
+    }
 
-{section: Ending}
-[1]`,
+    // Event listeners
+    songSearchEl.addEventListener('input', (e) => {
+      const results = searchSongs(e.target.value);
+      selectedResultIndex = -1;
+      showSearchResults(results);
+    });
 
-      'no-longer-slaves': `{title: No Longer Slaves}
-{artist: Bethel Music}
-{key: Bb}
-{tempo: 74}
-{time: 4/4}
+    songSearchEl.addEventListener('focus', () => {
+      if (songSearchEl.value.trim()) {
+        const results = searchSongs(songSearchEl.value);
+        showSearchResults(results);
+      }
+    });
 
-{section: Verse 1}
-{dynamics: Acoustic Guitar & Piano}
-You unravel [1]me with a melody
-You surround [4]me with [5]a song [1]
-Of deliverance [1]from my enemies
-'Til all [4]my fears [5]are gone [1]
+    songSearchEl.addEventListener('keydown', (e) => {
+      const results = searchResultsEl.querySelectorAll('.search-result');
+      if (results.length === 0) return;
 
-{section: Chorus}
-{dynamics: Add Strings}
-I'm no longer [4]a slave [5]to fear [1]
-I [6m]am a child [5]of God [1]
-I'm no longer [4]a slave [5]to fear [1]
-I [6m]am a child [5]of God
+      if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        selectedResultIndex = Math.min(selectedResultIndex + 1, results.length - 1);
+        showSearchResults(searchSongs(songSearchEl.value));
+      } else if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        selectedResultIndex = Math.max(selectedResultIndex - 1, 0);
+        showSearchResults(searchSongs(songSearchEl.value));
+      } else if (e.key === 'Enter' && selectedResultIndex >= 0) {
+        e.preventDefault();
+        const selected = results[selectedResultIndex];
+        if (selected) loadSong(selected.dataset.path);
+      } else if (e.key === 'Escape') {
+        hideSearchResults();
+      }
+    });
 
-{section: Interlude}
-{dynamics: Add Bass, Keys & Light Drums}
-[6m] [5] [1] [4]
-[6m] [5] [1] [4]
+    searchResultsEl.addEventListener('click', (e) => {
+      const result = e.target.closest('.search-result');
+      if (result) loadSong(result.dataset.path);
+    });
 
-{section: Verse 2}
-{dynamics: Add Electric Guitar, Light Tom groove}
-From my mother's [1]womb
-You have chosen [3m]me
-Love has [4]called [5]my name [1]
-I've been born [1]again into Your family [3m]
-Your blood [4]flows through [5]my veins [1]
+    document.addEventListener('click', (e) => {
+      if (!e.target.closest('.search-container')) {
+        hideSearchResults();
+      }
+    });
 
-{section: Chorus}
-{dynamics: Increase dynamics slightly}
-I'm no longer [4]a slave [5]to fear [1]
-I [6m]am a child [5]of God [1]
-I'm no longer [4]a slave [5]to fear [1]
-I [6m]am a child [5]of God
+    randomBtn.addEventListener('click', loadRandomSong);
 
-{section: Bridge}
-{dynamics: All in, full Groove}
-You [6m]split the sea [5]
-So I could walk [1]right through [4]it
-My [6m]fears were drowned [5]
-In perfect love [1] [4]
-You [6m]rescued me [5]
-And I will stand [1]and sing [3m]
-I am [4]a child [5]of God [1]
-
-{section: Tag}
-I am [4]a child [5]of God [1]
-
-{section: Ending}
-[1]`,
-
-      'i-thank-god': `{title: I Thank God}
-{artist: Maverick City Music}
-{key: Db}
-{tempo: 130}
-{time: 4/4}
-
-{section: Intro}
-{dynamics: Acoustic Guitar driving, Tom groove}
-[1] [1sus4] [1] [1sus4]
-[1] [1sus4] [1] [1sus4]
-
-{section: Verse 1}
-Wandering [1]into the night
-Wanting a place to hide
-This weary soul [42]
-This bag of bones [1] [4/1]
-
-{section: Verse 2}
-I [1]tried with all my might
-But I just can't win the fight
-I'm slowly drifting [42]a vagabond [1]
-
-{section: Pre Chorus 1}
-{dynamics: Build to Chorus}
-And just [5]when I ran out [6m7]of road
-I met [4]a man I didn't [1]know
-And he [5]told me
-That I [1/3]was not alone [4]
-
-{section: Chorus}
-{dynamics: Bigger}
-You picked [1]me up turned [2m7]me around
-Placed [1/3]my feet on solid [42]ground
-I thank the Master [6m7]
-I thank the Savior [42]
-Because He healed [1]my heart
-He changed [2m7]my name
-Forever [1/3]free I'm not [42]the same
-I thank the Master [6m7]
-I thank the Savior [42]
-I thank God
-
-{section: Bridge 1}
-{dynamics: Slight breakdown}
-Hell [1]lost another one
-I am free
-I am free
-I am free
-
-{section: Bridge 2}
-{dynamics: Band building}
-Hell [5]lost another one
-I [6m7]am free
-I [42]am free
-I [1]am free
-
-{section: Ending}
-[1]`
-    };
+    // Load library on startup
+    loadLibraryIndex();
 
     // Number to Letter conversion utilities
     const CHROMATIC_SHARPS = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B'];
@@ -1336,17 +1388,8 @@ I [1]am free
       };
     }
 
-    // Library and render key controls
-    const librarySelect = document.getElementById('library-select');
+    // Render key control
     const renderKeySelect = document.getElementById('render-key');
-
-    librarySelect.addEventListener('change', () => {
-      const chartId = librarySelect.value;
-      if (chartId && LIBRARY_CHARTS[chartId]) {
-        inputEl.value = LIBRARY_CHARTS[chartId];
-        render();
-      }
-    });
 
     renderKeySelect.addEventListener('change', () => {
       render();

@@ -1,0 +1,29 @@
+{title: Yes I Will}
+{artist: Essential Worship}
+{key: G}
+
+Album: Capo 5
+
+{section: Verse}
+I count on [4]one thing  [1]
+The same [5]God that never [6m]fails
+Will not [4]fail me [1]now
+You won't [5]fail me [6m]now
+
+In the w[4]aiting  [1]
+The same [5]God who's never [6m]late
+Is workin' [4]all things [1]out
+You're workin' [5]all things [6m]out
+
+{section: Chorus}
+[4]Yes I [1]will, lift You [5]high in the l[6m]owest valley
+[4]Yes I [1]will, bless Your [5]name
+[4]Yes I [1]will, sing for [5]joy when my he[6m]art is heavy
+[4]All my [1]days, oh[5] yes I [6m]will
+For [4]all my [1]days, oh [5]yes I [6m]will
+
+{section: Bridge}
+And I choose to [4]prais[1]e
+To gl[5]orify, to gl[6m]orify
+The Name of all [4]names[1]
+That [5]nothing can stand a[6m]gainst

@@ -1,0 +1,16 @@
+{title: You Deserve the Glory}
+{artist: Terry MacAlmon}
+{key: C}
+{tempo: 58}
+
+{section: Pre Chorus}
+You deserve the [1]Glory,
+and the [6m]Honor,
+Lord we [4]Lift our hands in worship,
+as we [5]lift Your holy name.
+
+{section: Chorus}
+For You [1]are Great,
+You do miracles [6m]so Great,
+There is no one [4]else like You,
+There is [5]no one else like You.

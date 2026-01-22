@@ -1,0 +1,31 @@
+{title: It Is Well}
+{key: C}
+
+{section: Verse 1}
+[1]When peace, li[5]ke a rive[4]r, a[57]ttendet[1]h my way,
+When [6m]sorrows like [2]sea billows r[5]oll;
+What[1]ever my l[4]ot, thou h[67]ast t[2m]aught me [27]to [5]say,
+"It is [1]well, [4]it is [1/5]well [5]with my soul."
+
+{section: Chorus}
+It is we[1]ll  (It is wel[t]l)
+With my sou[5]l  (With my soul[1])
+It is [4]well, it is w[1/5]ell, w[57]ith my s[1]oul.
+
+{section: Verse 2}
+Though Satan should buffet, though trials should come,
+Let this blest assurance control,
+That Christ has regarded my helpless estate,
+And hath shed his own blood for my soul.
+
+{section: Verse 3}
+My sin, o, the joy of this glorious thought!
+My sin, not in part but the whole
+Is nailed to the cross, and I bear it no more,
+Praise the Lord, praise the Lord, O my soul!
+
+{section: Verse 4}
+And, Lord, haste the day when my faith shall be sight,
+The clouds be rolled back as a scroll;
+The trump shall resound, and the Lord shall descend,
+Even so, it is well with my soul.

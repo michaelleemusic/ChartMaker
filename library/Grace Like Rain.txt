@@ -1,0 +1,25 @@
+{title: Grace Like Rain}
+{artist: Chris Collins & Todd Agnew}
+{key: Dm}
+
+{section: Verse 1}
+[1m]Amazing [#5]grace, how [#2]sweet the [b7]sound
+That [1m]saved a [#5]wretch like [#2]me  [b7]
+I [1m]once was [#5]lost but [#2]now I'm [b7]found
+Was [1m]blind but [#5]now I [#2]see so [b7]clearly
+
+{section: Chorus}
+[1m]Hallel[#5]ujah, grace like [#2]rain falls [b7]down on me
+[1m]Halle[#5]lujah, all my [#2]stains are washed [b7]away, washed [1m]away
+
+{section: Verse 2}
+Twas[1m] grace that[#5] taught my [#2]heart to [b7]fear
+And [1m]grace my [#5]fears re[#2]lieved [b7]
+How [1m] precious [#5]did that gr[#2]ace app[b7]ear
+The [1m]hour I [#5]first be[#2]lieved [b7]
+
+{section: Verse 3}
+When [1m]we've been [#5]there ten t[#2]housand [b7]years
+Bright[1m] shining[#5] as the [#2]sun  [b7]
+We've [1m]no less d[#5]ays to [#2]sing Your [b7]praise
+Than[1m] when we[#5]first [#2]begun [b7]

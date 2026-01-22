@@ -1,0 +1,26 @@
+{title: Behold Him}
+{artist: Nina Landis}
+{key: Am}
+
+{section: Cant Key}
+Book: Graham
+
+{section: Intro}
+[1m]   [2m7]   [#2]   [4]   [5m]
+
+{section: Verse}
+[1m]Surely I was made to gaze all of my days
+To gaze upon the King of Kings seated on the throne
+
+{section: Chorus}
+[1m]Behold Him, [#5]Behold Him, [4m7]Behold Him
+[5m]O my soul, O my soul
+
+{section: Bridge}
+[1m]He's a real man seated on a throne,
+[b7]He's a real God and I must know Him.
+[#5]He's a real man seated on a [b7]throne,
+[5sus]He's a real God and I must know Him.
+
+You're a real man seated on a throne,
+You're a real God and I must know You.

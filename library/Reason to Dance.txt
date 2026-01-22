@@ -1,0 +1,20 @@
+{title: Reason to Dance}
+{artist: Cory Asbury, Jaye Thomas, Laura Hackett, James Wells, James David Whitworth, Seth Yates and Caleb Culver}
+{key: D}
+{tempo: 116}
+
+{section: Verse}
+[17]I got a reason to dance, dance
+I got a reason to lift my hands
+I got a reason to dance, dance
+I got a reason to shout for joy
+
+{section: Chorus}
+[1]Jesus, King of Glory
+[#2]Jesus, King of Glory
+[b7]Jesus, King of Glory  [4]
+(How we love name of)
+
+{section: Bridge}
+[1]Take me to the house of wine where there is joy
+In the presence of a holy God

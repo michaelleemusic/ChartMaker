@@ -1,0 +1,40 @@
+{title: Heart's Celebration}
+{artist: Laura Hackett Park}
+{key: A}
+
+{section: Intro}
+[1]  [5]  [2]  [3m]
+[1]  [5]  [2]
+
+{section: Verse}
+[1]At Your feet I [5]bow
+And a [2]song of love comes [3m]out
+The [1]melodies a[5]rise
+I [2]love you [3m]
+Let [1]nothing hinder [5]now
+Your [2]presence and Your [3m]power
+[1]All I am poured[5] out
+I l[2]ove You [3m]
+
+{section: Chorus}
+[1]  Let my whole [5]being worship You
+[2]  Let my whole [3m]being worship You
+[1]  You are my [5]heart celebra[2]tion
+
+{section: Verse 2}
+You’re [1]better than I [5]thought
+So I [2]give up all I [3m]got
+To [1]see one glimpse of [5]You
+How I lo[2]ve You [3m]
+
+{section: Bridge}
+I re[1]joice, I rejoice in Your [5]goodness [5/7]
+All I [1]am, all I am for Your [3m]glory [2]
+I re[1]joice, I rejoice in Your [5]goodness [5/7]
+I will [1]dance, I will dance for Your [3m]glory [2]
+
+{section: Outro}
+I [1]love to be loved by [5]You
+I [2]love to be loved by [3m]You
+I [1]love to be loved by [5]You
+I [2]love to be loved by [3m]You

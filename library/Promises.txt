@@ -1,0 +1,48 @@
+{title: Promises}
+{artist: Maverick City Music}
+{key: Bb}
+
+{section: Church Key}
+Tempo: 57
+{section: Book}
+
+{section: Intro}
+[6m] [4] [1] [5sus]
+
+{section: Verse 1}
+[6m]  God of Abra[4]ham,
+God of cove[1]nant and of faithful promi[5]ses
+[6m]  Time and time a[4]gain
+You have pro[1]ven You'll do just what you [5]said
+
+{section: Pre Chorus}
+Though the [6m]storms may come and the [4]winds may blow
+I'll [1]remain stead[5]fast
+And let [6m]my heart learn when
+You [4]speak a word it will [1]come to [5]pass
+
+{section: Chorus}
+[6m]Great is Your [5/3]faithful[4]ness to [1]me
+[6m]Great is Your [5/3]faithful[4]ness to [1]me
+From the [6m]rising sun, to the [5]setting same
+I will [4]praise Your [1]name
+[6m]Great is Your [5]faithful[4]ness to [1]me
+
+{section: Turnaround}
+[6m] [4] [1] [5sus]
+
+{section: Verse 2}
+[6m]   God from age to [4]age,
+Though the earth may pass [1]away,
+Your word remains the [5]same
+[6m]   Your history can [4]prove there's nothing You can't [1]do,
+You're faithful [5]and True
+
+{section: Interlude}
+[4] [1] [6m] [5sus]
+
+{section: Bridge}
+I [4]put my faith [1]in Jesus
+My [6m]anchor to the [5]ground
+My [4]hope and firm foun[1]dation
+He'll [6m]never let me [5]down

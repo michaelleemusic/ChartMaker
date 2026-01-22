@@ -1,0 +1,40 @@
+{title: Nothing Else}
+{artist: Cody Carnes}
+{key: C}
+
+{section: Intro}
+[2m7]   [4]   [1]  [1sus]   [1]
+[2m7]   [4maj7]    [1]  [1sus]   [1]
+
+{section: Chorus}
+I'm caught up in Your [2m7]presence
+I just want to [1]sit here at Your feet
+I'm caught up in this [2m7]holy mom[42]ent
+I never want to le[1]ave [1sus]    [1]
+Oh, I'm not here for [2m7]blessings [42]
+Jesus, You don't [1]owe me anything
+More than any[2m7]thing that You can [42]do
+I just want [1]You
+
+{section: Verse 1}
+I'm [42]sorry when I've just gone through the motions
+I'm [1/3]sorry when I just sang another song
+Take me [42]back to where we started
+I open up my heart to [1]You  [1sus]   [1]
+
+{section: Verse 2}
+I'm [42]sorry when I've come with my agenda
+I'm [1/3]sorry when I forgot that You're enough
+Take me [42]back to where we started
+I open up my heart to [1]You [1sus]    [1]
+
+{section: Bridge}
+I just want [2m7]You
+Nothing else,[42]  nothing else
+[6m7]  Nothing else will [5]do
+I just want [2m7]You
+Nothing else,[42]  nothing else
+[6m7]  Nothing else will [5]do
+
+{section: End Chord}
+[5]

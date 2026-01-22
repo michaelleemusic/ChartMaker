@@ -1,0 +1,19 @@
+{title: You're Faithful}
+{artist: Luke Wood}
+{key: A}
+
+{section: Chorus}
+You're [1]faithful (You're always the same)
+You're [6m]faithful (no, You never change)
+You're [4]faithful [5]
+You're always [1]good, You're always [5]good
+
+{section: Verse 1}
+[1]Though I walk through the valley of the shadow of death
+[6m]I have no doubt; You've already gone ahead
+[4]My fire by night[5], my cloud by [1]day
+
+{section: Verse 2}
+[1]Though ten thousand may fall, to my right and my left
+[6m]Under the shadow of the Most High, I find rest
+[4]My fire by night[5], my cloud by [1]day

@@ -1,0 +1,27 @@
+{title: I Will Bow}
+{artist: Ben Kennedy}
+{key: G}
+
+{section: Cant Key}
+{section: Book}
+
+{section: Verse 1}
+[12]Two things have I[52/3] heard, from the word tht You have [42]spoken [5sus/4]
+[12]That You Oh God are [52/3]strong, and You Oh God are [42]loving
+I will [5sus/4]not be shaken
+
+{section: Chorus}
+I will [2m]bow, I will [6m]bow
+Lift my [42]eyes up from the ashes
+With my [52]knees on the [52/7]ground (x2) I will [1]bow
+
+{section: Verse 2}
+[12]One thing I will[52/3] seek, it's You and You[42] alone  [5sus/4]
+[12]I don't have to [52/3]fear I know You are [42]near
+I will [5sus/4]not be moved
+
+{section: Bridge}
+[6m]I am pouring out my [42]heart to You Oh God
+[1]I am weak, [52]You are strong
+[6m]I am putting all my [42]hope in You Oh God
+[1]In You and to You and [42]for You alone

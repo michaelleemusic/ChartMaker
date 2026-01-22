@@ -1,0 +1,15 @@
+{title: Freedom Reigns}
+{artist: Michael Larson}
+{key: C}
+
+{section: Verse 1}
+Where the [1]spirit of the Lord is there is [6m]freedom
+Where the [5]spirit of the Lord is there is [4maj7]freedom
+[1]If you're tired and thirsty there is [6m]freedom
+[5]If you're tired and thirsty there is [4maj7]freedom
+
+{section: Chorus}
+[1]Freedom reigns in this place, [6m]showers of mercy and grace
+[5]Falling on every face, there is [4maj7]freedom
+[1]Jesus reigns in this place, [6m]showers of mercy and grace
+[5]Falling on every face, there is [4maj7]freedom

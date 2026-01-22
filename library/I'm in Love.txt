@@ -1,0 +1,19 @@
+{title: I'm in Love}
+{artist: Merchant Band}
+{key: E}
+
+{section: Verse 1}
+[1]You are good, I [6m]adore
+[1]As I should, I want [#1maj11]more
+[1]You are king, I [6m]bow
+[1]All my life, I pour [#1maj11]out
+
+{section: Bridge}
+I've [6m7]never known another as [5/7]kind in this [42]life, as [5]You
+[6m7]All the others cross the [5/7]road and pass me [42]by, but not [5]You
+
+{section: Chorus}
+I'm in [1]love, from the moment that I saw Your face
+I'm in [4/1]love, You never turn away Your gaze
+I'm in [6m]love, now the reason for the rest of my days
+Is to lo[5]ve You, I will love You

@@ -1,0 +1,48 @@
+{title: Who You Say I Am}
+{artist: Hillsong Worship}
+{key: G}
+
+{section: Intro}
+[1]
+
+{section: Verse 1}
+[1] Who am I that the highest King
+Would [6m]wel[5]come [1]me
+[1] I was lost but He brought me in
+Oh, His [6m]love [5]for [4]me
+Oh, His [6m]love [5]for [4]me
+
+{section: Chorus}
+Who the [1]Son sets free
+Oh, is [5]free indeed
+I'm a [6m]child [5]of [4]God
+Yes, I [1]am
+
+(Second Time Only)
+In my [1]Father's house
+There's a [5]place for me
+I'm a [6m]child [5]of [4]God
+Yes, I [1]am
+
+{section: Verse 2}
+[1] Free at last, He has ransomed me
+His [6m]grace [5]runs [1]deep
+[1] While I was a slave to sin
+Jesus [6m]died [5]for [4]me
+Yes, He [6m]died [5]for [4]me
+
+{section: Bridge}
+I am [6m]chosen
+Not for[5/7]saken
+I [1]am who You say I [4]am
+You are [6m]for me
+Not a[5/7]gainst me
+I [1]am who You say I [4]am
+
+{section: Tag}
+Oh, I [1]am who You say I [4]am
+Yes, I [1]am who You say I [4]am
+
+{section: Instrumental}
+[| [Em] / / / / / | [5/7] / / / / / | [1] / / / / / | [4] / / / / / |]
+2X

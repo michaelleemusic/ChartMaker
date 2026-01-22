@@ -1,0 +1,17 @@
+{title: Holy}
+{artist: Don Chaffer}
+{key: Em}
+
+{section: Chorus}
+[1m]Ho---[b7]ly, [1m]Ho---[b7]ly, [1m]Ho---[b7]ly, is the [#5]Lord [b7]God Al[1m]mighty. (x2)
+Heaven and [#5]earth are filled with Your [1m]Glory.
+Heaven and [#5]earth are filled with Your [1m]Praise.
+Heaven and [#5]earth are filled with Your [1m]Glory.
+Holy is the [#5]Lord [b7]God Al[1m]mighty, Holy is the [#5]Lord [b7]God Al[1m]mighty
+
+{section: Bridge}
+[#1]Holy is Lord [#2]God Almighty, [4m]who was, and is, and is to come (x8)
+[#1]Heaven and earth are filled with Your [4m]Glory.
+[#1]Heaven and earth are filled with Your [4m]Praise.
+[#1]Heaven and earth are filled with Your [4m]Glory.
+Holy is the [#1]Lord [#2]God Al[4m]mighty

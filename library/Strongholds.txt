@@ -1,0 +1,85 @@
+{title: Strongholds}
+{artist: Chris Tomlin}
+{key: Bb}
+
+{section: Intro}
+|[1] / / [5sus] | [42] / / / | [1] / / [5sus] | [42] / / / |
+
+{section: Verse 1}
+[1]Walls are [5sus]coming do[42]wn
+[1]Fear is [5sus]coming do[42]wn
+[6m7]Lies are [5sus]coming do[42]wn
+By the blood of the La[1]mb   [5sus]  [42]
+
+{section: Verse 2}
+[1]Idols are [5sus]coming do[42]wn
+[1]Giants are [5sus]coming do[42]wn
+[6m7]Darkness is [5sus]coming do[42]wn
+By the blood of the La[1]mb   [5sus]  [42]
+
+{section: Chorus}
+[1]   No weapon formed a[5sus]gainst me
+[42]   Can stand against Your word
+[6m7]   Shout it out
+[5sus]Every [42]stronghold must come down
+[1]   Jesus is unde[5sus]feated
+[42]   The battle is the Lord's
+[6m7]   Shout it out
+[5sus]Every [42]stronghold must come down
+
+{section: Turnaround}
+|[1] / / [5sus] | [42] / / / | [1] / / [5sus] | [42] / / / |
+
+{section: Verse 3}
+[1]Mountains are [5sus]coming do[42]wn
+Ad[1]dictions are [5sus]coming do[42]wn
+All [6m7]evil is [5sus]coming do[42]wn
+By the blood of the La[6m7]mb
+The blood of the La[42]mb
+
+{section: Turnaround}
+|[4maj7] / / / |
+
+{section: Bridge 1}
+[42]   The Lord is our salvation
+[5(add4)]   He is our champion
+[6m7]   Oh, there is power
+So much [1maj7/3]power in His blood
+[42]   He holds the keys to freedom
+[5(add4)]   He trampled death and grave
+[6m7]   The demons trembled
+When He [1maj7/3]rolled the stone away
+
+{section: Bridge 2}
+[42]   The Lord is our salvation
+[5(add4)]   He is our champion
+[6m7]   Oh, there is power
+So much [1maj7/3]power in His blood
+[42]   He holds the keys to freedom
+[5(add4)]   He trampled death and grave
+[6m7]   The demons trembled
+When He [5sus/7]rolled the stone away
+
+{section: Alt Chorus}
+[1]   No weapon formed a[5sus]gainst me
+[42]   Can stand against Your word
+[6m7]   Shout it out
+[5sus]Every [42]stronghold must come down
+[1]   Jesus, You're unde[5sus]feated
+[42]   This battle, it is Yours
+[6m7]   Shout it out
+[5sus]Every [42]stronghold must come down
+
+{section: Tag}
+[1]   [5sus]Every [42]stronghold must come down
+[1]   Jesus, [5sus]I be[42]lieve it
+They all fall do[6m7]wn   [5sus]  [42]
+
+{section: Instrumental}
+|[1] / / / | [1sus] / / / | [1] / / / | [1sus] / / / |
+
+{section: Verse 4}
+[1]Love is [5(add4)]pouring ou[42]t
+[1]Grace is [5(add4)]pouring ou[42]t
+[6m7]Mercy is [5(add4)]pouring ou[42]t
+By the blood of the La[N.C.]mb

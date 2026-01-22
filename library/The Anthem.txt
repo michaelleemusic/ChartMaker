@@ -1,0 +1,35 @@
+{title: The Anthem}
+{artist: Planetshakers, Joth Hunt}
+{key: F}
+{tempo: 88}
+
+Intro
+[1] [3m] [2] [2] x2
+
+{section: Verse}
+By His stri[1]pes [3m]we are hea[2]led
+By His n[1]ail pierced h[3m]ands we're free [2]
+By His b[1]lood [3m]we're washed clean [2]
+Now we [1]have the vic[3m]tory  [2]
+
+{section: Pre Chorus}
+The [6m7]power of sin is broken
+[5/7]Jesus overcame it al[2]l
+[6m7]He has won our freedom
+[5/7]Jesus has won it al[2]l
+
+{section: Chorus}
+[3m]Hal[2/#4]lelu-j[5]ah, You have w[6m]on the vi[3m]ctory[2]
+[3m]Hal[2/#4]lelu-j[5]ah, You have w[6m]on it al[3m]l for me[2]
+
+Death could not h[1]old You [3m]down, [2]
+You are the r[1]isen K[3m]ing  [2]
+Seated in [1]majes[3m]ty, [2]
+You are the [1]risen Ki[3m]ng  [2]
+
+Instrumental
+[1] [2] [3m] [2/#4]
+
+{section: Bridge}
+Our God has [1]risen, He is al[2]ive
+He won the [3m]victory, He reigns on [2/#4]high

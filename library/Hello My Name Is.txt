@@ -1,0 +1,50 @@
+{title: Hello My Name Is}
+{artist: Matthew West}
+{key: G}
+
+{section: Intro}
+[6m]  [5]  [4]  [5]  [1]
+
+{section: Verse 1}
+Hello, my name is re[1]gret I'm pretty sure we have [6m]met
+Every single day of your life [2m]I'm the whisper inside[4]
+That won't let you forget[1]
+
+{section: Verse 2}
+Hello, my name is defe[1]at I know you recognize [6m]me
+Just when you think you can win [2m]I'll drag youu right back down again[4]
+'Til you lost all [1]belief
+
+{section: Pre Chorus}
+These are the vo[6m]ices, these are the lies[4]
+That I have believed in,[2m] for the very last [5]time
+
+{section: Chorus}
+Hello, my name is [1]child of the one true King
+I've been saved, I've been [6m]changed, I have been set free
+Amazing [2m]grace is the song I sing[4]
+Hello, my name is [1]child of the one true King
+
+{section: Interlude}
+[6m]  [5]  [4]  [5]  [1]
+
+{section: Verse 3}
+I am no longer de[1]fined by all the wreckage be[6m]hind
+The One who makes all things [2m]new has proven it's true[4]
+Just take a look at my [1]life
+
+Chorus
+
+Interlude
+
+{section: Bridge}
+[1]What love the Father has lavished [6m]upon us
+That we should be called His chil[2m]dren
+I am a child[4] of the one true King[1]
+What love the Father has lavished[6m] upon us
+that we should be called His ch[2m]ildren
+
+Chorus
+
+{section: Outro}
+[6m]  [5]  [4]  [5]  [1]

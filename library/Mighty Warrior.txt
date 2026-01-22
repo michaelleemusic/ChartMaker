@@ -1,0 +1,21 @@
+{title: Mighty Warrior}
+{artist: Debby Graafsma}
+{key: F}
+
+{section: Chorus}
+[1]Mighty Warrior, [b7]dressed for battle
+[4]Holy Lord of all is [1]He.
+Commander-in-chief,[b7] bring us to attention,
+[4]Lead us into battle to[1] crush the [4/5]enemy.
+
+{section: Verse 1}
+Jesus [1]has all authority [2m7]here in this [57]place,
+He [2m7]has all aut[5]hority [1]here.
+For [4]this habitation was [1]fashioned for the [6m7]Lord's presence
+[2m7]All aut[4/5]hority [1]here.
+
+{section: Verse 2}
+Satan [1]has no authority [2m7]here in this [57]place,
+He [2m7]has no aut[5]hority [1]here.
+For [4]this habitation was [1]fashioned for the [6m7]Lord's presence
+[2m7]No aut[4/5]hority [1]here.

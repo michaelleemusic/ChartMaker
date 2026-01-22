@@ -1,0 +1,41 @@
+{title: Indescribable}
+{artist: Chris Tomlin}
+{key: A}
+
+Original Key(s): B
+Tempo: 90
+Time: 6/8
+Scripture Reference(s): Psalms 147:4-5, Psalms 95:4-5
+Book: Camp 2022, Trinity, Medium
+
+{section: Verse 1}
+From the [6m7]highest of heights to the [5/7]depths of the [1]sea,
+[2m7]Creation's revealing Your [1]majesty[b72].
+From the [6m7]colors of fall to the [5/7]fragrance of [1]spring,
+[2m7]Every creature unique in the [1]song that it [b72]sings.
+[4]All [5]exclaiming
+
+{section: Chorus}
+[1]Indescribable, [5]uncontainable,
+[4]You placed the stars in the sky and You know them by [6m7]name
+[1/3]You are [42]amazing, [5]God.
+And [1]all powerful, [5]untamable,
+[4]Awestruck we fall to our knees as we humbly [6m7]proclaim,
+You are [1/3]amazing, [42]God.
+
+{section: Verse 2}
+[6m7]Who has told every lightning bolt [5/7]where it should [1]go,
+[2m7]or seen heavenly store houses [1]laden with [b72]snow?
+[6m7]Who imagined the sun and gives [5/7]source to its [1]light,
+Yet [2m7]conceals it to bring us the [1]coolness of [b72]night?
+[4]None can [5]fathom;
+
+{section: Bridge}
+[4add#4]You are amazing God
+
+{section: Ending}
+You see the depths of my heart and You love me the [6m7]same,
+[1/3]You are amazing [42]God.
+
+You see the depths of our hearts and You love us the [6m7]same,
+[1/3]You are [4]amazing [1]God.

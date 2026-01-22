@@ -1,0 +1,26 @@
+{title: Thy Word}
+{artist: Amy Grant}
+{key: E}
+
+{section: Chorus}
+[1]Thy  word  is  a  [5]lamp  unto  my  [1]feet
+And  a  [4]light  un[5]to  my  pa[1]th.
+[1]Thy  word  is  a  [5]lamp  unto  my  [1]feet
+And  a  [4]light  un[5]to  my  pa[1]th.  [5]
+
+{section: Verse 1}
+F#m
+[2m]When  I  feel  afraid,
+And  [6m]think  Ive  lost  my  way
+[4]Still,  youre  [5]there  right  be[4]side  [1]me.
+[2m]Nothing  will  I  fear
+As  [6m]long  as  you  are  near;
+[4]Please  be  [5]near  me  to  [3]the  e-e-e-e-end [5]
+
+{section: Verse 2}
+[2m]I  will  not  forget
+Your  [6m]love  for  me  and  yet,
+My  [4]heart  for[5]ever  is [4]wanderin[1]g.
+[2m]Jesus  by  my  guide,
+And  h[6m]old  me  to  your  side,
+And  [4]I  will  [5]love  you  to  [3]the  e-e-e-e-end [5]

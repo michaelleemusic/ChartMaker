@@ -1,0 +1,25 @@
+{title: Your Great Name}
+{artist: Natalie Grant}
+{key: B}
+
+{section: Verse 1}
+Lost are [6m]saved, find their [4]way, at the [1]sound of your great n[5]ame
+All con[6m]demned, feel no [4]shame, at the [1]sound of your great n[5]ame
+Every [6m]fear, has no [4]place, at the [1]sound of your great n[5]ame
+The ene[6m]my, he has to [4]leave, at the [1]sound of your great n[5]ame
+
+{section: Chorus}
+[4]Jesu[1]s, Wo[5]rthy is the [6m]Lamb that was [4]slain for [1]us, [5]Son of God and [6m]Man
+You are [4]high and lifted [1]up, that [5]all the world will [6m]praise your great [4]na--[1]--[5]--me
+
+{section: Verse 2}
+All the [6m]weak, find their [4]strength, at the [1]sound of your great n[5]ame
+Hungry s[6m]ouls, receive [4]grace, at the [1]sound of your great n[5]ame
+The fathe[6m]rless, they find their [4]rest, at the [1]sound of your great n[5]ame
+Sick are [6m]healed, and the dead are [4]raised, at the [1]sound of your great n[5]ame
+
+{section: Bridge}
+[5]Redeem[6m]er, My Healer, [4]Lord Alm[6m]ighty [5]
+[5]My savio[6m]r, Defender, [4]You are M[6m]y King [5]
+[5]Redeem[6m]er, My Heal[4]er, Alm[6m]ighty [5]
+[5]My savi[6m]or, Defend[4]er, You are My[5] King [5]

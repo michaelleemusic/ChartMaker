@@ -1,0 +1,28 @@
+{title: The Stand}
+{artist: Hillsong United}
+{key: A}
+{tempo: 36}
+
+{section: Verse 1}
+[1]You stood before creation, [42]Eternity in your hand
+[6m]You spoke the earth into motion, My soul now to [42]stand
+
+{section: Verse 2}
+[1]You stood before my failure,[42] And carried the cross for my shame
+[6m]My sin weighed upon your shoulders, My soul now to[42] stand
+
+{section: Pre Chorus}
+So what could I [42]say? [2m] And what could I [6m]do?
+But offer this h[42]eart, Oh [5]God completely to[6m] you
+
+{section: Verse 3}
+So [1]I'll walk upon salvation, Your[42] spirit alive in me
+[6m]My soul to declare your promise, My soul now t[42]o stand
+
+{section: Chorus}
+[4]I'll st[1]and
+With [5]arms high and[6m] heart abandoned
+[4]In a[1]we of the o[5]ne who [6m]gave it all
+[4]I'll s[1]tand
+My [5]soul Lord to[6m] you surrendered
+[4]All I[1] am is [5]yours[6m]

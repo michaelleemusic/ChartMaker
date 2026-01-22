@@ -1,0 +1,23 @@
+{title: Let Your Healing Love}
+{artist: Unknown}
+{key: D}
+
+{section: Chorus}
+Let Your [1]healing love    [5/7]
+Pour [6m7]over this place,    [1/5]
+[4maj7]Soothe the woun[4m]ded soul.    [1]
+Let Your healing love    [5/7]
+Pour [6m7]over this place,    [1/5]
+[4maj7]Make Your peopl[4m]e whole.    [1]
+
+{section: Bridge}
+[1]    [4]Restore our hearts,
+[3sus]Renew our [3]minds,
+[6m7]Set the [1/5]captives free.    [42]
+
+{section: Ending}
+Let Your [1]healing love    [5/7]
+Pour [6m7]over this place,    [1/5]
+[4maj7]Make Your peopl[4m]e whole.    [1]
+[4maj7]Make Your peopl[4m]e whole.    [1]
+[4maj7]Make Your peopl[4m]e whole.    [1]

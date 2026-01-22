@@ -1,0 +1,27 @@
+{title: We Cry Out}
+{artist: Jesus Culture}
+{key: G}
+
+{section: Book}
+
+{section: Intro}
+[6m] [1] [5] [2m]
+
+{section: Verse 1}
+Oh [6m]Lord, we cry [1]out, we've been [5]lost
+We need your mer[2m]cies, oh Go[6m]d
+We re[1]pent for our wa[5]ys and we [2m]turn to you again [6m] [1] [5] [2m] (x2)
+
+{section: Turnaround}
+[6m] [1] [5] [2m]
+
+{section: Verse 2}
+Oh [6m]Lord, we cry [1]out, we've been [5]lost
+Change our he[2m]arts to yours, oh G[6m]od
+We re[1]pent for our [5]sin and we [2m]turn to you again [6m] [1] [5] [2m] (x2)
+
+{section: Chorus}
+Oh [2m]God, we cry [1]out, for your mer[5]cy
+Oh [2m]God, we cry [1]out, for your gra[5]ce
+Oh [2m]God, we cry [1]out, set us f[5]ree
+Oh G[2m]od, we cry o[1]ut, once a[5]gain [6m] [1] [5] [2m] (x2)

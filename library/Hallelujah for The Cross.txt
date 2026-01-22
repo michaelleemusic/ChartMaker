@@ -1,0 +1,58 @@
+{title: Hallelujah for The Cross}
+{artist: Chris McClarney}
+{key: D}
+
+{section: Book}
+
+{section: Intro}
+| [1] / / / | [4/1] / / / | [1] / / / | [4/1] / / / | 2X
+
+{section: Verse 1}
+I would be [1]hopeless
+Without Your [4/1]goodness
+I would be [1]desperate
+Without Your love [4/1]
+Slave to the [6m]darkness
+If it [4]wasn't for the [1]cross  [4/1]
+
+{section: Verse 2}
+You have [1]won me
+With Your [4/1]kindness
+Chased me [1]down
+I was [4/1]lost
+Where would I [6m]be
+If it [4]wasn't for the [1]cross
+
+{section: Chorus}
+Halle[6m]lujah [42]
+Thank You, [1]Jesus [5]
+I was a [6m]prisoner, [42]now I'm not [1]   [5]
+With Your [6m]blood, You [42] bought my [1]freedom [5]
+Halle[6m]lujah [42]for the [1]cross
+
+{section: Instrumental}
+| [1] / / / | [4/1] / / / | [1] / / / | [4/1] / / / |
+
+{section: Verse 3}
+All my shame[1] was
+Met with [4/1]mercy
+Now Your [1]mercy
+Will be my [4/1]song
+And oh, the [6m]glory
+Oh, the [4]power of the [1]cross
+
+{section: Bridge}
+[6m]  By Your stripes, I'm healed
+[4]  By Your death, I live
+[1] The power of sin is over[5]come
+It is finished, it is [6m]done
+
+{section: Outro}
+| [6m] / [4] / | [1] / [5] / |
+
+{section: Ending}
+Halle[6m]lujah [42]
+Thank You, [1]Jesus [5]
+I was a [6m]prisoner, [42]now I'm not [1]   [5]
+With Your [6m]blood, You [42] bought my [1]freedom [5]
+Halle[6m]lujah [42]for the [1]cross

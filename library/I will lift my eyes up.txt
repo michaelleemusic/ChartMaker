@@ -1,0 +1,56 @@
+{title: I Will Lift My Eyes}
+{artist: Bebo Norman}
+{key: Em}
+
+{section: Cant Key}
+
+{section: Intro}
+[#2]  [1m7]  [b7sus]  [b7]
+
+{section: Verse 1}
+[#2]God, my God,[1m7]  I cry [b7]out
+Your be[#5]-loved needs You now
+[#2]God, be near,[1m7] calm my [b7]fear
+And take[#52] my doubt
+
+{section: Pre Chorus}
+Your [#2/5]kindness [#52]is what [b7]pulls me [1m7]up
+Your [#2/5]love is [#52]all that [b7sus]draws me [b7]in
+
+{section: Chorus}
+I will lift my [#2]eyes to the [b7]Maker
+Of the [1m7]mountains I can’t [#5]climb
+I will lift my [#2]eyes to the [b7]Calmer
+Of the [1m7]oceans raging [#52]wild
+I will lift my [#2]eyes to the [b7]Healer
+Of the [1m7]hurt I hold in-[#52]side
+I will lift my [#2]eyes, lift my [b7]eyes to [#52]You
+
+{section: Verse 2}
+[#2]God, my God,[1m7]  let Mercy[b7] sing
+Her [#5]melody over me
+[#2]God, right here,[1m7] all I  [b7]bring
+Is [#5]all of me
+
+{section: Pre Chorus}
+Your [#2/5]kindness [#52]is what [b7]pulls me [1m7]up
+Your [#2/5]love is [#52]all that [b7sus]draws me [b7]in
+
+{section: Chorus}
+I will lift my [#2]eyes to the [b7]Maker
+Of the [1m7]mountains I can’t [#5]climb
+I will lift my [#2]eyes to the [b7]Calmer
+Of the [1m7]oceans raging [#52]wild
+I will lift my [#2]eyes to the [b7]Healer
+Of the [1m7]hurt I hold in-[#52]side
+I will lift my [#2]eyes, lift my [b7]eyes to [#52]You
+
+{section: Bridge}
+'Cause You [1m]are and You [b7/2]were and You [#2]will be for-[#52]ever
+The [1m]Lover I [b7/2]need to [#52]save me
+'Cause You [1m]fashioned the [b7/2]earth and You [#2]hold it to-[#52]gether, [4m7]God
+So hold me [b7sus]now    [b7]
+
+{section: Outro}
+[#2]God, my God,[1m7]  I cry [b7]out
+Your be-[#5]loved needs You now

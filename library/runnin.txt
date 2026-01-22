@@ -1,0 +1,61 @@
+{title: Runnin'}
+{artist: Elevation Worship}
+{key: B}
+
+{section: Verse 1}
+[1]I have tasted I have seen
+The [6m]realness of Your love for me
+It's [4]written on Your hands and feet
+It's [5]all the evidence I'll ever need
+
+{section: Chorus}
+[4]Your love is [1]better than life
+[6m]I can't even wrap my [5]mind around it
+[4]One day [1]here in Your house
+[6m]Better than a thousand [5]elsewhere
+Your love [4]keeps on runnin[1] runnin
+[6m]Keeps on runnin [5]after me
+[4]Keeps on runnin[1] runnin
+[6m]Keeps on runnin [5]after me
+
+{section: Verse 2}
+There's [1]no one that can take Your place
+There's [6m]nothing that can separate
+[4]How high how wide how deep
+The [5]greatest love the world has ever seen
+
+REPEAT CHORUS
+
+{section: Tag}
+[4]Run run runnin
+[1]Run run runnin
+[6m]Run run runnin [5]after me
+[4]Run run runnin
+[1]Run run runnin
+[6m]Run run runnin [5]after me
+
+Bridge Instrumental
+| [4] / / / | [5] / / / | [6m] / / / | [1] / / / |
+
+{section: Bridge 1}
+[4]Surely Your goodness
+And [5]mercy will foll[6m]ow me
+[1]Every time every time I turn around
+[4]Surely Your goodness
+And [5]mercy will foll[6m]ow me
+[1]Every time every time I turn around
+
+REPEAT CHORUS
+
+REPEAT TAG
+
+{section: Instrumental}
+| [4] / / / | [1] / / / | [6m] / / / | [5] / / / |
+
+{section: Vamp}
+[4]You keep blowing my [5]mind every [6m]time
+[1]Every time I turn around
+[4]You keep blowing my [5]mind every []G#mtime
+[1]Every time I turn around
+
+REPEAT CHORUS

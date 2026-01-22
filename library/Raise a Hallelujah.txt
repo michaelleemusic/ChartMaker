@@ -1,0 +1,41 @@
+{title: Raise a Hallelujah}
+{artist: Bethel Live}
+{key: Db}
+{tempo: 83}
+
+{section: Verse 1}
+I r[1]aise a Hallelujah,   in the [4]presence of my enemies
+I r[6m]aise a Hallelujah,   l[5]ouder than the unbelief
+I r[1]aise a Hallelujah,   my [4]weapon is a melody
+I r[6m]aise a Hallelujah,   [5]heaven comes to fight for me
+
+{section: Chorus}
+[4]I'm gonna sing in the [1]middle of the storm
+[6m]Louder and louder, you're gonna he[5]ar my praises roar
+[4]Up from the ashes, ho[1]pe will arise
+[6m]Death is defeated, the [5]King is alive
+
+{section: Verse 2}
+I r[1]aise a Hallelujah,   with [4]everything inside of me
+I r[6m]aise a Hallelujah,   [5]I will watch the darkness flee
+I r[1]aise a Hallelujah,   in the [4]middle of the mystery
+I r[6m]aise a Hallelujah,   f[5]ear you lost your hold on me
+
+{section: Bridge}
+[1]Sing a little louder (Sing a little louder)
+[5]Sing a little louder (Sing a little louder)
+[6m]Sing a little louder (Sing a little louder)
+[4]Sing a little louder (Sing a little louder)
+
+[1]Sing a little louder, in the presence of my enemies
+[5]Sing a little louder, louder than the unbelief
+[6m]Sing a little louder, my weapon is a melody
+[4]Sing a little louder, heaven comes to fight for me  (x2)
+
+[4]Sing a little louder
+
+{section: Tag}
+I r[1]aise a Hallelujah,
+I r[4]aise a Hallelujah,
+I r[6m]aise a Hallelujah,
+I r[5]aise a Hallelujah,

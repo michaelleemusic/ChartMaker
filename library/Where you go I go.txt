@@ -1,0 +1,29 @@
+{title: Where you go I go}
+{artist: Brian Johnson, John Mohr}
+{key: D}
+
+{section: Chorus}
+[6m]Where you go I go
+What you say I [3m/5]say
+What you pray I [2m]pray
+What you pray I [2m]pray
+
+{section: Verse}
+[6m]Jesus only did [3m/5]what he saw you do
+[2m]He would only say what he heard you speak
+[6m]He would only move [3m/5]when he felt you lead
+[2m]Following your heart following your spirit
+
+{section: Pre Chorus}
+[6m]How could I expect to walk [52]without you
+When [2m]every move that Jesus made was in surrender
+[6m]I will not begin to live [52]without you
+For [2m]you alone are worthy and [3sus]you are always [3]good
+
+{section: Bridge 1}
+You are always [6m]good  [5]   [2m]
+
+{section: Bridge 2}
+Though the [6m]world sees and soon forgets
+[52]We will not forget who you are
+and what you’ve [2m]done for us

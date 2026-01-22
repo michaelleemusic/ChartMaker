@@ -1,0 +1,27 @@
+{title: Healer}
+{artist: Hillsong Worship, Planet Shakers, Mike Guglielmucci}
+{key: G}
+
+{section: Verse}
+[1]You hold my very moment
+You [4]calm [5]my ra[1]ging seas
+[1]You walk with [5]me through [6m]fire
+And [4]heal all my disease    [5]
+I [4]trust [5]in [4]You
+I [6m]trust [4]in [5]You
+
+{section: Chorus}
+[1]I believe You're my healer
+[6m]I believe You are all I need    [4]    [5]
+[1]I believe You're my portion
+[6m]I believe You're more than enough for [4]me
+[6m]Jesus You're all I need
+
+{section: Bridge}
+[6m]Nothing [5]is im[1]possible for You
+[6m]Nothing [5]is im[1]possible for You
+[6m]Nothing [5]is im[1]possible for You
+[2sus]You hold my [5]world in Your hands
+
+[6m]Jesus You're all I [4]need
+[6m]You're more than enough for [4]me

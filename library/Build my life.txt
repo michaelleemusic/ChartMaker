@@ -1,0 +1,35 @@
+{title: Build my Life}
+{artist: Housefires}
+{key: G}
+
+{section: Intro}
+[1]   [4/1]   [1/3]    [4/1]
+
+{section: Verse 1}
+[1]     Worthy of every so[4/1]ng we could ever sing
+[1/3]     Worthy of all the pr[4/1]aise we could ever bring
+[1]     Worthy of every br[4/1]eath we could ever breathe
+We live for Yo[1/3]u     [4/1]
+
+{section: Verse 2}
+[1]     Jesus, the Name abo[4/1]ve every other name
+[1/3]     Jesus, the only On[4/1]e who could ever save
+[1]     Worthy of every br[4/1]eath we could ever breathe
+We live for Yo[1/3]u      Oh, we live for Yo[4/1]u
+
+{section: Chorus}
+[4maj9]Holy, there is no one [2m7]like You
+There is none be[1]side You
+Open up my [6m7]eyes in wonder
+[4maj9]Show me who You are and [2m7]fill me
+With Your heart and [1]lead me
+In Your love to [6m7]those around me     [4maj9]
+
+{section: Interlude}
+[4maj9]   [5sus]   [6m7]   [1/3]
+
+{section: Bridge}
+[4maj9]I will build my [5sus]life upon Your [6m7]love
+It is a [1/3]firm foundation
+[4maj9]I will put my [5sus]trust in You a[6m7]lone
+And I will [1/3]not be shaken

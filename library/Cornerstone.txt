@@ -1,0 +1,41 @@
+{title: Cornerstone}
+{artist: Hillsong Worship}
+{key: C}
+{tempo: 71}
+
+{section: Intro}
+[1]  [6m]   [47add2] [5]
+
+{section: Verse 1}
+[1]My hope is built on nothing less
+[47add2]Than Jesus’ blood and [5]righteousness
+[6m]I dare not trust the [5]sweetest frame
+[4]But wholly [5]trust in Jesus’ [1]name
+
+{section: Chorus 1}
+Christ a[4]lone [6m]Corner[5]stone
+[1/3]Weak made [4]strong in the [6m]Savior’s [5]love
+[1]Through the [4]storm [6m]He is [5]Lord
+Lord of [1]all
+
+{section: Verse 2}
+[1]When darkness seems to hide His face
+[47add2]I rest on His un[5]changing grace
+[6m]In every high and [5]stormy gale
+[4]My anchor [5]holds with[1]in the veil
+[4]My anchor [5]holds with[1]in the veil
+
+{section: Chorus 2}
+Christ a[4]lone [6m]Corner[5]stone
+[1/3]Weak made [4]strong in the [6m]Savior’s [5]love
+[1]Through the [4]storm [6m]He is [5]Lord
+Lord of [1]all
+[1]Through the [4]storm [6m]He is [5]Lord
+Lord of [1]all
+He is [6m]Lord, Lord of [4]all   [5]
+
+{section: Verse 3}
+[1]When He shall come with trumpet sound
+[47add2]O may I then in [5]Him be found
+[6m]Dressed in His righteous[5]ness alone
+[4]Faultless [5]stand before the [1]throne

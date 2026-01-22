@@ -1,0 +1,28 @@
+{title: Nobody Like You}
+{artist: Red Rocks Worship}
+{key: Ab}
+
+{section: Book}
+
+{section: Verse}
+You sp[4]eak, and waters c[1]rash upon the s[5]and
+The oc[4]eans push and p[1]ull at Your com[5]mand
+You h[4]old the moon and st[1]ars within Your h[5]ands
+And a[4]ll with just a br[1]eath, the world be[5]gan
+
+{section: Chorus}
+G[1]od, there is nobody like You [6m]God,
+There is nobody like You G[4]od,
+And there will never [1]be
+
+VERSE
+When not[4]hing we could [1]do would be en[5]ough
+From He[4]aven's highest pl[1]ace, You reached for [5]us
+My [4]sin and shame for[1]ever ove[5]rcome
+The gr[4]ave was overw[1]helmed by perfect l[5]ove
+
+{section: Bridge}
+Your Name is gre[5]ater, [6m]   than [4]any name I k[1]now
+Your Throne is hi[5]gher,  [6m]    than [4]any other th[1]rone
+You are the Au[5]thor,  [6m]   the Cre[4]ator of it [1]all
+You stand [5]alo[6m]ne, You stand al[4]one

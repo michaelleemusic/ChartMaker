@@ -1,0 +1,18 @@
+{title: I Give You My Heart}
+{artist: Rueben Morgan}
+{key: G}
+
+{section: Verse 1}
+[1]This is my de[6m7]sire, To [4/1]hon--[1]or [5/7]You,
+[6m7]Lord, with all [5/7]my   [1]heart, I worship [b7maj7]you   [4]    [4/5]
+[1]All I have wi[6m7]thin me, I [4/1]give [1]you [5/7]praise,
+[6m7]All that I [5/7]a------[1]dore, is in[b7maj7] you   [4]    [4/5]
+
+{section: Chorus}
+[1]Lord I give You my [5]heart, I give You my [2m7]soul,
+I [4/5]live for You a[1]lone
+[1]Every breath that I [5/7]take, Every moment I'm [2m7]awake,
+Lord, [4/5]have Your way in [4maj7]me
+
+{section: Bridge}
+[4maj7]I give you my [5/4]heart, I give you my [3m7]soul  [6m7]

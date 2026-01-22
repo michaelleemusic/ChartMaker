@@ -1,0 +1,29 @@
+{title: The Name of Jesus is Lifted High}
+{artist: Eddie James}
+{key: G}
+
+CCLI: 7049825
+CANT Key: Em
+
+{section: Chorus}
+[6m]The name of Jesus is lifted high.
+[4]Lifted High, [5]Lifted High.
+[6m]The name of Jesus is lifted high.
+[4]In [5]this [6m]place.
+
+{section: Chorus 2}
+Em
+[6m]Revival fire is falling down.
+[4]Falling Down, [5]Falling down.
+[6m]Revival fire is falling down.
+[4]In [5]this [6m]place.
+
+{section: Chorus 3}
+[6m]Sons and daughters shall be saved
+[4]Shall be saved, [5]Shall be saved
+[6m]Sons and daughters shall be saved
+[4]In [5]this [6m]place.
+
+{section: Bridge}
+[6m]We lift up the name of [5]Jesus, we [4]lift up the name of [5]Jesus
+[6m]We lift up the name of J[5]esus, [4]in [5]this [6m]place
