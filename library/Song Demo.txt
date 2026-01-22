@@ -8,4 +8,13 @@
 [1] [4] [5] [1]
 
 {section: Verse 1}
-[1]Hello my [5]King [6m]you [4]slay, [1]oh [3m]oh [57/b7]oh
+[1]Hello my [5]King [6m]you 
+[4]slay, [1]oh [3m]oh [57/b7]oh
+
+{section: Verse [2]}
+[1]Hello my [5]King [6m]you 
+[4]slay, [1]oh [3m]oh [57/b7]oh
+
+{section: Chorus [6x]}
+[1]Hello my [5]King [6m]you 
+[4]slay, [1]oh [3m]oh [57/b7]oh

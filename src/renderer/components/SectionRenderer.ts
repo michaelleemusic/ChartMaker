@@ -160,8 +160,12 @@ function renderLine(
     return currentY - y;
   }
 
-  // Lyrics-only mode: render only lyrics
+  // Lyrics-only mode: render lyrics with chord space for visual consistency
   if (displayMode === 'lyrics') {
+    // Skip chord row space (keep spacing consistent)
+    currentY += config.fonts.chordRoot.size * config.fonts.chordRoot.lineHeight;
+    currentY += config.spacing.chordToLyric;
+    // Render lyrics
     ctx.font = `${config.fonts.lyrics.weight} ${config.fonts.lyrics.size}px ${config.fonts.lyrics.family}`;
     ctx.fillStyle = config.colors.textSecondary;
     ctx.textAlign = 'left';
@@ -346,6 +350,9 @@ export function calculateSectionHeight(
 
     // Calculate line height based on display mode
     if (displayMode === 'lyrics') {
+      // Always include chord space for visual consistency
+      height += config.fonts.chordRoot.size * config.fonts.chordRoot.lineHeight;
+      height += config.spacing.chordToLyric;
       height += config.fonts.lyrics.size * config.fonts.lyrics.lineHeight;
     } else {
       // Full mode

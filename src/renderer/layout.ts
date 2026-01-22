@@ -38,7 +38,11 @@ export function calculateLineHeight(
 
   // Show lyrics in 'full' and 'lyrics' modes
   if (hasLyrics && displayMode !== 'chords') {
-    if (hasChords && displayMode === 'full') {
+    // In lyrics mode, always include chord space for visual consistency
+    if (displayMode === 'lyrics') {
+      height += config.fonts.chordRoot.size * config.fonts.chordRoot.lineHeight;
+      height += config.spacing.chordToLyric;
+    } else if (hasChords && displayMode === 'full') {
       height += config.spacing.chordToLyric;
     }
     height += config.fonts.lyrics.size * config.fonts.lyrics.lineHeight;
