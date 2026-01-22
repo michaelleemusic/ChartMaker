@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-chartForge - Web app to create, display, and export Nashville Number System chord charts (MultiTracks.com style).
+chartForge - Chart builder web-app for worship-style music.
 
 **Primary Repository**: https://github.com/michaelleemusic/chartForge
 **Auth Method**: SSH keys (all local dev computers have SSH key access)
@@ -14,8 +14,8 @@ chartForge - Web app to create, display, and export Nashville Number System chor
 - `npm run build` - Compile TypeScript to dist/
 - `npm test` - Run Jest tests
 - `npm run test:watch` - Run tests in watch mode
-- `php -S localhost:3000 demo/index.php` - Run local dev server (PHP)
-- `node demo/server.js` - Run local dev server (Node.js)
+- `php -S localhost:3000 web/index.php` - Run local dev server (PHP)
+- `node web/server.js` - Run local dev server (Node.js)
 
 ## Deployment - Production Server
 
@@ -23,28 +23,6 @@ chartForge - Web app to create, display, and export Nashville Number System chor
 **Server**: DreamHost (pdx1-shared-a1-17.dreamhost.com)
 **SSH User**: proflee_me
 **Web Root**: ~/proflee.me/chartforge/
-
-### SSH Setup (one-time per machine)
-
-1. Generate a dedicated key:
-   ```bash
-   ssh-keygen -t ed25519 -f ~/.ssh/dreamhost_proflee -N "" -C "proflee.me-deploy"
-   ```
-
-2. Add to ~/.ssh/config:
-   ```
-   Host dreamhost-proflee
-       HostName pdx1-shared-a1-17.dreamhost.com
-       User proflee_me
-       IdentityFile ~/.ssh/dreamhost_proflee
-       IdentitiesOnly yes
-   ```
-
-3. Add public key to DreamHost:
-   - Panel → Websites → SFTP Users & Files → proflee_me → SSH Keys
-   - Or use `ssh-copy-id -i ~/.ssh/dreamhost_proflee.pub proflee_me@pdx1-shared-a1-17.dreamhost.com`
-
-4. Test: `ssh dreamhost-proflee "echo connected"`
 
 ### Deploy to Production
 
@@ -64,100 +42,51 @@ ssh proflee_me@pdx1-shared-a1-17.dreamhost.com "chmod -R 755 ~/proflee.me/chartf
 
 ### URL Structure
 
-- **App URL**: https://proflee.me/chartforge/ (served via .htaccess rewrite to demo/index.html)
-- **Menu Link**: proflee.me index.php includes link to chartforge
-- **API Endpoints**: /api/library/* routed to demo/index.php
+- **App URL**: https://proflee.me/chartforge/ (served via .htaccess rewrite to web/index.html)
+- **API Endpoints**: /api/library/* routed to web/index.php
 
-## Architecture
-
-### Source Structure
+## Project Structure
 
 ```
-src/
-  index.ts              - Main exports
-  types.ts              - Core type definitions (Song, Section, Chord, etc.)
-  parser.ts             - Format detection, parsing dispatch
-  chordProParser.ts     - ChordPro format parser
-  simpleTextParser.ts   - Simple text format parser
-  chordUtils.ts         - Chord manipulation utilities
-
-  renderer/
-    index.ts            - Renderer exports
-    types.ts            - Render config, layout types
-    ChartRenderer.ts    - Main renderer class
-    layout.ts           - Page/column layout calculations
-
-    components/
-      index.ts          - Component exports
-      HeaderRenderer.ts - Title, artist, metadata, page number
-      RoadmapRenderer.ts- Section sequence badges
-      SectionRenderer.ts- Section blocks with badges and rules
-      ChordRenderer.ts  - Chord formatting (root + quality)
+chartForge/
+├── web/                    # Web application (main deliverable)
+│   ├── index.html          # Main interface with renderer
+│   ├── index.php           # PHP backend (DreamHost)
+│   └── server.js           # Node.js backend (local dev)
+├── src/                    # TypeScript utilities
+│   ├── types.ts            # Core type definitions
+│   ├── parser.ts           # Format detection, parsing
+│   ├── chordUtils.ts       # Chord manipulation
+│   └── *.test.ts           # Unit tests (94 tests)
+├── library/                # Song library (677 charts)
+│   ├── *.txt               # Chart files in ChordPro format
+│   └── index.json          # Searchable index
+├── scripts/                # Build utilities
+│   ├── build_index.py      # Rebuild library/index.json
+│   ├── convert_onsong.py   # Convert OnSong files
+│   └── convert_to_numbers.py
+├── docs/                   # Documentation
+└── .htaccess               # Apache routing for production
 ```
 
-### Data Flow
+## Key Features
 
-1. **Parse**: Input text -> `parse()` -> `Song` object
-2. **Layout**: `Song` -> `calculateLayout()` -> `LayoutResult` (page breaks, columns)
-3. **Render**: `ChartRenderer.renderPage(canvas, pageIndex)` -> Canvas output
-
-### Key Types
-
-- `Song` - Complete song with metadata and sections
-- `Section` - Verse, chorus, etc. with lines and dynamics
-- `Line` - Lyrics with positioned chords
-- `Chord` - Root, quality, bass note
-- `RenderConfig` - Fonts, colors, spacing, page dimensions
-- `LayoutResult` - Calculated section positions across pages
+- **Side-by-side editor**: Live preview as you type
+- **Library search**: 677 searchable charts
+- **Display modes**: Full, Chords-only, Lyrics-only
+- **Key transposition**: Render in any key or Nashville Numbers
+- **PDF export**: Single PDF or Full Set (26 PDFs: 13 keys × 2 modes)
+- **Unicode accidentals**: ♭ and ♯ display
 
 ## Documentation
 
-- `docs/ARCHITECTURE.md` - Data model, tech stack, rendering pipeline
-- `docs/CHART_FORMAT.md` - Page layout, chord notation, visual structure
-- `docs/CHORD_THEORY.md` - Semitone-based chord building/identification
-- `docs/SECTION_TYPES.md` - Section ID reference (Intro, Verse, Chorus, etc.)
+- `docs/ARCHITECTURE.md` - Data model, tech stack
+- `docs/CHART_FORMAT.md` - Page layout, chord notation
+- `docs/CHORD_THEORY.md` - Semitone-based chord building
+- `docs/SECTION_TYPES.md` - Section ID reference
 - `docs/DEVELOPMENT.md` - Setup, commands, workflow
 - `docs/ROADMAP.md` - Feature phases and planning
 
-## Library
-
-```
-library/
-  *.txt                 - 677 chord charts in Nashville Number format
-  index.json            - Song index (title, artist, key, path)
-```
-
-## Scripts
-
-```
-scripts/
-  build_index.py        - Rebuild library/index.json after adding songs
-  convert_onsong.py     - Convert OnSong files to ChordPro format
-  convert_to_numbers.py - Convert letter chords to Nashville Numbers
-```
-
-## Web Interface
-
-```
-demo/
-  index.html    - Main web interface (side-by-side editor + preview)
-  index.php     - PHP backend for library management (DreamHost compatible)
-  server.js     - Node.js backend alternative
-```
-
-Features:
-- Side-by-side editor with live preview
-- Library search (677 charts)
-- Library management (new, update, delete)
-- Key transposition (Numbers ↔ any key)
-- PDF export (single or Full Set ZIP with all keys)
-- Unicode accidentals (♭ and ♯)
-
-## Reference
-
-- `REF/Charts/` - Sample PDF exports from MultiTracks ChartBuilder
-- `REF/MT ChartBuilder/` - Extracted iOS app (fonts, assets, reverse-engineering reference)
-
 ## Key Fonts
 
-Lato (Bold/Regular/Light) for text, `chartbuilder.ttf` for section icons.
+Lato (Bold/Regular/Light) for text, loaded from Google Fonts.

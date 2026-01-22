@@ -18,13 +18,13 @@ brew install php
 
 ### Option 1: PHP Server (recommended - full features)
 ```bash
-php -S localhost:3000 demo/index.php
+php -S localhost:3000 web/index.php
 ```
 Supports: viewing, editing, library management (save/update/delete), PDF export
 
 ### Option 2: Node.js Server
 ```bash
-node demo/server.js
+node web/server.js
 ```
 Same features as PHP server
 
@@ -40,25 +40,19 @@ Open http://localhost:3000 in browser.
 
 ```
 chartForge/
-├── src/                    # TypeScript source
-│   ├── index.ts            # Main exports
+├── web/                    # Web application
+│   ├── index.html          # Main web interface
+│   ├── index.php           # PHP backend (DreamHost)
+│   └── server.js           # Node.js backend
+├── src/                    # TypeScript utilities
 │   ├── types.ts            # Core type definitions
 │   ├── parser.ts           # Format detection, parsing
-│   ├── chordProParser.ts   # ChordPro format parser
-│   ├── simpleTextParser.ts # Simple text parser
-│   ├── chordUtils.ts       # Chord manipulation
-│   └── renderer/           # Canvas rendering
-├── demo/
-│   ├── index.html          # Web interface
-│   ├── index.php           # PHP backend (DreamHost compatible)
-│   └── server.js           # Node.js backend
-├── library/                # Song library (679 charts)
+│   └── chordUtils.ts       # Chord manipulation
+├── library/                # Song library (677 charts)
 │   ├── *.txt               # Chart files
-│   ├── index.json          # Searchable index
-│   └── trash/              # Deleted songs
+│   └── index.json          # Searchable index
 ├── scripts/                # Build utilities
-├── docs/                   # Documentation
-└── REF/                    # Reference materials
+└── docs/                   # Documentation
 ```
 
 ## Commands

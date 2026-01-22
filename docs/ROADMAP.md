@@ -38,6 +38,9 @@
 - [x] Key in PDF filename
 - [x] Page preservation during editing
 - [x] Proper page 2+ header spacing
+- [x] Display modes (Full/Chords/Lyrics)
+- [x] Chord consolidation (rows of 4 in chords-only)
+- [x] Full Set ZIP (26 PDFs: 13 keys × 2 modes)
 - [ ] Print styles
 - [ ] Mobile responsive
 - [x] Library save/load (PHP/Node backend)
