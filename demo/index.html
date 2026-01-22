@@ -328,6 +328,7 @@
     }
   </style>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
 </head>
 <body>
   <div class="app-container">
@@ -526,12 +527,20 @@ Yes, I'll [4]worship Your [5]holy na[1]me.
           <button id="next-btn" disabled>Next &rarr;</button>
         </div>
         <button class="download-btn" id="download-pdf-btn" title="Download PDF">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
             <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
             <polyline points="7 10 12 15 17 10"/>
             <line x1="12" y1="15" x2="12" y2="3"/>
           </svg>
           PDF
+        </button>
+        <button class="download-btn" id="download-fullset-btn" title="Download all keys as ZIP">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+            <polyline points="7 10 12 15 17 10"/>
+            <line x1="12" y1="15" x2="12" y2="3"/>
+          </svg>
+          Full Set
         </button>
       </div>
       <div class="preview-container">
@@ -861,12 +870,20 @@ Yes, I'll [4]worship Your [5]holy na[1]me.
       }
 
       calculateSectionHeight(section) {
-        let height = this.config.badgeRadius * 2 + 6;
+        const boxPadding = { top: 8, bottom: 10 };
 
+        // Header (badge height)
+        let height = this.config.badgeRadius * 2;
+
+        // Box padding top
+        height += boxPadding.top;
+
+        // Dynamics
         if (section.dynamics) {
-          height += 4;
+          height += this.config.fonts.dynamics.size * this.config.fonts.dynamics.lineHeight + 4;
         }
 
+        // Content lines
         for (let i = 0; i < section.lines.length; i++) {
           const line = section.lines[i];
           const hasChords = line.chords && line.chords.length > 0;
@@ -887,6 +904,9 @@ Yes, I'll [4]worship Your [5]holy na[1]me.
             height += this.config.spacing.betweenLines;
           }
         }
+
+        // Box padding bottom
+        height += boxPadding.bottom;
 
         return height;
       }
@@ -958,7 +978,7 @@ Yes, I'll [4]worship Your [5]holy na[1]me.
           ctx.font = `${config.fonts.metadata.weight} ${config.fonts.metadata.size}px ${config.fonts.metadata.family}`;
           ctx.textAlign = 'right';
           const meta = [];
-          if (this.song.key) meta.push(`Key: ${this.song.key}`);
+          if (this.song.key) meta.push(`Key: ${this.song.key.replace(/b/g, '♭').replace(/#/g, '♯')}`);
           if (this.song.tempo) meta.push(`Tempo: ${this.song.tempo}`);
           if (this.song.timeSignature) meta.push(`Time: ${this.song.timeSignature}`);
           ctx.fillText(meta.join('  '), config.page.width - config.margins.right, y);
@@ -1054,14 +1074,16 @@ Yes, I'll [4]worship Your [5]holy na[1]me.
 
       renderSection(ctx, section, x, y, width) {
         const config = this.config;
-        let currentY = y;
+        const boxPadding = { top: 8, right: 8, bottom: 10, left: 8 };
+        const cornerRadius = 8;
 
         // Render badge
         const abbr = this.getSectionAbbreviation(section);
-        const radius = config.badgeRadius;
+        const badgeRadius = config.badgeRadius;
+        const badgeOffset = cornerRadius + 8; // Left margin: after top-left corner + padding
 
         ctx.beginPath();
-        ctx.arc(x + radius, y + radius, radius, 0, Math.PI * 2);
+        ctx.arc(x + badgeOffset + badgeRadius, y + badgeRadius, badgeRadius, 0, Math.PI * 2);
         ctx.fillStyle = config.colors.badgeFill;
         ctx.fill();
 
@@ -1069,12 +1091,12 @@ Yes, I'll [4]worship Your [5]holy na[1]me.
         ctx.fillStyle = config.colors.badgeText;
         ctx.textAlign = 'center';
         ctx.textBaseline = 'middle';
-        ctx.fillText(abbr, x + radius, y + radius);
+        ctx.fillText(abbr, x + badgeOffset + badgeRadius, y + badgeRadius);
 
         // Render section name
         const displayName = this.getSectionDisplayName(section);
-        const nameX = x + radius * 2 + 8;
-        const nameY = y + radius + 4;
+        const nameX = x + badgeOffset + badgeRadius * 2 + 8;
+        const nameY = y + badgeRadius;
 
         ctx.font = `${config.fonts.sectionName.weight} ${config.fonts.sectionName.size}px ${config.fonts.sectionName.family}`;
         ctx.fillStyle = config.colors.text;
@@ -1083,41 +1105,74 @@ Yes, I'll [4]worship Your [5]holy na[1]me.
         ctx.fillText(displayName, nameX, nameY);
 
         const nameWidth = ctx.measureText(displayName).width;
-
-        // Horizontal rule
         const ruleStartX = nameX + nameWidth + 10;
-        const ruleEndX = x + width;
 
-        if (ruleEndX > ruleStartX + 20) {
-          ctx.beginPath();
-          ctx.moveTo(ruleStartX, nameY);
-          ctx.lineTo(ruleEndX, nameY);
-          ctx.strokeStyle = config.colors.rule;
-          ctx.lineWidth = 1;
-          ctx.stroke();
-        }
+        // Content area starts below header
+        let currentY = y + badgeRadius * 2 + boxPadding.top;
 
-        // Dynamics
+        // Dynamics (right-aligned, below header)
         if (section.dynamics) {
           ctx.font = `${config.fonts.dynamics.weight} ${config.fonts.dynamics.size}px ${config.fonts.dynamics.family}`;
           ctx.fillStyle = config.colors.textMuted;
           ctx.textAlign = 'right';
           ctx.textBaseline = 'top';
-          ctx.fillText(section.dynamics, x + width, y + 4);
+          ctx.fillText(section.dynamics, x + width - boxPadding.right, currentY);
+          currentY += config.fonts.dynamics.size * config.fonts.dynamics.lineHeight + 4;
         }
 
-        currentY += radius * 2 + 6;
-        if (section.dynamics) currentY += 4;
+        // Render lines with left padding
+        const contentX = x + boxPadding.left;
+        const contentWidth = width - boxPadding.left - boxPadding.right;
 
-        // Render lines
         for (let i = 0; i < section.lines.length; i++) {
           const line = section.lines[i];
-          currentY += this.renderLine(ctx, line, x, currentY, width);
+          currentY += this.renderLine(ctx, line, contentX, currentY, contentWidth);
 
           if (i < section.lines.length - 1) {
             currentY += config.spacing.betweenLines;
           }
         }
+
+        // Add bottom padding
+        currentY += boxPadding.bottom;
+
+        // Draw section box with rounded corners
+        const boxTop = nameY;
+        const boxBottom = currentY;
+        const topLeftEnd = x + cornerRadius + 4; // Where top-left corner ends
+
+        ctx.strokeStyle = config.colors.rule;
+        ctx.lineWidth = 1;
+
+        // Main box path: top-left corner -> left -> bottom-left -> bottom -> bottom-right -> right -> top-right corner
+        ctx.beginPath();
+
+        // Top-left rounded corner
+        ctx.moveTo(topLeftEnd, boxTop);
+        ctx.quadraticCurveTo(x, boxTop, x, boxTop + cornerRadius);
+
+        // Left side down to bottom
+        ctx.lineTo(x, boxBottom - cornerRadius);
+
+        // Bottom-left rounded corner
+        ctx.quadraticCurveTo(x, boxBottom, x + cornerRadius, boxBottom);
+
+        // Bottom line
+        ctx.lineTo(x + width - cornerRadius, boxBottom);
+
+        // Bottom-right rounded corner
+        ctx.quadraticCurveTo(x + width, boxBottom, x + width, boxBottom - cornerRadius);
+
+        // Right side up to top
+        ctx.lineTo(x + width, boxTop + cornerRadius);
+
+        // Top-right rounded corner
+        ctx.quadraticCurveTo(x + width, boxTop, x + width - cornerRadius, boxTop);
+
+        // Top rule from top-right corner to after section name
+        ctx.lineTo(ruleStartX, boxTop);
+
+        ctx.stroke();
 
         return currentY - y;
       }
@@ -1157,28 +1212,36 @@ Yes, I'll [4]worship Your [5]holy na[1]me.
         return currentY - y;
       }
 
+      // Convert accidentals to Unicode symbols for display
+      formatAccidentals(str) {
+        return str.replace(/b/g, '♭').replace(/#/g, '♯');
+      }
+
       renderChord(ctx, chord, x, y) {
         const config = this.config;
         let currentX = x;
 
+        const displayRoot = this.formatAccidentals(chord.root);
         ctx.font = `${config.fonts.chordRoot.weight} ${config.fonts.chordRoot.size}px ${config.fonts.chordRoot.family}`;
         ctx.fillStyle = config.colors.text;
         ctx.textAlign = 'left';
         ctx.textBaseline = 'alphabetic';
-        ctx.fillText(chord.root, currentX, y);
-        currentX += ctx.measureText(chord.root).width;
+        ctx.fillText(displayRoot, currentX, y);
+        currentX += ctx.measureText(displayRoot).width;
 
         if (chord.quality) {
+          const displayQuality = this.formatAccidentals(chord.quality);
           ctx.font = `${config.fonts.chordQuality.weight} ${config.fonts.chordQuality.size}px ${config.fonts.chordQuality.family}`;
           const qualityY = y - (config.fonts.chordRoot.size * 0.25);
-          ctx.fillText(chord.quality, currentX, qualityY);
-          currentX += ctx.measureText(chord.quality).width;
+          ctx.fillText(displayQuality, currentX, qualityY);
+          currentX += ctx.measureText(displayQuality).width;
         }
 
         if (chord.bass) {
+          const displayBass = '/' + this.formatAccidentals(chord.bass);
           ctx.font = `${config.fonts.chordRoot.weight} ${config.fonts.chordRoot.size}px ${config.fonts.chordRoot.family}`;
-          ctx.fillText('/' + chord.bass, currentX, y);
-          currentX += ctx.measureText('/' + chord.bass).width;
+          ctx.fillText(displayBass, currentX, y);
+          currentX += ctx.measureText(displayBass).width;
         }
 
         return currentX - x;
@@ -1188,17 +1251,20 @@ Yes, I'll [4]worship Your [5]holy na[1]me.
         const config = this.config;
         let width = 0;
 
+        const displayRoot = this.formatAccidentals(chord.root);
         ctx.font = `${config.fonts.chordRoot.weight} ${config.fonts.chordRoot.size}px ${config.fonts.chordRoot.family}`;
-        width += ctx.measureText(chord.root).width;
+        width += ctx.measureText(displayRoot).width;
 
         if (chord.quality) {
+          const displayQuality = this.formatAccidentals(chord.quality);
           ctx.font = `${config.fonts.chordQuality.weight} ${config.fonts.chordQuality.size}px ${config.fonts.chordQuality.family}`;
-          width += ctx.measureText(chord.quality).width;
+          width += ctx.measureText(displayQuality).width;
         }
 
         if (chord.bass) {
+          const displayBass = '/' + this.formatAccidentals(chord.bass);
           ctx.font = `${config.fonts.chordRoot.weight} ${config.fonts.chordRoot.size}px ${config.fonts.chordRoot.family}`;
-          width += ctx.measureText('/' + chord.bass).width;
+          width += ctx.measureText(displayBass).width;
         }
 
         return width;
@@ -1576,6 +1642,77 @@ Yes, I'll [4]worship Your [5]holy na[1]me.
       // Download
       const filename = title.replace(/[^a-zA-Z0-9\s]/g, '').trim() + '.pdf';
       pdf.save(filename);
+    });
+
+    // Full Set download (all keys as ZIP)
+    const ALL_KEYS = ['numbers', 'C', 'Db', 'D', 'Eb', 'E', 'F', 'Gb', 'G', 'Ab', 'A', 'Bb', 'B'];
+
+    document.getElementById('download-fullset-btn').addEventListener('click', async () => {
+      const input = inputEl.value;
+      const baseSong = parseChordPro(input);
+      const title = baseSong.title || 'Untitled';
+      const safeTitle = title.replace(/[^a-zA-Z0-9\s]/g, '').trim();
+
+      const { jsPDF } = window.jspdf;
+      const zip = new JSZip();
+
+      const btn = document.getElementById('download-fullset-btn');
+      const originalText = btn.innerHTML;
+      btn.disabled = true;
+
+      for (let k = 0; k < ALL_KEYS.length; k++) {
+        const key = ALL_KEYS[k];
+        btn.textContent = `${k + 1}/${ALL_KEYS.length}...`;
+
+        // Convert song to this key
+        let song;
+        if (key === 'numbers') {
+          song = baseSong;
+        } else {
+          song = convertSongToLetters(baseSong, key);
+          song.key = key;
+        }
+
+        // Render and create PDF
+        renderer.loadSong(song);
+        const pageCount = renderer.layout.pageCount;
+
+        const pdf = new jsPDF({
+          orientation: 'portrait',
+          unit: 'pt',
+          format: [renderer.config.page.width, renderer.config.page.height]
+        });
+
+        for (let i = 0; i < pageCount; i++) {
+          if (i > 0) pdf.addPage();
+          renderer.renderPage(canvas, i);
+          const imgData = canvas.toDataURL('image/png', 1.0);
+          pdf.addImage(imgData, 'PNG', 0, 0, renderer.config.page.width, renderer.config.page.height);
+        }
+
+        const keyLabel = key === 'numbers' ? 'Numbers' : key;
+        const pdfFilename = `${safeTitle} - ${keyLabel}.pdf`;
+        zip.file(pdfFilename, pdf.output('blob'));
+
+        // Allow UI to update
+        await new Promise(r => setTimeout(r, 10));
+      }
+
+      // Restore original view
+      render();
+
+      // Generate and download ZIP
+      btn.textContent = 'Zipping...';
+      const zipBlob = await zip.generateAsync({ type: 'blob' });
+      const url = URL.createObjectURL(zipBlob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `${safeTitle} - Full Set.zip`;
+      a.click();
+      URL.revokeObjectURL(url);
+
+      btn.disabled = false;
+      btn.innerHTML = originalText;
     });
 
     // Search songs

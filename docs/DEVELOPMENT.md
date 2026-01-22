@@ -7,39 +7,68 @@
 git clone git@github.com:michaelleemusic/chartForge.git
 cd chartForge
 
-# Install dependencies (once project is initialized)
+# Install dependencies
 npm install
 
-# Start dev server
-npm run dev
+# Install PHP (for local server with library management)
+brew install php
 ```
 
-## Project Structure (Planned)
+## Running Locally
+
+### Option 1: PHP Server (recommended - full features)
+```bash
+php -S localhost:3000 demo/index.php
+```
+Supports: viewing, editing, library management (save/update/delete), PDF export
+
+### Option 2: Node.js Server
+```bash
+node demo/server.js
+```
+Same features as PHP server
+
+### Option 3: Static Server (read-only)
+```bash
+npx http-server . -p 3000 -c-1
+```
+View and export only, no library management
+
+Open http://localhost:3000 in browser.
+
+## Project Structure
 
 ```
 chartForge/
-├── src/
-│   ├── components/     # UI components
-│   ├── lib/
-│   │   ├── parser/     # ChordPro/text parsing
-│   │   ├── model/      # Song, Section, Chord types
-│   │   └── renderer/   # Canvas/PDF rendering
-│   ├── styles/         # CSS
-│   └── pages/          # Routes (if Next.js)
-├── public/
-│   └── fonts/          # Lato, icon fonts
-├── docs/               # Documentation
-└── tests/              # Unit tests
+├── src/                    # TypeScript source
+│   ├── index.ts            # Main exports
+│   ├── types.ts            # Core type definitions
+│   ├── parser.ts           # Format detection, parsing
+│   ├── chordProParser.ts   # ChordPro format parser
+│   ├── simpleTextParser.ts # Simple text parser
+│   ├── chordUtils.ts       # Chord manipulation
+│   └── renderer/           # Canvas rendering
+├── demo/
+│   ├── index.html          # Web interface
+│   ├── index.php           # PHP backend (DreamHost compatible)
+│   └── server.js           # Node.js backend
+├── library/                # Song library (677 charts)
+│   ├── *.txt               # Chart files
+│   ├── index.json          # Searchable index
+│   └── trash/              # Deleted songs
+├── scripts/                # Build utilities
+├── docs/                   # Documentation
+└── REF/                    # Reference materials
 ```
 
 ## Commands
 
 | Command | Description |
 |---------|-------------|
-| `npm run dev` | Start development server |
-| `npm run build` | Production build |
-| `npm run test` | Run tests |
-| `npm run lint` | Lint code |
+| `npm run build` | Compile TypeScript to dist/ |
+| `npm test` | Run Jest tests |
+| `npm run test:watch` | Run tests in watch mode |
+| `python3 scripts/build_index.py` | Rebuild library index |
 
 ## Workflow
 

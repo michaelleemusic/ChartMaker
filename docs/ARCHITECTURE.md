@@ -4,11 +4,23 @@
 - Web interface to build charts
 - Live preview display
 - PDF export matching MultiTracks style
+- Library management (save, update, delete)
+- Key transposition (Numbers ↔ Letter chords)
 
-## Tech Stack (Proposed)
-- **Frontend**: React/Next.js or vanilla JS
-- **PDF Generation**: pdf-lib or jsPDF
-- **Fonts**: Lato (Google Fonts), custom icon font
+## Tech Stack
+- **Frontend**: Vanilla JS with Canvas API
+- **Backend**: PHP (DreamHost) or Node.js (local dev)
+- **PDF Generation**: jsPDF
+- **ZIP Creation**: JSZip (for Full Set export)
+- **Fonts**: Lato (Google Fonts)
+
+## Features
+- **Side-by-side editor**: Live preview as you type
+- **Library search**: 677 searchable charts
+- **Key transposition**: Render in any key or Nashville Numbers
+- **PDF export**: Single PDF or Full Set (all 13 keys as ZIP)
+- **Unicode accidentals**: ♭ and ♯ display
+- **Section boxes**: Rounded corners, proper spacing
 
 ## Data Model
 

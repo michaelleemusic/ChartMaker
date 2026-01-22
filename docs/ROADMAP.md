@@ -1,39 +1,46 @@
 # Roadmap
 
-## Phase 1: Core Parser
-- [ ] Define TypeScript data model (Song, Section, Chord)
-- [ ] Parse simple text format (chords above lyrics)
-- [ ] Parse ChordPro format
-- [ ] Convert between letter/number notation
-- [ ] Unit tests for parser
+## Phase 1: Core Parser ✓
+- [x] Define TypeScript data model (Song, Section, Chord)
+- [x] Parse simple text format (chords above lyrics)
+- [x] Parse ChordPro format
+- [x] Convert between letter/number notation
+- [x] Unit tests for parser
 
-## Phase 2: Renderer
-- [ ] Canvas-based preview rendering
-- [ ] Two-column page layout
-- [ ] Section headers with badges
-- [ ] Chord positioning above lyrics
-- [ ] Roadmap bar generation
-- [ ] Page break calculation
+## Phase 2: Renderer ✓
+- [x] Canvas-based preview rendering
+- [x] Two-column page layout
+- [x] Section headers with badges
+- [x] Section boxes with rounded corners
+- [x] Chord positioning above lyrics
+- [x] Roadmap bar generation
+- [x] Page break calculation
+- [x] Unicode accidentals (♭ and ♯)
 
-## Phase 3: PDF Export
-- [ ] PDF generation matching MultiTracks style
-- [ ] Embed Lato fonts
-- [ ] Multi-page support
-- [ ] Download functionality
+## Phase 3: PDF Export ✓
+- [x] PDF generation matching MultiTracks style
+- [x] Multi-page support
+- [x] Download functionality
+- [x] Full Set export (all keys as ZIP)
 
-## Phase 4: Editor UI
-- [ ] Text editor with syntax highlighting
-- [ ] Live preview panel
-- [ ] Metadata form (title, artist, key, tempo)
-- [ ] Section management (add, reorder, delete)
-- [ ] Chord insertion helpers
+## Phase 4: Editor UI ✓
+- [x] Side-by-side editor with live preview
+- [x] Library search (677 charts)
+- [x] Library management (new, update, delete)
+- [x] Random song button
+- [x] Key selector dropdown
 
-## Phase 5: Polish
-- [ ] Key transposition
-- [ ] Number ↔ letter toggle
+## Phase 5: Polish (In Progress)
+- [x] Key transposition
+- [x] Number ↔ letter toggle
 - [ ] Print styles
 - [ ] Mobile responsive
-- [ ] Local storage save/load
+- [x] Library save/load (PHP/Node backend)
+
+## Deployment ✓
+- [x] PHP backend for DreamHost shared hosting
+- [x] Node.js backend for local development
+- [x] .htaccess for Apache routing
 
 ## Future
 - Import from PDF (OCR)
