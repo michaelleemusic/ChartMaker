@@ -1,5 +1,6 @@
 {title: You Are My Refuge}
 {artist: chartForge Test Song}
+{version: Condensed}
 {key: G}
 {time: 6/8}
 {tempo: 72}

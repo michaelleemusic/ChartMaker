@@ -106,8 +106,8 @@ const server = http.createServer((req, res) => {
   }
 
   // Static file serving
-  let filepath = url.pathname;
-  if (filepath === '/') filepath = '/demo/index.html';
+  let filepath = decodeURIComponent(url.pathname);
+  if (filepath === '/') filepath = '/web/index.html';
 
   const fullPath = path.join(ROOT, filepath);
 

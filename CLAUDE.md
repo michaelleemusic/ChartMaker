@@ -14,8 +14,7 @@ chartForge - Chart builder web-app for worship-style music.
 - `npm run build` - Compile TypeScript to dist/
 - `npm test` - Run Jest tests
 - `npm run test:watch` - Run tests in watch mode
-- `php -S localhost:3000 web/index.php` - Run local dev server (PHP)
-- `node web/server.js` - Run local dev server (Node.js)
+- `node web/server.js` - Run local dev server at http://localhost:3000
 
 ## Deployment - Production Server
 
