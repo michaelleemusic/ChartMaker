@@ -56,8 +56,17 @@ rsync -avz --delete \
   --exclude='*.wav' \
   --exclude='REF' \
   --exclude='library/trash' \
-  ./ dreamhost-proflee:~/proflee.me/chartforge/
+  ./ proflee_me@pdx1-shared-a1-17.dreamhost.com:~/proflee.me/chartforge/
+
+# Fix permissions (required after deploy)
+ssh proflee_me@pdx1-shared-a1-17.dreamhost.com "chmod -R 755 ~/proflee.me/chartforge/ && find ~/proflee.me/chartforge/ -type f -exec chmod 644 {} \;"
 ```
+
+### URL Structure
+
+- **App URL**: https://proflee.me/chartforge/ (served via .htaccess rewrite to demo/index.html)
+- **Menu Link**: proflee.me index.php includes link to chartforge
+- **API Endpoints**: /api/library/* routed to demo/index.php
 
 ## Architecture
 
