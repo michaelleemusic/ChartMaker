@@ -1406,6 +1406,39 @@ Yes, I'll [4]worship Your [5]holy na[1]me.
     // Realtime rendering on textarea input
     inputEl.addEventListener('input', render);
 
+    // Auto-complete: numbers wrap in [], { completes to {}
+    inputEl.addEventListener('keydown', (e) => {
+      const start = inputEl.selectionStart;
+      const end = inputEl.selectionEnd;
+      const value = inputEl.value;
+
+      // Auto-wrap numbers in brackets
+      if (e.key >= '0' && e.key <= '9') {
+        // Check if already inside brackets
+        const beforeCursor = value.substring(0, start);
+        const lastOpen = beforeCursor.lastIndexOf('[');
+        const lastClose = beforeCursor.lastIndexOf(']');
+        const insideBrackets = lastOpen > lastClose;
+
+        if (!insideBrackets) {
+          e.preventDefault();
+          const newValue = value.substring(0, start) + '[' + e.key + ']' + value.substring(end);
+          inputEl.value = newValue;
+          inputEl.selectionStart = inputEl.selectionEnd = start + 2; // After the number, before ]
+          render();
+        }
+      }
+
+      // Auto-complete { to {}
+      if (e.key === '{') {
+        e.preventDefault();
+        const newValue = value.substring(0, start) + '{}' + value.substring(end);
+        inputEl.value = newValue;
+        inputEl.selectionStart = inputEl.selectionEnd = start + 1; // Between { and }
+        render();
+      }
+    });
+
     prevBtn.addEventListener('click', () => {
       if (currentPage > 0) {
         currentPage--;
