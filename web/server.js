@@ -27,23 +27,31 @@ const MIME_TYPES = {
 };
 
 function rebuildIndex() {
-  const files = fs.readdirSync(LIBRARY_DIR).filter(f => f.endsWith('.txt'));
   const index = [];
 
-  for (const file of files) {
-    const content = fs.readFileSync(path.join(LIBRARY_DIR, file), 'utf-8');
-    const titleMatch = content.match(/\{title:\s*(.+?)\}/i);
-    const artistMatch = content.match(/\{artist:\s*(.+?)\}/i);
-    const keyMatch = content.match(/\{key:\s*(.+?)\}/i);
+  function scanDir(dir, prefix = '') {
+    const entries = fs.readdirSync(dir, { withFileTypes: true });
+    for (const entry of entries) {
+      if (entry.isDirectory() && entry.name !== 'trash') {
+        scanDir(path.join(dir, entry.name), prefix + entry.name + '/');
+      } else if (entry.isFile() && entry.name.endsWith('.txt')) {
+        const filePath = path.join(dir, entry.name);
+        const content = fs.readFileSync(filePath, 'utf-8');
+        const titleMatch = content.match(/\{title:\s*(.+?)\}/i);
+        const artistMatch = content.match(/\{artist:\s*(.+?)\}/i);
+        const keyMatch = content.match(/\{key:\s*(.+?)\}/i);
 
-    index.push({
-      title: titleMatch ? titleMatch[1].trim() : file.replace('.txt', ''),
-      artist: artistMatch ? artistMatch[1].trim() : '',
-      key: keyMatch ? keyMatch[1].trim() : '',
-      path: file
-    });
+        index.push({
+          title: titleMatch ? titleMatch[1].trim() : entry.name.replace('.txt', ''),
+          artist: artistMatch ? artistMatch[1].trim() : '',
+          key: keyMatch ? keyMatch[1].trim() : '',
+          path: prefix + entry.name
+        });
+      }
+    }
   }
 
+  scanDir(LIBRARY_DIR);
   index.sort((a, b) => a.title.localeCompare(b.title));
   fs.writeFileSync(path.join(LIBRARY_DIR, 'index.json'), JSON.stringify(index, null, 2));
   return index.length;
@@ -145,7 +153,8 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(PORT, 'localhost', () => {
+  const count = rebuildIndex();
   console.log(`chartForge server running at http://localhost:${PORT}`);
-  console.log(`Library: ${LIBRARY_DIR}`);
+  console.log(`Library: ${LIBRARY_DIR} (${count} songs indexed)`);
   console.log(`Trash: ${TRASH_DIR}`);
 });

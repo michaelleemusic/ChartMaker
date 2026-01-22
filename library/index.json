@@ -18,6 +18,12 @@
     "path": "A Life That's Worthy.txt"
   },
   {
+    "title": "A Mighty Fortress Is Our God",
+    "artist": "Martin Luther",
+    "key": "C",
+    "path": "hymns/A Mighty Fortress.txt"
+  },
+  {
     "title": "A Storm All Around You",
     "artist": "Jon Thurlow",
     "key": "D",
@@ -154,6 +160,12 @@
     "artist": "Edwin Othello Excell; John Newton; John P. Rees; William W. Walker",
     "key": "",
     "path": "Amazing Grace.txt"
+  },
+  {
+    "title": "Amazing Grace",
+    "artist": "John Newton",
+    "key": "G",
+    "path": "hymns/Amazing Grace.txt"
   },
   {
     "title": "Amazing Grace (Graveson Version)",
@@ -346,6 +358,12 @@
     "artist": "",
     "key": "D",
     "path": "Be Thou My Vision.txt"
+  },
+  {
+    "title": "Be Thou My Vision",
+    "artist": "Mary E. Byrne, Eleanor H. Hull",
+    "key": "D",
+    "path": "hymns/Be Thou My Vision.txt"
   },
   {
     "title": "Beautiful",
@@ -580,6 +598,12 @@
     "artist": "Robert Robinson",
     "key": "D",
     "path": "Come Thou Fount of Every Blessing.txt"
+  },
+  {
+    "title": "Come Thou Fount of Every Blessing",
+    "artist": "Robert Robinson",
+    "key": "D",
+    "path": "hymns/Come Thou Fount.txt"
   },
   {
     "title": "Come Up Here",
@@ -1158,6 +1182,12 @@
     "path": "Great Is Thy Faithfulness.txt"
   },
   {
+    "title": "Great Is Thy Faithfulness",
+    "artist": "Thomas O. Chisholm",
+    "key": "D",
+    "path": "hymns/Great Is Thy Faithfulness.txt"
+  },
+  {
     "title": "Great Things",
     "artist": "Phil Wickham",
     "key": "B",
@@ -1366,6 +1396,12 @@
     "artist": "Chris Tomlin, Miel San Marcos, Bethel Music, Jenn Johnson",
     "key": "Db",
     "path": "Holy Forever.txt"
+  },
+  {
+    "title": "Holy Holy Holy",
+    "artist": "Reginald Heber",
+    "key": "D",
+    "path": "hymns/Holy Holy Holy.txt"
   },
   {
     "title": "Holy Holy Holy Lord",
@@ -3666,6 +3702,12 @@
     "path": "What A Friend We Have in Jesus.txt"
   },
   {
+    "title": "What A Friend We Have In Jesus",
+    "artist": "Joseph Scriven",
+    "key": "F",
+    "path": "hymns/What A Friend We Have In Jesus.txt"
+  },
+  {
     "title": "What an Awesome God",
     "artist": "Phil Wickham",
     "key": "A",
@@ -3706,6 +3748,12 @@
     "artist": "Isaac Watts",
     "key": "D",
     "path": "When I Survey The Wondrous Cross.txt"
+  },
+  {
+    "title": "When I Survey The Wondrous Cross",
+    "artist": "Isaac Watts",
+    "key": "D",
+    "path": "hymns/When I Survey The Wondrous Cross.txt"
   },
   {
     "title": "When I think about the Lord",

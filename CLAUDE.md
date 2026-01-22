@@ -54,8 +54,8 @@ while read -r song; do
   scp "library/$song" proflee_me@pdx1-shared-a1-17.dreamhost.com:~/proflee.me/chartforge/library/
 done < .deployinclude
 
-# Step 3: Rebuild library index on server
-ssh proflee_me@pdx1-shared-a1-17.dreamhost.com "cd ~/proflee.me/chartforge && php -r '\$dir=\"library\";\$files=glob(\"\$dir/*.txt\");\$idx=[];foreach(\$files as \$f){\$c=file_get_contents(\$f);preg_match(\"/\\{title:\\s*(.+?)\\}/i\",\$c,\$t);preg_match(\"/\\{artist:\\s*(.+?)\\}/i\",\$c,\$a);preg_match(\"/\\{key:\\s*(.+?)\\}/i\",\$c,\$k);\$idx[]=[\"title\"=>trim(\$t[1]??basename(\$f,\".txt\")),\"artist\"=>trim(\$a[1]??\"\"),\"key\"=>trim(\$k[1]??\"\"),\"path\"=>basename(\$f)];}file_put_contents(\"\$dir/index.json\",json_encode(\$idx,JSON_PRETTY_PRINT));echo count(\$idx).\" songs indexed\\n\";'"
+# Step 3: Rebuild library index on server (recursive, includes hymns/ etc)
+ssh proflee_me@pdx1-shared-a1-17.dreamhost.com "cd ~/proflee.me/chartforge && php -r '\$dir=\"library\";\$idx=[];\$it=new RecursiveIteratorIterator(new RecursiveDirectoryIterator(\$dir));foreach(\$it as \$f){if(\$f->isFile()&&\$f->getExtension()===\"txt\"&&strpos(\$f->getPath(),\"trash\")===false){\$c=file_get_contents(\$f);preg_match(\"/\\{title:\\s*(.+?)\\}/i\",\$c,\$t);preg_match(\"/\\{artist:\\s*(.+?)\\}/i\",\$c,\$a);preg_match(\"/\\{key:\\s*(.+?)\\}/i\",\$c,\$k);\$rel=str_replace(\$dir.\"/\",\"\",\$f->getPathname());\$idx[]=[\"title\"=>trim(\$t[1]??basename(\$f,\".txt\")),\"artist\"=>trim(\$a[1]??\"\"),\"key\"=>trim(\$k[1]??\"\"),\"path\"=>\$rel];}}usort(\$idx,fn(\$a,\$b)=>strcasecmp(\$a[\"title\"],\$b[\"title\"]));file_put_contents(\"\$dir/index.json\",json_encode(\$idx,JSON_PRETTY_PRINT));echo count(\$idx).\" songs indexed\\n\";'"
 
 # Step 4: Fix permissions
 ssh proflee_me@pdx1-shared-a1-17.dreamhost.com "chmod -R 755 ~/proflee.me/chartforge/ && find ~/proflee.me/chartforge/ -type f -exec chmod 644 {} \;"
