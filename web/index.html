@@ -850,6 +850,9 @@
                 height += this.config.spacing.chordToLyric;
                 height += this.config.fonts.lyrics.size * this.config.fonts.lyrics.lineHeight;
               } else if (hasLyrics) {
+                // Lyrics-only line: include chord space for visual consistency
+                height += this.config.fonts.chordRoot.size * this.config.fonts.chordRoot.lineHeight;
+                height += this.config.spacing.chordToLyric;
                 height += this.config.fonts.lyrics.size * this.config.fonts.lyrics.lineHeight;
               }
             }
@@ -1258,6 +1261,9 @@
           currentY += config.fonts.lyrics.size * config.fonts.lyrics.lineHeight;
 
         } else if (hasLyrics) {
+          // Lyrics-only line: include chord space for visual consistency
+          currentY += config.fonts.chordRoot.size * config.fonts.chordRoot.lineHeight;
+          currentY += config.spacing.chordToLyric;
           ctx.font = `${config.fonts.lyrics.weight} ${config.fonts.lyrics.size}px ${config.fonts.lyrics.family}`;
           ctx.fillStyle = config.colors.textSecondary;
           ctx.textAlign = 'left';
