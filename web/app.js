@@ -470,9 +470,7 @@ class ChartRenderer {
 
         // Calculate line height based on display mode
         if (displayMode === 'lyrics') {
-          // Always include chord space for visual consistency
-          height += this.config.fonts.chordRoot.size * this.config.fonts.chordRoot.lineHeight;
-          height += this.config.spacing.chordToLyric;
+          // Lyrics only - no chord space overhead
           height += this.config.fonts.lyrics.size * this.config.fonts.lyrics.lineHeight;
         } else {
           // Full mode
@@ -979,12 +977,8 @@ class ChartRenderer {
       return currentY - y;
     }
 
-    // Lyrics-only mode: render lyrics with chord space for visual consistency
+    // Lyrics-only mode: render lyrics without chord space overhead
     if (displayMode === 'lyrics') {
-      // Skip chord row space (keep spacing consistent)
-      currentY += config.fonts.chordRoot.size * config.fonts.chordRoot.lineHeight;
-      currentY += config.spacing.chordToLyric;
-      // Render lyrics
       ctx.font = `${config.fonts.lyrics.weight} ${config.fonts.lyrics.size}px ${config.fonts.lyrics.family}`;
       ctx.fillStyle = config.colors.textSecondary;
       ctx.textAlign = 'left';
