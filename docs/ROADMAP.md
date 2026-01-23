@@ -40,7 +40,7 @@
 - [x] Proper page 2+ header spacing
 - [x] Display modes (Full/Chords/Lyrics)
 - [x] Chord consolidation (rows of 4 in chords-only)
-- [x] Full Set ZIP (26 PDFs: 13 keys × 2 modes)
+- [x] Full Set ZIP (27 PDFs: 13 keys × 2 modes + lyrics)
 - [x] Library save/load (PHP/Node backend)
 - [x] Mid-song key changes with {key_change: X}
 - [x] Band notes in parentheses (italic/muted styling)

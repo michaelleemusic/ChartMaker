@@ -99,7 +99,7 @@ chartForge/
 - **Library search**: Searchable chart library (680 local dev, limited public)
 - **Display modes**: Full, Chords-only, Lyrics-only
 - **Key transposition**: Render in any key or Nashville Numbers
-- **PDF export**: Single PDF or Full Set (26 PDFs: 13 keys × 2 modes)
+- **PDF export**: Single PDF or Full Set (27 PDFs: 13 keys × 2 modes + lyrics)
 - **Unicode accidentals**: ♭ and ♯ display
 
 ## Documentation

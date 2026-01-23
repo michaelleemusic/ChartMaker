@@ -1954,12 +1954,13 @@ document.getElementById('download-pdf-btn').addEventListener('click', async () =
   pdf.save(filename);
 });
 
-// Full Set download (all keys, full and chords modes as ZIP)
+// Full Set download (all keys, all display modes as ZIP)
 const ALL_KEYS = ['numbers', 'C', 'Db', 'D', 'Eb', 'E', 'F', 'Gb', 'G', 'Ab', 'A', 'Bb', 'B'];
 const ALL_MODES = [
   { value: 'full', label: '' },        // Full chart (no suffix)
   { value: 'chords', label: 'Chords' }  // Chords only
 ];
+// Lyrics mode generated once (key-independent)
 
 document.getElementById('download-fullset-btn').addEventListener('click', async () => {
   const input = inputEl.value;
@@ -1988,7 +1989,7 @@ document.getElementById('download-fullset-btn').addEventListener('click', async 
   const originalRatio = renderer.pixelRatio;
   renderer.pixelRatio = exportScale;
 
-  const totalFiles = ALL_KEYS.length * ALL_MODES.length;
+  const totalFiles = ALL_KEYS.length * ALL_MODES.length + 1; // +1 for lyrics
   let fileCount = 0;
 
   for (let k = 0; k < ALL_KEYS.length; k++) {
@@ -2035,6 +2036,28 @@ document.getElementById('download-fullset-btn').addEventListener('click', async 
       await new Promise(r => setTimeout(r, 10));
     }
   }
+
+  // Generate single lyrics-only PDF (key-independent)
+  fileCount++;
+  btn.textContent = `${fileCount}/${totalFiles}...`;
+  renderer.config.displayMode = 'lyrics';
+  renderer.loadSong(baseSong);
+  const lyricsPageCount = renderer.layout.pageCount;
+
+  const lyricsPdf = new jsPDF({
+    orientation: 'portrait',
+    unit: 'pt',
+    format: [width, height]
+  });
+
+  for (let i = 0; i < lyricsPageCount; i++) {
+    if (i > 0) lyricsPdf.addPage();
+    renderer.renderPage(exportCanvas, i);
+    const imgData = exportCanvas.toDataURL('image/jpeg', 0.92);
+    lyricsPdf.addImage(imgData, 'JPEG', 0, 0, width, height);
+  }
+
+  zip.file(`${titlePart} - Lyrics.pdf`, lyricsPdf.output('blob'));
 
   // Restore original pixel ratio
   renderer.pixelRatio = originalRatio;
