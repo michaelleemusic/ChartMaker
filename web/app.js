@@ -1519,13 +1519,23 @@ contextMenu.addEventListener('click', (e) => {
       contextMenu.hidden = true;
       return;
 
-    case 'wrap-section':
-      const sectionName = prompt('Section name:', 'Verse');
-      if (sectionName) {
-        newText = `{section: ${sectionName}}\n${selectedText}`;
-      } else {
-        return; // User cancelled
-      }
+    case 'strip-chords':
+      // Remove chords, keep lyrics
+      newText = selectedText.replace(/\[[^\]]*\]/g, '');
+      break;
+
+    case 'strip-lyrics':
+      // Remove lyrics, keep chords (preserve line structure)
+      newText = selectedText.split('\n').map(line => {
+        if (line.trim().startsWith('{')) return line;
+        const chords = [];
+        const regex = /\[([^\]]+)\]/g;
+        let match;
+        while ((match = regex.exec(line)) !== null) {
+          chords.push('[' + match[1] + ']');
+        }
+        return chords.join(' ');
+      }).join('\n');
       break;
 
     default:
