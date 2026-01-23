@@ -41,9 +41,14 @@
 - [x] Display modes (Full/Chords/Lyrics)
 - [x] Chord consolidation (rows of 4 in chords-only)
 - [x] Full Set ZIP (26 PDFs: 13 keys × 2 modes)
+- [x] Library save/load (PHP/Node backend)
+- [x] Mid-song key changes with {key_change: X}
+- [x] Band notes in parentheses (italic/muted styling)
+- [x] Right-click context menu (Copy/Strip Chords/Lyrics)
+- [x] Tighter lyrics-only PDF spacing
+- [x] Roboto as default font
 - [ ] Print styles
 - [ ] Mobile responsive
-- [x] Library save/load (PHP/Node backend)
 
 ## Deployment ✓
 - [x] PHP backend for DreamHost shared hosting
@@ -55,3 +60,23 @@
 - CCLI/SongSelect integration
 - Team sharing
 - Setlist builder
+
+---
+
+## Release History
+
+### v1.5.0 (January 2026)
+- Mid-song key changes with `{key_change: X}` directive
+- Band notes in parentheses render as italic/muted
+- Right-click context menu: Copy Chords, Copy Lyrics, Strip Chords, Strip Lyrics
+- Tighter line spacing in lyrics-only PDF mode
+- Roboto as default font (removed font selector)
+- Key selector moved to preview panel
+- Fixed page 2+ layout (uses full available space)
+- Page preservation when editing (no reset to page 1)
+
+### v1.3.0
+- Initial public release
+- Full ChordPro parser
+- PDF export with Full Set (26 PDFs)
+- Library management (680 songs locally)

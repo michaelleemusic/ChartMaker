@@ -7,7 +7,7 @@
 
 {section: Intro [2x]}
 {dynamics: piano only}
-[1]   [4/1]   [6m]   [4]
+[1]   [4/1]   [6m]   [4][(hold)]
 
 {section: Verse 1}
 In the [1]shadow of Your [4/1]wings I find my rest

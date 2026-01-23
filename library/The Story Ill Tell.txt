@@ -1,0 +1,48 @@
+{title: The Story I'll Tell / On Christ the Solid Rock}
+{artist: Maverick City Music, Naomi Raine}
+{key: Eb}
+{time: 6/8}
+
+{section: Intro}
+[1] (single note)
+
+{section: Verse 1}
+The [6m]hour is dark and it's [5/7]hard to [1]see
+What You are [5sus]doin' here in the ruins and where this will [4]lead
+Oh, but I [6m]know that down [5/7]through the [1]years
+I'll look on this [5sus]moment and see Your hand on it
+And [4]know You were here
+
+{section: Pre-Chorus}
+And I'll [5]testify of the [6m]battles You've won, [4]how You were my [4]por[5]tion [6m]
+When [5]there wasn't e[6m]nough, and I'll [4]testify of the [4]seas [5]that [6m]we've crossed
+The [5]waters You [6m]parted, the [5]waves [3m]that I've [2m11]walked  [2m]  [3m]  [4]
+
+{section: Chorus}
+[5]Singing, oh-oh-[6m]oh, my God did not [4]fail
+[5]Oh-oh-oh, it's the [6m]story I'll [4]tell
+[5]Singing, oh-oh-[6m]oh, I know it is [4]well   [4]  [5]  [6m]
+[5/7]Oh [6m]oh [5]oh, it's the [1/3]story I'll [2m]tell
+
+{section: Verse 2}
+Be[6m]lieving gets hard when [5/7]options are [1]few
+When I can't see what You're [5sus]doin', I know that You're proving You're the [4]God who comes through
+Oh, but I [6m]know that over [5/7]the [1]years
+I'll look back on this [5sus]moment and see Your hand on it
+And [4]know You were here
+
+{section: Bridge 1 (x2)}
+On [5]Christ the Solid [6m]Rock I stand
+All [4]other ground is sinking sand
+My [5]hope is built on [6m]nothing less
+Than [4]Jesus' blood and righteousness   (2x [2m] hold)
+
+{section: Bridge 2}
+{dynamics: 1x down, 2x up}
+And [1]all that is left is [5/7]highest [6m]praises, [4]
+So [1]sing hallelu[5/7]jah to the [6m]Rock of [4]Ages
+
+{section: Tag}
+{dynamics: down}
+[5]Singing, oh-oh-[6m]oh, my God did not [4]fail
+[5]Oh-oh-oh, it's the [6m]story I'll [4]tell
