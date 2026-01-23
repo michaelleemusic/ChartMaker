@@ -438,6 +438,10 @@ class ChartRenderer {
       }
     } else {
       // Full or lyrics mode - calculate line by line
+      // Lyrics mode uses half spacing between lines for tighter layout
+      const lineSpacing = displayMode === 'lyrics'
+        ? this.config.spacing.betweenLines / 2
+        : this.config.spacing.betweenLines;
       let lineCount = 0;
       for (let i = 0; i < section.lines.length; i++) {
         const line = section.lines[i];
@@ -445,7 +449,7 @@ class ChartRenderer {
         // Handle dynamics lines
         if (line.type === 'dynamics') {
           if (lineCount > 0) {
-            height += this.config.spacing.betweenLines;
+            height += lineSpacing;
           }
           lineCount++;
           height += this.config.fonts.dynamics.size * this.config.fonts.dynamics.lineHeight;
@@ -460,7 +464,7 @@ class ChartRenderer {
 
         // Add spacing between lines
         if (lineCount > 0) {
-          height += this.config.spacing.betweenLines;
+          height += lineSpacing;
         }
         lineCount++;
 
@@ -877,6 +881,10 @@ class ChartRenderer {
       }
     } else {
       // Full or lyrics mode - render line by line
+      // Lyrics mode uses half spacing between lines for tighter layout
+      const lineSpacing = displayMode === 'lyrics'
+        ? config.spacing.betweenLines / 2
+        : config.spacing.betweenLines;
       let renderedLineCount = 0;
       for (let i = 0; i < section.lines.length; i++) {
         const line = section.lines[i];
@@ -888,7 +896,7 @@ class ChartRenderer {
 
         // Add spacing between lines (before the line, not after)
         if (renderedLineCount > 0) {
-          currentY += config.spacing.betweenLines;
+          currentY += lineSpacing;
         }
 
         currentY += this.renderLine(ctx, line, contentX, currentY, contentWidth);
