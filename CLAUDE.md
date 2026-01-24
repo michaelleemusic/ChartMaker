@@ -34,7 +34,7 @@ ssh-add ~/.ssh/dreamhost_proflee  # For production deployment
 **Library Policy**: Only songs listed in `.deployinclude` are uploaded. The full library (680+ copyrighted charts) stays local.
 
 ```bash
-# Step 1: Sync app (excludes all library songs)
+# Step 1: Sync app (excludes library .txt files and index.json)
 rsync -avz --delete \
   --exclude='.git' \
   --exclude='node_modules' \
@@ -42,23 +42,23 @@ rsync -avz --delete \
   --exclude='REF' \
   --exclude='library/trash' \
   --exclude='library/*.txt' \
+  --exclude='library/index.json' \
   ./ proflee_me@pdx1-shared-a1-17.dreamhost.com:~/proflee.me/chartforge/
 
 # Step 1b: Remove any accidental .htaccess in web/ (causes 500 error)
 ssh proflee_me@pdx1-shared-a1-17.dreamhost.com "rm -f ~/proflee.me/chartforge/web/.htaccess"
 
-# Step 2: Clear server library and upload only public songs
-ssh proflee_me@pdx1-shared-a1-17.dreamhost.com "rm -f ~/proflee.me/chartforge/library/*.txt"
+# Step 2: Upload public songs from .deployinclude
 while read -r song; do
   [[ "$song" =~ ^#.*$ || -z "$song" ]] && continue
   scp "library/$song" proflee_me@pdx1-shared-a1-17.dreamhost.com:~/proflee.me/chartforge/library/
 done < .deployinclude
 
-# Step 3: Rebuild library index on server (recursive, includes hymns/ etc)
-ssh proflee_me@pdx1-shared-a1-17.dreamhost.com "cd ~/proflee.me/chartforge && php -r '\$dir=\"library\";\$idx=[];\$it=new RecursiveIteratorIterator(new RecursiveDirectoryIterator(\$dir));foreach(\$it as \$f){if(\$f->isFile()&&\$f->getExtension()===\"txt\"&&strpos(\$f->getPath(),\"trash\")===false){\$c=file_get_contents(\$f);preg_match(\"/\\{title:\\s*(.+?)\\}/i\",\$c,\$t);preg_match(\"/\\{artist:\\s*(.+?)\\}/i\",\$c,\$a);preg_match(\"/\\{key:\\s*(.+?)\\}/i\",\$c,\$k);\$rel=str_replace(\$dir.\"/\",\"\",\$f->getPathname());\$idx[]=[\"title\"=>trim(\$t[1]??basename(\$f,\".txt\")),\"artist\"=>trim(\$a[1]??\"\"),\"key\"=>trim(\$k[1]??\"\"),\"path\"=>\$rel];}}usort(\$idx,fn(\$a,\$b)=>strcasecmp(\$a[\"title\"],\$b[\"title\"]));file_put_contents(\"\$dir/index.json\",json_encode(\$idx,JSON_PRETTY_PRINT));echo count(\$idx).\" songs indexed\\n\";'"
-
-# Step 4: Fix permissions
+# Step 3: Fix permissions
 ssh proflee_me@pdx1-shared-a1-17.dreamhost.com "chmod -R 755 ~/proflee.me/chartforge/ && find ~/proflee.me/chartforge/ -type f -exec chmod 644 {} \;"
+
+# Step 4: Rebuild library index on server
+curl -X POST https://proflee.me/chartforge/api/rebuild-index
 ```
 
 ### URL Structure
