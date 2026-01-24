@@ -12,6 +12,9 @@ npm install
 
 # Install PHP (for local server with library management)
 brew install php
+
+# Install Python dependencies (for PDF import)
+pip3 install -r requirements.txt
 ```
 
 ## Running Locally
@@ -63,6 +66,8 @@ chartForge/
 | `npm test` | Run Jest tests |
 | `npm run test:watch` | Run tests in watch mode |
 | `python3 scripts/build_index.py` | Rebuild library index |
+| `python3 scripts/convert_pdf.py <pdf>` | Convert PDF to ChordPro |
+| `python3 scripts/convert_pdf.py <dir>` | Batch convert PDFs |
 
 ## Workflow
 

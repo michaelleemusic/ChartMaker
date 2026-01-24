@@ -55,8 +55,13 @@
 - [x] Node.js backend for local development
 - [x] .htaccess for Apache routing
 
+## Phase 6: Import Tools ✓
+- [x] PDF import (MultiTracks format → ChordPro)
+- [x] Font-based parsing (chords, lyrics, dynamics, sections)
+- [x] Sharp/flat detection from vector graphics
+- [x] Letter-to-Nashville number conversion button
+
 ## Future
-- Import from PDF (OCR)
 - CCLI/SongSelect integration
 - Team sharing
 - Setlist builder
@@ -64,6 +69,12 @@
 ---
 
 ## Release History
+
+### v1.6.0 (January 2026)
+- PDF import: One-click MultiTracks PDF → ChordPro conversion
+- "To Numbers" button: Convert letter chords to Nashville numbers
+- Font-based PDF parsing with sharp detection from vector graphics
+- Python `convert_pdf.py` script for batch conversion
 
 ### v1.5.0 (January 2026)
 - Mid-song key changes with `{key_change: X}` directive
