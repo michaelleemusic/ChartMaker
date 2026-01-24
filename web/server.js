@@ -63,6 +63,16 @@ const server = http.createServer((req, res) => {
   const url = new URL(req.url, `http://localhost:${PORT}`);
 
   // API routes
+
+  // Rebuild index endpoint
+  if (url.pathname === '/api/rebuild-index' && req.method === 'POST') {
+    const count = rebuildIndex();
+    res.writeHead(200, { 'Content-Type': 'application/json' });
+    res.end(JSON.stringify({ status: 'ok', indexed: count }));
+    console.log(`Index rebuilt: ${count} songs`);
+    return;
+  }
+
   if (url.pathname.startsWith('/api/library/')) {
     const filename = decodeURIComponent(url.pathname.replace('/api/library/', ''));
     const filepath = path.join(LIBRARY_DIR, filename);
@@ -220,6 +230,7 @@ const server = http.createServer((req, res) => {
   // Rewrite root-level assets to web/ folder (mirrors .htaccess)
   if (filepath === '/styles.css') filepath = '/web/styles.css';
   if (filepath === '/app.js') filepath = '/web/app.js';
+  if (filepath.startsWith('/js/')) filepath = '/web' + filepath;
 
   const fullPath = path.join(ROOT, filepath);
 
