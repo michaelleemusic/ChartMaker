@@ -79,6 +79,26 @@ curl -X POST https://proflee.me/chartforge/api/rebuild-index
 - **Auth Gateway**: https://proflee.me/chartforge/ml (email verification for full library)
 - **API Endpoints**: /api/library, /api/auth, /api/auth/status routed to web/index.php
 
+### CRITICAL: Relative Paths Only
+
+**The app is deployed to a subdirectory (`/chartforge/`), NOT the domain root.**
+
+All fetch() calls and href links in JavaScript MUST use **relative paths** (no leading slash):
+
+```javascript
+// CORRECT - relative paths work in subdirectory
+fetch('api/library')
+fetch('library/pd/song.txt')
+window.location.href = './'
+
+// WRONG - absolute paths break in subdirectory
+fetch('/api/library')      // Goes to proflee.me/api/library (404)
+fetch('/library/song.txt') // Goes to proflee.me/library/ (wrong)
+window.location.href = '/' // Goes to proflee.me/ (wrong site)
+```
+
+**Why?** Absolute paths like `/api/` resolve from the domain root (`proflee.me/api/`), not from the app's subdirectory (`proflee.me/chartforge/api/`). Relative paths resolve correctly from the current page location.
+
 ## Project Structure
 
 ```
