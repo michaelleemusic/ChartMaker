@@ -21,7 +21,7 @@ export async function loadLibraryIndex() {
 }
 
 export async function loadSong(path) {
-  const response = await fetch(`library/${path}`);
+  const response = await fetch(`/library/${path}`);
   if (!response.ok) {
     throw new Error(`Failed to load song: ${response.statusText}`);
   }

@@ -62,14 +62,19 @@ async function init() {
     ? `Search ${libraryIndex.length} songs...`
     : 'Library unavailable';
 
-  // Load initial song (from pd/ for public users if available)
-  if (libraryIndex.length > 0) {
-    await handleLoadSong(libraryIndex[0].path);
-  } else {
-    // Show template for new users
-    inputEl.value = getNewSongTemplate();
-    syncHighlight(inputEl, highlightEl);
-    render();
+  // Load default song
+  const defaultSong = 'pd/You Are My Refuge.txt';
+  try {
+    await handleLoadSong(defaultSong);
+  } catch (e) {
+    // Fallback to first song in library or template
+    if (libraryIndex.length > 0) {
+      await handleLoadSong(libraryIndex[0].path);
+    } else {
+      inputEl.value = getNewSongTemplate();
+      syncHighlight(inputEl, highlightEl);
+      render();
+    }
   }
   updateButtonStates();
 
