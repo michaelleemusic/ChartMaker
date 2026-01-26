@@ -63,6 +63,10 @@ rsync -avz --delete \
 # Step 1b: Remove any accidental .htaccess in web/ (causes 500 error)
 ssh proflee_me@pdx1-shared-a1-17.dreamhost.com "rm -f ~/proflee.me/chartforge/web/.htaccess"
 
+# Step 1c: Verify JS files updated (rsync sometimes skips files with same size)
+curl -s "https://proflee.me/chartforge/js/library.js" | grep "fetch"
+# Should show relative paths like: fetch('api/library') NOT fetch('/api/library')
+
 # Step 2: Upload full library for authenticated users
 rsync -avz library/*.txt proflee_me@pdx1-shared-a1-17.dreamhost.com:~/proflee.me/chartforge/library/
 
